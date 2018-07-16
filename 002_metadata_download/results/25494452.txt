@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    
+    <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- AppResources meta begin -->
+        <script type="text/javascript">var ncbi_startTime = new Date();</script>
+        <!-- AppResources meta end -->
+        
+        <!-- TemplateResources meta begin -->
+        <meta name="paf_template" content="" />
+
+        <!-- TemplateResources meta end -->
+        
+        <!-- Logger begin -->
+        <meta name="ncbi_db" content="pmc" /><meta name="ncbi_pdid" content="article" /><meta name="ncbi_acc" content="" /><meta name="ncbi_domain" content="ajrccm" /><meta name="ncbi_report" content="record" /><meta name="ncbi_type" content="fulltext" /><meta name="ncbi_objectid" content="" /><meta name="ncbi_pcid" content="/articles/PMC4351578/" /><meta name="ncbi_app" content="pmc" />
+        <!-- Logger end -->
+        
+        <title>Plasma Sphingolipids Associated with Chronic Obstructive Pulmonary
+Disease Phenotypes</title>
+        
+        <!-- AppResources external_resources begin -->
+        <link rel="stylesheet" href="/core/jig/1.14.8/css/jig.min.css" /><script type="text/javascript" src="/core/jig/1.14.8/js/jig.min.js"></script>
+
+        <!-- AppResources external_resources end -->
+        
+        <!-- Page meta begin -->
+        <meta name="robots" content="INDEX,NOFOLLOW,NOARCHIVE" /><link rel="canonical" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351578/" /><link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" /><meta name="citation_journal_title" content="American Journal of Respiratory and Critical Care Medicine" /><meta name="citation_title" content="Plasma Sphingolipids Associated with Chronic Obstructive Pulmonary&#10;Disease Phenotypes" /><meta name="citation_authors" content="Russell P. Bowler, Sean Jacobson, Charmion Cruickshank, Grant J. Hughes, Charlotte Siska, Daniel S. Ory, Irina Petrache, Jean E. Schaffer, Nichole Reisdorph, Katerina Kechris" /><meta name="citation_date" content="1 February 2015" /><meta name="citation_issue" content="3" /><meta name="citation_volume" content="191" /><meta name="citation_firstpage" content="275" /><meta name="citation_doi" content="10.1164/rccm.201410-1771OC" /><meta name="citation_abstract_html_url" content="/pmc/articles/PMC4351578/?report=abstract" /><meta name="citation_pmid" content="25494452" /><meta name="DC.Title" content="Plasma Sphingolipids Associated with Chronic Obstructive Pulmonary&#10;Disease Phenotypes" /><meta name="DC.Type" content="Text" /><meta name="DC.Publisher" content="American Thoracic Society" /><meta name="DC.Contributor" content="Russell P. Bowler" /><meta name="DC.Contributor" content="Sean Jacobson" /><meta name="DC.Contributor" content="Charmion Cruickshank" /><meta name="DC.Contributor" content="Grant J. Hughes" /><meta name="DC.Contributor" content="Charlotte Siska" /><meta name="DC.Contributor" content="Daniel S. Ory" /><meta name="DC.Contributor" content="Irina Petrache" /><meta name="DC.Contributor" content="Jean E. Schaffer" /><meta name="DC.Contributor" content="Nichole Reisdorph" /><meta name="DC.Contributor" content="Katerina Kechris" /><meta name="DC.Date" content="2015 Feb 1" /><meta name="DC.Identifier" content="10.1164/rccm.201410-1771OC" /><meta name="DC.Language" content="en" /><meta property="og:title" content="Plasma Sphingolipids Associated with Chronic Obstructive Pulmonary&#10;Disease Phenotypes" /><meta property="og:type" content="article" /><meta property="og:description" content="Rationale: Chronic obstructive pulmonary disease (COPD) occurs in a&#10;minority of smokers and is characterized by intermittent exacerbations and clinical&#10;subphenotypes such as emphysema and chronic bronchitis. Although sphingolipids as a&#10;class are implicated ..." /><meta property="og:url" content="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351578/" /><meta property="og:site_name" content="PubMed Central (PMC)" /><meta property="og:image" content="https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-logo-share.png" /><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@ncbi" /><link rel="stylesheet" href="/corehtml/pmc/css/3.9.1/pmc.min.css" type="text/css" /><link rel="stylesheet" href="/corehtml/pmc/css/3.9.1/pmc_extras_prnt.min.css" type="text/css" media="print" /><script type="text/javascript" src="/corehtml/pmc/js/common.min.js">//</script><script type="text/javascript" src="/corehtml/pmc/js/NcbiTagServer.min.js">//</script><meta name="citationexporter" content="backend:'/pmc/utils/ctxp/'" /><script type="text/javascript" src="/corehtml/pmc/ctxp/jquery.citationexporter.js">//</script><link rel="stylesheet" href="/corehtml/pmc/ctxp/citationexporter.css" type="text/css" /><script type="text/javascript" src="/core/mathjax/2.6.1/MathJax.js?config=/corehtml/pmc/js/mathjax-config-classic.3.4.js"></script><script type="text/javascript">window.name="mainwindow";</script><style type="text/css">.pmc-wm {background:transparent repeat-y top left;background-image:url(/corehtml/pmc/pmcgifs/wm-ajrccm.gif);background-size: auto, contain}</style><style type="text/css">.print-view{display:block}</style><style type="text/css">
+        div.pmc_para_cit li.highlight,
+        div.pmc_para_cit li.highlight .one_line_source
+        { background: #E0E0E0; }
+        a.bibr.highlight { background: #E0E0E0; } 
+      </style><meta name="cited_in_systematic_reviews" content="" /><link rel="alternate" type="application/epub+zip" href="/pmc/articles/PMC4351578/epub/" /><link rel="alternate" type="application/pdf" href="/pmc/articles/PMC4351578/pdf/rccm.201410-1771OC.pdf" />
+
+        <!-- Page meta end -->
+    <link rel="shortcut icon" href="//www.ncbi.nlm.nih.gov/favicon.ico" /><meta name="ncbi_phid" content="F4FB7B1CB4D247E100000000002D0020.m_8" />
+<meta name='referrer' content='origin-when-cross-origin'/><link type="text/css" rel="stylesheet" href="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/css/3852956/3985586/3808861/4121862/3974050/3917732/251717/4048120/3846471/14534/45193/4113719/3849091/3984811/3751656/4033350/3840896/3577051/3852958/3881636/3579733/4062871/12930/3964959/3855473/4047625/3854974/3854955/4076335/4128070/9685/3549676/3609192/3609193/3609213/3395586/4143404.css" /><link type="text/css" rel="stylesheet" href="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/css/3411343/3882866/4157116.css" media="print" /></head>
+    <body class="article">
+        <div class="grid">
+            <div class="col twelve_col nomargin shadow">
+                <!-- System messages like service outage or JS required; this is handled by the TemplateResources portlet -->
+                <div class="sysmessages">
+                    <noscript>
+	<p class="nojs">
+	<strong>Warning:</strong>
+	The NCBI web site requires JavaScript to function. 
+	<a href="/guide/browsers/#enablejs" title="Learn how to enable JavaScript" target="_blank">more...</a>
+	</p>
+	</noscript>
+                </div>
+                <!--/.sysmessage-->
+                <div class="wrap">
+                    <div class="page">
+                        <div class="top">
+                            <div class="universal_header" id="universal_header"><ul class="inline_list jig-ncbimenu ui-ncbimenu resources_list" id="navcontent"><li class="ui-ncbimenu-item-leaf ui-ncbimenu-item-first ui-helper-reset ui-ncbimenu-item-no-hlt"><a class="ui-ncbimenu-link-first" href="/" role="banner" title="NCBI Home" id="ncbihome" accesskey="1"><span class="offscreen_noflow">NCBI</span><img src="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/img/28977" class="ncbi_logo" title="NCBI" alt="NCBI Logo" /></a></li><li class="offscreen_noflow ui-ncbimenu-item-skip access"><a href="#maincontent" title="Skip to the content" tabindex="0" accesskey="3">Skip to main
+                        content</a></li><li class="offscreen_noflow ui-ncbimenu-item-skip access"><a href="#navcontent" title="Skip to the navigation" tabindex="0" accesskey="4">Skip to
+                        navigation</a></li><li id="resource-menu" class="topmenu ui-helper-reset ui-ncbimenu-item-first ui-helper-reset"><a class="ui-ncbimenu-first-link-has-submenu ui-ncbimenu-link-first topanchor expandDown" href="/static/header_footer_ajax/submenu/#resources">Resources</a></li><li id="all-howtos-menu" class="topmenu ui-helper-reset ui-ncbimenu-item-first"><a class="ui-ncbimenu-first-link-has-submenu ui-ncbimenu-link-first topanchor expandDown" href="/static/header_footer_ajax/submenu/#howto">How To</a></li><li class="offscreen_noflow ui-ncbimenu-item-skip access"><a href="/guide/browsers/#accesskeys" title="About My NCBI Accesskeys" tabindex="0" accesskey="0">About NCBI Accesskeys</a></li></ul><div class="myncbi"><span id="myncbiusername" style="display:none"><a href="/account/settings/" id="mnu" title="Edit account settings"></a></span><a accesskey="2" href="/myncbi/" id="myncbi" style="display:none">My NCBI</a><a href="/account/" id="sign_in">Sign in to NCBI</a><a href="/account/signout/" id="sign_out" style="display:none">Sign Out</a></div></div>
+                            <div class="header">
+    <div class="res_logo">
+  <h1 class="img_logo"><a href="/pmc/" class="pmc_logo offscreen">PMC</a></h1>
+  <div class="NLMLogo">
+    <a href="https://www.nlm.nih.gov/" title="US National Library of Medicine">US National Library of Medicine</a>
+    <br />
+    <a href="https://www.nih.gov/" title="National Institutes of Health">National Institutes of Health</a>
+  </div>
+</div>
+    <div class="search"><form method="get" action="/pmc/"><div class="search_form"><label for="database" class="offscreen_noflow">Search database</label><select id="database"><optgroup label="Recent"><option value="pmc" selected="selected" class="last" data-ac_dict="pmc-search-autocomplete">PMC</option></optgroup><optgroup label="All"><option value="gquery">All Databases</option><option value="assembly">Assembly</option><option value="biocollections">Biocollections</option><option value="bioproject">BioProject</option><option value="biosample">BioSample</option><option value="biosystems">BioSystems</option><option value="books">Books</option><option value="clinvar">ClinVar</option><option value="clone">Clone</option><option value="cdd">Conserved Domains</option><option value="gap">dbGaP</option><option value="dbvar">dbVar</option><option value="nucest">EST</option><option value="gene">Gene</option><option value="genome">Genome</option><option value="gds">GEO DataSets</option><option value="geoprofiles">GEO Profiles</option><option value="nucgss">GSS</option><option value="gtr">GTR</option><option value="homologene">HomoloGene</option><option value="ipg">Identical Protein Groups</option><option value="medgen">MedGen</option><option value="mesh">MeSH</option><option value="ncbisearch">NCBI Web Site</option><option value="nlmcatalog">NLM Catalog</option><option value="nuccore">Nucleotide</option><option value="omim">OMIM</option><option value="pmc" data-ac_dict="pmc-search-autocomplete">PMC</option><option value="popset">PopSet</option><option value="probe">Probe</option><option value="protein">Protein</option><option value="proteinclusters">Protein Clusters</option><option value="pcassay">PubChem BioAssay</option><option value="pccompound">PubChem Compound</option><option value="pcsubstance">PubChem Substance</option><option value="pubmed">PubMed</option><option value="pubmedhealth">PubMed Health</option><option value="snp">SNP</option><option value="sparcle">Sparcle</option><option value="sra">SRA</option><option value="structure">Structure</option><option value="taxonomy">Taxonomy</option><option value="toolkit">ToolKit</option><option value="toolkitall">ToolKitAll</option><option value="toolkitbookgh">ToolKitBookgh</option><option value="unigene">UniGene</option></optgroup></select><div class="nowrap"><label for="term" class="offscreen_noflow" accesskey="/">Search term</label><div class="nowrap"><input type="text" name="term" id="term" title="Search PMC. Use up and down arrows to choose an item from the autocomplete." value="" class="jig-ncbiclearbutton jig-ncbiautocomplete" data-jigconfig="dictionary:'pmc-search-autocomplete',disableUrl:'NcbiSearchBarAutoComplCtrl'" autocomplete="off" data-sbconfig="ds:'no',pjs:'no',afs:'yes'" /></div><button id="search" type="submit" class="button_search nowrap" cmd="go">Search</button></div></div></form><ul class="searchlinks inline_list"><li>
+                        <a href="/pmc/advanced/">Advanced</a>
+                    </li><li>
+                        <a href="/pmc/journals/">Journal list</a>
+                    </li><li class="help">
+                        <a target="_blank" href="/books/NBK3825/">Help</a>
+                    </li></ul></div>
+</div>
+
+                            
+                            
+                        <!--<component id="Page" label="headcontent"/>-->
+                            
+                        </div>
+                        <div class="content">
+                            <!-- site messages -->
+                            <div class="container">
+    <div id="maincontent" class="content eight_col col">
+        <div class="navlink-box">
+            <ul class="page-breadcrumbs inline_list small"><li class="journal-list"><a href="/pmc/journals/" class="navlink">Journal List</a></li><li class="article-entrez-filter"><a href="/pmc/?term=%22Am J Respir Crit Care Med%22[journal]" class="navlink">Am J Respir Crit Care Med</a></li><li class="accid">PMC4351578</li></ul>
+        </div>
+
+        <!-- Journal banner -->
+        <div class="pmc-page-banner whole_rhythm"><div><img src="/corehtml/pmc/pmcgifs/logo-ajrccm.gif" alt="Logo of ajrccm" usemap="#logo-imagemap" /><map id="logo-imagemap" name="logo-imagemap"><area shape="rect" coords="338,19,460,34" alt="Issue Featuring Article" title="Issue Featuring Article" href="http://ajrccm.atsjournals.org/content/vol191/issue3" ref="reftype=publisher&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="338,3,494,18" alt="Publisher's Version of Article" title="Publisher's Version of Article" href="//dx.doi.org/10.1164/rccm.201410-1771OC" ref="reftype=publisher&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CBanner&amp;TO=Content%20Provider%7CArticle%7CFullText&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="338,36,411,49" alt="Submissions" title="Submissions" href="http://mc.manuscriptcentral.com/atsjournals" ref="reftype=publisher&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="53,3,318,29" alt="American Thoracic Society" title="American Thoracic Society" href="http://www.thoracic.org/" ref="reftype=publisher&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="1,1,52,55" alt="American Thoracic Society" title="American Thoracic Society" href="http://www.thoracic.org/" ref="reftype=publisher&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="0,56,499,75" alt="American Journal of Respiratory and Critical Care Medicine" title="American Journal of Respiratory and Critical Care Medicine" href="http://ajrccm.atsjournals.org/" ref="reftype=publisher&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /></map></div> </div>
+        
+        <!--component id='MainPortlet' label='search-reference'/-->
+        
+        <!-- Book content -->
+        <div class="">
+            
+        
+            
+            <div class="hide-overflow article lit-style content pmc-wm slang-all page-box"><!--main-content--><div class="jig-ncbiinpagenav" data-jigconfig="smoothScroll: false, allHeadingLevels: ['h2'], headingExclude: ':hidden'"><div class="fm-sec half_rhythm no_top_margin"><div class="fm-citation half_rhythm no_top_margin clearfix"><div class="small"><div class="inline_block eight_col va_top"><div><div><span class="cit"><span id="pmcmata">Am J Respir Crit Care Med</span>. 2015 Feb 1; 191(3): 275–284. </span></div><div><span class="fm-vol-iss-date">Published online 2015 Feb 1. </span>  <span class="doi">doi:  <a href="//dx.doi.org/10.1164%2Frccm.201410-1771OC" target="pmc_ext" ref="reftype=other&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CFront%20Matter&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">10.1164/rccm.201410-1771OC</a></span></div></div></div><div class="inline_block four_col va_top show-overflow align_right"><div class="fm-citation-ids"><div class="fm-citation-pmcid"><span class="fm-citation-ids-label">PMCID: </span><span>PMC4351578</span></div><div class="fm-citation-pmid">PMID: <a href="/pubmed/25494452">25494452</a></div></div></div></div></div><h1 class="content-title">Plasma Sphingolipids Associated with Chronic Obstructive Pulmonary
+Disease Phenotypes</h1><div class="half_rhythm"><div class="contrib-group fm-author"><a href="/pubmed/?term=Bowler%20RP%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452" class="affpopup" co-rid="_co_idm139927595302048" co-class="co-affbox">Russell P. Bowler</a>,<sup><img src="/corehtml/pmc/pmcgifs/corrauth.gif" alt="corresponding author" /></sup><sup>1</sup> <a href="/pubmed/?term=Jacobson%20S%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452" class="affpopup" co-rid="_co_idm139927595376768" co-class="co-affbox">Sean Jacobson</a>,<sup>1</sup> <a href="/pubmed/?term=Cruickshank%20C%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452" class="affpopup" co-rid="_co_idm139927668266992" co-class="co-affbox">Charmion Cruickshank</a>,<sup>1</sup> <a href="/pubmed/?term=Hughes%20GJ%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452" class="affpopup" co-rid="_co_idm139927595299696" co-class="co-affbox">Grant J. Hughes</a>,<sup>2</sup> <a href="/pubmed/?term=Siska%20C%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452" class="affpopup" co-rid="_co_idm139927598804272" co-class="co-affbox">Charlotte Siska</a>,<sup>3</sup> <a href="/pubmed/?term=Ory%20DS%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452" class="affpopup" co-rid="_co_idm139927598802160" co-class="co-affbox">Daniel S. Ory</a>,<sup>4,</sup><sup>5</sup> <a href="/pubmed/?term=Petrache%20I%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452" class="affpopup" co-rid="_co_idm139927666489936" co-class="co-affbox">Irina Petrache</a>,<sup>6,</sup><sup>7</sup> <a href="/pubmed/?term=Schaffer%20JE%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452" class="affpopup" co-rid="_co_idm139927599449008" co-class="co-affbox">Jean E. Schaffer</a>,<sup>4,</sup><sup>5</sup> <a href="/pubmed/?term=Reisdorph%20N%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452" class="affpopup" co-rid="_co_idm139927594562704" co-class="co-affbox">Nichole Reisdorph</a>,<sup>1</sup> and  <a href="/pubmed/?term=Kechris%20K%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452" class="affpopup" co-rid="_co_idm139927594560592" co-class="co-affbox">Katerina Kechris</a><sup>2</sup></div><div style="display:none" class="contrib-group aff-tip"><div id="_co_idm139927595302048"><h3 class="no_margin">Russell P. Bowler</h3><p><sup>1</sup>National Jewish Health, Denver, Colorado</p><div>Find articles by <a href="/pubmed/?term=Bowler%20RP%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452">Russell P. Bowler</a></div></div><div id="_co_idm139927595376768"><h3 class="no_margin">Sean Jacobson</h3><p><sup>1</sup>National Jewish Health, Denver, Colorado</p><div>Find articles by <a href="/pubmed/?term=Jacobson%20S%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452">Sean Jacobson</a></div></div><div id="_co_idm139927668266992"><h3 class="no_margin">Charmion Cruickshank</h3><p><sup>1</sup>National Jewish Health, Denver, Colorado</p><div>Find articles by <a href="/pubmed/?term=Cruickshank%20C%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452">Charmion Cruickshank</a></div></div><div id="_co_idm139927595299696"><h3 class="no_margin">Grant J. Hughes</h3><p><sup>2</sup>Department of Biostatistics and Informatics and</p><div>Find articles by <a href="/pubmed/?term=Hughes%20GJ%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452">Grant J. Hughes</a></div></div><div id="_co_idm139927598804272"><h3 class="no_margin">Charlotte Siska</h3><p><sup>3</sup>Computational Bioscience Program, University of Colorado Denver, Denver, Colorado</p><div>Find articles by <a href="/pubmed/?term=Siska%20C%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452">Charlotte Siska</a></div></div><div id="_co_idm139927598802160"><h3 class="no_margin">Daniel S. Ory</h3><p><sup>4</sup>Diabetic Cardiovascular Disease Center and</p><p><sup>5</sup>Department of Medicine, Washington University, St. Louis, Missouri;</p><div>Find articles by <a href="/pubmed/?term=Ory%20DS%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452">Daniel S. Ory</a></div></div><div id="_co_idm139927666489936"><h3 class="no_margin">Irina Petrache</h3><p><sup>6</sup>Indiana University School of Medicine, Indianapolis, Indiana; and</p><p><sup>7</sup>Richard L. Roudebush VA Medical Center, Indianapolis, Indiana</p><div>Find articles by <a href="/pubmed/?term=Petrache%20I%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452">Irina Petrache</a></div></div><div id="_co_idm139927599449008"><h3 class="no_margin">Jean E. Schaffer</h3><p><sup>4</sup>Diabetic Cardiovascular Disease Center and</p><p><sup>5</sup>Department of Medicine, Washington University, St. Louis, Missouri;</p><div>Find articles by <a href="/pubmed/?term=Schaffer%20JE%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452">Jean E. Schaffer</a></div></div><div id="_co_idm139927594562704"><h3 class="no_margin">Nichole Reisdorph</h3><p><sup>1</sup>National Jewish Health, Denver, Colorado</p><div>Find articles by <a href="/pubmed/?term=Reisdorph%20N%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452">Nichole Reisdorph</a></div></div><div id="_co_idm139927594560592"><h3 class="no_margin">Katerina Kechris</h3><p><sup>2</sup>Department of Biostatistics and Informatics and</p><div>Find articles by <a href="/pubmed/?term=Kechris%20K%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=25494452">Katerina Kechris</a></div></div></div></div><div class="fm-panel small half_rhythm"><div class="fm-authors-info fm-panel hide half_rhythm" id="idm139927598339424_ai" style="display:none"><div class="fm-affl" lang="en" id="aff1"><sup>1</sup>National Jewish Health, Denver, Colorado</div><div class="fm-affl" lang="en" id="aff2"><sup>2</sup>Department of Biostatistics and Informatics and</div><div class="fm-affl" lang="en" id="aff3"><sup>3</sup>Computational Bioscience Program, University of Colorado Denver, Denver, Colorado</div><div class="fm-affl" lang="en" id="aff4"><sup>4</sup>Diabetic Cardiovascular Disease Center and</div><div class="fm-affl" lang="en" id="aff5"><sup>5</sup>Department of Medicine, Washington University, St. Louis, Missouri;</div><div class="fm-affl" lang="en" id="aff6"><sup>6</sup>Indiana University School of Medicine, Indianapolis, Indiana; and</div><div class="fm-affl" lang="en" id="aff7"><sup>7</sup>Richard L. Roudebush VA Medical Center, Indianapolis, Indiana</div><div><sup><img src="/corehtml/pmc/pmcgifs/corrauth.gif" alt="corresponding author" /></sup>Corresponding author.</div><div id="idm139927596036848">Correspondence and requests for reprints should be addressed to Russell Bowler, M.D., Ph.D., 1400 Jackson Street, Room K715a, Denver, CO 80206. E-mail: <a href="mailto:dev@null" data-email="gro.htlaehjn@rrelwob" class="oemail">gro.htlaehjn@rrelwob</a>; or Irina Petrache, M.D., 980 West Walnut Street, Walther Hall&#x02013;R3, C400, Indianapolis, IN 46260. E-mail: <a href="mailto:dev@null" data-email="ude.ui@hcartepi" class="oemail">ude.ui@hcartepi</a></div></div><div class="togglers"><a href="#" class="pmctoggle" rid="idm139927598339424_ai">Author information <span>►</span></a> <a href="#" class="pmctoggle" rid="idm139927598339424_an">Article notes <span>►</span></a> <a href="#" class="pmctoggle" rid="idm139927598339424_cpl">Copyright and License information <span>►</span></a> <a href="/pmc/about/disclaimer/">Disclaimer</a></div><div class="fm-article-notes fm-panel hide half_rhythm" id="idm139927598339424_an" style="display:none"><div class="fm-pubdate half_rhythm">Received 2014 Oct 2; Accepted 2014 Dec 8.</div></div><div class="fm-cpl-info fm-panel hide half_rhythm" id="idm139927598339424_cpl" style="display:none"><div class="fm-copyright half_rhythm"><a href="/pmc/about/copyright/">Copyright</a>  &#x000a9; 2015 by the American Thoracic
+Society</div></div></div><div id="pmclinksbox" class="links-box whole_rhythm"><div class="small"><div>See editorial "<a href="/pmc/articles/PMC4351583/">Bioactive Lipids in Emphysema. Decoding Fat to Reveal COPD
+Phenotypes</a>" in volume 191 on page 241.</div><div style="border-top: 1px solid rgb(102, 102, 153); margin: 5px 10% 3px;"></div><div>This article has been <a href="/pmc/articles/PMC4351578/citedby/">cited by</a> other articles in PMC.</div></div></div></div><div class="sec"></div><div id="idm139927667487360" lang="en" class="tsec sec"><h2 class="head no_bottom_margin" id="idm139927667487360title">Abstract</h2><!--article-meta--><div><p id="__p1" class="p p-first"><strong>Rationale:</strong> Chronic obstructive pulmonary disease (COPD) occurs in a
+minority of smokers and is characterized by intermittent exacerbations and clinical
+subphenotypes such as emphysema and chronic bronchitis. Although sphingolipids as a
+class are implicated in the pathogenesis of COPD, the particular sphingolipid species
+associated with COPD subphenotypes remain unknown.</p><p id="__p2"><strong>Objectives:</strong> To use mass spectrometry to determine which plasma
+sphingolipids are associated with subphenotypes of COPD.</p><p id="__p3"><strong>Methods:</strong> One hundred twenty-nine current and former smokers from the
+COPDGene cohort had 69 distinct sphingolipid species detected in plasma by targeted
+mass spectrometry. Of these, 23 were also measured in 131 plasma samples (117
+independent subjects) using an untargeted platform in an independent laboratory.
+Regression analysis with adjustment for clinical covariates, correction for false
+discovery rate, and metaanalysis were used to test associations between COPD
+subphenotypes and sphingolipids. Peripheral blood mononuclear cells were used to test
+associations between sphingolipid gene expression and plasma sphingolipids.</p><p id="__p4"><strong>Measurements and Main Results:</strong> Of the measured plasma sphingolipids,
+five sphingomyelins were associated with emphysema; four trihexosylceramides and
+three dihexosylceramides were associated with COPD exacerbations. Three sphingolipids
+were strongly associated with sphingolipid gene expression, and 15 sphingolipid
+gene/metabolite pairs were differentially regulated between COPD cases and control
+subjects.</p><p id="__p5" class="p p-last"><strong>Conclusions:</strong> There is evidence of systemic dysregulation of sphingolipid
+metabolism in patients with COPD. Subphenotyping suggests that sphingomyelins are
+strongly associated with emphysema and glycosphingolipids are associated with COPD
+exacerbations.</p></div><div class="sec"><strong class="kwd-title">Keywords: </strong><span class="kwd-text">ceramides, sphingomyelins, emphysema, metabolomics, genomics</span></div></div><div id="idm139927592445376" class="tsec sec headless whole_rhythm"><div class="boxed-text-box whole_rhythm hide-overflow"><div class="sec"><h3>At a Glance Commentary</h3><div class="sec"><h4>Scientific Knowledge on the Subject</h4><p id="__p6" class="p p-first-last">In preclinical studies, ceramides, the basic unit of sphingolipids, has been
+linked to emphysema development. However, the complexity of the sphingolipid
+metabolism generates multiple sphingolipid species with distinct biological
+functions, and chronic obstructive pulmonary disease (COPD) is a common disease
+with multiple phenotypes, including emphysema. Recent data suggest an association
+between circulating and sputum levels of sphingolipids and COPD, but only two
+classes have been studied (ceramides and sphingomyelin), and these findings have
+been neither validated in larger cohorts nor studied in relationship with distinct
+COPD phenotypes.</p></div><div class="sec"><h4>What This Study Adds to the Field</h4><p id="__p7" class="p p-first-last">This study investigates the associations of plasma sphingolipids with COPD
+subtypes such as airflow obstruction, emphysema, chronic bronchitis, and frequent
+exacerbations in a well-characterized cohort of current or former smokers. Our
+findings add to previous studies reporting associations of sphingomyelin and
+ceramides with airflow obstruction and emphysema. In addition, we identified novel
+sphingolipids associated with COPD phenotypes such as frequent COPD exacerbations.
+We showed that COPD subphenotypes are associated with dysregulated gene/metabolite
+pathways for sphingolipids, adding further evidence to their role in the
+pathogenesis of COPD.</p></div></div></div><p id="__p8" class="p p-first">Chronic obstructive pulmonary disease (COPD) is the third leading
+cause of death in the United States (<a href="#bib1" rid="bib1" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751179">1</a>). Although
+smoking is the major risk factor for COPD, most smokers do not develop COPD, and those who
+do have variable clinical phenotypes such as airflow obstruction, emphysema, chronic
+bronchitis, and frequent COPD exacerbations (<a href="#bib2" rid="bib2" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751161">2</a>).
+There is little known about what predisposes certain smokers to develop a particular COPD
+phenotype. Recently, there have been reports suggesting that alteration in sphingolipid
+metabolism may be linked to disease susceptibility (<a href="#bib3" rid="bib3" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751175">3</a>&#x02013;<a href="#bib6" rid="bib6" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751181">6</a>), although large-scale human
+studies of specific sphingolipids have been lacking.</p><p id="__p9">Sphingolipids contain a backbone of sphingoid bases and, depending on the O-linked R group,
+are subclassified into sphingosines, sphingomyelins, ceramides, or glycosphingolipids. In
+mammals, there are more than 100 species of sphingolipids and a multitude of enzymes that
+regulate sphingolipid metabolism. Sphingolipids are found primarily in cell membranes, but
+also in biofluids such as plasma. Having pleiotropic effects, specific sphingolipids have
+been implicated in diverse biologic processes (<a href="#bib7" rid="bib7" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751145">7</a>)
+that include: cell death, proliferation, differentiation, autophagy, senescence, migration,
+and efferocytosis.</p><p id="__p10">Sphingolipids have been implicated in several lung diseases, including COPD (<a href="#bib3" rid="bib3" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751150">3</a>, <a href="#bib8" rid="bib8" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751154">8</a>, <a href="#bib9" rid="bib9" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751162">9</a>). The majority of sphingolipid lung research has
+focused on ceramides, the central intermediate metabolites in the sphingolipid metabolism
+and key proapoptotic signaling molecules, and on sphingosine-1-phosphate (S1P), a
+downstream metabolite of ceramide and key prosurvival and immune regulator. Smokers (<a href="#bib10" rid="bib10" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751174">10</a>) and patients with COPD (<a href="#bib11" rid="bib11" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751159">11</a>) have increased ceramides in their lungs, and ceramides have been
+implicated in tobacco smoke&#x02013;induced pulmonary vascular cell apoptosis (<a href="#bib12" rid="bib12" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_638654617">12</a>) and clearance of apoptotic cells by alveolar
+macrophages (<a href="#bib13" rid="bib13" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751170">13</a>). S1P receptor 5 expression is
+reduced the lungs of patients with COPD (<a href="#bib14" rid="bib14" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751143">14</a>), and
+S1P analogs inhibit emphysema development in animal models (<a href="#bib15" rid="bib15" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_638654615">15</a>). Recently, in a small cohort, sphingolipids were found elevated
+in the sputum in COPD (<a href="#bib6" rid="bib6" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751178">6</a>).</p><p id="__p11" class="p">These findings suggest that sphingolipid metabolism is dysregulated by smoking and COPD and
+that these derangements may be pathogenic and could serve as biomarkers (<a href="#bib10" rid="bib10" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751152">10</a>). However, previous studies have been limited by
+small sample sizes, limited clinical phenotyping, and limited focus on a particular
+subclass of sphingolipids. To overcome these limitations and further investigate
+sphingolipids for their association with clinical COPD phenotypes, such as emphysema,
+chronic bronchitis, and frequent exacerbations, we used two mass spectrometry&#x02013;based
+approaches to quantitate 69 plasma sphingolipids in more than 250 smokers with and without
+COPD from the COPDGene study. Furthermore, we integrated plasma metabolomics analyses with
+recently published microarray profiling of this cohort (<a href="#bib4" rid="bib4" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751165">4</a>) to discover relationships that might elucidate mechanisms of sphingolipid
+dysregulation in COPD.</p></div><div id="__sec4" class="tsec sec"><h2 class="head no_bottom_margin" id="__sec4title">Methods</h2><div id="__sec5" class="sec sec-first"><h3>Study Population</h3><p id="__p12" class="p p-first">The institutional review boards of participating
+institutions approved this study. All subjects were from the COPDGene cohort, which
+is a National Institutes of Health&#x02013;sponsored multicentered study of the
+genetic epidemiology of COPD (<a href="#bib16" rid="bib16" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751157">16</a>). From this
+cohort we selected a subset of 129 subjects (<a href="/pmc/articles/PMC4351578/table/tbl1/" target="table" class="fig-table-link figpopup" rid-figpopup="tbl1" rid-ob="ob-tbl1" co-legend-rid=""><span>Table
+1</span></a>) for targeted sphingolipid analysis to obtain a wide range of COPD
+phenotypes (defined below). Additionally, 131 subjects who participated in a
+microarray study of gene expression in peripheral blood mononuclear cells (GEO
+accession number GSE 42057) (<a href="#bib4" rid="bib4" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751167">4</a>) were selected
+for untargeted sphingolipid analysis. Additional details are provided in the online
+supplement.</p><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap table anchored whole_rhythm" id="tbl1"><h3>Table 1.</h3><!--caption a7--><div class="caption"><p id="__p13">Characteristics of Subjects</p></div><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139927595759232" class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><th align="left" rowspan="1" colspan="1">&#x000a0;</th><th align="center" rowspan="1" colspan="1">Targeted Cohort
+(<em>N</em>&#x02009;=&#x02009;<em>129</em>)</th><th align="center" rowspan="1" colspan="1">Untargeted Cohort
+(<em>N</em>&#x02009;=&#x02009;<em>131</em>)</th><th align="center" rowspan="1" colspan="1"><em>P</em>
+Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, yr</td><td align="center" rowspan="1" colspan="1">63
+(58&#x02013;71)</td><td align="center" rowspan="1" colspan="1">64
+(57&#x02013;70)</td><td align="center" rowspan="1" colspan="1">0.96</td></tr><tr><td align="left" rowspan="1" colspan="1">Sex, % men</td><td align="center" rowspan="1" colspan="1">57</td><td align="center" rowspan="1" colspan="1">56</td><td align="center" rowspan="1" colspan="1">0.79</td></tr><tr><td align="left" rowspan="1" colspan="1">Current smokers, %</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">23</td><td align="center" rowspan="1" colspan="1">0.95</td></tr><tr><td align="left" rowspan="1" colspan="1">Pack-years</td><td align="center" rowspan="1" colspan="1">46
+(34&#x02013;58)</td><td align="center" rowspan="1" colspan="1">42
+(30&#x02013;64)</td><td align="center" rowspan="1" colspan="1">0.71</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index</td><td align="center" rowspan="1" colspan="1">27
+(24&#x02013;31)</td><td align="center" rowspan="1" colspan="1">27
+(24&#x02013;32)</td><td align="center" rowspan="1" colspan="1">0.58</td></tr><tr><td align="left" rowspan="1" colspan="1">FEV<sub>1</sub> %</td><td align="center" rowspan="1" colspan="1">64
+(40&#x02013;92)</td><td align="center" rowspan="1" colspan="1">66
+(42&#x02013;89)</td><td align="center" rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">FEV<sub>1</sub>/FVC</td><td align="center" rowspan="1" colspan="1">0.56
+(0.39&#x02013;0.72)</td><td align="center" rowspan="1" colspan="1">0.61
+(0.44&#x02013;0.74)</td><td align="center" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">Emphysema, %</td><td align="center" rowspan="1" colspan="1">11.5&#x02009;&#x000b1;&#x02009;11.4</td><td align="center" rowspan="1" colspan="1">9.18&#x02009;&#x000b1;&#x02009;10.4</td><td align="center" rowspan="1" colspan="1">0.09</td></tr><tr><td align="left" rowspan="1" colspan="1">Chronic bronchitis,
+%</td><td align="center" rowspan="1" colspan="1">19</td><td align="center" rowspan="1" colspan="1">18</td><td align="center" rowspan="1" colspan="1">0.95</td></tr><tr><td align="left" rowspan="1" colspan="1">Exacerbations/yr,
+moderate</td><td align="center" rowspan="1" colspan="1">0.7&#x02009;&#x000b1;&#x02009;1.3</td><td align="center" rowspan="1" colspan="1">0.6&#x02009;&#x000b1;&#x02009;1</td><td align="center" rowspan="1" colspan="1">0.3</td></tr><tr><td align="left" rowspan="1" colspan="1">Exacerbations/yr,
+severe</td><td align="center" rowspan="1" colspan="1">0.2&#x02009;&#x000b1;&#x02009;0.7</td><td align="center" rowspan="1" colspan="1">0.1&#x02009;&#x000b1;&#x02009;0.3</td><td align="center" rowspan="1" colspan="1">0.17</td></tr></tbody></table></div><div id="largeobj_idm139927595759232" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC4351578/table/tbl1/?report=objectonly">Open in a separate window</a></div><div class="tblwrap-foot"><div id="idm139927591079808"><p id="__p14" class="p p-first-last">Data are presented as median (interquartile range) or mean &#x000b1; SD.
+Emphysema was defined as percent of lung attenuation voxels below
+&#x02212;950 Hounsfield units; chronic bronchitis was defined by daily
+productive cough for at least 3 months in the previous 2 consecutive years;
+exacerbations were defined as moderate (treated with either antibiotics or
+corticosteroids) or severe (leading to hospitalization) in the previous
+year.</p></div></div></div></div><div id="__sec6" class="sec"><h3>Clinical Data Collection and Definitions of COPD Phenotypes</h3><p id="__p15" class="p p-first-last">Each subject was classified by four different clinical
+phenotypes: airflow obstruction (COPD), chronic bronchitis, emphysema, and
+exacerbations (<em>see</em> Table E1 in the online supplement). COPD was
+defined using Global Initiative for Chronic Obstructive Lung Disease criteria (<a href="#bib17" rid="bib17" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751148">17</a>). Emphysema was measured using quantitative
+high-resolution computed tomography (HRCT) as described (<a href="#bib18" rid="bib18" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751146">18</a>). Exacerbations were defined by acutely worse cough, sputum,
+and dyspnea in those with and without COPD. Only moderate exacerbations (treated by
+corticosteroids and/or antibiotics) or severe exacerbations (causing hospitalization)
+were counted. Chronic bronchitis was defined as cough that produces sputum daily for
+3 consecutive months for at least 2 consecutive years.</p></div><div id="__sec7" class="sec"><h3>Sphingolipid Measurements</h3><p id="__p16" class="p p-first-last">Sphingolipid measurements were performed independently in
+two separate laboratories using two separate protocols (<em>see</em> online
+supplement for more details). A targeted, quantitative, mass spectrometry panel
+(Washington University) included 69 sphingolipids (Table E2). Sphingomyelins,
+dihydrosphingomyelins, ceramides, and dihydroceramides were extracted using a
+modified Bligh-Dyer extraction method, in the presence of internal standards.
+Sphingoid bases, ceramide-1-phosphate, monohexosylsphingosine, monohexosylceramides,
+dihexosylceramides, trihexosylceramides, monohydroxylated monohexosylceramides,
+monohydroxylated dihexosylceramides, sulfatides, and gangliosides were extracted
+after protein precipitation with methanol, followed by supernatant collection,
+drying, and reconstituting with 1:1 methanol/water, in the presence of internal
+standards. A second untargeted protocol (National Jewish Health) was performed as
+detailed elsewhere (<a href="#bib19" rid="bib19" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751158">19</a>).</p></div><div id="__sec8" class="sec sec-last"><h3>Statistical Analysis</h3><p id="__p17" class="p p-first">Differences in demographic characteristics of study subjects
+were analyzed using a <em>t</em> test for continuous variables and a
+Chi-square test for categorical variables. Regression modeling and covariates are
+described further in the online supplement. Because the sphingolipid levels were
+highly correlated within class (Figure E1), we also computed the first principal
+component of each sphingolipid class (Tables E3 and E4) using prcomp function in
+R.</p><p id="__p18" class="p p-last">Replication between the targeted and untargeted platforms was determined using the
+Stouffer-Liptak <em>Z</em>-score method, which converts the
+<em>P</em> values from the two studies to normal quantiles and averages
+them to obtain a combined <em>P</em> value (<a href="#bib20" rid="bib20" class=" bibr popnode">20</a>, <a href="#bib21" rid="bib21" class=" bibr popnode">21</a>). Each of the 23
+sphingolipids that overlapped between the two studies was tested, and consistency in
+the direction of the effect on the phenotype was taken into account.</p></div></div><div id="__sec9" class="tsec sec"><h2 class="head no_bottom_margin" id="__sec9title">Results</h2><div id="__sec10" class="sec sec-first"><h3>Study Subjects and Baseline Characteristics</h3><p id="__p19" class="p p-first-last">Demographics, physiology, quantitative HRCT measurements,
+and patient-reported outcomes for each group are listed in <a href="/pmc/articles/PMC4351578/table/tbl1/" target="table" class="fig-table-link figpopup" rid-figpopup="tbl1" rid-ob="ob-tbl1" co-legend-rid=""><span>Table 1</span></a> and Table E1. Except for slightly more subjects with
+emphysema in the untargeted cohort, there were no statistically significant
+differences in the baseline characteristics between the targeted and untargeted
+cohorts.</p></div><div id="__sec11" class="sec"><h3>Targeted Identification of Plasma Sphingolipids</h3><p id="__p20" class="p p-first">Our previous results suggested that sphingolipids were
+candidate biomarkers for COPD (<a href="#bib4" rid="bib4" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751176">4</a>); we
+therefore performed targeted measurement of multiple sphingolipid classes. These
+included: sphingomyelins (SM d18:1), dihydrosphingomyelins (SM d18:0), ceramides (Cer
+d18:1), dihydroceramides (Cer d18:0), sphingoid bases, ceramide-1-phosphate,
+monohexosylsphingosine, monohexosylceramides, dihexosylceramides,
+trihexosylceramides, monohydroxylated monohexosylceramides, monohydroxylated
+dihexosylceramides, sulfatides, and gangliosides. After filtering out species that
+exhibited no or very low peaks, overlapped with other peaks, exhibited multiple peaks
+with retention times in close proximity, or had large coefficients of variance, 69
+sphingolipid species were used for quantitative comparisons (Table E2). Multiple
+sphingolipids were associated with clinical covariates such as age, sex, body mass
+index (BMI), and current smoking (Table E3). Three sphingolipid species showed a
+negative correlation with age (correlation test <em>P</em>
+value&#x02009;&#x0003c;&#x02009;0.01), seven species showed a negative correlation with
+BMI (correlation <em>P</em> value&#x02009;&#x0003c;&#x02009;0.01), and 32 species
+showed higher levels in female subjects (<em>t</em> test <em>P</em>
+value&#x02009;&#x0003c;&#x02009;0.01). Although not significant, select species showed
+trends for alterations depending on current smoking status. Because of these
+associations, we adjusted for covariates in all our models.</p><p id="__p21" class="p p-last">Because strong correlations were noted within classes of sphingolipids (Figure E1),
+sphingolipid species were further grouped into 10 classes (Table E4), which further
+revealed robust interclass collinearities. For instance, plasma sphingomyelins were
+strongly correlated with ceramides (<em>P</em>&#x02009;&#x0003c;&#x02009;0.001),
+and both sphingomyelins and ceramides were inversely correlated with S1P
+(<em>P</em>&#x02009;&#x0003c;&#x02009;0.001). Because of the high intraclass
+correlations for plasma sphingolipids, each class of sphingolipids was also
+represented in analyses by the first principal component from the intraclass
+principal component analysis.</p></div><div id="__sec12" class="sec"><h3>Plasma Sphingolipids Association with Different Phenotypes of COPD</h3><p id="__p22" class="p p-first">Patients with COPD exhibit heterogeneity in clinical
+presentation, with different morbidities and prognoses for each phenotype; therefore,
+we investigated if specific sphingolipids or sphingolipid classes are significantly
+associated with individual phenotypes. The most statistically significant negative
+(inverse) association between specific COPD phenotypes and sphingolipid classes was
+for emphysema and sphingomyelins; the most statistically significant positive
+(direct) association was between COPD exacerbations and trihexosylceramides (<a href="/pmc/articles/PMC4351578/figure/fig1/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig1" rid-ob="ob-fig1" co-legend-rid="lgnd_fig1"><span>Figure 1</span></a>).</p><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="fig1" co-legend-rid="lgnd_fig1"><a href="/pmc/articles/PMC4351578/figure/fig1/" target="figure" rid-figpopup="fig1" rid-ob="ob-fig1"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139927591503904" class="figure"><a class="inline_block ts_canvas" href="/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=4351578_rccm.201410-1771OC_f1.jpg" target="tileshopwindow"><div class="ts_bar small" title="Click on image to zoom"></div><img alt="An external file that holds a picture, illustration, etc.&#10;Object name is rccm.201410-1771OC_f1.jpg" title="Click on image to zoom" class="tileshop" src="/pmc/articles/PMC4351578/bin/rccm.201410-1771OC_f1.jpg" /></a></div><div id="largeobj_idm139927591503904" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC4351578/figure/fig1/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_fig1"><div><a class="figpopup" href="/pmc/articles/PMC4351578/figure/fig1/" target="figure" rid-figpopup="fig1" rid-ob="ob-fig1">Figure 1.</a></div><!--caption a7--><div class="caption"><p id="__p23">Heat map showing sphingolipids associated with specific chronic obstructive
+pulmonary disease (COPD) phenotypes. Each class was represented by the first
+principle component. Emphysema was defined as percent of lung attenuation
+voxels below &#x02212;950 Hounsfield units; chronic bronchitis was defined by
+daily productive cough for at least 3 months in the previous 2 consecutive
+years; exacerbations (severe) were the number of hospital admissions for a COPD
+admission in the previous year. Each phenotype was modeled using regression
+with covariates (age, sex, smoking status, body mass index, and airflow
+obstruction [FEV<sub>1</sub>] where appropriate), detailed in the online
+methods. The color legend shows shading based on the signed &#x02212;10 log of
+the <em>P</em> value with negative (&#x02212;) associations shown in
+<em>blue</em> and <em>green</em> and positive (+)
+associations shown in <em>orange</em> and <em>red</em> for each
+sphingolipid class. Non&#x02013;statistically significant associations are shown
+in <em>yellow</em> and <em>light orange</em>.</p></div></div></div><div id="__sec13" class="sec"><p></p><h4 class="inline">Individual sphingolipids associated with emphysema </h4><p id="__p24" class="p p-first">We identified 26 sphingolipids that were significantly associated with emphysema
+after adjustment for covariates, with 8 remaining significant after adjustment for
+false discovery rate (FDR) (Table E5). The most highly represented group was that
+of sphingomyelins (10 species associated with emphysema, including 5 after
+adjustment for false discovery), all of which had negative associations with
+emphysema. The three plasma sphingolipids most significantly associated with
+emphysema were ceramide d18.1.N16.0
+(<em>P</em>&#x02009;=&#x02009;0.0006), ganglioside GM3 d18.1.N16.0
+(<em>P</em>&#x02009;=&#x02009;0.0004), and sphingomyelin d18.1.N16.0
+(<em>P</em>&#x02009;=&#x02009;0.0009), all being inversely
+associated with emphysema (<a href="/pmc/articles/PMC4351578/figure/fig2/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig2" rid-ob="ob-fig2" co-legend-rid="lgnd_fig2"><span>Figure 2</span></a>),
+followed by monohexosylceramide d18.1.N16.0
+(<em>P</em>&#x02009;=&#x02009;0.002; Table E5). When stratified by
+subjects with less severe airflow obstruction (i.e., milder COPD), the receiver
+operating characteristic curves demonstrated that these top sphingolipids improved
+the ability to diagnose moderate to severe emphysema beyond just clinical and
+physiologic covariates (Table E6).</p><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="fig2" co-legend-rid="lgnd_fig2"><a href="/pmc/articles/PMC4351578/figure/fig2/" target="figure" rid-figpopup="fig2" rid-ob="ob-fig2"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139927598368672" class="figure"><img class="fig-image" alt="An external file that holds a picture, illustration, etc.&#10;Object name is rccm.201410-1771OC_f2.jpg" title="An external file that holds a picture, illustration, etc.&#10;Object name is rccm.201410-1771OC_f2.jpg" src="/pmc/articles/PMC4351578/bin/rccm.201410-1771OC_f2.jpg" /></div><div id="largeobj_idm139927598368672" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC4351578/figure/fig2/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_fig2"><div><a class="figpopup" href="/pmc/articles/PMC4351578/figure/fig2/" target="figure" rid-figpopup="fig2" rid-ob="ob-fig2">Figure 2.</a></div><!--caption a7--><div class="caption"><p id="__p25">Plasma ceramides are inversely associated with emphysema severity. Ceramide
+(d18:1/N16:0), sphingomyelin (d18:1/N24:1), and sphingomyelin (d18:1/N16:0)
+are representative examples (false discovery rate&#x02009;&#x0003c;&#x02009;0.02
+in Table E5). Shown are box plots of median, quartiles, and outliers. A
+total of 33, 91, 97, and 100% of subjects with no, mild, moderate, or severe
+emphysema, respectively, had airflow obstruction (post-bronchodilator
+FEV<sub>1</sub>/FVC&#x02009;&#x0003c;&#x02009;0.7).</p></div></div></div></div><div id="__sec14" class="sec"><p></p><h4 class="inline">Individual sphingolipids associated with COPD exacerbations </h4><p id="__p26" class="p p-first">After adjustment for covariates and correction for FDR, we identified 11
+sphingolipids that were associated with severe COPD exacerbations, including four
+trihexosylceramides, three dihexosylceramides, sulfatide d18.1.N16.0, ganglioside
+GD1.d18.1.N16.0, sphingomyelin SM.d18.1.N14.1, and S1P (Table E7). All
+associations were positive except for S1P and SM.d18.1.N14.1, and the strongest
+signal was the positive association of severe COPD exacerbations with plasma
+trihexosylceramides d18.1.N18.0 (adjusted
+<em>P</em>&#x02009;=&#x02009;1.6&#x02009;&#x000d7;&#x02009;10<sup>&#x02212;6</sup>).
+Most of these associations were also identified with COPD exacerbations of lesser
+severity (Table E8). Receiver operating characteristic analysis demonstrates that
+these sphingolipids improved the ability to diagnose severe exacerbations beyond
+just clinical and physiologic covariates (Table E9). Interestingly, for less
+severe exacerbations, only in subjects with less airflow obstruction,
+Cer.d18.1.N18.0 showed enhanced association with exacerbations beyond just
+clinical and physiologic covariates (<a href="/pmc/articles/PMC4351578/figure/fig3/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig3" rid-ob="ob-fig3" co-legend-rid="lgnd_fig3"><span>Figure
+3</span></a> and Table E10).</p><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="fig3" co-legend-rid="lgnd_fig3"><a href="/pmc/articles/PMC4351578/figure/fig3/" target="figure" rid-figpopup="fig3" rid-ob="ob-fig3"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139927633874432" class="figure"><a class="inline_block ts_canvas" href="/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=4351578_rccm.201410-1771OC_f3.jpg" target="tileshopwindow"><div class="ts_bar small" title="Click on image to zoom"></div><img alt="An external file that holds a picture, illustration, etc.&#10;Object name is rccm.201410-1771OC_f3.jpg" title="Click on image to zoom" class="tileshop" src="/pmc/articles/PMC4351578/bin/rccm.201410-1771OC_f3.jpg" /></a></div><div id="largeobj_idm139927633874432" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC4351578/figure/fig3/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_fig3"><div><a class="figpopup" href="/pmc/articles/PMC4351578/figure/fig3/" target="figure" rid-figpopup="fig3" rid-ob="ob-fig3">Figure 3.</a></div><!--caption a7--><div class="caption"><p id="__p27">Receiver operating characteristics (ROC) curve analysis and area under the
+curve (AUC) for sphingolipids significantly associated with moderate chronic
+obstructive pulmonary disease exacerbations. The first model uses only the
+demographic and clinical covariates (Covariates only), including covariates
+age, sex, smoking status, body mass index, and airflow obstruction
+(FEV<sub>1</sub>). The second model includes the same covariates and adds
+plasma levels of Cer.d18.1.N18.0, which was the sphingolipid that most
+improved ROC.</p></div></div></div></div><div id="__sec15" class="sec sec-last"><p></p><h4 class="inline">Sphingolipids associated with other COPD phenotypes (airflow obstruction and
+chronic bronchitis) </h4><p id="__p28" class="p p-first-last">There were no plasma sphingolipid species significantly associated with chronic
+bronchitis (Table E11), FEV<sub>1</sub> (data not shown), FEV<sub>1</sub>/FVC
+(Table E11), or bronchodilator responsiveness (data not shown) after correcting
+for FDR; however, several metabolomic trends noted in these subgroups were used in
+combination with genomic data for phenotype-metabolomic interpretations.</p></div></div><div id="__sec16" class="sec"><h3>Replication of Associations between COPD Phenotypes and Sphingolipids</h3><p id="__p29" class="p p-first">For replication, we used an independently generated
+metabolomics dataset (detected via untargeted mass spectrometry using orthogonal
+methods in an independent laboratory) from plasma of 131 subjects in COPDGene.
+Between the two datasets, we identified 23 overlapping sphingolipids (8
+sphingomyelins, 6 ceramides, 3 gangliosides, 2 sulfogalactosylceramides,
+dihydroceramide, trihexosylceramide, S1P, and sphingosine). For overlapping
+sphingolipids, we performed metaanalysis of the two datasets accounting for the
+direction of association. Seven of 23 sphingolipids showed negative associations with
+emphysema, of which five sphingomyelins (<a href="/pmc/articles/PMC4351578/table/tbl2/" target="table" class="fig-table-link figpopup" rid-figpopup="tbl2" rid-ob="ob-tbl2" co-legend-rid=""><span>Table
+2</span></a>) exhibited the strongest signal for replication between the two platforms
+(FDR&#x02009;&#x0003c;&#x02009;0.10). Four sphingolipids demonstrated associations with
+moderate and severe exacerbations (<a href="/pmc/articles/PMC4351578/table/tbl3/" target="table" class="fig-table-link figpopup" rid-figpopup="tbl3" rid-ob="ob-tbl3" co-legend-rid=""><span>Table 3</span></a>).
+Except for S1P, all were positively associated with exacerbations
+(FDR&#x02009;&#x0003c;&#x02009;0.10).</p><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap table anchored whole_rhythm" id="tbl2"><h3>Table 2.</h3><!--caption a7--><div class="caption"><p id="__p30">Metaanalysis of Sphingolipids Associated with Emphysema</p></div><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139927600624880" class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><th rowspan="2" align="left" colspan="1">Sphingolipid</th><th colspan="2" align="center" rowspan="1">Targeted Cohort<hr /></th><th colspan="2" align="center" rowspan="1">Untargeted Cohort<hr /></th><th rowspan="2" align="center" colspan="1">Metaanalysis
+<em>P</em> Value</th></tr><tr><th align="center" rowspan="1" colspan="1"><math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="m1" overflow="scroll"><mrow><mover accent="true"><mi mathvariant="italic">&#x003b2;</mi><mo>^</mo></mover></mrow></math> Slope</th><th align="center" rowspan="1" colspan="1"><em>P</em>
+Value</th><th align="center" rowspan="1" colspan="1"><math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="m2" overflow="scroll"><mrow><mover accent="true"><mi>&#x003b2;</mi><mo>^</mo></mover></mrow></math> Slope</th><th align="center" rowspan="1" colspan="1"><em>P</em>
+Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Ganglioside GM3
+(d18:1/16:0)</td><td align="center" rowspan="1" colspan="1">&#x02212;0.7654</td><td align="center" rowspan="1" colspan="1">0.0004</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1277</td><td align="center" rowspan="1" colspan="1">0.3768</td><td align="center" rowspan="1" colspan="1">0.0018<sup>*</sup></td></tr><tr><td align="left" rowspan="1" colspan="1">Sphingomyelin(d18:0/24:1(15Z))</td><td align="center" rowspan="1" colspan="1">&#x02212;0.4534</td><td align="center" rowspan="1" colspan="1">0.0057</td><td align="center" rowspan="1" colspan="1">&#x02212;0.0623</td><td align="center" rowspan="1" colspan="1">0.5349</td><td align="center" rowspan="1" colspan="1">0.0167<sup>*</sup></td></tr><tr><td align="left" rowspan="1" colspan="1">Sphingomyelin(d18:1/14:0)</td><td align="center" rowspan="1" colspan="1">&#x02212;0.4335</td><td align="center" rowspan="1" colspan="1">0.0040</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1070</td><td align="center" rowspan="1" colspan="1">0.3650</td><td align="center" rowspan="1" colspan="1">0.0075<sup>*</sup></td></tr><tr><td align="left" rowspan="1" colspan="1">Sphingomyelin(d18:1/16:0)</td><td align="center" rowspan="1" colspan="1">&#x02212;0.8964</td><td align="center" rowspan="1" colspan="1">0.0010</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1867</td><td align="center" rowspan="1" colspan="1">0.4258</td><td align="center" rowspan="1" colspan="1">0.0037<sup>*</sup></td></tr><tr><td align="left" rowspan="1" colspan="1">Sphingomyelin(d18:1/16:1)</td><td align="center" rowspan="1" colspan="1">&#x02212;0.5198</td><td align="center" rowspan="1" colspan="1">0.0054</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1459</td><td align="center" rowspan="1" colspan="1">0.3621</td><td align="center" rowspan="1" colspan="1">0.0090<sup>*</sup></td></tr><tr><td align="left" rowspan="1" colspan="1">Sphingomyelin(d18:1/24:1(15Z))</td><td align="center" rowspan="1" colspan="1">&#x02212;0.6062</td><td align="center" rowspan="1" colspan="1">0.0009</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2182</td><td align="center" rowspan="1" colspan="1">0.0829</td><td align="center" rowspan="1" colspan="1">0.0004<sup>*</sup></td></tr><tr><td align="left" rowspan="1" colspan="1">Sphingomyelin(d18:2/14:0)</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3520</td><td align="center" rowspan="1" colspan="1">0.0237</td><td align="center" rowspan="1" colspan="1">&#x02212;0.0673</td><td align="center" rowspan="1" colspan="1">0.5444</td><td align="center" rowspan="1" colspan="1">0.0425</td></tr></tbody></table></div><div id="largeobj_idm139927600624880" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC4351578/table/tbl2/?report=objectonly">Open in a separate window</a></div><div class="tblwrap-foot"><div id="tblfn1"><sup>*</sup>False discovery rate&#x02009;&#x0003c;&#x02009;0.10.</div></div></div><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap table anchored whole_rhythm" id="tbl3"><h3>Table 3.</h3><!--caption a7--><div class="caption"><p id="__p32">Metaanalysis of Sphingolipids Associated with Exacerbations</p></div><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139927592449808" class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><th rowspan="2" align="left" colspan="1">Sphingolipid</th><th colspan="2" align="center" rowspan="1">Targeted Cohort<hr /></th><th colspan="2" align="center" rowspan="1">Untargeted Cohort<hr /></th><th rowspan="2" align="center" colspan="1">Metaanalysis
+<em>P</em> Value</th></tr><tr><th align="center" rowspan="1" colspan="1"><math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="m3" overflow="scroll"><mrow><mover accent="true"><mi>&#x003b2;</mi><mo>^</mo></mover></mrow></math> Slope</th><th align="center" rowspan="1" colspan="1"><em>P</em>
+Value</th><th align="center" rowspan="1" colspan="1"><math xmlns:mml="http://www.w3.org/1998/Math/MathML" id="m4" overflow="scroll"><mrow><mover accent="true"><mi>&#x003b2;</mi><mo>^</mo></mover></mrow></math> Slope</th><th align="center" rowspan="1" colspan="1"><em>P</em>
+Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sphingosine
+1-phosphate</td><td align="center" rowspan="1" colspan="1">&#x02212;0.7051</td><td align="center" rowspan="1" colspan="1">0.1838</td><td align="center" rowspan="1" colspan="1">&#x02212;0.6928</td><td align="center" rowspan="1" colspan="1">0.0004</td><td align="center" rowspan="1" colspan="1">0.0006<sup>*</sup></td></tr><tr><td align="left" rowspan="1" colspan="1">Trihexosylceramide
+(d18:1/16:0)</td><td align="center" rowspan="1" colspan="1">0.8804</td><td align="center" rowspan="1" colspan="1">0.0693</td><td align="center" rowspan="1" colspan="1">0.9839</td><td align="center" rowspan="1" colspan="1">0.0059</td><td align="center" rowspan="1" colspan="1">0.0012<sup>*</sup></td></tr><tr><td align="left" rowspan="1" colspan="1">3-O-Sulfogalactosylceramide
+(d18:1/16:0)</td><td align="center" rowspan="1" colspan="1">0.8262</td><td align="center" rowspan="1" colspan="1">0.0507</td><td align="center" rowspan="1" colspan="1">0.5191</td><td align="center" rowspan="1" colspan="1">0.0792</td><td align="center" rowspan="1" colspan="1">0.0087<sup>*</sup></td></tr><tr><td align="left" rowspan="1" colspan="1">Galabiosylceramide
+(d18:1/24:1(15Z))</td><td align="center" rowspan="1" colspan="1">0.6077</td><td align="center" rowspan="1" colspan="1">0.1741</td><td align="center" rowspan="1" colspan="1">0.4177</td><td align="center" rowspan="1" colspan="1">0.0641</td><td align="center" rowspan="1" colspan="1">0.0232</td></tr></tbody></table></div><div id="largeobj_idm139927592449808" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC4351578/table/tbl3/?report=objectonly">Open in a separate window</a></div><div class="tblwrap-foot"><div id="tblfn2"><sup>*</sup>False discovery rate&#x02009;&#x0003c;&#x02009;0.10.</div></div></div></div><div id="__sec17" class="sec sec-last"><h3>Relationship between Plasma Sphingolipids and Gene Expression in Smokers with and
+without COPD</h3><p id="__p34" class="p p-first">All subjects in the untargeted metabolomics dataset had
+microarray data generated from peripheral blood mononuclear cells collected from the
+same plasma analyzed for metabolomics. Thus, we were able to explore relationships
+between plasma sphingolipid metabolites and potentially related sphingolipid pathway
+genes (Table E13). The most significant correlations were between
+<em>N</em>-(tetradecanoyl)-sphing-4-enine-1-(2-aminoethylphosphonate) and GM2
+ganglioside activator (&#x003c1;&#x02009;=&#x02009;&#x02212;0.39;
+<em>P</em>&#x02009;=&#x02009;0.00001; FDR&#x02009;=&#x02009;0.04),
+between SM(d18:1/12:0) and lysosomal sialidase
+(&#x003c1;&#x02009;=&#x02009;&#x02212;0.36;
+<em>P</em>&#x02009;=&#x02009;0.00007; FDR&#x02009;=&#x02009;0.12)
+(Figure E2), and between sphingosine and Ceroid-Lipofuscinosis, Neuronal 8
+(&#x003c1;&#x02009;=&#x02009;&#x02212;0.34;
+<em>P</em>&#x02009;=&#x02009;0.0002; FDR&#x02009;=&#x02009;0.03).</p><p id="__p35" class="p">After interrogation of correlations between sphingolipid metabolite and gene
+expression and clinical phenotype, subjects who reported moderate or severe COPD
+exacerbations were most likely to have discordant correlations for
+gene&#x02013;metabolite pairs (<a href="/pmc/articles/PMC4351578/table/tbl4/" target="table" class="fig-table-link figpopup" rid-figpopup="tbl4" rid-ob="ob-tbl4" co-legend-rid=""><span>Table 4</span></a>). For
+example, the gene&#x02013;metabolite pair C9orf47 and
+NeuGc&#x003b1;2-8NeuGc&#x003b1;2-3Gal&#x003b2;1-4GlcNAc&#x003b2;1-3Gal&#x003b2;1-4Glc&#x003b2;-Cer(d18:1/24:1[15Z])
+had correlations &#x02212;0.19 and 0.64 in subjects without or with severe COPD
+exacerbations, respectively (<em>P</em>&#x02009;=&#x02009;0.00001;
+FDR&#x02009;=&#x02009;0.01) (<a href="/pmc/articles/PMC4351578/figure/fig4/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig4" rid-ob="ob-fig4" co-legend-rid="lgnd_fig4"><span>Figure 4</span></a>).</p><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap table anchored whole_rhythm" id="tbl4"><h3>Table 4.</h3><!--caption a7--><div class="caption"><p id="__p36">Differential Metabolite&#x02013;Gene Expression Correlations for Sphingolipids
+by Chronic Obstructive Pulmonary Disease Phenotype</p></div><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139927594947200" class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><th align="left" rowspan="1" colspan="1">Sphingolipid</th><th align="center" rowspan="1" colspan="1">Gene</th><th align="center" rowspan="1" colspan="1">COPD
+Subphenotype</th><th align="center" rowspan="1" colspan="1">&#x003c1; without
+Phenotype</th><th align="center" rowspan="1" colspan="1">&#x003c1; with
+Phenotype</th><th align="center" rowspan="1" colspan="1"><em>P</em>
+Value</th><th align="center" rowspan="1" colspan="1">FDR</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1"><em>N</em>-(tetradecanoyl)-sphing-4-enine-1-(2-aminoethylphosphonate)<sup>*</sup></td><td align="left" rowspan="1" colspan="1"><em>KDSR</em></td><td rowspan="2" align="left" colspan="1">Moderate or severe
+exacerbation</td><td align="center" rowspan="1" colspan="1">&#x02212;0.17</td><td align="center" rowspan="1" colspan="1">0.50</td><td align="center" rowspan="1" colspan="1">0.00005</td><td align="center" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">SM(d18:1/16:1)</td><td align="left" rowspan="1" colspan="1"><em>GM2A</em></td><td align="center" rowspan="1" colspan="1">&#x02212;0.15</td><td align="center" rowspan="1" colspan="1">0.54</td><td align="center" rowspan="1" colspan="1">0.00001</td><td align="center" rowspan="1" colspan="1">0.04</td></tr><tr><td align="left" rowspan="1" colspan="1">CerP(d18:1/24:1(15Z))<sup>*</sup></td><td align="left" rowspan="1" colspan="1"><em>ST8SIA2</em></td><td rowspan="11" align="left" colspan="1">Severe
+exacerbation</td><td align="center" rowspan="1" colspan="1">&#x02212;0.05</td><td align="center" rowspan="1" colspan="1">0.63</td><td align="center" rowspan="1" colspan="1">0.00006</td><td align="center" rowspan="1" colspan="1">0.05</td></tr><tr><td align="left" rowspan="1" colspan="1">NeuGc&#x003b1;2-3Gal&#x003b2;1-4GlcNAc&#x003b2;1-3Gal&#x003b2;1-4Glc&#x003b2;-Cer(d18:1/24:1(15Z))<sup>*</sup></td><td align="left" rowspan="1" colspan="1"><em>C9orf47</em></td><td align="center" rowspan="1" colspan="1">&#x02212;0.19</td><td align="center" rowspan="1" colspan="1">0.64</td><td align="center" rowspan="1" colspan="1">0.00001</td><td align="center" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">Cer d18:1 N16:0</td><td align="left" rowspan="1" colspan="1"><em>ACER3</em></td><td align="center" rowspan="1" colspan="1">0.11</td><td align="center" rowspan="1" colspan="1">0.73</td><td align="center" rowspan="1" colspan="1">0.00001</td><td align="center" rowspan="1" colspan="1">0.01</td></tr><tr><td align="left" rowspan="1" colspan="1">*1-3Gal&#x003b1;1-3Gal&#x003b1;1-3Gal&#x003b1;1-4Gal&#x003b2;1-4Glc&#x003b2;-Cer(d18:1/24:1(15Z))<sup>*</sup></td><td align="left" rowspan="1" colspan="1"><em>C9orf47</em></td><td align="center" rowspan="1" colspan="1">&#x02212;0.23</td><td align="center" rowspan="1" colspan="1">0.56</td><td align="center" rowspan="1" colspan="1">0.00009</td><td align="center" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">Cer d18:1 N16:0</td><td align="left" rowspan="1" colspan="1"><em>VAPA</em></td><td align="center" rowspan="1" colspan="1">&#x02212;0.03</td><td align="center" rowspan="1" colspan="1">0.62</td><td align="center" rowspan="1" colspan="1">0.00014</td><td align="center" rowspan="1" colspan="1">0.08</td></tr><tr><td align="left" rowspan="1" colspan="1">Cer(d18:1/24:1(15Z))<sup>*</sup></td><td align="left" rowspan="1" colspan="1"><em>COL4A3BP</em></td><td align="center" rowspan="1" colspan="1">&#x02212;0.07</td><td align="center" rowspan="1" colspan="1">0.60</td><td align="center" rowspan="1" colspan="1">0.00019</td><td align="center" rowspan="1" colspan="1">0.08</td></tr><tr><td align="left" rowspan="1" colspan="1">Cer(d16:1/23:0)<sup>*</sup></td><td align="left" rowspan="1" colspan="1"><em>COL4A3BP</em></td><td align="center" rowspan="1" colspan="1">&#x02212;0.12</td><td align="center" rowspan="1" colspan="1">0.56</td><td align="center" rowspan="1" colspan="1">0.00040</td><td align="center" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">Cer d18:1 N16:0</td><td align="left" rowspan="1" colspan="1"><em>KDSR</em></td><td align="center" rowspan="1" colspan="1">&#x02212;0.10</td><td align="center" rowspan="1" colspan="1">0.55</td><td align="center" rowspan="1" colspan="1">0.00055</td><td align="center" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">Cer d18:1 N16:0</td><td align="left" rowspan="1" colspan="1"><em>ORMDL1</em></td><td align="center" rowspan="1" colspan="1">&#x02212;0.14</td><td align="center" rowspan="1" colspan="1">0.54</td><td align="center" rowspan="1" colspan="1">0.00051</td><td align="center" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">SM(d18:0/24:1(15Z))<sup>*</sup></td><td align="left" rowspan="1" colspan="1"><em>CYR61</em></td><td align="center" rowspan="1" colspan="1">&#x02212;0.18</td><td align="center" rowspan="1" colspan="1">0.53</td><td align="center" rowspan="1" colspan="1">0.00048</td><td align="center" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">First PC ceramides</td><td align="left" rowspan="1" colspan="1"><em>COL4A3BP</em></td><td align="center" rowspan="1" colspan="1">0.09</td><td align="center" rowspan="1" colspan="1">0.54</td><td align="center" rowspan="1" colspan="1">0.00242</td><td align="center" rowspan="1" colspan="1">0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">First PC
+sphingosines</td><td align="left" rowspan="1" colspan="1"><em>ST8SIA3</em></td><td align="left" rowspan="1" colspan="1">Emphysema (upper
+lobe)</td><td align="center" rowspan="1" colspan="1">&#x02212;0.47</td><td align="center" rowspan="1" colspan="1">0.19</td><td align="center" rowspan="1" colspan="1">0.00039</td><td align="center" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">First PC
+sphingosines</td><td align="left" rowspan="1" colspan="1"><em>CYR61</em></td><td align="left" rowspan="1" colspan="1">Airflow
+obstruction</td><td align="center" rowspan="1" colspan="1">0.28</td><td align="center" rowspan="1" colspan="1">&#x02212;0.39</td><td align="center" rowspan="1" colspan="1">0.00011</td><td align="center" rowspan="1" colspan="1">0.02</td></tr></tbody></table></div><div id="largeobj_idm139927594947200" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC4351578/table/tbl4/?report=objectonly">Open in a separate window</a></div><div class="tblwrap-foot"><div id="idm139927596434304"><p id="__p37" class="p p-first-last"><em>Definition of abbreviations</em>:
+COPD&#x02009;=&#x02009;chronic obstructive pulmonary disease;
+FDR&#x02009;=&#x02009;false discovery rate;
+PC&#x02009;=&#x02009;principal component.</p></div><div id="tblfn3"><sup>*</sup>Discovered in the untargeted profiling.</div></div></div><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="fig4" co-legend-rid="lgnd_fig4"><a href="/pmc/articles/PMC4351578/figure/fig4/" target="figure" rid-figpopup="fig4" rid-ob="ob-fig4"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139927600980480" class="figure"><a class="inline_block ts_canvas" href="/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&amp;p=PMC3&amp;id=4351578_rccm.201410-1771OC_f4.jpg" target="tileshopwindow"><div class="ts_bar small" title="Click on image to zoom"></div><img alt="An external file that holds a picture, illustration, etc.&#10;Object name is rccm.201410-1771OC_f4.jpg" title="Click on image to zoom" class="tileshop" src="/pmc/articles/PMC4351578/bin/rccm.201410-1771OC_f4.jpg" /></a></div><div id="largeobj_idm139927600980480" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC4351578/figure/fig4/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_fig4"><div><a class="figpopup" href="/pmc/articles/PMC4351578/figure/fig4/" target="figure" rid-figpopup="fig4" rid-ob="ob-fig4">Figure 4.</a></div><!--caption a7--><div class="caption"><p id="__p39">Disruption of sphingolipid metabolite&#x02013;gene correlations by chronic
+obstructive pulmonary disease (COPD) phenotype. Scatterplot of
+NeuGc&#x003b1;2-3Gal&#x003b2;1-4GlcNAc&#x003b2;1-3Gal&#x003b2;1-4Glc&#x003b2;-Cer(d18:1/24:1(15Z))
+and C9orf47 gene expression. Subjects without severe COPD exacerbations had a
+correlation of &#x02212;0.19, whereas subjects with a history of severe COPD
+exacerbations had a correlation of 0.64
+(<em>P</em>&#x02009;=&#x02009;0.00001; false discovery
+rate&#x02009;=&#x02009;0.01).</p></div></div></div></div></div><div id="__sec18" class="tsec sec"><h2 class="head no_bottom_margin" id="__sec18title">Discussion</h2><p id="__p40" class="p p-first">This study of more than 250 subjects from the COPDGene cohort
+is the largest and the only combined targeted and nontargeted metabolomic study of
+plasma sphingolipid species in smokers with and without COPD; it is the first to link
+specific sphingolipids with distinct COPD phenotypes. We identified novel sphingolipid
+subclasses such as gangliosides and sphingomyelins as potential biomarkers inversely
+associated with severe emphysema and trihexosylceramide as a potential biomarker
+positively associated with frequent COPD exacerbations. All these associations were
+noted even after adjusting for covariates of age, smoking status, airflow obstruction,
+sex, and BMI; most were replicated in an independent cohort using an orthogonal mass
+spectrometry approach in a different laboratory.</p><p id="__p41">Sphingomyelins are integral components of the plasma membrane, typically enriched in
+lipid microdomains of caveolae and clathrin-coated pits (<a href="#bib22" rid="bib22" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751168">22</a>). Sphingomyelins are produced from ceramides via sphingomyelin
+synthase, or they can generate ceramides through hydrolysis by sphingomyelinases (<a href="/pmc/articles/PMC4351578/figure/fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig5" rid-ob="ob-fig5" co-legend-rid="lgnd_fig5"><span>Figure 5</span></a>). In addition to rapidly generating
+ceramides as second messengers, sphingomyelins may themselves play a role in cell
+migration, apoptosis, autophagy, and cell survival/proliferation (<a href="#bib22" rid="bib22" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751184">22</a>). We identified 10 specific sphingomyelins (e.g.,
+SM.d18.1.N16.0) that were inversely associated with emphysema, whereas others (e.g.,
+SM.d18.1.N18.0) were not. These species-specific effects could only be studied with mass
+spectrometry; however, we also noted strong correlations among the whole subclass of
+sphingomyelins. A recent report (<a href="#bib5" rid="bib5" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751187">5</a>) found no
+statistically significant association between HRCT-measured emphysema severity at
+baseline and sphingomyelin, measured with less accurate spectrophotometric assays (<a href="#bib23" rid="bib23" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751141">23</a>). However, low baseline plasma sphingomyelin
+was associated with worse COPD (lower FEV<sub>1</sub>), whereas high levels were
+associated with more rapid progression of emphysema. Our data support the finding that
+worse COPD is associated with lower plasma sphingomyelins (<a href="#bib5" rid="bib5" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751183">5</a>), but the apparent paradoxical observation of higher plasma
+sphingomyelins with progression of emphysema cannot be validated by our experimental
+design. Such observation might be explained if low sphingomyelin levels reflect low lung
+mass and progression of emphysema occurs in lungs that are not yet severely
+emphysematous. This could be explored by careful kinetics of specific sphingomyelins
+accompanied by concomitant HRCT measurements of the lung.</p><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="fig5" co-legend-rid="lgnd_fig5"><a href="/pmc/articles/PMC4351578/figure/fig5/" target="figure" rid-figpopup="fig5" rid-ob="ob-fig5"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139927600528480" class="figure"><img class="fig-image" alt="An external file that holds a picture, illustration, etc.&#10;Object name is rccm.201410-1771OC_f5.jpg" title="An external file that holds a picture, illustration, etc.&#10;Object name is rccm.201410-1771OC_f5.jpg" src="/pmc/articles/PMC4351578/bin/rccm.201410-1771OC_f5.jpg" /></div><div id="largeobj_idm139927600528480" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC4351578/figure/fig5/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_fig5"><div><a class="figpopup" href="/pmc/articles/PMC4351578/figure/fig5/" target="figure" rid-figpopup="fig5" rid-ob="ob-fig5">Figure 5.</a></div><!--caption a7--><div class="caption"><p id="__p42">Sphingolipids metabolo-genomic pathway patterns associated with chronic
+obstructive pulmonary disease (COPD) subphenotypes. (<em>A</em>) Detailed
+sphingolipid metabolic pathway with the major ceramide synthetic pathways noted as
+sphingomyelinase, <em>de novo</em>, and recycling pathways (abbreviations
+list in the text). Individual or classes of metabolites measured in the study are
+identified as precursors and/or products relative to synthetic or catabolic
+reactions with directionality marked by <em>black arrows</em>. Catalytic
+enzymes are noted next to the middle of the reactions <em>arrow</em>.
+<em>Circled</em> are enzymes whose genes were significantly related
+with COPD phenotypes in genomic analyses. In color are classes
+(<em>arrowheads</em>) or species (<em>arrows</em>) of
+metabolites that were associated with respective (color-coded) COPD phenotypes.
+<em>Solid arrows</em> indicate: 16&#x02013;18 carbon chain
+sphingolipids; <em>dotted arrows</em> 24&#x02013;26 carbon chain
+sphingolipids; <em>single dash arrows</em>: 14 carbon chain sphingolipids.
+The direction of the <em>arrowhead</em> or <em>arrow</em> marks
+the direction of association (i.e., up: increased; down: decreased).
+<em>Closed-headed arrows</em> represent changes with significance
+levels <em>P</em>&#x02009;&#x0003c;&#x02009;0.05. (<em>B</em>,
+<em>C</em>) Superimposed on the sphingolipid metabolic pathways are
+deducted directions of sphingolipid metabolic flux, based on the results of the
+metabolo-genomic study, by disease phenotype, as noted.</p></div></div></div><p id="__p43">Plasma ceramides may be generated by activated plasma sphingomyelinases (<a href="#bib24" rid="bib24" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751173">24</a>) (<a href="/pmc/articles/PMC4351578/figure/fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig5" rid-ob="ob-fig5" co-legend-rid="lgnd_fig5"><span>Figure
+5</span></a>) and could signal outside-in (<a href="#bib25" rid="bib25" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751142">25</a>)
+and/or be further metabolized to sphingosine (by plasma ceramidases). To the extent that
+plasma levels reflect cellular metabolism, the decrease in both sphingomyelins and
+ceramides with subsequent increases in ceramide metabolites suggests that low
+sphingomyelin levels are not due to a blockage in sphingomyelin synthase (which would
+result in ceramide accumulation) but due to increased catabolism coupled with decreased
+availability of its building block precursor, ceramide (<a href="/pmc/articles/PMC4351578/figure/fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig5" rid-ob="ob-fig5" co-legend-rid="lgnd_fig5"><span>Figure 5</span></a>). In such conditions, supplementation of sphingomyelin may fuel
+ceramide production and catabolism, by a &#x0201c;revved up&#x0201d; system. Plasma
+sphingomyelins might also reflect the burden or quality of circulating (shed) cellular
+plasma membranes, such as apoptotic microparticles or exosomes. Clearly, these unbiased
+metabolomic results raise important mechanistic questions that can be explored in models
+of COPD.</p><p id="__p44">Ceramides (especially Cer.d18.1.N16.0), gangliosides (especially GM3.d18.1.N16.0), and
+monohexosylceramides (especially monohexcer.d18.1.N16.0) also showed an inverse
+correlation with emphysema. Although ceramides have been known to play a role in the
+pathogenesis of emphysema for several years (<a href="#bib10" rid="bib10" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751171">10</a>, <a href="#bib26" rid="bib26" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_529616428">26</a>), the involvement of
+gangliosides and monohexosylceramides has not been described. An up-regulation of
+ceramide production has been typically associated with models of emphysema, by causing
+endothelial and epithelial cell apoptosis (<a href="#bib3" rid="bib3" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751163">3</a>) or
+by inhibiting alveolar macrophage clearance of apoptotic cells (<a href="#bib13" rid="bib13" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751144">13</a>). In this cross-sectional sampling, the inverse correlation of
+plasma ceramides with emphysema appears surprising. However, if our global metabolomics
+assessment of plasma sphingolipids reflects pulmonary cellular events, worse emphysema
+may be linked to increased activity of both sphingomyelinase and recycling (from
+gangliosides) pathways, followed by ceramide consumption/degradation, rather than
+accumulation (<a href="/pmc/articles/PMC4351578/figure/fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig5" rid-ob="ob-fig5" co-legend-rid="lgnd_fig5"><span>Figure 5</span></a>), possibly via plasma
+ceramidases. Because plasma S1P was not increased and tended to be negatively correlated
+with emphysema and COPD exacerbations, unlike sphingosine, it is possible that the
+sphingolipid metabolism is accelerated toward ceramide production and degradation but
+inhibited at the level of sphingosine kinase activity (<a href="/pmc/articles/PMC4351578/figure/fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig5" rid-ob="ob-fig5" co-legend-rid="lgnd_fig5"><span>Figure 5</span></a>). The reduced production of S1P may be associated with decreased
+cellular survival and proliferation and increased apoptosis of alveolar cells (<a href="#bib15" rid="bib15" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_638654616">15</a>). Much less is known about the significance of
+decreased gangliosides (or glycoceramides) in the lung, reports showing association with
+diabetes or hearing loss (<a href="#bib27" rid="bib27" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751186">27</a>). Although our
+earlier genomic analysis hinted at this involvement (<a href="#bib4" rid="bib4" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751172">4</a>), this is the first report of decreased monosialodihexosylganglioside
+GM3.d18.1.N16.0 as putative biomarker of emphysema. Similarly, the role of
+monohexosylceramides in the lung is unknown, but they were shown to bind to surfactant
+protein D (<a href="#bib28" rid="bib28" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751155">28</a>) and to decrease on activation of
+acid sphingomyelinase and acid &#x003b2;-glucosidase1, as a sign of ceramide production
+via recycling from gangliosides during inflammation (<a href="#bib29" rid="bib29" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751180">29</a>). These results may embolden future investigations of lung sphingolipid
+metabolomic signatures and the functional role of the gangliosides and
+monohexosylceramides in COPD.</p><p id="__p45">The strongest positive association with COPD exacerbations was for trihexosylceramides
+(trihexcer.d18.1.N22.0 and trihexcer.d18.1.N24.0), a lipid class with unknown lung
+effects; one case report of Fabry disease (characterized by overabundance of
+trihexosylceramides) showed association with COPD (<a href="#bib30" rid="bib30" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751153">30</a>). Other sphingolipids such as ceramide (d18.1.N18.0) and S1P were
+inversely associated with COPD exacerbations. This, along with negative correlations of
+plasma sphingomyelins and ceramides with S1P, suggests a rapid flux of
+sphingosine-to-ceramide-to glycosylated ceramides metabolism, with potential disruption
+of ceramide-to-S1P metabolism (<a href="/pmc/articles/PMC4351578/figure/fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig5" rid-ob="ob-fig5" co-legend-rid="lgnd_fig5"><span>Figure 5</span></a>) in those
+with COPD exacerbations. Alternatively, whether tissues or cells may differentially
+contribute to the abundance of plasma metabolites in these individuals could be explored
+by comparing plasma with lung tissue metabolomics signatures. Because these samples were
+collected at a time remote from an actual exacerbation, metabolomic signatures are
+unlikely to reflect corticosteroid or antibiotic treatment or acute infections. Rather,
+they may indicate specific changes associated with developing COPD exacerbations. For
+example, shunting ceramide metabolism toward trihexosylceramides may render the lungs
+more susceptible to inflammation, due to defects in lymphocyte function, as learned from
+a mouse model of Fabry disease (<a href="#bib31" rid="bib31" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751169">31</a>).</p><p id="__p46">To further translate biomarker findings to disease pathogenesis, we explored alterations
+of gene&#x02013;metabolite associations with disease phenotypes. We identified a negative
+association of sphingosine levels with the expression of CYR61 only in subjects with
+severe COPD. Although the significance of this finding remains to be tested, the
+extracellular matrix protein CCN1/Cyr61 is activated by S1P via receptor 2 (<a href="#bib32" rid="bib32" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751188">32</a>), which also activates rho kinase to cause lung
+damage during cigarette smoke exposure (<a href="#bib33" rid="bib33" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751182">33</a>,
+<a href="#bib34" rid="bib34" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751164">34</a>). Other disrupted gene&#x02013;metabolite
+associations of interest in those with severe COPD exacerbations were between ceramide
+and alkaline ceramidase, which degrades unsaturated long chain ceramides (<a href="#bib35" rid="bib35" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751185">35</a>); ORMDL1, which regulates <em>de
+novo</em> ceramide biosynthesis, recently involved in asthma (<a href="#bib36" rid="bib36" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751177">36</a>); and 3-ketodihydrosphingosine reductase, which
+reduces 3-ketodihydrosphingosine to dihydrosphingosine (<a href="#bib37" rid="bib37" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751147">37</a>). Another intriguing association was that between circulating
+ceramide and COL4A3BP, also known as CERTL, a gene encoding for ceramide transporter
+protein Goodpasture antigen-binding protein, which mediates the nonvesicular
+intracellular transport of ceramides (<a href="#bib38" rid="bib38" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751149">38</a>).
+Superimposing potential sphingolipid biomarkers with genetic signatures helped map the
+directionality of sphingolipid metabolism in individuals with COPD exacerbations (<a href="/pmc/articles/PMC4351578/figure/fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="fig5" rid-ob="ob-fig5" co-legend-rid="lgnd_fig5"><span>Figure 5</span></a>). Using similar approaches may strengthen
+the associations of sphingolipid metabolism and chronic bronchitis or obstructive
+ventilatory defects in COPD, which were weak at the plasma metabolite levels, but in
+conjunction with genomic findings suggested a potential metabolic flux toward higher S1P
+and <em>de novo</em> pathway activation, respectively (Figure E3).</p><p id="__p47">In summary, this study demonstrates that specific sphingolipids, such as ceramides,
+sphingomyelins, and gangliosides, may be biomarker candidates of COPD phenotypes, such
+as emphysema and frequent COPD exacerbations. Our study&#x02019;s strengths include the
+large number of highly phenotyped subjects, the multiple specific sphingolipid
+measurements, and independent replication. Limitations of our study include lack of
+healthy nonsmoking subjects, of longitudinal studies, and of lung tissue,
+bronchoalveolar lavage fluid, or sputum analyses. The latter would have allowed us to
+probe if plasma findings parallel those in the lung and to validate a small study that
+suggested sputum sphingolipids are associated with COPD (<a href="#bib6" rid="bib6" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_432751160">6</a>). Our results in a much larger cohort of patients with COPD
+corroborate those reported in the sputum, in particular that there are abnormalities in
+sphingolipid metabolism and glycosphingolipid changes in COPD. The complementary nature
+of these studies conducted in different compartments may help interpret our results in
+plasma, which indicate an overall accelerated metabolism/catabolism of ceramide at the
+systemic level, in contrast to the increased ceramides and dihydroceramides recovered in
+the sputum in COPD. This may be due to active transfer and use of plasma sphingolipids
+in the lung with release of ceramides in sputum; alternatively, it may be due to
+different dynamics of sphingolipid metabolism in circulating cells and endothelium
+compared with airway macrophages or epithelial cells that may contribute to sputum
+sphingolipid content.</p><p id="__p48" class="p p-last">Our results strengthen the evidence implicating ceramide in emphysema and suggest a
+previously unsuspected role for ceramide metabolism in COPD exacerbations. Furthermore,
+our data suggest that additional subclasses of sphingolipids such as sphingomyelins,
+gangliosides, monohexosylceramides, and trihexosylceramides should be investigated, to
+validate their role as biomarkers and as potential contributors to COPD
+pathogenesis.</p></div><div id="idm139927599733632" class="tsec sec"><h2 class="head no_bottom_margin" id="idm139927599733632title">Acknowledgment</h2><div class="sec"><div id="__sec19" class="sec sec-first"><h2></h2><p id="__p49" class="p p-first-last">The authors thank Christina Schnell, Taylor Thorn, and Cori Fratelli for assistance
+with recruiting subjects and preparing samples and Kristina Watson for administrative
+support.</p></div></div></div><div id="idm139927599732192" class="tsec sec"><h2 class="head no_bottom_margin" id="idm139927599732192title">Footnotes</h2><!--back/fn-group--><div class="fm-sec half_rhythm small"><p class="fn sec" id="idm139927599732064"><p id="__p50" class="p p-first-last">Funded by National Heart, Lung, and Blood Institute grants U01 HL089856 and U01
+HL089897 (Edwin Silverman and James Crapo); National Center for Research
+Resources/National Institutes of Health grants UL1 RR025780 and S10 RR023703;
+National Institutes of Health/National Center for Advancing Translational Sciences
+Colorado Clinical and Translational Science Awards UL1 TR000154 (Ron Sokol), P20
+HL-113444 (J.E.S.), and P20 HL-113445 (R.P.B., I.P., and N.R.).</p></p><p class="fn sec" id="idm139927593936848"><p id="__p51" class="p p-first-last">Author Contributions: R.P.B., N.R., and K.K. designed the study; C.C., D.S.O.,
+J.E.S., and N.R. generated data; S.J., C.C., G.J.H., C.S., and K.K. analyzed data;
+R.P.B., I.P., N.R., and K.K. interpreted data and wrote the manuscript.</p></p><p class="fn sec" id="idm139927593935968"><p id="__p52" class="p p-first-last">Originally Published in Press as DOI: <a href="http://dx.doi.org/10.1164/rccm.201410-1771OC" ref="reftype=extlink&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CBody&amp;TO=External%7CLink%7CURI&amp;rendering-type=normal" target="_blank">10.1164/rccm.201410-1771OC</a> on December 10, 2014</p></p><p class="fn sec" id="idm139927593934480"><p id="__p53" class="p p-first-last">This article has an online supplement, which is accessible from this issue&#x02019;s
+table of contents at <a href="http://www.atsjournals.org" ref="reftype=extlink&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CBody&amp;TO=External%7CLink%7CURI&amp;rendering-type=normal" target="_blank">www.atsjournals.org</a></p></p><p class="fn sec" id="idm139927594314448"><p id="__p54" class="p p-first-last"><span class="underline"><strong><a href="http://www.atsjournals.org/doi/suppl/10.1164/rccm.201410-1771OC/suppl_file/disclosures.pdf" ref="reftype=extlink&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CBody&amp;TO=External%7CLink%7CURI&amp;rendering-type=normal" target="_blank">Author disclosures</a></strong></span> are available with the
+text of this article at <a href="http://www.atsjournals.org" ref="reftype=extlink&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CBody&amp;TO=External%7CLink%7CURI&amp;rendering-type=normal" target="_blank">www.atsjournals.org</a>.</p></p></div></div><div id="idm139927594311616" class="tsec sec"><h2 class="head no_bottom_margin" id="idm139927594311616title">References</h2><div class="ref-list-sec sec" id="reference-list"><div class="ref-cit-blk half_rhythm" id="bib1">1.  <span class="element-citation">Murphy SL, Xu J, Kochanek KD. Deaths:
+final data for 2010. <span><span class="ref-journal"><em>Natl Vital Stat
+Rep</em>. </span>2013;<span class="ref-vol">61</span>:1–117.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/24979972" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib2">2.  <span class="element-citation">Friedlander AL, Lynch D, Dyar LA, Bowler RP. Phenotypes
+of chronic obstructive pulmonary
+disease. <span><span class="ref-journal"><em>COPD</em>. </span>2007;<span class="ref-vol">4</span>:355–384.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/18027163" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib3">3.  <span class="element-citation">Petrache I, Petrusca DN, Bowler RP, Kamocki K. Involvement
+of ceramide in cell death responses in the pulmonary
+circulation. <span><span class="ref-journal"><em>Proc Am Thorac
+Soc</em>. </span>2011;<span class="ref-vol">8</span>:492–496.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3359077/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/22052925" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib4">4.  <span class="element-citation">Bahr TM, Hughes GJ, Armstrong M, Reisdorph R, Coldren CD, Edwards MG, Schnell C, Kedl R, LaFlamme DJ, Reisdorph N, et al.  Peripheral blood
+mononuclear cell gene expression in chronic obstructive pulmonary
+disease. <span><span class="ref-journal"><em>Am J Respir Cell Mol
+Biol</em>. </span>2013;<span class="ref-vol">49</span>:316–323.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3824029/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/23590301" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib5">5.  <span class="element-citation">Ahmed FS, Jiang XC, Schwartz JE, Hoffman EA, Yeboah J, Shea S, Burkart KM, Barr RG. Plasma
+sphingomyelin and longitudinal change in percent emphysema on CT. The MESA lung
+study. <span><span class="ref-journal"><em>Biomarkers</em>. </span>2014;<span class="ref-vol">19</span>:207–213.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC4088962/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/24649875" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib6">6.  <span class="element-citation">Telenga ED, Hoffmann RF, Ruben t&#x02019;Kindt, Hoonhorst SJ, Willemse BW, van
+Oosterhout AJ, Heijink IH, van
+den
+Berge M, Jorge L, Sandra P, et al.  Untargeted
+lipidomic analysis in chronic obstructive pulmonary disease. Uncovering
+sphingolipids. <span><span class="ref-journal"><em>Am J Respir Crit Care
+Med</em>. </span>2014;<span class="ref-vol">190</span>:155–164.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/24871890" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib7">7.  <span class="element-citation">Hannun YA, Obeid LM. Principles
+of bioactive lipid signalling: lessons from
+sphingolipids. <span><span class="ref-journal"><em>Nat Rev Mol Cell
+Biol</em>. </span>2008;<span class="ref-vol">9</span>:139–150.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/18216770" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib8">8.  <span class="element-citation">Uhlig S, Gulbins E. Sphingolipids
+in the lungs. <span><span class="ref-journal"><em>Am J Respir Crit Care
+Med</em>. </span>2008;<span class="ref-vol">178</span>:1100–1114.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/18755926" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib9">9.  <span class="element-citation">Yang Y, Uhlig S. The
+role of sphingolipids in respiratory
+disease. <span><span class="ref-journal"><em>Ther Adv Respir
+Dis</em>. </span>2011;<span class="ref-vol">5</span>:325–344.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/21900155" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib10">10.  <span class="element-citation">Petrache I, Natarajan V, Zhen L, Medler TR, Richter AT, Cho C, Hubbard WC, Berdyshev EV, Tuder RM. Ceramide
+upregulation causes pulmonary cell apoptosis and emphysema-like disease in
+mice. <span><span class="ref-journal"><em>Nat
+Med</em>. </span>2005;<span class="ref-vol">11</span>:491–498.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC1352344/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/15852018" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib11">11.  <span class="element-citation">Scarpa MC, Baraldo S, Marian E, Turato G, Calabrese F, Saetta M, Maestrelli P. Ceramide
+expression and cell homeostasis in chronic obstructive pulmonary
+disease. <span><span class="ref-journal"><em>Respiration</em>. </span>2013;<span class="ref-vol">85</span>:342–349.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/23018286" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib12">12.  <span class="element-citation">Petrusca DN, Van
+Demark M, Gu Y, Justice MJ, Rogozea A, Hubbard WC, Petrache I. Smoking
+exposure induces human lung endothelial cell adaptation to apoptotic
+stress. <span><span class="ref-journal"><em>Am J Respir Cell Mol
+Biol</em>. </span>2014;<span class="ref-vol">50</span>:513–525.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC5455468/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/24079644" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib13">13.  <span class="element-citation">Petrusca DN, Gu Y, Adamowicz JJ, Rush NI, Hubbard WC, Smith PA, Berdyshev EV, Birukov KG, Lee CH, Tuder RM, et al.  Sphingolipid-mediated
+inhibition of apoptotic cell clearance by alveolar
+macrophages. <span><span class="ref-journal"><em>J Biol
+Chem</em>. </span>2010;<span class="ref-vol">285</span>:40322–40332.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3001012/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/20956540" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib14">14.  <span class="element-citation">Cordts F, Pitson S, Tabeling C, Gibbins I, Moffat DF, Jersmann H, Hodge S, Haberberger RV. Expression
+profile of the sphingosine kinase signalling system in the lung of patients with
+chronic obstructive pulmonary disease. <span><span class="ref-journal"><em>Life
+Sci</em>. </span>2011;<span class="ref-vol">89</span>:806–811.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/21945191" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib15">15.  <span class="element-citation">Diab KJ, Adamowicz JJ, Kamocki K, Rush NI, Garrison J, Gu Y, Schweitzer KS, Skobeleva A, Rajashekhar G, Hubbard WC, et al.  Stimulation of
+sphingosine 1-phosphate signaling as an alveolar cell survival strategy in
+emphysema. <span><span class="ref-journal"><em>Am J Respir Crit Care
+Med</em>. </span>2010;<span class="ref-vol">181</span>:344–352.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC5455841/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/19965812" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib16">16.  <span class="element-citation">Regan EA, Hokanson JE, Murphy JR, Make B, Lynch DA, Beaty TH, Curran-Everett D, Silverman EK, Crapo JD. Genetic
+epidemiology of COPD (COPDGene) study
+design. <span><span class="ref-journal"><em>COPD</em>. </span>2010;<span class="ref-vol">7</span>:32–43.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC2924193/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/20214461" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib17">17.  <span class="element-citation">Pauwels RA, Buist AS, Ma P, Jenkins CR, Hurd SS GOLD
+Scientific Committee. Global strategy for the
+diagnosis, management, and prevention of chronic obstructive pulmonary disease:
+National Heart, Lung, and Blood Institute and World Health Organization Global
+Initiative for Chronic Obstructive Lung Disease (GOLD): executive
+summary. <span><span class="ref-journal"><em>Respir
+Care</em>. </span>2001;<span class="ref-vol">46</span>:798–825.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/11463370" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib18">18.  <span class="element-citation">Carolan BJ, Kim YI, Williams AA, Kechris K, Lutz S, Reisdorph N, Bowler RP. The
+association of adiponectin with computed tomography phenotypes in chronic
+obstructive pulmonary disease. <span><span class="ref-journal"><em>Am J Respir
+Crit Care
+Med</em>. </span>2013;<span class="ref-vol">188</span>:561–566.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3827701/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/23777323" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib19">19.  <span class="element-citation">Yang Y, Cruickshank C, Armstrong M, Mahaffey S, Reisdorph R, Reisdorph N. New
+sample preparation approach for mass spectrometry-based profiling of plasma
+results in improved coverage of
+metabolome. <span><span class="ref-journal"><em>J Chromatogr
+A</em>. </span>2013;<span class="ref-vol">1300</span>:217–226.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3734953/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/23672979" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib20">20.  <span class="element-citation">Stouffer SA.  Princeton: Princeton
+University
+Press; 1949. The
+American
+soldier.</span></div><div class="ref-cit-blk half_rhythm" id="bib21">21.  <span class="element-citation">Liptak T. On
+the combination of independent
+tests. <span><span class="ref-journal"><em>Magyar Tudomanyos Akademia
+Matematikai Kutato Intezetenek
+Kozlemenyei</em>. </span>1958;<span class="ref-vol">3</span>:171–179.</span></span></div><div class="ref-cit-blk half_rhythm" id="bib22">22.  <span class="element-citation">Taniguchi M, Okazaki T. The
+role of sphingomyelin and sphingomyelin synthases in cell death, proliferation and
+migration-from cell and animal models to human
+disorders. <span><span class="ref-journal"><em>Biochim Biophys
+Acta</em>. </span>2014;<span class="ref-vol">1841</span>:692–703.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/24355909" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib23">23.  <span class="element-citation">Hojjati MR, Jiang XC. Rapid,
+specific, and sensitive measurements of plasma sphingomyelin and
+phosphatidylcholine. <span><span class="ref-journal"><em>J Lipid
+Res</em>. </span>2006;<span class="ref-vol">47</span>:673–676.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/16371647" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib24">24.  <span class="element-citation">Levy M, Khan E, Careaga M, Goldkorn T. Neutral
+sphingomyelinase 2 is activated by cigarette smoke to augment ceramide-induced
+apoptosis in lung cell death. <span><span class="ref-journal"><em>Am J Physiol
+Lung Cell Mol
+Physiol</em>. </span>2009;<span class="ref-vol">297</span>:L125–L133.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC2711801/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/19395669" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib25">25.  <span class="element-citation">Medler TR, Petrusca DN, Lee PJ, Hubbard WC, Berdyshev EV, Skirball J, Kamocki K, Schuchman E, Tuder RM, Petrache I. Apoptotic
+sphingolipid signaling by ceramides in lung endothelial
+cells. <span><span class="ref-journal"><em>Am J Respir Cell Mol
+Biol</em>. </span>2008;<span class="ref-vol">38</span>:639–646.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC2396244/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/18192502" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib26">26.  <span class="mixed-citation">Petrache I, Petrusca DN. <span class="ref-title">The
+involvement of sphingolipids in chronic obstructive pulmonary
+diseases</span>In: Gulbins E, Petrache I, editors. editorsSphingolipids
+in disease. Handbook of experimental pharmacologyVol.
+216Heidelberg,
+Germany: Springer-Verlag
+GmbH; 2013. pp.
+247&#x02013;264  <span class="nowrap ref pubmed">[<a href="/pubmed/23563660" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib27">27.  <span class="element-citation">Inokuchi J. Physiopathological
+function of hematoside (GM3
+ganglioside) <span><span class="ref-journal"><em>Proc Jpn Acad, Ser B, Phys
+Biol
+Sci</em>. </span>2011;<span class="ref-vol">87</span>:179–198.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3149380/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/21558756" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib28">28.  <span class="element-citation">Kuroki Y, Gasa S, Ogasawara Y, Shiratori M, Makita A, Akino T. Binding
+specificity of lung surfactant protein SP-D for
+glucosylceramide. <span><span class="ref-journal"><em>Biochem Biophys Res
+Commun</em>. </span>1992;<span class="ref-vol">187</span>:963–969.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/1530650" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib29">29.  <span class="element-citation">Kitatani K, Sheldon K, Rajagopalan V, Anelli V, Jenkins RW, Sun Y, Grabowski GA, Obeid LM, Hannun YA. Involvement
+of acid beta-glucosidase 1 in the salvage pathway of ceramide
+formation. <span><span class="ref-journal"><em>J Biol
+Chem</em>. </span>2009;<span class="ref-vol">284</span>:12972–12978.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC2676029/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/19279011" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib30">30.  <span class="element-citation">Wang RY, Abe JT, Cohen AH, Wilcox WR. Enzyme
+replacement therapy stabilizes obstructive pulmonary Fabry disease associated with
+respiratory globotriaosylceramide
+storage. <span><span class="ref-journal"><em>J Inherit Metab
+Dis</em>. </span>2008;<span class="ref-vol">31</span>:S369–S374.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/18937048" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib31">31.  <span class="element-citation">Pereira CS, Azevedo O, Maia ML, Dias AF, Sa-Miranda C, Macedo MF. Invariant
+natural killer T cells are phenotypically and functionally altered in Fabry
+disease. <span><span class="ref-journal"><em>Mol Genet
+Metab</em>. </span>2013;<span class="ref-vol">108</span>:241–248.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/23433711" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib32">32.  <span class="element-citation">Young N, Van
+Brocklyn JR. Roles
+of sphingosine-1-phosphate (S1P) receptors in malignant behavior of glioma cells.
+Differential effects of S1P2 on cell migration and
+invasiveness. <span><span class="ref-journal"><em>Exp Cell
+Res</em>. </span>2007;<span class="ref-vol">313</span>:1615–1627.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC2100382/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/17376432" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib33">33.  <span class="element-citation">Richens TR, Linderman DJ, Horstmann SA, Lambert C, Xiao YQ, Keith RL, Bo&#x000e9; DM, Morimoto K, Bowler RP, Day BJ, et al.  Cigarette smoke
+impairs clearance of apoptotic cells through oxidant-dependent activation of
+RhoA. <span><span class="ref-journal"><em>Am J Respir Crit Care
+Med</em>. </span>2009;<span class="ref-vol">179</span>:1011–1021.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC2689911/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/19264974" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib34">34.  <span class="element-citation">Schweitzer KS, Hatoum H, Brown MB, Gupta M, Justice MJ, Beteck B, Van
+Demark M, Gu Y, Presson RG, Jr, Hubbard WC, et al.  Mechanisms of lung
+endothelial barrier disruption induced by cigarette smoke: role of oxidative
+stress and ceramides. <span><span class="ref-journal"><em>Am J Physiol Lung
+Cell Mol
+Physiol</em>. </span>2011;<span class="ref-vol">301</span>:L836–L846.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3233827/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/21873444" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib35">35.  <span class="element-citation">Hu W, Xu R, Sun W, Szulc ZM, Bielawski J, Obeid LM, Mao C. Alkaline
+ceramidase 3 (ACER3) hydrolyzes unsaturated long-chain ceramides, and its
+down-regulation inhibits both cell proliferation and
+apoptosis. <span><span class="ref-journal"><em>J Biol
+Chem</em>. </span>2010;<span class="ref-vol">285</span>:7964–7976.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC2832947/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/20068046" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib36">36.  <span class="element-citation">Michel S, Busato F, Genuneit J, Pekkanen J, Dalphin JC, Riedler J, Mazaleyrat N, Weber J, Karvonen AM, Hirvonen MR, et al.  PASTURE study
+group. Farm exposure and time trends in early
+childhood may influence DNA methylation in genes related to asthma and
+allergy. <span><span class="ref-journal"><em>Allergy</em>. </span>2013;<span class="ref-vol">68</span>:355–364.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/23346934" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib37">37.  <span class="element-citation">Kihara A, Igarashi Y. FVT-1
+is a mammalian 3-ketodihydrosphingosine reductase with an active site that faces
+the cytosolic side of the endoplasmic reticulum
+membrane. <span><span class="ref-journal"><em>J Biol
+Chem</em>. </span>2004;<span class="ref-vol">279</span>:49243–49250.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/15328338" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="bib38">38.  <span class="element-citation">Kudo N, Kumagai K, Tomishige N, Yamaji T, Wakatsuki S, Nishijima M, Hanada K, Kato R. Structural
+basis for specific lipid recognition by CERT responsible for nonvesicular
+trafficking of ceramide. <span><span class="ref-journal"><em>Proc Natl Acad Sci
+USA</em>. </span>2008;<span class="ref-vol">105</span>:488–493.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC2206563/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/18184806" target="pmc_ext" ref="reftype=pubmed&amp;article-id=4351578&amp;issue-id=250240&amp;journal-id=465&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div></div></div></div><!--post-content--><div class="courtesy-note whole_rhythm small"><hr />Articles from <span class="acknowledgment-journal-title">American Journal of Respiratory and Critical Care Medicine</span> are provided here courtesy of <strong>American Thoracic Society</strong></div></div>
+            
+            
+        
+            
+        </div>
+        <!-- Book content -->
+    </div>
+    
+    <div id="rightcolumn" class="four_col col last">
+        <!-- Custom content above discovery portlets -->
+        <div class="col6">
+            
+        </div>
+        
+        <div xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><div class="format-menu"><h2>Formats:</h2><ul><li class="selected">Article</li> | <li><a href="/pmc/articles/PMC4351578/?report=reader">PubReader</a></li> | <li class="epub-link"><a href="/pmc/articles/PMC4351578/epub/">ePub (beta)</a></li> | <li><a href="/pmc/articles/PMC4351578/pdf/rccm.201410-1771OC.pdf">PDF (840K)</a></li> | <li><a href="#" data-citationid="PMC4351578" class="citationexporter ctxp">Citation</a></li></ul></div></div><div xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="share-buttons"><h2>Share</h2><ul><li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4351578%2F"><img src="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/img/4047626" alt="Share on Facebook" />
+                             Facebook
+                        </a></li><li class="twitter"><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4351578%2F&amp;text=Plasma%20Sphingolipids%20Associated%20with%20Chronic%20Obstructive%20Pulmonary%0ADisease%20Phenotypes"><img src="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/img/4047627" alt="Share on Twitter" />
+                             Twitter
+                        </a></li><li class="gplus"><a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4351578%2F"><img src="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/img/4047628" alt="Share on Google Plus" />
+                             Google+
+                        </a></li></ul></div>
+        
+        <div id="ajax-portlets" data-pmid="25494452" data-aiid="4351578" data-aid="4351578" data-iid="250240" data-domainid="465" data-domain="ajrccm" data-accid="PMC4351578" data-md5="13ae310201c5ee4fc0c455c9563884e8"></div>
+                
+        <!-- Custom content below discovery portlets -->
+        <div class="col7">
+            
+        </div>
+    </div>
+</div>
+
+<!-- Custom content after all -->
+<div class="col8">
+    
+</div>
+<div class="col9">
+    
+</div>
+
+<script src="/corehtml/pmc/js/jquery.scrollTo-1.4.2.js"></script>
+<script>
+    (function($){
+        $('.skiplink').each(function(i, item){
+            var href = $($(item).attr('href'));
+            href.attr('tabindex', '-1').addClass('skiptarget'); // ensure the target can receive focus
+            $(item).on('click', function(event){
+                event.preventDefault();
+                $.scrollTo(href, 0, {
+                    onAfter: function(){
+                        href.focus();
+                    }
+                });
+            });
+        });
+    })(jQuery);
+</script>
+
+
+
+<div id="body-link-poppers"></div>
+                        </div>
+                        <div class="bottom">
+                            
+                            <div id="NCBIFooter_dynamic">
+    <a id="help-desk-link" class="help_desk" href="" target="_blank">Support Center</a>
+    <a id="help-desk-link" class="help_desk" href="https://support.ncbi.nlm.nih.gov/ics/support/KBList.asp?Time=2018-07-16T19:05:43-04:00&amp;Snapshot=%2Fprojects%2FPMC%2FPMCViewer@4.46&amp;Host=ptpmc201&amp;ncbi_phid=F4FB7B1CB4D247E100000000002D0020&amp;ncbi_session=F4FB7B1CB4D24C71_0045SID&amp;from=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4351578%2F&amp;Db=pmc&amp;folderID=132&amp;Ncbi_App=pmc&amp;Page=literature&amp;style=classic&amp;deptID=28049" target="_blank">Support Center</a>
+    
+</div>
+
+                            <div class="footer" id="footer">
+    
+    <div class="subfooter"> </div><script type="text/javascript" src="/portal/portal3rc.fcgi/static/js/preloaderWidget.js"> </script>
+    <div id="external-disclaimer" class="offscreen_noflow">
+        External link. Please review our <a href="https://www.nlm.nih.gov/privacy.html">privacy policy</a>.
+    </div>    
+    <div id="ncbifooter" class="contact_info">      
+        <div id="footer-contents-right">
+            <div id="nlm_thumb_logo">
+                <a href="https://www.nlm.nih.gov" title="NLM">NLM</a>
+            </div>
+            <div id="nih_thumb_logo">
+                <a href="https://www.nih.gov" title="NIH">NIH</a>
+            </div>
+            <div id="hhs_thumb_logo">
+                <a href="https://www.hhs.gov" title="DHHS">DHHS</a>
+            </div>
+            <div id="usagov_thumb_logo">
+                <a href="https://www.usa.gov" title="USA.gov">USA.gov</a>
+            </div>         
+        </div>
+        
+        <div id="footer-contents-left">
+            <p class="address vcard">
+                <span class="url">
+                    <a class="fn url newdomain" href="https://www.ncbi.nlm.nih.gov">National Center for
+                        Biotechnology Information</a>,
+                </span> <span class="org url newdomain"><a href="https://www.nlm.nih.gov/">U.S. National Library of Medicine</a></span>
+                <span class="adr">
+                    <span class="street-address">8600 Rockville Pike</span>, <span class="locality">Bethesda</span>
+                    <span class="region">MD</span>, <span class="postal-code">20894</span>
+                    <span class="country-name">USA</span>
+                </span>
+            </p>
+            
+            <a href="/home/about/policies.shtml">Policies and Guidelines</a> | <a href="/home/about/contact.shtml">Contact</a>
+        </div>
+    </div>
+    <script type="text/javascript" src="/portal/portal3rc.fcgi/rlib/js/InstrumentOmnitureBaseJS/InstrumentNCBIConfigJS/InstrumentNCBIBaseJS/InstrumentPageStarterJS.js?v=1"> </script>    
+    <script type="text/javascript" src="/portal/portal3rc.fcgi/static/js/hfjs2.js"> </script>
+</div>
+                        </div>
+                    </div>
+                    <!--/.page-->
+                </div>
+                <!--/.wrap-->
+            </div><!-- /.twelve_col -->
+        </div>
+        <!-- /.grid -->
+
+        <span class="PAFAppResources"></span>
+        
+        <!-- BESelector tab -->
+        
+        
+        
+        <noscript><img alt="statistics" src="/stat?jsdisabled=true&amp;ncbi_db=pmc&amp;ncbi_pdid=article&amp;ncbi_acc=&amp;ncbi_domain=ajrccm&amp;ncbi_report=record&amp;ncbi_type=fulltext&amp;ncbi_objectid=&amp;ncbi_pcid=/articles/PMC4351578/&amp;ncbi_app=pmc" /></noscript>
+        
+        
+        <!-- usually for JS scripts at page bottom -->
+        <!--<component id="PageFixtures" label="styles"></component>-->
+    
+
+<!-- F4FB7B1CB4D24C71_0045SID /projects/PMC/PMCViewer@4.46 ptpmc201 v4.1.r563004 Tue, May 01 2018 03:01:28 -->
+
+<script type="text/javascript" src="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/js/3879255/4121861/3818874/4168176/3821238/4117325/4087685/4072593/4076480/3921943/4105668/4065628.js" snapshot="pmc"></script></body>
+</html>

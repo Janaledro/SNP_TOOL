@@ -1,0 +1,3149 @@
+4296–4312 Nucleic Acids Research, 2010, Vol. 38, No. 13
+doi:10.1093/nar/gkq180
+
+Published online 24 March 2010
+
+Identification and validation of the pathways and
+functions regulated by the orphan nuclear receptor,
+ROR alpha1, in skeletal muscle
+S. Raichur, R. L. Fitzsimmons, S. A. Myers, M. A. Pearen, P. Lau, N. Eriksson,
+S. M. Wang and G. E. O. Muscat*
+The University of Queensland, Institute for Molecular Bioscience, Brisbane, Queensland, 4072, Australia
+Received December 2, 2009; Revised February 25, 2010; Accepted March 2, 2010
+
+ABSTRACT
+
+INTRODUCTION
+
+The retinoic acid receptor-related orphan receptor
+(ROR) alpha has been demonstrated to regulate lipid
+metabolism. We were interested in the RORa1
+dependent physiological functions in skeletal
+muscle. This major mass organ accounts for
+40% of the total body mass and significant levels
+of lipid catabolism, glucose disposal and energy
+expenditure. We utilized the strategy of targeted muscle-specific expression of a truncated
+(dominant negative) RORa1"DE in transgenic mice
+to investigate RORa1 signaling in this tissue.
+Expression profiling and pathway analysis indicated
+that RORa influenced genes involved in: (i) lipid and
+carbohydrate metabolism, cardiovascular and
+metabolic disease; (ii) LXR nuclear receptor signaling and (iii) Akt and AMPK signaling. This analysis
+was validated by quantitative PCR analysis using
+TaqMan low-density arrays, coupled to statistical
+analysis (with Empirical Bayes and Benjamini–
+Hochberg). Moreover, westerns and metabolic
+profiling were utilized to validate the genes,
+proteins and pathways (lipogenic, Akt, AMPK and
+fatty acid oxidation) involved in the regulation of metabolism by RORa1. The identified genes and
+pathways were in concordance with the demonstration of hyperglycemia, glucose intolerance,
+attenuated insulin-stimulated phosphorylation of
+Akt and impaired glucose uptake in the transgenic
+heterozygous Tg-RORa1"DE animals. In conclusion, we propose that RORa1 is involved in
+regulating the Akt2-AMPK signaling pathways in
+the context of lipid homeostasis in skeletal muscle.
+
+Retinoic acid receptor related orphan receptor alpha
+(RORa) is an orphan member of the nuclear receptor
+superfamily of transcription factors. Several in vitro and
+in vivo studies on RORa action and function (1–5) have
+suggested the involvement of this orphan nuclear receptor
+in lipid homeostasis (6) and hepatic phase I/II metabolism
+(7). RORa can be detected in many metabolic tissues
+including liver, kidney, adipose tissue and is highly
+expressed in skeletal muscle. In mice, RORa deﬁciency
+leads to profound metabolic disturbances. The homozygous staggerer (sg/sg) mice have a global RORa defect
+that results in decreased and dysfunctional expression
+of both mouse isoforms of RORa (1 and 4). These
+mice display hypoalphalipoproteinemia, dyslipidemia
+(decreased serum triglycerides and HDL-cholesterol) (5),
+susceptibility to atherosclerosis (2) and reduced adiposity
+and resistance to diet-induced obesity (8). The complex
+phenotype of the staggerer mice has been demonstrated
+to involve underlying changes in the expression of genes
+involved in fatty acid homeostasis, i.e. Apo-lipoprotein A1
+(ApoA1) (5), Apo-lipoprotein C3 (ApoCIII) (1), sterol
+regulatory element-binding protein 1c (SREBP-1c),
+ATP-binding cassette transporter-binding proteins A1
+and G1 (ABCA1 and G1), peroxisome proliferatoractivated receptor gamma co-activator alpha/beta
+(PGC-1a/b), lipin1 and beta2-adrenergic receptor (8).
+In the context of whole body metabolism, skeletal
+muscle has a vital contribution to the maintenance of
+energy balance. It is a major mass peripheral tissue with
+high energy demands. Consequently, multiple metabolic
+pathways converge in this tissue involving the utilization
+of both lipid and carbohydrate substrates. Skeletal muscle
+is considered a major site of glucose disposal and perturbation of insulin-mediated glucose uptake in this tissue is
+an important factor in the development of type 2 diabetes.
+
+*To whom correspondence should be addressed. Tel: +61 7 3346 22222; Fax: +61 7 3346 2101; Email: g.muscat@imb.uq.edu.au
+Present address:
+S. Raichur, Lilly Singapore Centre for Drug Discovery, 8A Biomedical Grove #02-05, Immunos, 138648, Singapore.
+The authors wish it to be that, in their opinion, the ﬁrst three authors should be regarded as joint First Authors.
+ß The Author(s) 2010. Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://creativecommons.org/licenses/
+by-nc/2.5), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+
+Nucleic Acids Research, 2010, Vol. 38, No. 13 4297
+
+In addition, the development of insulin resistance in
+skeletal muscle has been associated with increased intramuscular triglyceride accumulation, which can attenuate
+several insulin signaling pathways (9). As type 2 diabetes
+and associated complications are health issues that have
+global signiﬁcance, it is therefore of considerable interest
+to investigate the regulatory machinery responsible for
+maintaining tight metabolic control in this tissue.
+Previously, our analysis of skeletal muscle from staggerer mice (8) identiﬁed diﬀerential expression of a number of
+genes involved in fatty acid homeostasis. In this study, we
+aimed to investigate the role of RORa in skeletal
+muscle, without the complex interactions that result
+from the global defect. Therefore, we generated a transgenic mouse that overexpressed truncated human
+RORa1DE (lacking the ligand-binding domain) in
+skeletal muscle to investigate the contribution of this
+energy demanding tissue to the RORa phenotype. We
+used a three-pronged genomic approach, utilizing
+llumina expression proﬁling, Ingenuity function and
+pathway analysis, and validation by rigorous quantitative
+PCR (qPCR) analysis on the TaqManÕ low density array
+(TLDA) platform. This demonstrated that RORa has an
+important role in the regulation of carbohydrate and lipid
+metabolism in skeletal muscle. In particular, this animal
+model demonstrated that RORa1 also plays a critical role
+in skeletal muscle insulin signaling and glucose tolerance,
+via modulation of Akt2 and adenosine monophosphate
+kinase (AMPK) expression and activity. This correlated
+with increased expression of phospho ACC and genes
+involved in the regulation of fatty acid oxidation. In conclusion, we propose that in skeletal muscle RORa1 is an
+important metabolic regulator, contributing to both
+glucose and fatty acid homeostasis.
+
+mice from the ﬁfth generation onward, relative to wt
+littermates; therefore the genetic background of the
+animals in this study is >98.6% C57Bl/6J. The initial
+characterization was performed on both transgenic lines.
+No diﬀerences were observed in either phenotype or metabolic gene expression between the two lines, therefore we
+continued investigation on one line only.
+
+MATERIALS AND METHODS
+
+Total RNA extraction and cDNA synthesis were performed as described previously (4). We utilized custom
+designed ABI microﬂuidic TLDAs to analyze the expression of genes involved in metabolism (lipid, carbohydrate
+and energy homeostasis). Three control genes were
+utilized, including the mandatory control (18S rRNA)
+and four other controls: Gapdh, GusB, Hprt1 and 36B4.
+These controls span the relative abundance/Ct range of
+the genes on the card, and three (18S rRNA, GAPDH
+and 36b4) are approved real time PCR controls for
+NURSA supported nuclear receptor studies (15,16). The
+TLDAs were analyzed as described in Myers et al. (17).
+Brieﬂy, signiﬁcant changes in expression relative to wt
+littermate mice were analyzed using the ABI/integromics
+‘StatMiner’ software package. Diﬀerentially expressed
+genes were identiﬁed by linear models (contained in the
+LIMMA package for bioconductor R embedded in
+StatMiner). Signiﬁcance was assigned by the application
+of the Empirical Bayes statistic. B values represent the
+empirical bayes log odds of diﬀerential expression, and
+the t-value is the empirical bayes moderated t-statistic.
+Subsequently, we applied a more stringent/conservative
+data ﬁltering (Benjamini–Hochberg) to control for false
+discovery rate, correct P values and further reﬁne the
+subset of diﬀerentially expressed genes.
+
+Production of transgenic-mouse
+The transgenic vector construct encodes a truncated
+version of human RORa1 (RORa1DE). Amino acids
+1–235 are present but the entire E region and part of the
+hinge/D region have been removed as previously described
+(3). To confer muscle speciﬁcity, the vector was placed
+under the control of the full-length human skeletal
+alpha-actin (HSA) promoter as described previously
+(10–12). Zygotes were generated by pronuclear microinjection of the transgene into oocytes from hybrid female
+donors (C57BL/6J X CBA) as described (13). Screening
+of founder mice and their oﬀspring for stable germ line
+transmission was performed by real time PCR. The sequences of the speciﬁc mouse RORa and human RORa
+primers were as follows—hRORa: CAATGCCACCTA
+CTCCTGTCC and CTACGGCAAGGCATTTCTGT
+AAT, mRORa: CAATGCCACCTACTCCTGTCC and
+GCCAGGCATTTCTGCAGC. Transgene copy number
+was determined using real time PCR as described (14).
+Two founders were selected for analysis, each of which
+carried two copies of the transgene. Both lines were then
+backcrossed with C57Bl/6J mice for a minimum of ﬁve
+generations. Experiments were performed on transgenic
+
+Animal procedures
+The mice were housed in the QBP vivarium (University of
+Queensland, St. Lucia, Queensland, Australia) with 12 h
+light–dark cycle and fed a standard diet containing 4.6%
+total fat (from Specialty Feeds, Glen Forrest, Western
+Australia). For the diet-induced obesity experiments,
+mice were transferred to a high-fat diet containing
+34.9% fat (D12492, Research Diets, New Brunswick,
+NJ) from 4 weeks of age onward. Experimental animals
+were weighed weekly up to 14 weeks of age. Mice were
+fasted overnight by transferring to a new food-free
+holding cage with unrestricted access to water, prior to
+all experimental procedures. Care was taken to euthanize
+all animals at 9 am (i.e. 3 h into the light cycle, and at
+similar times), and excised tissues were immediately
+frozen in liquid nitrogen and then stored at 80 C. All
+aspects of animal experimentation were approved by The
+University of Queensland Animal Ethics Committee.
+Microarray analysis
+It is completely described in Supplementary Figure S1.
+RNA extraction, cDNA synthesis and qPCR TLDA
+analysis
+
+4298 Nucleic Acids Research, 2010, Vol. 38, No. 13
+
+Primers and qPCR
+Relative expression of genes was determined using the
+ABI 7500 real time PCR System (ABI, Singapore) as previously described (3). Primers for LXRa, GAAATGCCA
+GGAGTGTCGAC and GATCTGTTCTTCTGACAGC
+ACACA; Akt1, GGCTGGCTGCACAAACG and GAC
+TCTCGCTGATCCACATCCT; Akt3, CCTTCCAGAC
+AAAAGACCGTTT and CGCTCTCTCGACAAATGG
+AAA; GLUT1, TACGCTGGAGGCGGTAGCT and A
+ATGGGCGAATCCTAAAATGG.
+Protein extraction
+Total soluble protein was extracted from skeletal muscle
+(quadriceps) by the addition of lysis buﬀer (10 mM Tris
+(pH 8.0), 150 mM NaCl, 1% Triton X-100 and 5 mM
+EDTA) containing protease and phosphatase ‘cocktail’
+inhibitors (Roche diagnostics GmbH, Mannheim,
+Germany). Lysates were passed through a 26-gauge
+needle and centrifuged at 10 000g for 20 min. The supernatant was collected and total protein concentration was
+determined by the bicinchoninic acid (BCA assay kit),
+as outlined by manufacturer’s instructions (Pierce
+Biotechnology Inc., Rockford, IL, USA).
+Glucose and insulin tolerance tests and glucose uptake
+Basal glucose measurements were obtained from the tail
+blood of overnight fasted animals (14–16 weeks of age).
+Mice were then administered a dose of either glucose
+solution (2 g/kg) or insulin (0.5 U/kg) by intraperitoneal
+injection. Blood glucose measurements were obtained at
+10 or 15 min intervals for up to 90 min following challenge
+using the Accu-Chek Performa blood glucose testing
+system (Roche Diagnostics Australia, Castle Hill, NSW).
+Plasma insulin measurements were obtained using the
+insulin (mouse) Ultrasensitive EIA (ALPCO Diagnostics,
+Salem NH). Insulin-stimulated glucose uptake was performed on skeletal muscle (extensor digitorum longus,
+EDL) dissected from anesthetized mice and incubated in
+essential buﬀer (Krebs–Henseleit, pH 7.4) and the assay
+was performed as described previously (18,19).
+Western blot analysis
+Total soluble protein from the quadriceps of transgenic
+and their littermate wild-type mice were resolved on a
+10% SDS–PAGE gel and transferred to a PVDF
+(Millipore Corporation, Billerica, MA, USA). The membranes were blocked for 1 h in 5% BSA in TBS–Tween 20,
+followed by an overnight incubation with primary
+antibody. The following antibodies were purchased from
+Cell Signaling Technology, Danvers, MA and used at
+1:1000 dilution: AMPKa (#2532), pAMPK (Thr172)
+(#2535), Akt (#9272), pAKT (ser473) (#4058), ACC
+(#3662) and pACC(Ser79) (#3661). Anti-GAPDH
+(1:10000) was from R&D Systems, Minneapolis, MN.
+Following 3  10 min washes, the membrane was
+incubated with anti-rabbit horseradish peroxidase (HRP)
+(1:10000) for 1 h. Immunoreactive signals were detected
+using enhanced chemiluminescence Super Signal West
+
+Pico Substrate (Pierce) and visualized by autoradiography
+on an X-OMAT ﬁlm developer (Kodak).
+Chromatin immunoprecipitation analysis
+C2C12 cells were diﬀerentiated for 4 days. Cells were harvested and subsequently washed twice in ice cold PBS and
+cross-linked in 1% formaldehyde solution. Chromatin
+immunoprecipitation (ChIP) was performed as described
+by Pearen et al. (20) using anti-RORa (Santa Cruz
+anti-RORa sc-6062) and IgG (Santa Cruz, CA). The following qPCR ChIP primers were used: RORRE Site 1 F—
+GCATGTGCTGCAAACATTCAG (2897 to 2876),
+R—CTACACAGGGTCAGTGGCCA
+(2866
+to
+2846). RORE Site 2 F—GAACATGAAGATTTGAA
+CTTG (2705 to 2684), R—CTGACCCAGAAACTC
+CTACA (2668 to 2649). RORRE Site 3 F—CTGGGT
+CAGTAGAGTAGCAAGCC (2657 to 2634), R—TAA
+GCATTCTGAGGTGACCTATGAA (2631 to 2606).
+Downstream Negative control F—GTTCCCAAGTGAA
+GAACCGC (278 to 258), R—CCGGCAATCAAAG
+GGCTT (195 to 177).
+Statistical analysis
+The TLDA gene expression data were analyzed as
+described above. All other results were analyzed (and signiﬁcance assigned) using a t-test, or ANOVA in the
+Graphpad Prism 4 software, unless otherwise indicated.
+RESULTS
+Overexpression of truncated RORa1"DE (lacking the
+ligand-binding domain) in skeletal muscle
+As discussed, RORa has been demonstrated to regulate
+fat metabolism in several tissues. We were interested in
+identifying and validating the (physiologically relevant)
+in vivo functional role(s) and pathway(s) regulated by
+RORa action in skeletal muscle. This major mass peripheral tissue accounts for 40% of the total body mass,
+signiﬁcant levels of fatty acid oxidation, glucose disposal
+and energy demand. We utilized the approach of
+attenuating RORa signaling, by the targeted skeletal
+muscle-speciﬁc expression of a truncated RORaDE
+(lacking the ligand-binding domain) in transgenic mice,
+to examine RORa action in this tissue. This approach
+was utilized in the absence of the availability of a reproducible and robust, native or synthetic agonist for the
+modulation of this orphan nuclear receptor.
+We produced transgenic mice (by pronuclear injection)
+that selectively express a transgene encoding truncated
+human RORa1 in skeletal muscle [under the control of
+the human skeletal alpha actin promoter (10,11)]. The
+transgene (RORa1DE) lacks the ligand-binding
+domain and part of the hinge region, and encoded
+amino acids 1–235 (6). McBroom et al. (21) reported
+that deletion of this segment preserved DNA recognition
+and binding, suppressed trans-activation and operated in
+a dominant negative manner. In addition, Hamilton et al.
+(22) reported the staggerer mutation is located in a similar
+position, and produces a non-functional ligand-binding
+
+Nucleic Acids Research, 2010, Vol. 38, No. 13 4299
+
+Endogenous RORα
+Exogenous hROR α1 ΔDE
+
+0.50
+
+B
+
+0.25
+
+Exogenous (h) RORα
+0.5
+
+0.4
+
+Wild Type
+Tg/RORα1ΔDE
+
+0.3
+
+0.2
+
+0.1
+0.00
+
+0.20
+0.15
+0.10
+0.05
+0.00
+
+Wild Type
+
+Tg/RORα1ΔDE
+
+0.003
+0.002
+
+*
+
+0.001
+0.000
+
+1
+
+F
+
+Wild Type Tg/RORα1ΔDE
+
+Wild Type Tg/RORα1ΔDE
+
+S
+M kel
+us .
+cl
+e
+
+s
+nc
+re
+a
+Pa
+
+(m) RORα1
+0.004
+
+2
+
+(m) RORα4
+
+G
+Relative Expression /36B4
+Normalised x10-4
+
+E
+Relative expression/18S
+Normalised x10-4
+
+Endogenous (m) RORα
+0.25
+
+***
+3
+
+0
+
+Relative expression/18S
+Normalised x10-4
+
+er
+Li
+v
+
+AT
+W
+
+ea
+rt
+H
+
+Sp
+le
+en
+
+er
+eb
+el
+lu
+m
+
+0.0
+.
+el le
+Sk usc
+M
+
+C
+
+Relative expression/18S
+Normalised x10-4
+
+D
+
+Total RORα
+C
+ectopic (h) + endogenous (m)
+
+Relative fold change/18S
+
+***
+
+Relative expression/18S
+Normalised x10-4
+
+Relative expression/18S
+Normalised x10-4
+
+0.75
+
+0.20
+0.15
+0.10
+0.05
+0.00
+
+Wild Type
+
+Tg/RORα1ΔDE
+
+Apo A5
+0.008
+0.006
+0.004
+0.002
+
+***
+
+A
+
+0.000
+
+Wild Type
+
+Tg/RORα1ΔDE
+
+Figure 1. (A) qPCR of the ectopic transgene gene (hRORa1DE) and endogenous RORa expression in various tissue/organs in heterozygous
+transgenic mice. Relative mRNA expression is normalized against 18S mRNA (n = 6/group, mean ± SEM, ***P < 0.001). (B) qPCR of the ectopic
+transgene gene (hRORa1DE) in pancreas versus skeletal muscle from wild-type and heterozygous transgenic mice. Relative mRNA expression is
+normalized against 18S mRNA (n = 6/group). (C) qPCR of total RORa (ectopic and endogenous) in skeletal muscle of wild-type and transgenic
+mice. Relative fold change of (mRNA expression) is normalized against 18S mRNA (n = 6/group, mean ± SEM, ***P < 0.001). qPCR of (D)
+endogenous RORa1 and 4; (E) endogenous RORa1andF)endogenous RORa4 mRNA expression in skeletal muscle of wild-type and transgenic
+mice. Relative fold change of (mRNA expression) is normalized against 18S mRNA (n = 6/group, mean ± SEM), *P < 0.05. (G) qPCR of ApoA5
+mRNA expression in skeletal muscle of wild-type and transgenic mice. Relative fold change of (mRNA expression) is normalized against 18S mRNA
+(n = 6/group, mean ± SEM, ***P < 0.001).
+
+domain. Moreover, we previously demonstrated in an
+in vitro myogenic cell culture model that this construct
+attenuated RORa mediated trans-activation, and ectopic
+expression suppressed endogenous RORa mRNA expression (3).
+We observed that the heterozygous transgenic mice predominantly (and abundantly) expressed the ectopic transcript (transgene) in skeletal muscle relative to other
+organ/tissues (cerebellum, spleen, heart, white adipose,
+liver and pancreas; Figure 1A and B). Heart and brain
+expressed <2% of the ectopic transcript, relative to expression in skeletal muscle. This was consistent with
+several other studies that utilized this promoter in transgenic models (10,12,23). Quantitative real-time PCR
+(q-PCR) analysis of mRNA expression demonstrated
+that the ectopic truncated RORa transcript was expressed
+between 3- and 4-fold higher than the endogenous RORa
+transcript in the muscle of transgenic mice (Figure 1A). As
+expected, the ectopic RORa transcript was not detectable
+in wt littermates (data not shown). Concordantly, expression analysis demonstrated that total (endogenous plus
+ectopic) RORa transcript expression increased 3-fold
+in the muscle of transgenic, relative to wt littermate mice
+(Figure 1C). In this background we observed a decrease
+(that did not attain signiﬁcance) in the levels of total endogenous RORa1 and 4 mRNA expression in the muscle
+
+of transgenic relative to wt littermate mice (Figure 1D).
+Surprisingly, isoform-speciﬁc q-PCR analysis of RORa1
+and RORa4, revealed signiﬁcant suppression of RORa1
+(but not a4) mRNA expression (Figure 1E and F). Staels
+(1,5) and our group (3,8) amongst others have previously
+demonstrated that the a1 isoform has a physiological role
+in the regulation of lipid homeostasis. To further characterize the line of mice, we examined expression of a bona
+ﬁde RORa (1 and 4) target gene, apolipoprotein A5,
+characterized by two independent groups (24,25), which
+was very signiﬁcantly decreased in the Tg-RORa1DE
+mice (Figure 1G). These data demonstrate the line of
+Tg-RORa1DE mice, express the ectopic transcript,
+suppress endogenous RORa1 mRNA expression and attenuate RORa1-dependent gene expression.
+Expression proﬁling of skeletal muscle from the
+RORa1"DE mice: identiﬁcation of functions and
+pathways
+To rigorously identify the in vivo functional role(s), and
+pathway(s) regulated by RORa action in skeletal muscle,
+we carried out expression proﬁling coupled to functional
+and signaling characterization by Ingenuity pathway
+analysis (Supplementary Figures S2–S5). Using a P
+value cut-oﬀ of P < 0.05 and a fold change cut oﬀ of
+
+4300 Nucleic Acids Research, 2010, Vol. 38, No. 13
+
+Table 1. Downregulated annotated genes in RORa1DE
+Symbol
+
+Gene name
+
+Ucp1
+Fasn
+Cidea
+Scd1
+Hp
+Prkar2b
+Apoc1
+Igh-6
+Fah
+Tmem45b
+Elovl6
+Myo1e
+Ces3
+Sfxn1
+Acaca
+Rab15
+Cox6a1
+Tkt
+Fgfbp1
+Thrsp
+Sfxn1
+Cox6a1
+D12Ertd647e
+Agpat2
+Pygl
+Ehhadh
+Aoc3
+M6prbp1
+Idh1
+Atp1b4
+Exod1
+Hsd17b12
+Wnt4
+Cebpa
+Slc27a2
+Apoc1
+Tmcc3
+Zfp691
+Olfm1
+Gnao1
+Gcat
+Abhd8
+Pparg
+Cox8a
+Tspo
+Lrtm1
+Igh-1a
+Slc16a10
+Tspo
+Hsd11b1
+
+Uncoupling protein 1
+34.89
+Fatty acid synthase
+8.96
+Cell death-inducing DNA fragmentation factor, alpha subunit-like eﬀector A
+8.58
+Stearoyl-Coenzyme A desaturase 1
+5.47
+Haptoglobin
+4.22
+Protein kinase, camp dependent regulatory, type II beta
+4.06
+Apolipoprotein C-I
+3.11
+Immunoglobulin heavy chain 6 (heavy chain of IgM)
+2.93
+Fumarylacetoacetate hydrolase
+2.72
+Transmembrane protein 45b
+2.62
+ELOVL family member 6, elongation of long chain fatty acids
+2.47
+Myosin IE
+2.43
+Carboxylesterase 3
+2.21
+Sideroﬂexin 1
+2.11
+Acetyl-coenzyme A carboxylase alpha
+2.02
+RAB15, member RAS oncogene family
+2.00
+Cytochrome c oxidase, subunit VI a, polypeptide 1
+2.00
+Transketolase
+1.97
+Fibroblast growth factor binding protein 1
+1.90
+Thyroid hormone responsive SPOT14 homolog
+1.90
+Sideroﬂexin 1
+1.90
+Cytochrome c oxidase, subunit VI a, polypeptide 1
+1.86
+DNA segment, Chr 12, ERATO Doi 647, expressed, transcript variant 4
+1.85
+1-Acylglycerol-3-phosphate O-acyltransferase 2 (lysophosphatidic acid acyltransferase, beta) 1.84
+Liver glycogen phosphorylase
+1.84
+Enoyl-coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase
+1.83
+Amine oxidase, copper containing 3
+1.81
+Mannose-6-phosphate receptor binding protein 1
+1.81
+1.79
+Isocitrate dehydrogenase 1 (NADP+), soluble
++
++
+1.78
+Atpase, (Na )/K transporting, beta 4 polypeptide
+Exonuclease domain containing 1
+1.77
+Hydroxysteroid (17-beta) dehydrogenase 12
+1.76
+Wingless-related MMTV integration site 4
+1.76
+CCAAT/enhancer binding protein
+1.75
+Solute carrier family 27 (fatty acid transporter), member 2
+1.73
+Apolipoprotein C-I
+1.72
+Transmembrane and coiled coil domains 3
+1.71
+Zinc ﬁnger protein 691
+1.71
+Olfactomedin 1, transcript variant 2
+1.68
+Guanine nucleotide binding protein, alpha o
+1.68
+Glycine C-acetyltransferase (2-amino-3-ketobutyrate coenzyme A ligase)
+1.67
+Abhydrolase domain containing 8
+1.64
+Peroxisome proliferator activated receptor gamma
+1.64
+Cytochrome c oxidase, subunit viiia
+1.63
+Translocator protein
+1.62
+Leucine-rich repeats and transmembrane domains 1
+1.62
+Immunoglobulin heavy chain 1a
+1.62
+Solute carrier family 16 (monocarboxylic acid transporters), member 10
+1.62
+Translocator protein
+1.60
+Hydroxysteroid 11-beta dehydrogenase 1, transcript variant 2
+1.60
+
+1.3, the top 50 annotated genes that were diﬀerentially upand down-regulated in a signiﬁcant manner are shown in
+Tables 1 and 2, respectively [the complete list of genes
+(including the non-annotated genes) is shown in
+Supplementary Figure S2. In concordance with the
+overexpression of a dominant negative, the expression
+proﬁling, Genespring and Ingenuity analysis identiﬁes a
+majority of genes in the down regulated category, and
+the bulk of highly ranked functions and pathways
+were attenuated/suppressed (This is evident in the
+complete list of genes in Supplementary Figure S2 and
+in the graphical representations of the data in
+Supplementary Figures S3–S5).
+Interrogation of diﬀerentially expressed genes on the
+Ingenuity platform identiﬁed that a subset of diﬀerentially
+
+Fold change P-value Accession number
+0.000
+0.001
+0.000
+0.004
+0.004
+0.004
+0.006
+0.014
+0.008
+0.000
+0.000
+0.010
+0.001
+0.013
+0.002
+0.008
+0.000
+0.004
+0.006
+0.006
+0.010
+0.000
+0.006
+0.000
+0.000
+0.007
+0.012
+0.003
+0.007
+0.000
+0.012
+0.002
+0.004
+0.005
+0.009
+0.013
+0.004
+0.000
+0.010
+0.007
+0.012
+0.005
+0.001
+0.001
+0.001
+0.001
+0.002
+0.001
+0.003
+0.001
+
+NM_009463.2
+NM_007988.3
+NM_007702.1
+NM_009127.3
+NM_017370.1
+NM_011158.3
+NM_007469.2
+XM_354710.1
+NM_010176.1
+NM_144936.1
+NM_130450.2
+NM_181072.3
+NM_053200.2
+NM_027324.2
+NM_133360.2
+NM_134050.2
+NM_007748.3
+NM_009388.2
+NM_008009.3
+NM_009381.2
+NM_027324.2
+NM_007748.3
+NM_194068.1
+NM_026212.1
+NM_133198.1
+NM_023737.2
+NM_009675.1
+NM_025836.1
+NM_010497.2
+NM_133690.2
+NM_027698.3
+NM_019657.2
+NM_009523.1
+NM_007678.2
+NM_011978.2
+NM_007469.2
+NM_172051.2
+NM_183140.1
+NM_001038612.1
+NM_010308.3
+NM_013847
+NM_022419.1
+NM_011146.1
+NM_007750.2
+NM_009775.2
+NM_176920.2
+XM_354704.1
+NM_028247.1
+NM_009775.2
+NM_001044751.1
+
+expressed genes in Tg-RORa1DE mice were involved
+in/associated with lipid metabolism, small molecule transport and biochemistry, cardiovascular and metabolic
+disease, carbohydrate metabolism, endocrine system disorders etc (see Supplementary Figure S4), in concordance
+with the pathophysiological role of NRs. The majority of
+metabolic genes are down regulated in the major functional categories of lipid and carbohydrate metabolism
+(Supplementary Figure S4 and S5). This is consistent
+with several investigations in RORa deﬁcient mouse
+models (2,8). In the framework of this investigation, the
+primary signaling pathways regulated in skeletal muscle
+were the glutathione metabolism (responsible for the
+tight control of ROS levels, which modulate insulin sensitivity), type 2 diabetic signaling and fatty acid
+
+Nucleic Acids Research, 2010, Vol. 38, No. 13 4301
+
+Table 2. Upregulated annotated genes in RORa1DE
+Symbol
+
+Gene name
+
+Fold change
+
+P-value
+
+Accession number
+
+Zranb3
+Rom1
+Tceal5
+Col7a1
+Plekhb1
+Tnfrsf22
+Tnfrsf22
+Gfer
+Tob1
+Stab2
+Camk2n2
+Il17re
+Lgals1
+Slc22a4
+Ush1c
+Maged2
+Gdf11
+Sfxn3
+Rab11ﬁp5
+Synpo2l
+Hes1
+Actr1b
+Actr1b
+Rala
+Sms
+C1qtnf4
+Sorl1
+Des
+Nans
+Ccl25
+Rrm1
+Eif1ay
+Setd8
+Igfbp5
+Mllt3
+
+Zinc ﬁnger, RAN-binding domain containing 3
+Rod outer segment membrane protein 1
+Transcription elongation factor A (SII)-like 5
+Procollagen, type VII, alpha 1
+Pleckstrin homology domain containing, family B (evectins) member 1
+Tumor necrosis factor receptor superfamily, member 22
+Tumor necrosis factor receptor superfamily, member 22
+Growth factor, erv1 (S. cerevisiae)-like (augmenter of liver regeneration)
+Transducer of erbb-2.1
+Stabilin 2
+PREDICTED: calcium/calmodulin-dependent protein kinase II inhibitor 2
+Interleukin 17 receptor E, transcript variant 2
+Lectin, galactose binding, soluble 1
+Solute carrier family 22 (organic cation transporter), member 4
+Usher syndrome 1C homolog, transcript variant a1
+Melanoma antigen, family D, 2
+Growth diﬀerentiation factor 11
+Sideroﬂexin 3
+RAB11 family interacting protein 5 (class I), transcript variant 2
+Synaptopodin 2-like
+Hairy and enhancer of split 1
+ARP1 actin-related protein 1 homolog B, centractin beta (yeast)
+ARP1 actin-related protein 1 homolog B
+V-ral simian leukemia viral oncogene homolog A (ras related)
+Spermine synthase
+C1q and tumor necrosis factor related protein 4
+Sortilin-related receptor containing LDLR class A repeats
+Desmin
+N-acetylneuraminic acid synthase (sialic acid synthase)
+Chemokine (C-C motif) ligand 25
+Ribonucleotide reductase M1
+Eukaryotic translation initiation factor 1A, Y-linked
+SET domain containing (lysine methyltransferase) 8
+Insulin-like growth factor binding protein 5
+Myeloid/lymphoid or mixed lineage-leukemia translocation to 3 homolog
+(Drosophila), transcript variant 2
+Zinc ﬁnger and BTB domain containing 12
+SWI/SNF related, matrix associated, actin-dependent regulator of chromatin,
+subfamily d, member 3
+Histone deacetylase 4
+Eukaryotic translation initiation factor 3, subunit 2 (beta)
+ST3 beta-galactoside alpha-2,3-sialyltransferase 2, transcript variant 2
+Solute carrier family 25 (mitochondrial carrier ornithine transporter), member 15
+Kinesin light chain 2
+Ependymin-related protein 1
+Solute carrier family 11 (proton-coupled divalent metal ion transporters),
+member 2
+ATP-binding cassette, subfamily A (ABC1), member 15
+Predicted: phosphatidylinositol-4-phosphate 5-kinase, type II, beta, transcript
+variant 4
+Protein tyrosine phosphatase 4a2
+Procollagen, type XI, alpha 2
+Protein kinase C, theta
+Single-stranded DNA-binding protein 2
+
+2.64
+2.54
+2.43
+2.21
+2.10
+2.10
+1.94
+1.90
+1.79
+1.79
+1.77
+1.71
+1.61
+1.61
+1.59
+1.55
+1.52
+1.50
+1.50
+1.50
+1.49
+1.47
+1.47
+1.47
+1.46
+1.44
+1.42
+1.42
+1.40
+1.40
+1.39
+1.39
+1.38
+1.37
+1.36
+
+0.000
+0.000
+0.001
+0.010
+0.001
+0.001
+0.001
+0.000
+0.011
+0.001
+0.003
+0.001
+0.000
+0.007
+0.008
+0.003
+0.007
+0.010
+0.009
+0.008
+0.001
+0.001
+0.007
+0.004
+0.000
+0.006
+0.009
+0.004
+0.002
+0.002
+0.002
+0.012
+0.007
+0.000
+0.008
+
+NM_172642.1
+NM_009073.2
+NM_177919.1
+NM_007738.3
+NM_013746.1
+NM_023680.2
+NM_023680
+NM_023040.3
+NM_009427.2
+NM_138673.1
+XM_993468.1
+NM_001034029.1
+NM_008495.2
+NM_019687.3
+NM_023649.1
+NM_030700.1
+NM_010272.1
+NM_053197.2
+NM_177466.4
+NM_175132.3
+NM_008235.2
+NM_146107
+NM_146107.2
+NM_019491.5
+NM_009214.3
+NM_026161.1
+NM_011436
+NM_010043.1
+NM_053179.2
+NM_009138.1
+NM_009103
+NM_025437
+NM_030241.2
+NM_010518
+NM_029931.2
+
+1.35
+1.35
+
+0.012
+0.006
+
+NM_198886.2
+NM_025891.3
+
+1.35
+1.35
+1.34
+1.34
+1.34
+1.34
+1.34
+
+0.000
+0.002
+0.006
+0.000
+0.007
+0.012
+0.010
+
+NM_207225.1
+NM_018799.1
+NM_178048.2
+NM_181325.2
+NM_008451
+NM_134065.2
+AK049856
+
+1.34
+1.33
+
+0.006
+0.003
+
+NM_177213.3
+XM_991639.1
+
+1.33
+1.33
+1.32
+1.32
+
+0.003
+0.006
+0.014
+0.012
+
+NM_008974.3
+NM_009926.1
+NM_008859.2
+NM_024186.1
+
+Zbtb12
+Smarcd3
+Hdac4
+Eif3s2
+St3gal2
+Slc25a15
+Klc2
+Epdr1
+Slc11a2
+Abca15
+Pip5k2b
+Ptp4a2
+Col11a2
+Prkcq
+Ssbp2
+
+biosynthesis. Notably, several NR signaling (and
+RXR-dependent) pathways including LXR, FXR VDR
+and PXR were identiﬁed in the analysis. The higher
+ranked NR signaling pathways control lipogenesis/fatty
+acid biosynthesis (LXR) and cholesterol homeostasis
+(LXR and FXR) in agreement with the functional annotation (see Supplementary Data S4 and S5). The majority
+of diﬀerentially expressed genes were associated with lipid/
+carbohydrate metabolism and metabolic disease
+(Supplementary Data S5A).
+
+Expression of the truncated orphan nuclear receptor,
+RORa, aﬀected the fatty acid biosynthetic pathway:
+decreased SREBP-1c, LXRa and downstream target
+genes in Tg-RORa1"DE mice
+Previously we have demonstrated that staggerer mice
+(sg/sg), with decreased and dysfunctional RORa expression (in all organs) are resistant to (high fat) diet induced
+obesity (8). The genes, pathways and functional role
+identiﬁed (for RORa) from the interrogation of the data
+revealed that lipid metabolism (especially fatty acid
+
+4302 Nucleic Acids Research, 2010, Vol. 38, No. 13
+
+Table 3. Relative quantiﬁcation of gene expression in skeletal muscle of transgenic compared to wt littermate controls
+Entrez gene symbolTaqMan assay ID
+
+Ct
+
+P-value
+
+B-value
+
+t-value
+
+RQ. Log10
+
+RQ. Linear
+
+Signiﬁcance
+
+Adj. P-value
+
+Signiﬁcance FDR
+
+Lipogenesisa
+Abca1-Mm00442646_m1
+Acsl4-Mm00490331_m1
+Cav3-Mm01182632_m1
+Cd36-Mm00432403_m1
+Cebpb-Mm00843434_s1
+Cebpd-Mm00786711_s1
+Fasn-Mm00662319_m1
+Hif1a-Mm00468875_m1
+Scd1-Mm00772290_m1
+Srebf1-Mm00550338_m1
+
+0.628
+1.396
+0.452
+1.115
+0.908
+1.086
+1.844
+0.797
+2.099
+0.764
+
+0.038
+0.001
+0.043
+0.013
+0.023
+0.029
+0.005
+0.013
+0.001
+0.004
+
+4.081
+0.313
+4.190
+3.121
+3.614
+3.827
+2.163
+3.082
+0.881
+2.034
+
+2.283
+4.273
+2.220
+2.814
+2.546
+2.428
+3.316
+2.834
+3.978
+3.383
+
+0.189
+0.420
+0.136
+0.335
+0.273
+0.327
+0.555
+0.240
+0.632
+0.230
+
+0.647
+0.380
+0.731
+0.462
+0.533
+0.471
+0.279
+0.575
+0.233
+0.589
+
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+
+0.080
+0.012
+0.081
+0.042
+0.061
+0.068
+0.023
+0.042
+0.012
+0.023
+
+NS
+Signiﬁcant
+NS
+Signiﬁcant
+NS
+NS
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+
+Nuclear receptorsb
+Nr1h3-Mm00443454_m1
+Nr2c1-Mm00449123_m1
+Nr3c1-Mm00433832_m1
+Ppard-Mm00803186_g1
+Rorc-Mm00441139_m1
+
+0.814
+0.601
+0.912
+0.926
+0.860
+
+0.039
+0.032
+0.005
+0.041
+0.019
+
+3.531
+3.353
+1.734
+3.564
+2.911
+
+2.522
+2.661
+4.037
+2.496
+3.013
+
+0.245
+0.181
+0.275
+0.279
+0.259
+
+0.569
+0.659
+0.531
+0.526
+0.551
+
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+
+0.393
+0.393
+0.234
+0.393
+0.393
+
+NS
+NS
+NS
+NS
+NS
+
+Glucose homeostasisa
+Akt2-Mm00545827_m1
+Cs- Mm00466043_m1
+Foxo1-Mm00490672_m1
+Il15-Mm00434210_m1
+Lepr-Mm00440181_m1
+Pdk3-Mm00455220_m1
+Pdk4-Mm00443325_m1
+Stat5b-Mm00839889_m1
+
+1.684
+0.515
+1.229
+1.076
+1.173
+1.071
+0.887
+0.892
+
+0.001
+0.011
+0.042
+0.026
+0.009
+0.028
+0.018
+0.003
+
+0.621
+2.781
+4.074
+3.634
+2.664
+3.703
+3.293
+1.646
+
+4.337
+3.061
+2.295
+2.561
+3.129
+2.520
+2.763
+3.723
+
+0.507
+0.155
+0.370
+0.324
+0.353
+0.323
+0.267
+0.269
+
+0.311
+0.700
+0.427
+0.474
+0.443
+0.476
+0.541
+0.539
+
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+
+0.037
+0.087
+0.173
+0.132
+0.087
+0.132
+0.119
+0.053
+
+Signiﬁcant
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+
+Myogenesisa
+Acvr2a-Mm00431657_m1
+Gdf8-Mm00440328_m1
+Hdac5-Mm00515917_m1
+Mef2a-Mm00488969_m1
+Mef2d-Mm00504929_m1
+Smad1-Mm00484721_m1
+Smad2-Mm00487530_m1
+Tgfbr1-Mm00436971_m1
+Tgfbr2-Mm00436978_m1
+Tnni2-Mm00437157_g1
+
+0.616
+0.888
+0.599
+0.397
+0.499
+0.503
+0.701
+1.296
+0.675
+0.510
+
+0.029
+0.047
+0.001
+0.042
+0.021
+0.034
+0.011
+0.002
+0.013
+0.009
+
+3.719
+4.155
+0.721
+4.061
+3.398
+3.847
+2.793
+0.925
+2.977
+2.561
+
+2.502
+2.234
+4.283
+2.293
+2.693
+2.424
+3.050
+4.157
+2.941
+3.185
+
+0.185
+0.267
+0.180
+0.119
+0.150
+0.151
+0.211
+0.390
+0.203
+0.154
+
+0.653
+0.540
+0.660
+0.760
+0.708
+0.706
+0.615
+0.407
+0.626
+0.702
+
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+Signiﬁcant
+
+0.123
+0.141
+0.026
+0.140
+0.114
+0.123
+0.087
+0.026
+0.087
+0.087
+
+NS
+NS
+Signiﬁcant
+NS
+NS
+NS
+NS
+Signiﬁcant
+NS
+NS
+
+Signiﬁcance was assigned by the application of the Empirical Bayes statistic. RQ, relative quantiﬁcation; FDR, false detection rate; NS, not
+signiﬁcant. Bold text denotes signiﬁcant changes in gene expression after more conservative data ﬁltering (Benjamini-Hochberg) to control for
+false discovery rate, and correct P-values.
+a
+Target genes normalized to 18S RNA.
+b
+Target genes normalized to gusB, hprt1 and gapdh.
+
+biosynthesis/lipogenesis) functions and pathways were
+highly ranked. We have validated the illumina/genespring
+analysis by rigorous qPCR analysis utilizing a
+custom-designed ABI microﬂuidic TLDA, that encoded
+taqman primer sets for critical metabolic genes involved
+in the control of lipid homeostasis. Speciﬁcally, in the
+context of lipogenic gene expression, TLDA analysis
+revealed signiﬁcant diﬀerential expression (normalized
+against 18S rRNA) of the mRNAs encoding acyl-CoA
+synthetase long chain family member 4 (ACSL4), fatty
+acid translocase/cluster of diﬀerentiation 36 (FAT/
+CD36), fatty acid synthase (FAS), stearyl-coA dehydrogenase 1 (SCD-1), SREBP-1c and many other genes in the
+skeletal muscle of male Tg-RORa1DE mice relative to
+wild-type littermates (assigned by the Empirical Bayes
+statistic, see Table 3, Supplementary Data S6—
+Supplementary Figure S6 shows the complete list).
+Stringent ﬁltering of data using the Benjamini–Hochberg
+
+method to control P value false discovery rate (FDR)
+reﬁned the signiﬁcant subset of diﬀerentially expressed
+genes to SREBP-1c, FAS, SCD-1, ACSL4, CD36 and
+HIF1a (Figure 2A and Table 3).
+Subsequently, we used (manual) qPCR to examine (and
+validate) the expression of several other genes in the lipogenic pathway that were identiﬁed in the illumina analysis
+as signiﬁcant, diﬀerentially expressed targets. The
+Tg-RORa1DE mice also displayed signiﬁcantly
+reduced expression of the mRNAs encoding the nuclear
+hormone receptor, LXRa (Figure 2B), a critical transcriptional regulator of SREBP-1c and the genetic program
+that regulates lipogenesis. Interestingly, the expression of
+both FAS and SCD-1 (responsible for the synthesis of
+de novo fatty acids and monounsaturated fatty acids,
+respectively) was also decreased. These genes are downstream targets of LXRa and SREBP1c (the master transcriptional regulators of the genetic program that
+
+Nucleic Acids Research, 2010, Vol. 38, No. 13 4303
+
+Fold Change/18S (RQ_Log10)
+
+A
+
+0
+-0.1
+-0.2
+-0.3
+-0.4
+-0.5
+-0.6
+
+36
+
+sl4
+
+B
+
+S
+
+FA
+
+Cd
+
+Ac
+
+C
+
+Relative fold change/18S
+
+LXRα
+
+f1a
+
+Fold Change (RQ_Log10)
+
+SC
+
+D
+
+Tip47
+
+1.5
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+1.0
+
+**
+0.5
+
+0.5
+
+0.0
+
+0.0
+
+***
+
+1c
+
+BP
+
+E
+SR
+
+Dgat2
+
+*
+
+0.5
+
+0.0
+
+Tg/RORα1ΔDE
+
+Wild Type
+
+E
+
+D1
+
+Hi
+
+0
+
+We identiﬁed that the expression of the two mRNAs
+encoding tail interacting protein (Tip47) and di-acyl
+glycerol acetyl transferase 2 (Dgat2) were signiﬁcantly
+reduced in the male Tg-RORa1DE transgenic mice
+relative to wild-type littermate pairs (Figure 2C and D).
+In summary, we observed qPCR validation of the master
+transcriptional regulators of fatty acid biosynthesis (LXR
+and SREBP-1c) and several important downstream target
+genes (including FAS and SCD-1).
+The observation of attenuated LXR expression and
+decreased downstream target gene expression was consistent with the identiﬁcation of this NR signaling cascade in
+the pathway analysis (Supplementary Figures S4 and S5).
+We explored the NR signaling pathways more rigorously
+by performing qPCR analysis utilizing a custom-designed
+ABI microﬂuidic TLDA that encoded taqman primer sets
+targeting all 48 mouse NRs. The analysis revealed small,
+but signiﬁcantly reduced (1.5–2.5-fold) expression of the
+mRNAs encoding the nuclear hormone receptors: LXRa,
+TR2, PPARd, GR and RORg in the Tg-RORa1DE
+mice, relative to the wt littermates (Figure 2E, Table 3
+and Supplementary Figure S7 shows the complete list of
+nuclear hormone receptors). Please note increased RORa
+expression in the Tg-RORaDE was not detected because
+the TLDA was mouse speciﬁc and the transgenic line expressed the truncated human transcript.
+In summary, parallel analysis by illumina, ingenuity and
+qPCR on the TLDA platform have demonstrated that
+RORa in skeletal muscle leads regulates the lipogenic/
+fatty acid biosynthetic pathway.
+
+-0.05
+
+Expression of truncated RORa attenuated Akt (mRNA
+and protein) expression in Tg-RORa1"DE mice
+
+-0.1
+-0.15
+-0.2
+-0.25
+
+Rα
+
+LX
+
+2
+
+TR
+
+GR
+
+AR
+
+PP
+
+δ
+
+Rγ
+
+RO
+
+Figure 2. Graphs showing signiﬁcant changes in expression of lipogenic genes in the skeletal muscle of transgenic mice. (A) Data derived
+from Table 3 are expressed as fold change (log10) normalized to 18S
+mRNA, following application of Benjamini–Hochberg false detection
+rate algorithm. qPCR of (B) LXRa, (C) Tip47 and (D) Dgat2 in
+skeletal muscle of transgenic and wt littermate control mice. Relative
+fold change is normalized against 18S mRNA (n = 6/group,
+mean ± SEM. *P < 0.05, **P  0.01 ***P  0.001). (E) Graphs
+showing signiﬁcant changes in expression of the entire NR gene superfamily in the skeletal muscle of transgenic mice. Data derived from
+Table 3 and S7 are expressed as fold change (log10) after normalization
+against the median of three genorm-selected controls GAPDH, gusB
+and Hprt1 following application of Benjamini–Hochberg false detection
+rate algorithm.
+
+modulates lipogenesis). Moreover, these changes in gene
+expression were not observed in either liver or adipose
+tissue (data not shown).
+In addition, we analyzed several genes that are involved
+in intramuscular triglyceride (IMTG) accumulation.
+
+Pathway analysis revealed the involvement of RORa
+expression in carbohydrate metabolism and type 2
+diabetic signaling, and that truncated RORa expression
+eﬀected Akt2 mRNA levels (Supplementary Figures S2,
+S4 and S5A). This led us to further examine the expression
+of critical genes involved in carbohydrate metabolism
+using the custom-designed ABI microﬂuidic TLDA to
+perform qPCR analysis. We identiﬁed statistically signiﬁcant diﬀerential expression of several important genes that
+control insulin signaling and glucose uptake (Table 3,
+Supplementary Figure S8 shows the complete list of
+genes analyzed) in the Tg-RORa1DE mice, relative to
+wild-type littermates. TLDA analysis revealed the expression of the mRNAs encoding Akt2, pyruvate dehydrogenase kinase isozyme 3 and 4 (Pdk3 and 4), and several other
+genes were signiﬁcantly reduced in the skeletal muscle of
+male Tg-RORa1DE mice relative to wild-type
+littermates (see Table 3, Supplementary Figure S8.
+Subsequently, after correction/adjustment of P values according to the Benjamini–Hochberg FDR method, Akt2
+remained the only transcript that was signiﬁcantly and
+diﬀerentially expressed (and repressed) in the
+Tg-RORa1DE line (see Table 3, Supplementary Figure
+S8 and Figure 3A). It should be noted that the data (prior
+to FDR ﬁltering) has been derived from sensitive qPCR
+TLDA analysis from six littermate pairs of mice focused
+
+4304 Nucleic Acids Research, 2010, Vol. 38, No. 13
+
+B
+
+C
+
+D
+
+Akt2
+Wild Type
+
+-0.1
+
+Akt (60 kDa)
+
+-0.2
+
+GAPDH (37kDa)
+
+Tg/RORα1ΔDE
+
+-0.3
+pAkt (Ser473)
+-0.4
+GAPDH (37kDa)
+
+-0.5
+
+Akt
+
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+2.0
+
+*
+
+Relative Density
+(pAkt/Gapdh)
+
+0
+
+Relative Density
+(Akt/Gapdh)
+
+Fold Change/18s (RQ_Log10)
+
+A
+
+1.5
+
+Wild Type Male (n=19)
+
+0.5
+0.0
+
+G
+
+Wild Type Tg/RORα1ΔDE
+
+H
+
+*
+
+20
+
+*
+
+15
+
+Wild Type Female (n=6)
+Transgenic Female (n=6)
+
+10
+
+Glucose (mmol)
+
+8
+
+*
+
+6
+4
+
+4
+
+5
+
+6
+
+7
+
+8
+
+10
+
+Wild Type
+Tg/RORα1ΔDE
+
+5
+
+Wild Type Transgenic
+
+1.0
+
+0.5
+Wild Type
+Tg/RORα1ΔDE
+0.0
+
+0 15 30 45 60 75 90
+
+9 10 11 12 13 14 15
+
+Age (Weeks)
+
+*
+**
+
+15
+
+2
+0
+
+3
+
+20
+
+Glucose (mmol)
+
+25
+
+Fraction of Initial Glucose
+
+Transgenic Male (n=19)
+
+30
+
+Body Weight (g)
+
+F
+
+**
+
+1.0
+
+Wild Type Tg/RORα1ΔDE
+
+E
+
+pAkt
+
+Time (min)
+
+0
+
+10 20 30 40 50 60
+
+Time (min)
+
+Figure 3. (A) Graph showing a signiﬁcant fold repression of Akt2 (RQ_Log10) in insulin-stimulated glucose uptake after stringent ﬁltering of data
+by the application of Benjamini–Hochberg false detection rate algorithm.In the skeletal muscle of transgenic mice relative wild-type mice. Data are
+derived from Table 3 and is expressed as fold change (log10) normalized to 18S mRNA, following application of Benjamini–Hochberg false detection
+rate algorithm (n = 6/group) (B) western blot analysis of Akt and pAkt in skeletal muscle of male transgenic mice and wt littermate control mice.
+Densitometry analysis of western blots (C) Akt and (D) pAkt (n = 3/group, mean ± SEM. *P < 0.05, **P  0.01). (E) Body weight development in
+transgenic mice versus wt littermate controls over 14 weeks on normal chow diet (n = 19 male and n = 6 female, mean ± SEM. *P < 0.05).
+(F) Plasma glucose levels of overnight fasted male transgenic and wt littermate control mice (n = 6/group, mean ± SEM. *P < 0.05). (G) Blood
+glucose concentrations measured at various times after I/P administration of glucose (t = 0) to overnight fasted male transgenic and wt littermate
+control mice (n = 7/group, mean ± SEM. *P < 0.05, **P  0.01). (H) Blood glucose concentrations measured at various times after IP administration
+of insulin (t = 0) to overnight fasted male transgenic and wt littermate control mice. Data are presented as percentage of starting blood glucose
+concentration at time = 0 (I = 7/group, mean ± SEM).
+
+on metabolic genes. Assignment of signiﬁcance prior to
+application of FDR analysis is relatively robust.
+Subsequently, we also assessed the expression of the
+other Akt family members. Although Akt2/PKB was signiﬁcantly decreased in the skeletal muscle of male
+Tg-RORa1DE mice relative to wild-type littermates,
+we observed no change in the expression of the mRNAs
+encoding, Akt1 or 3 (data not shown). Notably, no signiﬁcant changes in gene expression were observed in either
+liver or adipose tissue after TLDA analysis (data not
+shown). In addition, we investigated whether attenuation
+in Akt2 mRNA expression correlated with changes in the
+protein levels of total Akt and phosphorylated (ser473)
+Akt/PKB using western analysis (Figure 3B). We
+observed a signiﬁcant decrease in total Akt/PKB protein
+in the Tg-RORa1DE mice relative to wild-type
+littermate pairs (Figure 3B and C), corresponding with
+the mRNA expression data. Moreover, the levels of the
+active phosphorylated (ser473) Akt species were also signiﬁcantly decreased (Figure 3B and D). Akt/PKB is a
+critical target in the regulation of GLUT4-[solute carrier
+family 2a (facilitated glucose transporter), member 4]
+
+mediated glucose uptake. In summation, corresponding
+investigation by illumina, qPCR (on the TLDA
+platform) and western analysis have demonstrated that
+RORa in skeletal muscle regulates Akt2 mRNA, protein
+and phosphorylation. This is consistent with the high
+ranking of carbohydrate metabolism and type 2 diabetic
+signaling by the ingenuity platform.
+Expression of truncated RORa in skeletal muscle induced
+mild hyperglycemia and glucose intolerance: attenuated
+insulin-mediated phosphorylation of Akt in the
+Tg-RORa1"DE mice
+Suppression of (total and phospho) Akt in skeletal muscle
+suggests the mouse model may display increased plasma
+glucose and impaired glucose tolerance. We conducted
+several experiments to characterize the phenotypic (and
+metabolic eﬀects) of aberrant RORa expression in
+skeletal muscle to validate the results of the illumina/ingenuity analysis.
+The transgenic mice presented with no gross or histological phenotypic abnormalities, although they did
+appear to be slightly smaller than their wt littermates.
+
+Nucleic Acids Research, 2010, Vol. 38, No. 13 4305
+
+However, growth curve analysis from 4 to 14 weeks indicates that both male and female Tg-RORa1DE mice on
+a regular chow diet showed no signiﬁcant reductions in
+body weight, relative to wild-type littermate pairs
+(Figure 3E). All subsequent studies were performed on
+male mice.
+We subsequently measured blood glucose and observed
+mild hyperglycemia in the transgenic mice, with increased
+fasting glucose levels in male transgenic mice relative
+to wild-type littermate pairs (Figure 3F). This is consistent
+with decreased (total and phospho) Akt (mRNA
+and protein) levels in skeletal muscle. We further
+examined systemic glucose metabolism, and performed
+intraperitoneal glucose and insulin tolerance tests. In the
+Tg-RORa1DE mice, glucose clearance was signiﬁcantly
+delayed following a glucose challenge (Figure 3G). No
+signiﬁcant diﬀerences in plasma insulin levels between
+the transgenic and wt mice (on regular chow diets) were
+detected (data not shown). Furthermore, the glucose excursions displayed by Tg-RORa1DE compared to
+wild-type mice during an insulin tolerance test were comparable (Figure 3H). Moreover, no diﬀerences in plasma
+insulin concentration were observed either at baseline or
+ten minutes subsequent to glucose administration (data
+not shown).
+We subsequently examined whether skeletal musclespeciﬁc expression of Tg-RORa1DE mice played a
+role in insulin signaling. Protein extracts were
+isolated from saline and insulin injected (littermate pairs
+of) wt and Tg mice and subsequently analyzed by
+immunoblot analysis using Ab’s speciﬁc to Akt2 and
+phospho- Akt2.
+Quantiﬁcation of the western blots (Figure 4E and F)
+demonstrated that there were no signiﬁcant diﬀerences in
+(basal) total Akt2 levels in between saline and insulintreated wild-type and Tg animals. As expected, insulin
+treatment in wild-type mice signiﬁcantly stimulated the
+levels of phosphoS473Akt2 relative to saline treated
+mice (3-fold Figure 4A and B). However, we observed
+that insulin treatment did not signiﬁcantly increase phosphorylation of Akt Ser473 in the male Tg-RORa1DE
+mice (Figure 4C and D, respectively).
+Furthermore, impaired glucose tolerance and insulin
+stimulation of Akt phosphorylation did not involve (or
+result in) signiﬁcant changes in GLUT 2, 4 or 8 mRNA
+expression (determined by qPCR-microﬂuidic TLDA
+analysis, see Supplementary Figure S7). GLUT1 mRNA
+expression was analyzed independently by qPCR, and
+data presented as a footnote in Supplementary Figure
+S8. The expression of the mRNAs encoding Glut1, 4
+and 8 was decreased by 20%, however, after Bayes
+and FDR analysis, these changes did not attain signiﬁcance (Supplementary Figure S8).
+In the context of the hyperglycemia, impaired glucose
+tolerance and insulin stimulation of Akt phosphorylation,
+we investigated whether ex vivo glucose uptake was
+aﬀected
+by
+transgenic
+RORDE
+expression.
+(Figure 4E). In wild-type type 2 (fast twitch glycolytic
+EDL, Figure 4E) skeletal muscle, glucose uptake was
+increased 2-fold by insulin treatment. Similar results
+were observed in soleus muscle (data not shown).
+
+In contrast, in the Tg-RORa1DE mice, glucose uptake
+did not signiﬁcantly respond to insulin treatment
+(Figure 4E).
+To further explore the molecular basis of aberrant Akt2
+mRNA, protein and phospho AKt expression in the transgenic Tg-RORa1DE mice, we examined the mouse Akt2
+promoter sequence (as reported on the Ensembl site) for
+putative RORE elements. Interestingly, we identiﬁed
+three putative ROR response elements (RORREs)
+between nucleotide positions, 2900 to 2600 bp
+upstream of the transcription start site that were concordant with the optimal RORa1 binding site,
+R A A A R A
+=Y =T =T =T =Y =T RGGTCA as described by Giguere
+et al., (26). (Figure 5A and B). In order to determine
+whether RORa was selectively recruited to the putative
+ROR responsive elements (NR1, 2 and 3) within the
+mouse Akt2 promoter, we designed three sets of primers and one set of negative primers downstream of
+the putative sites within the promoter (Figure 5)
+for ChIP in skeletal muscle cells. It was observed that
+the RORa antibody [using anti-RORalpha (Santa Cruz
+anti-RORa sc-6062)] eﬀectively immunoprecipitated
+the NR1 (2859/2853) and NR2 (2655/2649
+[and to a lesser extent the NR3 (2626/2620)] motifs
+relative to IgG, and the no antibody controls
+(Figure 5C). The speciﬁcity of RORalpha recruitment to
+these NR half sites was underscored by the lack of recruitment, i.e. the failure to immunoprecipitate the negative
+control region further downstream between nucleotide
+positions 278/177 [1.6-kb downstream of these
+putative RORE sites, (Figure 5C)]. In summary, these
+data clearly demonstrate that RORa is recruited directly
+to the mouse Akt2 promoter, and suggest the direct functional involvement of RORa1 in the regulation of AKt2
+expression.
+In summary, parallel analysis by illumina, ingenuity,
+qPCR and western and metabolic analysis has
+demonstrated that RORa expression in skeletal muscle
+regulates Akt expression (and phosphorylation state),
+blood glucose levels, glucose tolerance and insulinstimulated Akt2 phosphorylation and glucose uptake.
+
+Reduced Akt correlates with increased levels of phospho
+(thr172)-adenosine monophosphate kinase in
+Tg-RORa1"DE mice
+Recent research has demonstrated that Akt2/PKB is a
+potent negative regulator of AMPK activity (Figure 6A)
+in murine cardiac muscle and ﬁbroblasts (27,28).
+Secondly, ingenuity interrogation of the illumina data
+identiﬁed AMPK signaling as a signiﬁcantly regulated
+pathway. Therefore, we undertook western analysis of
+the basal and phosphorylated AMPK species (Figure
+6B). We detected no change in total AMPK protein
+levels (Figure 6B and C). However, phosphorylated
+T172 AMPK levels were signiﬁcantly elevated in skeletal
+muscle from Tg-RORa1DE mice (Figure 6B and C).
+The increased levels of phospho-AMPK are entirely consistent with reduced Akt2 activity.
+
+4306 Nucleic Acids Research, 2010, Vol. 38, No. 13
+
+B
+
+Wild Type
+Saline
+
+Wild Type
+Density Relative to GAPDH
+
+A
+
+Insulin
+
+p-AKT
+
+AKT
+
+Gapdh
+
+1.0
+0.8
+
+***
+0.6
+0.4
+0.2
+0.0
+
+Insulin Saline
+
+Saline
+
+AKT
+
+D
+
+Tg/RORα1ΔDE
+Saline
+
+Insulin
+p-AKT
+
+AKT
+
+Gapdh
+
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+
+Saline
+AKT
+
+E
+
+pAKT
+
+Tg/RORα1ΔDE
+Density Relative to GAPDH
+
+C
+
+Insulin
+
+Insulin
+
+Saline
+
+Insulin
+
+pAKT
+
+Deoxyglucose Uptake
+pmol/mg*min
+
+200
+*
+
+N.S.
+
+150
+
+100
+50
+0
+
+Saline
+
++
+
+-
+
++
+
+-
+
+Insulin
+
+-
+
++
+
+-
+
++
+
+Wild Type
+
+Tg/RORα1ΔDE
+
+Figure 4. (A) and (B) Western blot and densitometry analysis of pAkt, total Akt and Gapdh in skeletal muscle of saline and insulin treated wild-type
+(wt) mice, respectively. (C) and (D) Western blot and densitometry analysis of pAkt, total Akt and Gapdh in skeletal muscle of saline and
+insulin-treated heterozygous transgenic-RORa1DE mice, respectively. Brieﬂy, fasted mice were IP injected with either saline or insulin (0.5 U/
+kg). Mice treated with saline (n = 4 wt and 4 tg) or insulin (n = 3 wt and 3 tg) was sacriﬁced after 10 min and skeletal muscle (quadricep) was excised
+and snap frozen. Densitometry expressed as the mean +/ SEM, ***P < 0.001 (E) Ex-vivo insulin-stimulated glucose uptake in type II glycolytic
+muscle of wt and transgenic-RORa1DE mice (n = 7–8). Insulin-stimulated glucose uptake was performed from skeletal muscle (extensor digitorum
+longus, EDL) dissected from anesthetized mice and incubated in essential buﬀer (Krebs–Henseleit, pH 7.4) and the assay was performed as described
+previously (18,19). *P < 0.05, NS, not signiﬁcant.
+
+We further investigated the levels of the basal and
+phosphorylated AMPK species AMPK in homozygous
+staggerer (sg/sg) mice that lack RORa in all tissues (in
+contrast, to the muscle-speciﬁc overexpression of the
+dominant negative). We detected a slight but signiﬁcant
+1.5-fold increase in total AMPK protein levels (Figure
+6D and E) in sg/sg mice relative to wt littermates.
+However, the levels of phosphorylated T172 AMPK
+levels did not change in the skeletal muscle tissue from
+the sg/sg mice relative to wt littermates (Figure 6D and
+E). In summary, transgenic and muscle-speciﬁc
+
+overexpression of RORa1DE leads to elevated levels
+of phospho-AMPK.
+Elevated phospho-AMPK in Tg-RORa1"DE mice
+leads to increased phosphoACC Levels, and increased
+PGC-1a and CPT-1b mRNA expression
+The literature reports that the positive eﬀect of activated
+AMPK on fatty acid oxidation is mediated by phosphorylation of Acetyl CoA carboxylase ACC (and decreased
+production of malonyl CoA) (see Figure 7A). Moreover,
+
+Nucleic Acids Research, 2010, Vol. 38, No. 13 4307
+A Optimal RORα1 Binding Motif
+-6
+
+-5
+
+-4
+
+-3
+
+-2
+
+-1
+
+n
+
+t
+a
+
+a
+t
+
+t
+a
+
+n
+
+a
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+R
+
+G
+
+G
+
+T
+
+C
+
+A
+
+(Figure 7E) in the skeletal muscle of male
+Tg-RORa1DE mice relative to wild-type littermates.
+The elevated levels of pACC and PGC-1a and CPT-1
+mRNA expression in the Tg mice are consistent with
+increased levels of pAMPK and pACC.
+
+Akt2
+
+B
+Neg Control
+
+C
+
+3
+
+% input (x10-2)
+
+NR1 NR2
+
+2
+
++1bp
+
+NR3
+
+1
+
+Site 1
+
+G
+oA
+b
+R
+O
+R
+a
+Ig
+G
+N
+oA
+b
+R
+O
+R
+a
+Ig
+G
+N
+oA
+b
+N
+
+R
+a
+
+Ig
+
+b
+oA
+
+O
+R
+
+N
+
+R
+
+O
+
+R
+a
+Ig
+G
+
+0
+
+Site 2
+
+Site 3
+
+Expression of the truncated orphan nuclear receptor,
+RORa1 had minimal eﬀects on important skeletal
+muscle markers of ﬁber type and muscle mass
+We utilized qPCR-TLDA analysis to assess whether the
+expression of the truncated receptor aﬀect markers of contractile function, ﬁber type and muscle mass (see Table 3,
+Supplementary Figure S9). Speciﬁcally, in this context,
+TLDA analysis revealed signiﬁcant diﬀerential expression
+of the mRNAs encoding histone deacetylase 5 (HDAC5),
+transforming growth factor beta receptor 1 (Tgfbr1) and
+several other genes (including Mef2a/d, Tnni2 and
+Acvr2A) in the skeletal muscle of male Tg-RORa1DE
+mice relative to wild-type littermates (see Table 3,
+Supplementary Figure S9) when normalized against 18S
+rRNA. However, following the application of conservative data ﬁltering using the FDR–Benjamini–Hochberg
+algorithm, only HDAC5 (1.25-fold) and Tgfbr1
+(2.5-fold) survived as signiﬁcant (but weak) decreases in
+expression (Table 3, and Supplementary Figure S9). This
+suggested that the changes in glucose tolerance, insulin
+signaling and lipogenesis were not indirect eﬀects of
+changes in muscle mass and/or contractile function.
+
+Neg Control
+
+Figure 5. (A) and (B) RORa1 is recruited to the Akt2 promoter.
+Diagrammatic representation of predicted RORalpha response
+elements in [concordance with the optimal RORa1 binding site,
+A A R A
+(R =A
+Y =T =T =T =Y =T RGGTCA) as described by Giguere et al. (26)] on
+the promoter of mouse Akt2. Nucleotide numbering is based on the
+sequence and start site as reported on the ensemble web site
+(http://www.ensembl.org/Mus_musculus/Gene/Sequence?g=ENS
+MUSG00000004056). The nucleotide positions and sequence for NR
+sites 1–3 for is shown on Figure 5A. The downstream negative
+control was located between nucleotide positions –278/–177 (1.6 kb
+downstream of these putative RORE sites). (C) The recruitment of
+RORal onto the AKt2 promoter in C2C12 myotubes by ChIP assay
+(representative assay) using anti-RORa (Santa Cruz anti-RORa
+sc-6062). Triplicate real-time PCR analysis was performed and the
+results are expressed, as the mean ± SD. Results are representative of
+two independent experiments.
+
+AMPK activators increase the expression of PGC-1a and
+PPARa target genes, for example CPT-1 in skeletal muscle
+(29,30). Consequently, we were particularly interested to
+assess whether increased expression of activated AMPK
+resulted in the induction of phosphoACC (Ser79) and two
+critical genes associated with fatty acid oxidation in the
+skeletal muscle of the Tg-RORa1DE mice.
+We undertook analysis of the basal and phosphorylated
+ACC species (Figure 7B). We detected a signiﬁcant change
+in total ACC protein levels (Figure 7B). More importantly, phosphorylated ACC levels (detected by western blot)
+were signiﬁcantly elevated in skeletal muscle from
+Tg-RORa1DE mice (Figure 7B and C). qPCR analysis
+revealed the signiﬁcant (diﬀerential) expression of the
+mRNAs encoding PGC-1a (Figure 7D) and CPT-1b
+
+DISCUSSION
+The biochemical and molecular characterization of RORs
+in cell culture and animal models has revealed that RORs
+play a critical role in the modulation of lipid homeostasis
+in a tissue-speciﬁc manner (1–5,31,32). Our previous
+studies reported that homozygous (male and female) staggerer mice (with decreased and dysfunctional expression
+of RORa in all organs) display reduced adiposity and are
+resistant to high-fat diet-induced obesity. The lean phenotype of staggerer mice was associated with signiﬁcantly
+increased expression of genes involved in fatty acid oxidation (including PGC-1, lipin1, etc.), and signiﬁcantly
+reduced expression of SREBP-1c (and several lipogenic
+genes) in all major metabolic tissues.
+Surprisingly, studies investigating the role of RORa in
+the regulation of glucose homeostasis have not been
+reported. In this context, we were particularly interested
+in exploring the role of RORa1 in skeletal muscle, a major
+mass peripheral tissue that accounts for the majority of
+glucose disposal and lipid catabolism. We probed the role
+of RORa signaling in this major mass peripheral tissue, by
+the skeletal muscle-speciﬁc overexpression of truncated
+RORa1DE (lacking the ligand-binding domain) to investigate the contribution of this peripheral tissue to the
+RORa phenotype. This construct has been described to
+operate in a dominant negative manner in several
+reports (21,22). This strategy also allows the probing of
+RORa-dependent gene expression in the absence of an
+identiﬁed native and/or synthetic ligand.
+
+4308 Nucleic Acids Research, 2010, Vol. 38, No. 13
+
+A
+
+B
+
+Glucose
+
+Insulin
+InsR
+
+Wild Type
+
+Tg/RORα1ΔDE
+
+D
+
+Wild Type
+
+Staggerer
+
+GLUT4
+
+IRS1
+IRS1
+
+AMPK (62kDa)
+
+AMPK (62kDa)
+
+pAMPK (Thr172)
+
+pAMPK (Thr172)
+
+GAPDH (37kDa)
+
+PI3K
+PI3K
+
+GAPDH (37kDa)
+
+GLUT4
+
+Lipogenesis
+Lipogenesis
+
+4
+3
+2
+1
+0
+Wild Type Tg/RORα1ΔDE
+
+**
+
+10
+8
+6
+4
+2
+0
+Wild Type Tg/RORα1ΔDE
+
+AMPK
+1.50
+1.25
+1.00
+0.75
+0.50
+0.25
+0.00
+Wild Type
+
+Staggerer
+
+Relative Density (pAMPK/Gapdh)
+
+AMPK
+
+5
+
+E
+
+pAMPK
+12
+
+Relative Density (AMPK/Gapdh)
+
+pAMPK
+
+AMPK
+6
+
+Relative Density (pAMPK/Gapdh)
+
+C
+
+TBC1D1
+
+Relative Density (AMPK/Gapdh)
+
+Akt2
+Akt2
+
+pAMPK
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+Wild Type
+
+Staggerer
+
+Figure 6. (A) A pictorial representation of the cross-talk between Akt2 and AMPK pathways, highlighting the implications for lipogenesis in skeletal
+muscle. (B) and (C) Western blot and densitometry analysis of AMPK and pAMPK in skeletal muscle of transgenic RORa1DE and wt littermate
+control mice. (D) and (E) Western blot and densitometry analysis of AMPK and pAMPK in skeletal muscle of wt and staggerer (sg/sg) littermate
+control mice. (n = 3–4/group, mean ± SEM, *P < 0.05, **P  0.01).
+
+A
+
+C
+
+AMPK
+AMPK
+Density relative to GAPDH
+
+1.5
+
+LXRα and SREBP1c
+
+FA-CoA
+
+Malonyl-CoA
+
+**
+1.0
+*
+0.5
+
+0.0
+
+ACC
+
+Wild Type
+
+CPT1b
+
+TCA
+
+ATP
+
+Acetyl-CoA
+
+pACC (Ser79)
+ACC (280kDa)
+GAPDH (37kDa)
+
+Tg/RORα1ΔDE
+
+Relative fold change/18S
+
+Wild Type
+
+Tg/RORα1ΔDE Wild Type Tg/RORα1ΔDE
+
+PGC1α
+
+D
+3.5
+
+B
+
+pACC
+
+E
+
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+
+CPT1β
+3.5
+
+*
+Relative fold change/18S
+
+Fatty acids
+
+FAS
+
+PGC1α
+
+ACC
+
+3.0
+
+*
+
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+
+0.0
+Wild Type Tg/RORα1ΔDE
+
+Wild Type Tg/RORα1ΔDE
+
+Figure 7. (A) A pictorial representation of the cross-talk between the AMPK and fatty acid oxidation pathways, highlighting the implications for
+fatty acid oxidation in skeletal muscle. (B) Western blot analysis of ACC and pACC in skeletal muscle of transgenic and wt littermate control mice.
+Densitometry analysis of western blots (n = 3/group, mean ± SEM, **P  0.01). (C) densitometry analysis of ACC and pACC in skeletal muscle of
+transgenic RORa1DE and wt littermate control mice. (D) qPCR of PGC-1a and (E) CPT1b in skeletal muscle of transgenic and wt littermate
+control mice. Relative fold change is normalized against 18S mRNA (n = 6/group, mean ± SEM. *P < 0.05, **P  0.01).
+
+Nucleic Acids Research, 2010, Vol. 38, No. 13 4309
+
+The human skeletal a-actin promoter was utilized to
+construct the muscle-speciﬁc vector. This promoter
+has been demonstrated to function in a cell/tissuespeciﬁc manner (10,11). As expected the transgene,
+RORa1DE, was eﬃciently and speciﬁcally expressed in
+skeletal muscle of transgenic mice relative to other organ/
+tissues. Second, our RORa1DE expression vector
+retains the native RORa1 amino-terminal AF-1 domain
+(i.e. AB region) and the native zinc ﬁnger region; these
+properties ensure that the NR targets the native RORa1
+response elements in the skeletal muscle of transgenic
+mice. Giguere et al. (26) demonstrated that each ROR
+isoform displays isoform-speciﬁc DNA binding, and the
+amino-terminal domain and the zinc ﬁnger region work in
+parallel to confer sequence-speciﬁc DNA recognition and
+binding.
+Expression proﬁling, coupled to analysis on the ingenuity platform identiﬁed a RORa1-regulated subset of genes
+that were involved in or associated with lipid metabolism,
+small molecule transport and biochemistry, cardiovascular
+and metabolic disease, carbohydrate metabolism, endocrine system disorders etc. This is in concordance with
+investigations in RORa-deﬁcient mouse models and
+in vitro promoter/cell culture investigations that have
+demonstrated the involvement of RORa in a number of
+physiological process including atherosclerosis, lipid
+homeostasis, fat deposition, obesity, inﬂammation,
+immunity, etc (6). In the framework of this investigation,
+the primary signaling pathways regulated in skeletal
+muscle were glutathione metabolism (that tightly
+controls ROS levels and modulates insulin sensitivity),
+type 2 diabetic signallng and fatty acid biosynthesis.
+Notably, the LXR signaling (and RXR dependent)
+pathway was identiﬁed in the analysis, which controls
+lipogenesis and cholesterol homeostasis.
+In concordance with the array analysis, qPCR analysis
+on the TLDA platform revealed signiﬁcantly attenuated
+expression of the mRNAs (encoding the hierarchical regulators of lipogenesis), LXRa and SREBP-1c and several
+other downstream target genes involved in fatty acid biosynthesis in skeletal muscle. For example, we observed
+decreased expression of the downstream target genes,
+SCD1 and FAS. Moreover, in the context of lipogenesis,
+we observed the suppression of Ascl4, Dgat2, Tip47,
+HIF-1 and Cd36. Acsl4, the long chain acyl CoA
+synthetase, plays an important role in lipid metabolism
+by routing fatty acids to several diﬀerent metabolic
+pools. Decreased Acsl4 expression is associated with
+decreased triglycerides and fatty acids partitioning to diand tri-acyl glycerol (33,34) and consistent with reduced
+Dgat2 (that catalyzes the ﬁnal step in triglyceride production) and Tip47 (a perilipin family member that
+co-ordinates the storage of triacylglycerol (35).
+Furthermore, it has been reported that decreased Dgat2
+expression is associated with reduced expression of
+SREBP-1c and SCD-1 and increased CPT-1 expression
+(see below), in concordance with our observations (36).
+Finally, suppression of HIF-1alpha is associated with
+reduced fatty acid uptake and biosynthesis, and in concordance with the suppression of the genetic program
+
+controlling lipogenesis and the decrease in the fatty acid
+translocase, CD36 (37).
+In the context of the decrease in LXR and other NR
+signaling pathways, we completed TLDA analysis of the
+entire NR supergene family. This analysis identiﬁed decreases in the expression of the mRNAs encoding GR,
+PPARd, TR2 and RORg. These nuclear receptors have
+been implicated in the regulation of lipid homeostasis.
+We did not observe decreases in THR(a / b), FXR,
+VDR, etc. that were identiﬁed by ingenuity. We suggest
+that the detection of these pathways by ingenuity reﬂects
+secondary consequences of RORa-mediated dysregulation
+and the aberrant expression of NRs identiﬁed above.
+As discussed, ingenuity analysis of the array data
+identiﬁed carbohydrate metabolism as a signiﬁcantly
+regulated
+function.
+We
+observed
+the
+male
+tg-RORa1DE mice display signiﬁcantly increased
+fasting plasma glucose levels, impaired glucose tolerance
+and attenuated insulin-stimulated glucose uptake relative
+to wild-type littermates. Our qPCR TLDA proﬁling
+identiﬁed the signiﬁcantly decreased expression of the
+mRNA encoding Akt2/PKB in skeletal muscle, after
+Bayes assignment of signiﬁcance and stringent FDR ﬁltering. Furthermore, the total amount of Akt and
+phospho-Akt protein was signiﬁcantly reduced. In this
+context, several studies have demonstrated that, Akt2
+plays a critical role in insulin-mediated glucose disposal
+in skeletal muscle. For example, Cho et al. (38)
+demonstrated that disruption of the Akt2 gene expression
+in mice was associated with insulin resistance and type2
+diabetes-like syndrome. Subsequently, Garofalo et al. (39)
+showed mice lacking Akt2/PKB gene displayed a diabetic
+phenotype and age-dependant lipodystrophy.
+Interestingly, the mild hyperglycemia (in the fasted
+state), glucose intolerance and impaired glucose uptake
+occur without any signiﬁcant change in whole body
+insulin sensitivity (i.e. the insulin tolerance test) and/or
+change in GLUT1 and four expression. First, this does
+not appear to involve an insulin secretion defect as the
+transgene is not expressed in the pancreas and the mice
+develop hyperinsulinemia after a high-fat challenge (data
+not shown). It should be noted that muscle-speciﬁc
+deletion of an essential component (rictor) of the mTOR
+complex 2 leads to the attenuation of insulin-induced
+phosphorylation of Akt2 at Ser473. Moreover, these
+mice displayed glucose intolerance, however, insulin sensitivity remained unchanged (40). Similarly, our
+Tg-RORa1DE mice displayed an attenuated insulinmediated Ser473 phosphorylation of Akt and glucose
+uptake. In this context, Gonzalez and McGraw (41)
+demonstrated that ‘insulin signalling diverges into
+Akt-dependent and independent signals’. James and colleagues (42) recently stated that several studies underscore
+the pivotal role of Akt2 in GLUT4 function; however,
+many gaps remain in understanding the signaling
+cascades involved. For example, similar inconsistencies
+(between impaired glucose uptake and/or normal glucose
+tolerance and insulin sensitivity) have been described in
+other animal models that have perturbed expression
+and/or knockout in critical genes that regulate glucose
+homeostasis.
+
+4310 Nucleic Acids Research, 2010, Vol. 38, No. 13
+
+ChIP analysis revealed RORal was directly involved in
+the regulation of Akt2. We identiﬁed several potential
+RORa1 response elements in the mouse Akt2 promoter
+between 2900 and 2600 nt upstream of the transcription start site. These sites were accommodated by the
+A A R A
+motif R =A
+Y =T =T =T =Y =T RGGTCA described by Giguere
+et al. (26), as an optimal RORa1-binding site. ChIP
+identiﬁed functional RORa1 recruitment to three sites
+(in close proximity) within this region. Further characterization of the Akt2 promoter is required to elucidate the
+mechanism mediating regulation by RORa1.
+Ingenuity identiﬁed AMPK signaling as a regulated
+pathway in the Tg mice overexpressing the dominant
+negative RORa1. It has been well established that
+AMPK is master regulator of energy homeostasis
+through the suppression of ATP-consuming lipogenic
+pathways and by the enhancement of ATP producing
+catabolic pathways, including fatty acid oxidation in
+skeletal muscle tissue (43,44 and references therein).
+Moreover, Akt2/PKB is a potent modulator of AMPK
+activity. For example, Hahn-Windgassen et al. (28)
+showed that Akt/PKB regulates intracellular ATP levels
+through regulating AMPK activity. Furthermore,
+Planavila et al. (45) showed that mice treated with
+troglitazone (PPARg agonist) in skeletal muscle were
+associated with increased Akt2/PKB and decreased
+AMPK activity. Moreover, recent investigations on
+Akt2/PKB and AMPK pathways in heart tissue showed
+that Akt2/PKB is a negative regulator of AMPK activity
+(27). Finally, the association between increased AMPK
+activity and the reduction of lipogenic gene expression
+and genes regulating fatty acid oxidation is well documented (46–49). Furthermore, the inhibitory eﬀect of
+potent AMPK activators such as aminoimidazole
+carboxamide ribonucleotide (AICAR) or Metformin on
+lipogenesis in skeletal muscle has been described in both
+human and rodents (29,30). Consequently, in the context
+of our studies, we were particularly interested in
+examining the cross-talk between lipid homeostasis (lipogenesis and fatty acid oxidation), Akt2 signaling (and
+glucose tolerance) and AMPK signaling in a background
+of aberrant RORa1 (NR) signaling.
+Interestingly, the hyperglycemia and signiﬁcantly
+decreased Akt2 (mRNA and protein) and phosphoAKT
+levels in the Tg-RORa1DE mice are associated with
+increased phosphoAMPK levels, in concordance with
+the studies discussed above. This is consistent
+with studies demonstrating type 2 diabetic patients also
+display normal AMPK signaling (50,51). Paradoxically,
+some studies report that increased AMPK activity
+mediates (only exercise induced) glucose transport.
+However, AMPK null mice exhibit typical exercise
+stimulated glucose uptake in skeletal muscle and AICAR
+does not induce glucose transport in muscle (52).
+Interestingly, we did not observe increases in pAMPK in
+the skeletal muscle of staggerer (sg/sg) mice that lack
+RORa expression in all tissues (although we observed
+mild elevation in the levels of basal/total AMPK).
+Diﬀerential AMPK activity in these lines is not completely
+unexpected for several reasons. Firstly, we are comparing
+a line of mice overexpressing dominant negative RORa1
+
+(in skeletal muscle), against a line of mice lacking RORa1
+expression. Second, in mice lacking NR expression, genes
+(and/or phenotypes) maybe silenced or derepressed depending on cofactor requirements, expression and/or
+promoter characteristics (53).
+The increased AMPK activity in the Tg-RORa1DE
+mice did not only correlate with decreased Akt activity,
+but was also consistent with (i) attenuated mRNA expression of LXRa and SREBP-1c, and several other genes
+involved in fatty acid biosynthesis in skeletal muscle
+(44,54,55) and (ii) induction of the genes/pathways
+increasing fatty acid oxidation (56). For example, SCD1
+deﬁciency has been reported to be associated with
+increased AMPK activity, fatty acid oxidation and
+reduced ceramide synthesis (41,42,57). In addition, in
+this interconnected regulatory milieu, we observed
+increased expression of two critical regulators of fatty
+acid oxidation, PGC-1a and CPT1b, concomitant with
+elevated levels of phospho-Ser79 ACC in the
+Tg-RORa1DE mice, relative to the wt littermate mice.
+This is also consistent with the observations (47–49,56 and
+references therein) that activated AMPK and AMPK
+agonists regulate PGC-1 and pACC expression.
+Finally, overexpression of truncated RORa in skeletal
+muscle resulted in very minor changes in the expression of
+genes regulating muscle mass, proliferation and diﬀerentiation. Interestingly, the analysis did identify HDAC5 as a
+diﬀerentially expressed gene. A recent study has
+demonstrated the link between AMPK, energy balance
+and transcriptional regulation of GLUT4 expression
+mediated by HDAC5. That study indicated that increased
+AMPK activity induced HDAC phosphorylation that
+reduces HDAC5 association with the GLUT4 promoter.
+Interestingly, in our mouse model, although insulin
+mediated phosphorylation of Akt2, and glucose uptake
+was perturbed; the association between increased AMPK
+activity and HDAC5 was maintained.
+In conclusion our investigation reveals that the orphan nuclear receptor RORa operates at the nexus of
+pathways controlling the association between lipid
+homeostasis (lipogenesis, and fatty acid oxidation), Akt2
+signaling (glucose tolerance and uptake) and AMPK
+signaling.
+
+SUPPLEMENTARY DATA
+Supplementary Data are available at NAR Online.
+
+FUNDING
+Research project grant from the National Health and
+Medical Research Council (NHMRC) of Australia, and
+the Diabetes Australia Research Trust (DART). GEOM is
+a Principal Research Fellow of the NHMRC, and
+Suryaprakash Raichur was a recipient of an
+International Postgraduate Research Scholarship (IPRS).
+Conﬂict of interest statement. None declared.
+
+Nucleic Acids Research, 2010, Vol. 38, No. 13 4311
+
+REFERENCES
+1. Raspe,E., Duez,H., Gervois,P., Fievet,C., Fruchart,J.C.,
+Besnard,S., Mariani,J., Tedgui,A. and Staels,B. (2001)
+Transcriptional regulation of apolipoprotein C-III gene expression
+by the orphan nuclear receptor RORalpha. J. Biol. Chem., 276,
+2865–2871.
+2. Mamontova,A., Seguret-Mace,S., Esposito,B., Chaniale,C.,
+Bouly,M., Delhaye-Bouchaud,N., Luc,G., Staels,B., Duverger,N.,
+Mariani,J. et al. (1998) Severe atherosclerosis and
+hypoalphalipoproteinemia in the staggerer mouse, a mutant of the
+nuclear receptor RORalpha. Circulation, 98, 2738–2743.
+3. Lau,P., Nixon,S.J., Parton,R.G. and Muscat,G.E. (2004)
+RORalpha regulates the expression of genes involved in lipid
+homeostasis in skeletal muscle cells: caveolin-3 and CPT-1 are
+direct targets of ROR. J. Biol. Chem., 279, 36828–36840.
+4. Raichur,S., Lau,P., Staels,B. and Muscat,G.E. (2007)
+Retinoid-related orphan receptor gamma regulates several genes
+that control metabolism in skeletal muscle cells: links to
+modulation of reactive oxygen species production.
+J. Mol. Endocrinol., 39, 29–44.
+5. Vu-Dac,N., Gervois,P., Grotzinger,T., De Vos,P., Schoonjans,K.,
+Fruchart,J.C., Auwerx,J., Mariani,J., Tedgui,A. and Staels,B.
+(1997) Transcriptional regulation of apolipoprotein A-I gene
+expression by the nuclear receptor RORalpha. J Biol. Chem., 272,
+22401–22404.
+6. Jetten,A.M. (2009) Retinoid-related orphan receptors (RORs):
+critical roles in development, immunity, circadian rhythm, and
+cellular metabolism. Nucl. Recept. Signal, 7, e003.
+7. Kang,H.S., Angers,M., Beak,J.Y., Wu,X., Gimble,J.M., Wada,T.,
+Xie,W., Collins,J.B., Grissom,S.F. and Jetten,A.M. (2007) Gene
+expression proﬁling reveals a regulatory role for ROR alpha and
+ROR gamma in phase I and phase II metabolism. Physiol.
+Genomics, 31, 281–294.
+8. Lau,P., Fitzsimmons,R.L., Raichur,S., Wang,S.C., Lechtken,A.
+and Muscat,G.E. (2008) The orphan nuclear receptor,
+ROR{alpha}, regulates gene expression that controls lipid
+metabolism: STAGGERER (SG/SG) mice are resistant to
+diet-induced obesity. J. Biol. Chem., 283, 18411–18421.
+9. Schmitz-Peiﬀer,C. (2000) Signalling aspects of insulin resistance
+in skeletal muscle: mechanisms induced by lipid oversupply.
+Cell Signal, 12, 583–594.
+10. Brennan,K.J. and Hardeman,E.C. (1993) Quantitative analysis of
+the human alpha-skeletal actin gene in transgenic mice. J. Biol.
+Chem., 268, 719–725.
+11. Muscat,G.E. and Kedes,L. (1987) Multiple 50 -ﬂanking regions of
+the human alpha-skeletal actin gene synergistically modulate
+muscle-speciﬁc expression. Mol. Cell Biol., 7, 4089–4099.
+12. Wang,Y.X., Zhang,C.L., Yu,R.T., Cho,H.K., Nelson,M.C.,
+Bayuga-Ocampo,C.R., Ham,J., Kang,H. and Evans,R.M. (2004)
+Regulation of muscle ﬁber type and running endurance by
+PPARdelta. PLoS Biol., 2, e294.
+13. Jaenisch,R. (1988) Transgenic animals. Science, 240, 1468–1474.
+14. Mitrecic,D., Huzak,M., Curlin,M. and Gajovic,S. (2005) An
+improved method for determination of gene copy numbers in
+transgenic mice by serial dilution curves obtained by real-time
+quantitative PCR assay. J. Biochem. Biophys. Methods, 64, 83–98.
+15. Bookout,A.L., Jeong,Y., Downes,M., Yu,R.T., Evans,R.M. and
+Mangelsdorf,D.J. (2006) Anatomical proﬁling of nuclear receptor
+expression reveals a hierarchical transcriptional network. Cell,
+126, 789–799.
+16. Yang,X., Downes,M., Yu,R.T., Bookout,A.L., He,W.,
+Straume,M., Mangelsdorf,D.J. and Evans,R.M. (2006) Nuclear
+receptor expression links the circadian clock to metabolism. Cell,
+126, 801–810.
+17. Myers,S.A., Eriksson,N., Burow,R., Wang,S.C. and Muscat,G.E.
+(2009) Beta-adrenergic signaling regulates NR4A nuclear receptor
+and metabolic gene expression in multiple tissues. Mol. Cell
+Endocrinol., 309, 101–108.
+18. Brozinick,J.T. Jr and Birnbaum,M.J. (1998) Insulin, but not
+contraction, activates Akt/PKB in isolated rat skeletal muscle.
+J. Biol. Chem., 273, 14679–14682.
+19. Watt,M.J., Dzamko,N., Thomas,W.G., Rose-John,S., Ernst,M.,
+Carling,D., Kemp,B.E., Febbraio,M.A. and Steinberg,G.R. (2006)
+
+CNTF reverses obesity-induced insulin resistance by activating
+skeletal muscle AMPK. Nat. Med., 12, 541–548.
+20. Pearen,M.A., Myers,S.A., Raichur,S., Ryall,J.G., Lynch,G.S. and
+Muscat,G.E. (2008) The orphan nuclear receptor, NOR-1, a
+target of beta-adrenergic signaling, regulates gene expression that
+controls oxidative metabolism in skeletal muscle. Endocrinology,
+149, 2853–2865.
+21. McBroom,L.D., Flock,G. and Giguere,V. (1995) The
+nonconserved hinge region and distinct amino-terminal domains
+of the ROR alpha orphan nuclear receptor isoforms are required
+for proper DNA bending and ROR alpha-DNA interactions.
+Mol. Cell Biol., 15, 796–808.
+22. Hamilton,B.A., Frankel,W.N., Kerrebrock,A.W., Hawkins,T.L.,
+FitzHugh,W., Kusumi,K., Russell,L.B., Mueller,K.L., van
+Berkel,V., Birren,B.W. et al. (1996) Disruption of the nuclear
+hormone receptor RORalpha in staggerer mice. Nature, 379,
+736–739.
+23. Clapham,J.C., Arch,J.R., Chapman,H., Haynes,A., Lister,C.,
+Moore,G.B., Piercy,V., Carter,S.A., Lehner,I., Smith,S.A. et al.
+(2000) Mice overexpressing human uncoupling protein-3 in
+skeletal muscle are hyperphagic and lean. Nature, 406, 415–418.
+24. Genoux,A., Dehondt,H., Helleboid-Chapman,A., Duhem,C.,
+Hum,D.W., Martin,G., Pennacchio,L.A., Staels,B.,
+Fruchart-Najib,J. and Fruchart,J.C. (2005) Transcriptional
+regulation of apolipoprotein A5 gene expression by the nuclear
+receptor RORalpha. Arterioscler. Thromb. Vasc. Biol., 25,
+1186–1192.
+25. Lind,U., Nilsson,T., McPheat,J., Stromstedt,P.E., Bamberg,K.,
+Balendran,C. and Kang,D. (2005) Identiﬁcation of the human
+ApoAV gene as a novel RORalpha target gene. Biochem.
+Biophys. Res. Commun., 330, 233–241.
+26. Giguere,V., Tini,M., Flock,G., Ong,E., Evans,R.M. and
+Otulakowski,G. (1994) Isoform-speciﬁc amino-terminal domains
+dictate DNA-binding properties of ROR alpha, a novel family of
+orphan hormone nuclear receptors. Genes Dev., 8, 538–553.
+27. Kovacic,S., Soltys,C.L., Barr,A.J., Shiojima,I., Walsh,K. and
+Dyck,J.R. (2003) Akt activity negatively regulates phosphorylation
+of AMP-activated protein kinase in the heart. J. Biol. Chem., 278,
+39422–39427.
+28. Hahn-Windgassen,A., Nogueira,V., Chen,C.C., Skeen,J.E.,
+Sonenberg,N. and Hay,N. (2005) Akt activates the mammalian
+target of rapamycin by regulating cellular ATP level and AMPK
+activity. J. Biol. Chem., 280, 32081–32089.
+29. Kola,B., Boscaro,M., Rutter,G.A., Grossman,A.B. and
+Korbonits,M. (2006) Expanding role of AMPK in endocrinology.
+Trends Endocrinol. Metab., 17, 205–215.
+30. Osler,M.E. and Zierath,J.R. (2008) Adenosine
+50 -monophosphate-activated protein kinase regulation of fatty acid
+oxidation in skeletal muscle. Endocrinology, 149, 935–941.
+31. Wada,T., Kang,H.S., Jetten,A.M. and Xie,W. (2008) The
+emerging role of nuclear receptor ROR{alpha} and its crosstalk
+with LXR in Xeno- and endobiotic gene regulation. Exp. Biol.
+Med. (Maywood), 233, 1191–1201.
+32. Wada,T., Kang,H.S., Angers,M., Gong,H., Bhatia,S., Khadem,S.,
+Ren,S., Ellis,E., Strom,S.C., Jetten,A.M. et al. (2008)
+Identiﬁcation of oxysterol 7alpha-hydroxylase (Cyp7b1) as a novel
+retinoid-related orphan receptor alpha (RORalpha) (NR1F1)
+target gene and a functional cross-talk between RORalpha and
+liver X receptor (NR1H3). Mol. Pharmacol., 73, 891–899.
+33. Askari,B., Kanter,J.E., Sherrid,A.M., Golej,D.L., Bender,A.T.,
+Liu,J., Hsueh,W.A., Beavo,J.A., Coleman,R.A. and
+Bornfeldt,K.E. (2007) Rosiglitazone inhibits acyl-CoA synthetase
+activity and fatty acid partitioning to diacylglycerol and
+triacylglycerol via a peroxisome proliferator-activated
+receptor-gamma-independent mechanism in human arterial
+smooth muscle cells and macrophages. Diabetes, 56, 1143–1152.
+34. Kudo,T., Tamagawa,T., Kawashima,M., Mito,N. and Shibata,S.
+(2007) Attenuating eﬀect of clock mutation on triglyceride
+contents in the ICR mouse liver under a high-fat diet.
+J. Biol. Rhythms, 22, 312–323.
+35. Ducharme,N.A. and Bickel,P.E. (2008) Lipid droplets in
+lipogenesis and lipolysis. Endocrinology, 149, 942–949.
+36. Choi,C.S., Savage,D.B., Kulkarni,A., Yu,X.X., Liu,Z.X.,
+Morino,K., Kim,S., Distefano,A., Samuel,V.T., Neschen,S. et al.
+
+4312 Nucleic Acids Research, 2010, Vol. 38, No. 13
+
+(2007) Suppression of diacylglycerol acyltransferase-2 (DGAT2),
+but not DGAT1, with antisense oligonucleotides reverses
+diet-induced hepatic steatosis and insulin resistance.
+J. Biol. Chem., 282, 22678–22688.
+37. Krishnan,J., Suter,M., Windak,R., Krebs,T., Felley,A.,
+Montessuit,C., Tokarska-Schlattner,M., Aasum,E., Bogdanova,A.,
+Perriard,E. et al. (2009) Activation of a HIF1alpha-PPARgamma
+axis underlies the integration of glycolytic and lipid anabolic
+pathways in pathologic cardiac hypertrophy. Cell Metab., 9,
+512–524.
+38. Cho,H., Mu,J., Kim,J.K., Thorvaldsen,J.L., Chu,Q.,
+Crenshaw,E.B. 3rd, Kaestner,K.H., Bartolomei,M.S.,
+Shulman,G.I. and Birnbaum,M.J. (2001) Insulin resistance and a
+diabetes mellitus-like syndrome in mice lacking the protein kinase
+Akt2 (PKB beta). Science, 292, 1728–1731.
+39. Garofalo,R.S., Orena,S.J., Raﬁdi,K., Torchia,A.J., Stock,J.L.,
+Hildebrandt,A.L., Coskran,T., Black,S.C., Brees,D.J., Wicks,J.R.
+et al. (2003) Severe diabetes, age-dependent loss of adipose tissue,
+and mild growth deﬁciency in mice lacking Akt2/PKB beta.
+J. Clin. Invest., 112, 197–208.
+40. Kumar,A., Harris,T.E., Keller,S.R., Choi,K.M., Magnuson,M.A.
+and Lawrence,J.C. Jr (2008) Muscle-speciﬁc deletion of rictor
+impairs insulin-stimulated glucose transport and enhances Basal
+glycogen synthase activity. Mol. Cell Biol., 28, 61–70.
+41. Gonzalez,E. and McGraw,T.E. (2006) Insulin signaling diverges
+into Akt-dependent and -independent signals to regulate the
+recruitment/docking and the fusion of GLUT4 vesicles to the
+plasma membrane. Mol. Biol. Cell, 17, 4484–4493.
+42. Larance,M., Ramm,G. and James,D.E. (2008) The GLUT4 code.
+Mol. Endocrinol., 22, 226–233.
+43. Hegarty,B.D., Turner,N., Cooney,G.J. and Kraegen,E.W. (2009)
+Insulin resistance and fuel homeostasis: the role of AMP-activated
+protein kinase. Acta. Physiol. (Oxf), 196, 129–145.
+44. Viollet,B., Athea,Y., Mounier,R., Guigas,B., Zarrinpashneh,E.,
+Horman,S., Lantier,L., Hebrard,S., Devin-Leclerc,J., Beauloye,C.
+et al. (2009) AMPK: lessons from transgenic and knockout
+animals. Front. Biosci., 14, 19–44.
+45. Planavila,A., Alegret,M., Sanchez,R.M., Rodriguez-Calvo,R.,
+Laguna,J.C. and Vazquez-Carrera,M. (2005) Increased Akt
+protein expression is associated with decreased ceramide content
+in skeletal muscle of troglitazone-treated mice. Biochem.
+Pharmacol., 69, 1195–1204.
+46. Rutter,G.A., Da Silva Xavier,G. and Leclerc,I. (2003) Roles of
+50 -AMP-activated protein kinase (AMPK) in mammalian glucose
+homoeostasis. Biochem. J., 375, 1–16.
+47. Jorgensen,S.B., Viollet,B., Andreelli,F., Frosig,C., Birk,J.B.,
+Schjerling,P., Vaulont,S., Richter,E.A. and Wojtaszewski,J.F.
+(2004) Knockout of the alpha2 but not alpha1 50 -AMP-activated
+
+protein kinase isoform abolishes
+5-aminoimidazole-4-carboxamide-1-beta-4-ribofuranosidebut not
+contraction-induced glucose uptake in skeletal muscle.
+J. Biol. Chem., 279, 1070–1079.
+48. Jorgensen,S.B., Wojtaszewski,J.F., Viollet,B., Andreelli,F.,
+Birk,J.B., Hellsten,Y., Schjerling,P., Vaulont,S., Neufer,P.D.,
+Richter,E.A. et al. (2005) Eﬀects of alpha-AMPK knockout on
+exercise-induced gene activation in mouse skeletal muscle.
+FASEB J., 19, 1146–1148.
+49. Narkar,V.A., Downes,M., Yu,R.T., Embler,E., Wang,Y.X.,
+Banayo,E., Mihaylova,M.M., Nelson,M.C., Zou,Y., Juguilon,H.
+et al. (2008) AMPK and PPARdelta agonists are exercise
+mimetics. Cell, 134, 405–415.
+50. Musi,N., Fujii,N., Hirshman,M.F., Ekberg,I., Froberg,S.,
+Ljungqvist,O., Thorell,A. and Goodyear,L.J. (2001)
+AMP-activated protein kinase (AMPK) is activated in muscle of
+subjects with type 2 diabetes during exercise. Diabetes, 50,
+921–927.
+51. Musi,N., Hayashi,T., Fujii,N., Hirshman,M.F., Witters,L.A. and
+Goodyear,L.J. (2001) AMP-activated protein kinase activity and
+glucose uptake in rat skeletal muscle. Am. J. Physiol. Endocrinol.
+Metab., 280, E677–684.
+52. Fujii,N., Aschenbach,W.G., Musi,N., Hirshman,M.F. and
+Goodyear,L.J. (2004) Regulation of glucose transport by the
+AMP-activated protein kinase. Proc. Nutr. Soc., 63, 205–210.
+53. Wagner,B.L., Valledor,A.F., Shao,G., Daige,C.L., Bischoﬀ,E.D.,
+Petrowski,M., Jepsen,K., Baek,S.H., Heyman,R.A.,
+Rosenfeld,M.G. et al. (2003) Promoter-speciﬁc roles for liver X
+receptor/corepressor complexes in the regulation of ABCA1 and
+SREBP1 gene expression. Mol. Cell Biol., 23, 5780–5789.
+54. Viollet,B., Foretz,M., Guigas,B., Horman,S., Dentin,R.,
+Bertrand,L., Hue,L. and Andreelli,F. (2006) Activation of
+AMP-activated protein kinase in the liver: a new strategy for the
+management of metabolic hepatic disorders. J. Physiol., 574,
+41–53.
+55. Yang,J., Craddock,L., Hong,S. and Liu,Z.M. (2009)
+AMP-activated protein kinase suppresses LXR-dependent sterol
+regulatory element-binding protein-1c transcription in rat
+hepatoma McA-RH7777 cells. J. Cell Biochem., 106, 414–426.
+56. Hardie,D.G., Carling,D. and Carlson,M. (1998) The
+AMP-activated/SNF1 protein kinase subfamily: metabolic sensors
+of the eukaryotic cell? Annu. Rev. Biochem., 67, 821–855.
+57. Dobrzyn,A., Dobrzyn,P., Lee,S.H., Miyazaki,M., Cohen,P.,
+Asilmaz,E., Hardie,D.G., Friedman,J.M. and Ntambi,J.M. (2005)
+Stearoyl-CoA desaturase-1 deﬁciency reduces ceramide synthesis
+by downregulating serine palmitoyltransferase and increasing
+beta-oxidation in skeletal muscle. Am. J. Physiol. Endocrinol.
+Metab., 288, E599–E607.
+
+

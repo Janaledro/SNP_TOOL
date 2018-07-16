@@ -1,0 +1,11 @@
+< ../config.mk
+
+all:VQ:
+	set -x
+	bin/targets | xargs mk 
+
+results/%.txt: data/%.pdf
+	set -x
+	mkdir -p `dirname $target`
+	pdftotext $prereq $target.build \
+	&& mv $target.build $target

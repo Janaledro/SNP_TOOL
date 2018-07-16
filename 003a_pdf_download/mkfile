@@ -1,0 +1,15 @@
+< ../config.mk
+
+all:VQ:
+	set -x
+	bin/targets | xargs mk 
+
+results/%.pdf:E: data/%.txt
+#	set -x
+	mkdir -p `dirname $target`
+	PDF=$(cat $prereq |tr "<" "\n" | grep PDF | grep "href=" | cut -d'"' -f2)
+	echo "descargando $BASE_URL2$PDF"
+	wget -U firefox  $BASE_URL2$PDF -O $target.build 
+	PDF_STATUS=$(grep '<!DOCTYPE html>' $target.build| sort -u || echo "IT_IS_A_PDF!")
+	echo "PDF succesfully downloaded"
+	mv $target.build $target

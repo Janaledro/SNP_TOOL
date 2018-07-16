@@ -1,0 +1,1160 @@
+HHS Public Access
+Author manuscript
+Author Manuscript
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+Published in final edited form as:
+J Immunol. 2016 October 15; 197(8): 3360–3370. doi:10.4049/jimmunol.1502522.
+
+Signaling and Immunoresolving Actions of Resolvin D1 in
+Inflamed Human Visceral Adipose Tissue
+Esther Titos*,§, Bibiana Rius*, Cristina López-Vicario*, José Alcaraz-Quiles*, Verónica
+García-Alonso*, Aritz Lopategi*, Jesmond Dalli||, Juan José Lozano§, Vicente Arroyo†,
+Salvadora Delgado‡, Charles N. Serhan||, and Joan Clària*,§,¶
+*Department
+
+of Biochemistry and Molecular Genetics, University of Barcelona, Barcelona, 08036,
+
+Author Manuscript
+
+Spain
+‡Department
+
+of Gastrointestinal Surgery, Hospital Clínic-IDIBAPS, University of Barcelona,
+Barcelona, 08036, Spain
+
+§Centro
+
+de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas
+(CIBERehd), University of Barcelona, Barcelona, 08036, Spain
+†European
+
+Foundation for the Study of Chronic Liver Failure (EF-CLIF), University of Barcelona,
+Barcelona, 08036, Spain
+
+¶Department
+
+of Biomedical Sciences, University of Barcelona, Barcelona, 08036, Spain
+
+||Center
+
+Author Manuscript
+
+for Experimental Therapeutics and Reperfusion Injury, Department of Anesthesiology,
+Perioperative and Pain Medicine, Brigham and Women’s Hospital and Harvard Medical School,
+Boston, MA 02115, USA
+
+Abstract
+
+Author Manuscript
+
+Persistent activation of the innate immune system greatly influences the risk of developing
+metabolic complications associated with obesity. In this study, we explored the therapeutic
+potential of the specialized pro-resolving mediator (SPM) resolvin D1 (RvD1) to actively promote
+the resolution of inflammation in human visceral adipose tissue from obese patients. By means of
+LC-MS/MS-based metabololipidomic analysis we identified unbalanced production of SPMs (i.e.
+D- and E-series resolvins, protectin D1, maresin 1 and lipoxins) with respect to inflammatory lipid
+mediators (i.e. leukotriene B4 and prostaglandins) in omental adipose tissue from obese patients.
+In parallel, high-throughput transcriptomic analysis revealed a unique signature in this tissue
+characterized by an overactivation of the interleukin (IL)-10 signaling pathway. Incubation of
+inflamed obese visceral adipose tissues and human macrophages with RvD1 limited the excessive
+activation of the IL-10 pathway by reducing phosphorylation of signal transducer and activator of
+
+Corresponding Authors: Esther Titos (Tel: 34-93-2275400 ext 4536; esther.titos@ciberehd.org). Joan Clària (Tel: 34-93-2275400 ext
+1798; jclaria@clinic.ub.es).
+Contact Address: Dr. Esther Titos, Department of Biochemistry and Molecular Genetics, CIBERehd-Hospital Clínic, Villarroel 170,
+Barcelona 08036, Spain, Tel: 34-93-2275400 ext 4536, esther.titos@ciberehd.org and/or Dr. Joan Clària, Department of Biochemistry
+and Molecular Genetics, Hospital Clínic, Villarroel 170, Barcelona 08036, Spain, Tel: 34-93-2275400 ext 1798, jclaria@clinic.ub.es
+DISCLOSURES
+C.N.S. is an inventor on several patents [resolvins] assigned to BWH and licensed to Resolvyx Pharmaceuticals; scientific founder of
+Resolvyx Pharmaceuticals with equity ownership in the company; and has interests reviewed and managed by the BWH and Partners
+HealthCare in accordance with their conflict of interest policies.
+
+Titos et al.
+
+Page 2
+
+Author Manuscript
+
+transcription (STAT) proteins. Of interest, RvD1 blocked STAT-1 and its target inflammatory
+genes (i.e. CXCL9) as well as persistent STAT3 activation without affecting the IL-10 antiinflammatory response characterized by inhibition of IL-6, IL-1β, IL-8 and TNFα. Furthermore,
+RvD1 promoted resolution by enhancing the expression of the IL-10-target gene heme
+oxygenase-1 by mechanisms depending on p38 mitogen-activated protein kinase (MAPK) activity.
+Together, our data show that RvD1 can tailor the quantitative and qualitative responses of human
+inflamed adipose tissue to IL-10 and provide a mechanistic basis for the immunoresolving actions
+of RvD1 in this tissue. These findings may have potential therapeutic implications in obesityrelated insulin resistance and other metabolic complications.
+
+INTRODUCTION
+Author Manuscript
+
+A chronic state of low-grade inflammation in adipose tissue is recognized as a critical factor
+for the progression of metabolic complications associated with obesity, such as insulin
+resistance and non-alcoholic fatty liver disease (NAFLD) (1,2). Indeed, these obesity-related
+comorbidities are closely linked to the presence of a persistent activation of proinflammatory signaling pathways in adipose tissue, which severely disrupts key metabolic
+checkpoints in this tissue (1,2). Among these signals, enhanced production of proinflammatory adipokines such as tumor necrosis factor (TNF) α, interleukin (IL)-6, IL-1β,
+monocyte chemoattractant protein-1 (MCP-1), leptin and resistin, accompanied by a
+reduction in the anti-inflammatory adipokine, adiponectin, are common findings in obese
+individuals with the metabolic syndrome (3,4).
+
+Author Manuscript
+Author Manuscript
+
+In addition to the heightened production of inflammatory mediators, obese adipose tissue
+shows an intrinsic inability to resolve uncontrolled inflammation and to restore tissue
+homeostasis and functionality (5). Current evidence indicates that inflammation does not
+switch off in a passive manner but involves a program of unique endogenous mechanisms
+and mediators that orchestrate its active resolution in a timely and effective manner (6).
+Among these, lipid mediators such as lipoxins, resolvins, protectins and maresins,
+collectively known as specialized-proresolving mediators (SPM) have attracted the most
+attention (7). SPM act not only as ‘braking signals’ of the persistent vicious cycle leading to
+unremitting inflammation, but mainly as promoters of active resolution of inflammation.
+Indeed, at the preclinical level, therapeutic administration of SPM has been shown to
+promote resolution of inflamed adipose tissue and to protect mice against obesity-associated
+complications such as insulin resistance and NAFLD (8–12). An interesting aspect of these
+mediators is that SPM are able to take advantage of macrophage plasticity by inducing
+changes in the phenotype of recruited adipose tissue macrophages toward a pro-resolution
+M2 state (8,10). In addition, SPM enhance the emergence of pro-resolving macrophages
+expressing low levels of CD11b and producing the anti-inflammatory cytokine IL-10 (13).
+Moreover, SPM induce monocyte differentiation into phagocytosing macrophages,
+facilitating the removal of dead or dying cells (efferocytosis) and enhancing phagocyte
+efflux to drain lymph nodes in order to aid in clearing out the inflamed tissues (14,15). All
+these processes are considered to positively contribute to the resolution of adipose tissue
+inflammation and the prevention of metabolic syndrome in obesity.
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 3
+
+Author Manuscript
+
+The present study was undertaken to move forward in the concept of resolution as an active
+phenomenon aimed at suppressing uncontrolled inflammation in human obese adipose
+tissue. This study has three main objectives: 1) to translate the findings obtained in preclinical models to real-world human samples of adipose tissue from obese individuals; 2) to
+characterize the intracellular signaling pathways by which SPM may exert pro-resolving
+actions in inflamed adipose tissue in a series of mechanistic studies in human adipose tissue
+and macrophages; and 3) to provide proof of concept that targeting SPM signaling pathways
+is worthy of further investigation. Through experiments with the representative SPM
+resolvin D1 (RvD1), here we provide evidence that SPM promote pro-resolutive responses
+in inflamed human adipose tissue by interacting with the signaling pathways of IL-10 and by
+modulating the archetypal anti-inflammatory response of this cytokine.
+
+MATERIALS AND METHODS
+Author Manuscript
+
+Study participants and sample collection
+
+Author Manuscript
+
+Forty-one individuals with obesity undergoing laparoscopic bariatric surgery and seven
+patients without a history of obesity undergoing laparoscopic cholecystectomy were
+recruited from the Gastroenterology Surgery Unit of the Hospital Clínic of Barcelona and
+included in the study. Participants were selected according to their BMI calculated as mass/
+height2 and categorized as non-obese controls (BMI < 29.9 kg/m2, n=7) and obese (BMI >
+29.9 kg/m2, n=41). Individuals with inflammatory bowel disease or cancer and obese
+patients with previous bariatric surgery were excluded from the study. Harvested omental
+adipose tissue samples were washed twice with DPBS and minced in ≈100 mg pieces,
+placed in either 10% formalin or snap-frozen in liquid nitrogen and stored at −80°C for
+further analysis. Demographic, clinical data and drug use were collected from patients’
+electronic medical records. All studies were conducted in accordance with the criteria of the
+Investigation and Ethics Committee of the Hospital Clínic and written informed consent was
+obtained from all participants (protocol #2012-7239).
+Biochemical analyses
+Serum concentrations of glucose, cholesterol, TAG, ALT and AST were determined by
+standard laboratory procedures.
+Immunohistochemistry analysis
+
+Author Manuscript
+
+The tissues were routinely fixed in 10% buffered formalin, embedded in paraffin and
+sectioned into 2 μm-thick sections for CD68 immunohistochemistry with the Dako Flex
+Ready-to-use monoclonal mouse anti-human CD68 antibody (Dako) and H&E counterstain
+at the Pathology Department of the Hospital Clínic. For quantitative analysis, the number of
+CD68-positive cells was counted in a total of 15 high-power fields (HPFs) per tissue section
+under a light microscope (Nikon Eclipse E600 microscope) at x400 magnification, and
+results were given as number of positive cells/HPF.
+Adipose tissue explants and “ex vivo” incubations
+human visceral adipose tissue from obese patients was collected under sterile conditions and
+placed in a P100 plate with pre-warmed (37°C) DPBS containing antibiotics (penicillin (100
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 4
+
+Author Manuscript
+Author Manuscript
+
+U/ml) and streptomycin (100 μg/ml)). Connective tissue and blood vessels were removed by
+dissection before cutting the tissue into small pieces (60–80 mg). Explants were washed
+with DPBS at 37°C by centrifugation for 1 min at 400g to remove blood cells and then
+maintained overnight in culture in DMEM with L-glutamine (2 mM), antibiotics and 10%
+FBS. Treatments were performed after a gentle rinse in DPBS containing penicillin and
+streptomycin, in DMEM with L-glutamine, antibiotics and 1% endotoxin-free BSA-fatty
+acid free (FAF) (Sigma). Protein and mRNA expression were assessed in explants incubated
+with vehicle (0.01% EtOH) or RvD1 (1, 10 and 50 nM) (Cayman Chemicals) for 30 min
+followed by the addition of cytokines (IL-10, 20 ng/ml; IL-1β, 25 pg/ml and IL-6, 10 ng/ml)
+(R&D Systems) for 0.5, 2 and 6 h at 37°C. For experiments assessing IL-10 production,
+adipose tissue was preincubated with 5 μM SB203580 (p38 MAPK inhibitor XVI) (Merck
+Millipore) in the presence of RvD1 (1, 10 and 50 nM) for 30 min before the addition of LPS
+(1 μg/ml) (Sigma) for 24 h. At the end of the incubation periods, supernatants were collected
+and explants were frozen in liquid nitrogen, placed into polypropylene tubes and stored at
+−80°C for further analysis.
+Isolation of adipocytes and stromal vascular cells (SVC)
+
+Author Manuscript
+
+Adipose tissue samples (3–7 g) were extensively washed with sterile DPBS containing
+antibiotics to remove contaminating blood cells. The specimens were then cut carefully in
+0.6–1.0 g pieces avoiding connective tissue and blood vessels. Explants were washed with
+DPBS at 37°C by centrifugation for 1 min at 400g to remove blood cells. Tissue was finely
+minced and placed in 5 ml of digestion buffer containing Krebs Ringer supplemented with
+1.5% BSA-FAF and 2.5 mg/ml of Liberase (Roche Diagnostics) and incubated at 37°C for
+45 min with gentle shaking. Tissue homogenates were filtered through a 100 μm nylon mesh
+and maintained in Krebs Ringer supplemented with 1.5% BSA-FAF and 2 mM EDTA for 10
+min. Floating cells (adipocytes) were collected, homogenized in 1 ml of TRizol Reagent
+(Invitrogen) and stored at −80°C for futher analysis. The infranatant containing the SVC was
+centrifuged at 500g for 5 min and pelleted cells were homogenized in 1 ml of TRizol
+Reagent and kept at −80°C until futher analysis.
+Cell culture and cell incubations
+
+Author Manuscript
+
+The human monocyte cell line, THP-1 (ATCC, Manassas, VA) was cultured with RPMI
+1640 medium containing 10% FBS and antibiotics at 37°C in a 5% CO2 incubator. Before
+performing the experiments, the growth medium was exchanged for serum-free RPMI 1640
+medium for 18h. In some experiments, unstimulated THP-1 cells or THP-1 cells
+differentiated into macrophage-like cells by the addition of PMA (50 ng/ml) (Sigma) for 48
+h were seeded (8×105–1×106) into 12- and 24-well plates, and then incubated at 37°C in
+serum-free RPMI 1640 medium in the presence of vehicle (0.01% EtOH) and RvD1 (1, 10
+and 50 nM) for 30 min followed by the addition of increasing concentrations of IL-10 (2, 20,
+100 and 200 ng/ml), IL-6 (0.05, 10 and 20 ng/mL) and IL-1β (25 pg/ml) for 10 min. An
+additional time point of 6 h was performed for IL-10 treatments. For experiments assessing
+SOCS3 stabilization, THP-1 cells were pre-incubated with or without IL-10 (20 ng/ml) for
+30 min before the addition of IL-6 (10 ng/ml) in the presence or absence of 10 μM of the
+proteasome inhibitor MG132 (Calbiochem, Merck Millipore) for 5 h. To verify the effects of
+MG132 in preventing the proteolytic degradation of newly synthesized SOCS3 by the
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 5
+
+Author Manuscript
+
+ubiquitin–proteasome system (16) aditional experiments were performed in THP-1 cells preincubated in the absence or presence of MG132 (10 μM) for 30 min before the addition of
+IL-6 (10 ng/ml) for 5 h. In some experiments, LPS stimulation was performed in the
+presence of a mouse monoclonal anti-human IL-10 receptor (10 μg/ml) or control nonimmune mouse immunoglobin (IgG) (R&D Systems). At the end of the incubation periods,
+cells and supernatants were collected for futher analysis.
+RNA isolation, reverse transcription and real-time PCR
+
+Author Manuscript
+Author Manuscript
+
+Isolation of total RNA from adipose tissue, adipocytes, SVC and THP-1 cells was performed
+using the TRIzol reagent. RNA concentration was assessed in a NanoDrop-1000
+spectrophotometer (NanoDrop Technologies), and its integrity tested with a RNA 6000
+Nano Assay in a Bioanalyzer 2100 (Agilent Technologies). cDNA synthesis from 0.5–1 μg
+of total RNA was performed using the High-Capacity cDNA Archive Kit (Applied
+Biosystems). Real-time PCR analysis of SOCS1 (Hs00705164_s), SOCS3
+(Hs02330328_s1), IL-1β (Hs01555410_m1), IL-8 (Hs00174103_m1), IL-6
+(Hs00985639_m1), IL-6 signal transducer (ST) (Hs00174360_m1), IL-6 receptor (R) alpha
+(Hs01075666_m1), cyclooxygenase (COX)-2 (Hs00153133_m1), TNFα (Hs01113624_g1),
+IL-10 (Hs00961622_m1), CD163 (Hs00174705_m1), heme oxygenase (HO)-1
+(Hs01110250_m1), HO-2 (Hs01558390_m1), CXCL9 (Hs00171065_m1) and CXCL10
+(Hs01124251_g1) was performed in a 7900HT Fast System (Applied Biosystems) using βactin (Hs99999903_m1) as the endogenous control. PCR results were analyzed with
+Sequence Detector 2.1 software (Applied Biosystems). Relative quantification of gene
+expression was performed using the comparative Ct method. The amount of target gene,
+normalized to β-actin and relative to a calibrator, was determined by the arithmetic equation
+2−ΔΔCt, as described in the comparative Ct method (http://docs.appliedbiosystems.com/
+pebiodocs/04303859.pdf). For the analysis of real-time PCR data from patients, a total RNA
+derived from normal human adipose tissue pooled from 18 individuals (Clontech
+Laboratories, Inc) was used as a calibrator.
+Western blot analysis
+
+Author Manuscript
+
+Total protein was extracted using a lysis buffer containing 50 mM HEPES, 20 mM βglycerophosphate, 2 mM EDTA, 1% Igepal, 10% glycerol, 1 mM MgCl2, 1 mM CaCl2, and
+150 mM NaCl for adipose tissue and a modified RIPA buffer containing 50 mM Tris-HCl,
+150 mM NaCl, 1% Igepal, and 0.25% 1 mM EDTA for THP-1 cells, both supplemented
+with protease and phosphatase inhibitors from Roche Diagnostics (Complete Mini and
+PhosSTOP cocktails, respectively). Homogenates were incubated on ice for 10 min and
+centrifuged at either 14000g, 15 min (cells) or 16000g, 40 min (tissue) at 4 °C. Total protein
+(30–40 μg) from supernatants was placed in SDS-containing Laemmli sample buffer, heated
+for 5 min at 95°C, and separated by 12% SDS-PAGE for 120 min at 120 V. Transfer was
+performed by the iBlot Dry Blotting System (Invitrogen) onto PVDF membranes at 20 V
+over 7 min, and the efficiency of the transfer was visualized by Ponceau S staining. The
+membranes were then soaked for 1 h at room temperature in 0.1% T-TBS and 5% (w/v)
+nonfat dry milk. Blots were washed 3 times for 5 min each with 0.1% T-TBS and
+subsequently incubated overnight at 4°C with primary anti-human antibodies for HO-1,
+SOCS3, phospho-STAT1 (Tyr701), phospho-STAT3 (Tyr705), phospho-p38 MAPK
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 6
+
+Author Manuscript
+
+(Thr180/Tyr 182), STAT1, STAT3 and p38 MAPK, all purchased from Cell Signaling.
+Thereafter, the blots were washed 3 times for 5 min each with 0.1% T-TBS containing 5%
+(w/v) nonfat dry milk and incubated for 1 h at room temperature with donkey anti-rabbit
+(Biolegend) or anti-mouse (Cell Signaling) HRP-linked antibody (1:2000) in 0.1% T-TBS.
+Bands were visualized using the EZ-ECL chemiluminescence detection kit (Biological
+Industries). To assess housekeeping protein expression, membranes were reblotted overnight
+at 4°C with primary rabbit anti-human GAPDH antibody (Imgenex) or β-actin HRP
+conjugate (Cell Signaling) and detected and visualized as described above. Total STAT1,
+STAT3, p38 MAPK, GAPDH or β-actin were used as an internal control to verify basal level
+expression and equal protein loading.
+High-throughput transcriptomic analysis
+
+Author Manuscript
+Author Manuscript
+
+RNA profiling was conducted in adipose tissue samples from 4 patients with morbid obesity
+and 4 control subjects using the Affymetrix Human Genome U219 expression array plate
+containing more than 36,000 transcripts and variants (Affymetrix, Inc.). Preparation of
+cRNA probes, hybridization, and scanning of arrays were performed according to the
+manufacturer’s protocol and carried out by the Functional Genomics Unit of IDIBAPS.
+Affymetrix gene expression data were normalized with the robust multiarray algorithm using
+a custom probe set definition that maps probes directly to Entrez Gene Ids
+(HGU219_Hs_ENTREZG). A filtering step excluding probes not reaching a coefficient of
+variation of 0.02 was employed and the total number of obtained probes was 13,928. For the
+detection of differentially expressed genes, a linear model was fitted to the data and
+empirical Bayes moderated statistics were calculated using the Limma package
+(Bioconductor). Adjustment of p-values was done by the determination of false discovery
+rates (FDR) using the Benjamini-Hochberg procedure (17). All computations were done
+using R statistical software. Genes representing a fold change of 1.5 or greater and a
+moderated p-value <0.05 were considered as differentially expressed. Microarray data has
+been deposited in Gene Expression Omnibus (GEO): GSE7141 (http://
+www.ncbi.nlm.nih.gov/genbank).
+Metabololipidomics using liquid chromatography-tandem mass spectrometry (LC-MS/MS)
+
+Author Manuscript
+
+Adipose tissues were suspended in 1.0 mL cold methanol, gently homogenized then kept on
+ice for 1 h to allow for protein precipitation. Lipid mediators were profiled as described in
+(18). Briefly, lipid mediators were extracted by solid phase extraction using C18 columns
+and eluted using methyl formate. Fractions were then taken for LC-MS/MS-based
+lipidomics using a QTrap 6500 (ABSciex) MS-MS coupled to a Shimadzu HPLC system.
+Calibration curves were obtained using synthetic and authentic lipid mediators mixtures.
+Linear calibration curves for each were obtained with r2 values in the range 0.98–0.99.
+Quantification was carried out based on the peak area of the MRM transition and the linear
+calibration curve for each compound or compounds with similar physical properties.
+Luminex xMAP technology
+Cytokine levels were determined in cell culture supernatants (25 μl) using a multiplexed
+bead-based immunoassay Milliplex MAP Human Cytokine/Chemokine Magnetic Bead
+Panel (Merck Millipore) on a Luminex 100 Bioanalyzer. The readouts were analyzed with
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 7
+
+Author Manuscript
+
+the standard version of the Milliplex Analyst software (Merck Millipore). A five-parameter
+logistic regression model was used to create standards curves (pg/mL) and to calculate the
+concentration of each sample.
+Measurement of IL-10 levels
+Levels of IL-10 in supernatants from adipose tissue explants were determined by a specific
+enzyme-linked immunoassay (Human IL-10 ELISA kit, Invitrogen).
+Statistical analysis of the results was performed using the unpaired Student t test. For
+multivariate statistical analysis, partial least squares-discriminant analysis (PLS-DA) was
+performed using SIMCA 13.0.3 software (Umetrics) following mean centering and unit
+variance scaling of lipid mediator amounts. Results were expressed as means ± SEM, and
+differences were considered significant at a p value ≤ 0.05.
+
+Author Manuscript
+
+RESULTS
+
+Author Manuscript
+
+The demographic and clinical characteristics of the patients included in the study are shown
+in Supplementary Table 1. Obese individuals had increased body weight, body mass index
+(BMI) and serum triglyceride (TAG) levels and a higher incidence of hepatic steatosis
+(Supplementary Table 1). There were no statistically significant differences in gender, serum
+glucose, cholesterol, alanine aminotransferase (ALT) and aspartate aminotransferase (AST)
+levels between the two study cohorts. The obese cohort was younger than the non-obese
+group (Supplementary Table 1). As typical of obesity, this cohort presented a greater
+incidence of type II diabetes and hypertension and took antihypertensive (beta-blockers,
+ACE inhibitors and angiotensin II receptor antagonists) and antidiabetic (metformin and
+glimepiride) drugs at higher frequency than the non-obese control (CT) group.
+
+Author Manuscript
+
+We first performed gene expression profiling by microarray analysis of omental adipose
+tissue from obese (Ob) (BMI>29.9) and non-obese CT (BMI<29.9) individuals. Highthroughput transcriptome and subsequent functional analyses identified a group of genes
+associated with the inflammatory process that was differentially modulated in obesity
+(Figure 1A). Among these, we found a significative up-regulated fold change in the
+expression of genes involved in IL-10 signaling, including IL-10 (1.77, P<0.0005), its
+receptor (IL-10RA) (1.5, P<0.05) and downstream targets such as HO-1 (2.23, P<0.05) and
+CD163 (1.84, P<0.05) (Figure 1A). These changes were associated with a high
+inflammatory burden (i.e. over-expression of IL-6 and IL-1β) in obese adipose tissue (Figure
+1A). Over-expression of cytokines/adipokines was confirmed by real-time PCR (Figure 1B).
+COX-2 was also significantly up-regulated in adipose tissue from obese subjects
+(Supplementary Figure 1A). Finally, as compared to the CT group, omental adipose tissue
+from Ob patients showed an increased macrophage content, as revealed by CD68
+immunostaining (Figure 1C). Increased macrophage infiltration was confirmed by real-time
+PCR analysis of this macrophage marker, the expression of which increased gradually in a
+BMI-dependent manner (Figure 1D).
+We next profiled the levels of bioactive lipid mediators in visceral adipose tissue samples by
+LC-MS/MS-based metabolo-lipidomics. Human visceral adipose tissue produced the full
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 8
+
+Author Manuscript
+Author Manuscript
+
+spectra of SPM derived from endogenous sources of DHA (i.e. D-series resolvins, protectin
+D1 and maresin 1), EPA (i.e. E-series resolvins) and arachidonic acid (lipoxin (LX) A4 and
+AT-LXA4). These mediators were identified in according to published criteria that include
+matching retention times (Figure 2A) and at least six characteristic and diagnostic ions for
+each as illustrated with results obtained for RvD1 (Figure 2B). Visceral adipose tissue also
+had detectable levels of arachidonic-acid derived 5-lipoxygenase (5-LO) products (i.e.
+leukotriene (LT) B4 and its all-trans isomer 5(S),12(S)-dihydroxy-6,10-trans-8,14-ciseicosatetraenoic acid (5,12-diHETE), prostaglandins (PGs) (i.e. PGE2, PGD2, and PGF2α)
+and thromboxane (TX) A2 (Figure 2A). Quantitation of lipid mediators in obese and nonobese adipose tissue is given in Supplementary Table 2. Notably, adipose tissue samples
+from obese patients showed a reduced ratio of SPM production with respect to both 5-LO
+products (i.e. LTB4 and its all-trans isomer) and PGs (Figure 2C). To further interrogate the
+lipid mediator profiles obtained from obese and non-obese adipose tissue we employed data
+driven modeling. Partial least square discriminant analysis (PLS-DA) of these lipid mediator
+profiles demonstrated that profiles obtained from obese patients gave a distinct cluster in
+principle component 1 (Figure 2D, left panel). The loading plot demonstrated that proresolving mediators including RvD1 and RvD5 as well as the inflammation initiating
+eicosanoids LTB4 and TXB2 associate with profiles obtained from obese adipose tissues
+with variable importance in projection scores > 1 whereas RvD2 and RvD3 were associated
+with profiles from control patients (Figure 2D, right panel). Interestingly, multiple linear
+regression analysis identified a close relationship between SPM and IL-10 and between
+IL-10 and CD68 in adipose tissue (Figure 2E). SPM levels did not correlate with IL-1β and
+IL-6 (Supplementary Figure 1B). On the other hand, tissue levels of LTB4 and its all-trans
+isomer correlated with IL-10 and IL-1β expression (Supplementary Figure 1C), whereas
+levels of PGs only correlated with IL-10 (Supplementary Figure 1D).
+
+Author Manuscript
+Author Manuscript
+
+To understand how cytokines/adipokines influence adipose tissue inflammation and how this
+can be modulated by SPM, we next performed ex vivo experiments in adipose tissue
+explants from obese patients. As shown in Figure 3A, addition of recombinant human IL-10
+to fat explants exerted anti-inflammatory properties by decreasing the expression of IL-6,
+IL-1β, IL-8 and TNFα. Addition of IL-1β produced an opposite effect and induced the
+expression of inflammatory cytokines/adipokines (Figure 3B). In contrast, obese adipose
+tissue was not responsive to IL-6 stimulation (Figure 3C). On the other hand, IL-10
+enhanced its own expression in adipose tissue in a statistically significant manner (Figure
+3D), whereas this autoregulatory loop was not seen with IL-1β and IL-6 (data not shown).
+The IL-10 positive feedback loop was also present in human THP-1 macrophages (Figure
+3E). These cells were selected on the basis that they provide an optimal platform to perform
+mechanistic studies in one of the predominant immune cell types present in the SVC fraction
+of the adipose tissue. Indeed, as compared to adipocytes, cells of the SVC fraction were the
+major contributors to cytokine/adipokine production in visceral fat from obese individuals
+(Figure 3F). Another characteristic observed in obese fat explants was that IL-10 was able to
+induce the expression of CD163 and HO-1, which are part of the IL-10-induced antiinflammatory response (19) (Figure 3G). HO-2 was also up-regulated by IL-10
+(Supplementary Figure 2A). Moreover, the HO-1 mRNA response to IL-10 was amplified in
+adipose tissue explants from obese patients incubated with RvD1 at 10 nM (Figure 3H).
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 9
+
+Author Manuscript
+
+Similarly, RvD1 at 1 nM amplified in an additive fashion the IL-10-induced HO-1 protein
+expression after 120 min of incubation (Figure 3I). Unexpectedly, RvD1 at high
+concentrations (> 10 nM) reduced HO-1 protein expression in adipose tissue explants
+(Figure 3I). RvD1 did not modify CD163 expression either in resting or IL-10 treated
+adipose tissue explants (Supplementary Figure 2B). The strengthening of the IL-10mediated HO-1 response induced by RvD1 was confirmed in human THP-1 macrophages
+(Figure 3J).
+
+Author Manuscript
+
+To identify signaling events that may mediate RvD1 actions on the IL-10-induced antiinflammatory response, we next investigated the canonical IL-10/signal transducer and
+activator of transcription 3 (STAT3) pathway in obese adipose tissue. As shown in Figure
+4A, human adipose tissue showed a constitutive phosphorylation on the Tyr705 residue of
+STAT3, being the extent of activation significantly higher in obese individuals than in nonobese CT subjects. Consistent with the fact that IL-10 response is preserved in obese adipose
+tissue, this cytokine activated STAT3Tyr phosphorylation after 120 min of stimulation
+(Figure 4B). Notably, pretreatment with RvD1 at 1 nM significantly sensitized adipose tissue
+to IL-10 and shifted the maximal induction of STAT3Tyr phosphorylation to the left and
+upward at 30 min (Figure 4C). In contrast, RvD1 significantly reduced IL-10-induced
+STAT3Tyr phosphorylation at higher concentrations (10 and 50 nM) and for longer periods of
+time (120 min) (Figure 4C). Importantly, the IL-10-induced anti-inflammatory response
+(characterized by inhibition of IL-6, IL-1β, IL-8 and TNFα) was preserved in adipose tissue
+during RvD1 treatment, and this SPM even further reduced IL-8 expression (Supplementary
+Figure 2C). A concentration-dependent increase in STAT3Tyr phosphorylation in response to
+IL-10 and its down-regulation by RvD1 were confirmed in human THP-1 macrophages
+(Figure 4, D and E).
+
+Author Manuscript
+Author Manuscript
+
+In addition to IL-10, other cytokines such as IL-6 use receptor-induced signaling through the
+JAK/STAT3 pathway. Paradoxically, and in contrast to IL-10, IL-6 produces an opposed
+transcriptional and pro-inflammatory response (20). For this reason, we next explored
+whether RvD1 was able to modulate STAT3Tyr phosphorylation of obese fat explants
+exposed to IL-6. Consistent with the lack of response of obese adipose tissue to IL-6, this
+cytokine/adipokine was totally ineffective in inducing the phosphorylation of STAT3Tyr in
+this human tissue, a response that was not modified by RvD1 (Figure 5A). Since in contrast
+to IL-10, STAT3 activation by IL-6 is negatively regulated by the suppressor of cytokine
+signaling 3 (SOCS3), a member of the family of SH2-containing E3 ligases (21), this lack of
+effectiveness could be related to the observed SOCS3 up-regulation in obese adipose tissue
+(Figure 5B). Similar up-regulation was detected in the high-throughput transcriptome
+analysis (5.3 fold in obese versus control non-obese, P<0.05). Moreover, a close direct
+relationship was identified between SOCS3 and IL-6 by multiple linear regression in human
+adipose tissue (Supplementary Figure 2D). Given that SOCS3 as well as SOCS1 are
+predominantly expressed in the SVC fraction of visceral adipose tissue from obese
+individuals (Figure 5C), we performed mechanistic studies in human THP-1 cells. In these
+cells and in contrast to that seen in obese adipose tissue, IL-6 produced the expected
+induction in STAT3Tyr phosphorylation (Figure 5D). As a proof of concept that SOCS3 is
+involved in the blunted response to IL-6, we obtained data showing that this canonical
+response of IL-6 signaling disappears in the presence of MG132, a proteasome inhibitor that
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 10
+
+Author Manuscript
+
+has the ability to stabilize SOCS3 in response to IL-6 (Figure 5, E and F). Nevertheless, the
+unresponsiveness of obese adipose tissue to IL-6 could be multifactorial depending on
+different mechanisms because, for instance, the expression of the IL-6 receptor and its
+transactivator gp130 are significantly down-regulated in visceral adipose tissue of obese
+individuals (Figure 5G). Recent studies have suggested that in addition to IL-10 and IL-6,
+the STAT3 pathway is also part of the non-canonical IL-1β signaling pathway (22,23). As
+shown in Figure 5, H and I, IL-1β was also able to induce STAT3Tyr phosphorylation after
+30 min of incubation in visceral obese adipose tissue but not in THP-1 cells. These
+responses were not significantly modified by RvD1 (Figure 5, H and I).
+
+Author Manuscript
+
+An excessive over-activation of the IL-10 signaling pathway during type I interferon-derived
+responses can lead to the undesired activation of the STAT1 and its target inflammatory
+genes (i.e. CXCL9) (24). As shown in Figure 6A, a remarkable phosphorylation of
+STAT1Tyr and induction of CXCL9 was observed after incubating obese adipose tissue with
+IL-10. Importantly, this IL-10-induced STAT1Tyr phosphorylation signal was repressed by
+RvD1 (Figure 6B). Over-stimulation of the STAT1Tyr pathway by IL-10 was also observed
+in THP-1 cells incubated with high concentrations (>100 ng/ml) of this cytokine (Figure
+6C). Consistently, the expression of STAT1-dependent genes (i.e. CXCL9 and CXCL10)
+was up-regulated by high IL-10 concentrations (Figure 6D). Similar to that observed in
+obese adipose tissue, RvD1 attenuated in a concentration-dependent manner IL-10-induced
+STAT1Tyr phosphorylation in these cells (Figure 6E).
+
+Author Manuscript
+Author Manuscript
+
+The STAT3 signaling pathway is necessary but not sufficient for the IL-10 anti-inflammatory
+response, and for instance, this cytokine can induce HO-1 expression in LPS-elicited
+macrophages via a p38 MAPK pathway (25,26). In view of this, we next investigated the
+impact of RvD1 on the anti-inflammatory production of IL-10 in response to LPS. As shown
+in Figure 7A, LPS remarkably up-regulated IL-10, HO-1, IL-6 and IL-8 expression. Of note,
+LPS-mediated HO-1 induction was blocked by the selective p38 MAPK inhibitor
+SB203580, confirming that the p38 MAPK signaling pathway is involved in the production
+of HO-1 (Figure 7A). Under these inflammatory conditions, RvD1 induced a further upregulation of HO-1, an effect that was also dependent on p38 MAPK signaling (Figure 7B).
+Consistent with this finding, RvD1 increased the phosphorylation of p38 MAPK in a
+concentration-dependent manner, an effect that was also blocked by the selective p38 MAPK
+inhibitor SB203580 (Figure 7C). In parallel with this, RvD1 enhanced IL-10 production
+(Figure 7D), suggesting that this SPM modulates HO-1 in an IL-10-dependent manner.
+Consistently, induction of HO-1 by RvD1 was partially blocked by a selective antibody
+directed against the IL-10 receptor (Figure 7E). Interestingly, measurement of cytokine
+levels in cell supernatants from these experiments in a multiplex assay revealed that RvD1 is
+also able to increase in a concentration-dependent manner the secretion of IL-1β receptor
+antagonist (IL-1ra), a natural inhibitor of the pro-inflammatory actions of IL-1β (27)
+(Supplementary Figure 2E). The induction of IL-1ra release by RvD1 was also dependent of
+p38 MAPK activity (Supplementary Figure 2E).
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 11
+
+Author Manuscript
+
+DISCUSSION
+The results of the current study move forward the concept that SPM promote resolution and
+actively suppress uncontrolled inflammation in adipose tissue from obese individuals. In
+particular, the pro-resolving actions of RvD1 in this tissue are mediated through its
+interaction with the pathways signaling for IL-10 and through the modulation of the
+archetypal anti-inflammatory response of this cytokine. The current findings add to previous
+work in pre-clinical models of obesity showing that RvD1 and other SPM attenuate adipose
+tissue inflammation by reducing the production of cytokines/adipokines (i.e. TNFα, IL-6
+and MCP-1) and shifting the phenotype of recruited macrophages toward the M2 proresolving state (8,10–12). Accordingly, the major novelty of the present study is the
+translation of these therapeutic benefits to the clinical scenario in samples of adipose tissue
+from obese individuals.
+
+Author Manuscript
+Author Manuscript
+
+Visceral adipose tissue from obese patients showed an exaggerated expression of both
+inflammatory and anti-inflammatory cytokines/adipokines. In the same direction, visceral
+adipose tissue from obese patients showed increased levels of both inflammatory (LTs and
+PGs) and anti-inflammatory/pro-resolving (SPM) lipid mediators. However, the ratio
+between SPM production with respect to LTs and PGs was significantly reduced in adipose
+tissue samples from obese individuals. This observation indicates the presence of a
+remarkable deficit in SPM levels as compared to pro-inflammatory signals and the existence
+of an impaired capacity of visceral adipose tissue to resolve uncontrolled inflammation in
+this condition. These findings are in agreement with those previously reported in other fat
+depots such as subcutaneous and perivascular fat from patients afflicted by the metabolic
+syndrome (28). Since visceral adipose is recognized to be central to metabolic diseases and
+to have a more negative impact on health than other fat depots (29), our data supports the
+concept that persistent un-resolved inflammation in adipose tissue is one of the most
+important factors driving the metabolic complications associated with obesity, including
+insulin resistance and NAFLD (1,2).
+
+Author Manuscript
+
+Visceral adipose tissue from obese individuals appears to display a characteristic response to
+the actions of cytokines/adipokines. For example, obese adipose tissue remains sensitive to
+the inflammatory actions of IL-1β. Similarly, the anti-inflammatory response elicited by
+IL-10, characterized by inhibition of inflammatory cytokines/adipokines such as IL-6,
+IL-1β, IL-8 and TNFα, is also preserved in this tissue. In sharp contrast, obese adipose
+tissue is unresponsiveness to IL-6. Moreover, in the obese adipose tissue, the signal
+transduction pathways activated by these cytokines/adipokines display a disorganized
+pattern. For example, STATs are the classical transcription factors transducing the signals
+elicited by type I and type II cytokine receptors (30). In the case of IL-10, binding of this
+cytokine to its receptor activates janus kinase (JAK) which is associated with the
+cytoplasmatic domain of the receptor. The activated receptor-JAK complex then recruits and
+promotes the tyrosine (Tyr) 705 phosphorylation of STAT3 (pSTAT3Tyr), leading to their
+homodimerization and subsequent translocation to the nucleus where they bind to STAT3binding elements of IL-10 responsive-genes (31). The results of the current study support the
+concept that STAT3 is required, but not sufficient for mediating IL-10-induced antiinflammatory responses in inflamed obese adipose tissue. In this regard, our findings
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 12
+
+Author Manuscript
+Author Manuscript
+
+identify that the p38 MAPK signaling pathway is involved in the regulation of HO-1
+expression. This is in agreement with previous studies proposing p38 MAPK as the pathway
+signaling the anti-inflammatory responses to IL-10 in murine macrophages (32). Moreover,
+our findings identify the p38 MAPK signaling pathway as a genuine mechanism underlying
+the additive anti-inflammatory actions of RvD1 and IL-10 in obese adipose tissue. This
+observation is in agreement with that reported by Cooray et al (33), establishing that
+phosphorylation of p38 MAPK is engaged in the pro-resolving signature of ALX activation,
+the receptor mediating the actions of other SPMs such as LXA4 and annexin A1. Another
+example of the peculiarities of obese adipose tissue in terms of activation of signal
+transduction pathways by cytokines/adipokines is that incubation of fat explants with
+recombinant IL-1β resulted in the phosphorylation of STAT3, an effect that was not
+modulated by RvD1. Although other laboratories have demonstrated the activation of STAT3
+in response to IL-1β (22,23), unlike IL-10 and IL-6, this is a non-canonical pathway for
+IL-1β signaling. Finally, the observation that IL-10 at high concentrations induce STAT1
+phosphorylation in obese adipose tissue deserves some comment. This is not surprising
+because an excessive over-activation of the IL-10 signaling pathway during type I interferonderived responses can lead to the undesired activation of the STAT1 and its target
+inflammatory genes (i.e. CXCL9 and CXCL10) (24). Of paramount importance is the fact
+that this IL-10-induced STAT1 phosphorylation is significantly repressed by RvD1, which
+indicates that in addition to promoting IL-10 anti-inflammatory response, RvD1 plays a role
+as a braking signal that limits excessive over-activation of the IL-10 signaling pathways. A
+schematic diagram summarizing most of the actions elicited by IL-10 in obese adipose tissue
+and the modulation by RvD1 is given in Figure 8.
+
+Author Manuscript
+
+In summary, our study describes novel signal regulatory mechanisms for RvD1, which
+culminate in promoting a more intense IL-10-induced anti-inflammatory response in
+inflamed human adipose tissue. These findings are in accordance with previous studies in
+other organs, tissues and cells in which RvD1 counter-regulates inflammatory signals while
+promoting the secretion of anti-inflammatory cytokines (34), thus highlighting the proresolving functions of these lipid mediators.
+
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+
+Acknowledgments
+Author Manuscript
+
+We are extremely grateful to both the surgical and nursing staff from the Department of Gastrointestinal Surgery
+and the Ambulatory Surgery Unit, Hospital Clínic for their professionalism and dedication in providing human
+samples. The authors also thank Dr. Romain Colas, Brigham and Women’s Hospital (BWH)-Harvard Medical
+School, for expert help with validation of SPM physical properties and LS-MS/MS profiling.
+Supported by Spanish MEC (SAF12/32789, SAF15-63674-R and PIE14/00045) under European Regional
+Development Funds (ERDF) (J.C.) and in part by National Institutes of Health (NIH) grant no. P01GM095467
+(C.N.S.). CIBERehd is funded by the Instituto de Salud Carlos III. This study was carried out at the Center Esther
+Koplowitz. C.L.-V. was supported by IDIBAPS/Fundació Clínic. V.G.-A. and B.R. have fellowships from MEC,
+A.L. was funded by a Marie Curie Action and J.A.-Q. is a recipient of an Agaur/BFU fellowship (FI-DGR 2015).
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 13
+
+Author Manuscript
+
+Abbreviations used in this paper
+ALT
+
+alanine aminotransferase
+
+AST
+
+aspartate aminotransferase
+
+BMI
+
+body mass index
+
+HO
+
+heme oxygenase
+
+HPF
+
+high power field
+
+IL
+
+interleukin
+
+LC-MS/MS liquid chromatography-tandem mass spectrometry
+
+Author Manuscript
+Author Manuscript
+
+MAPK
+
+mitogen-activated protein kinase
+
+MRM
+
+multiple reaction monitoring
+
+NAFLD
+
+non-alcoholic fatty liver disease
+
+RvD1
+
+resolvin D1
+
+STAT
+
+signal transducer and activator of transcription
+
+SPM
+
+specialized pro-resolving mediators
+
+SVC
+
+stromal vascular cells
+
+SOCS
+
+suppressor of cytokine signaling
+
+TAG
+
+triglyceride
+
+References
+
+Author Manuscript
+
+1. Ferrante AW Jr. Obesity-induced inflammation: a metabolic dialogue in the language of
+inflammation. J Intern Med. 2007; 262:408–414. [PubMed: 17875176]
+2. Hotamisligil GS. Inflammation and metabolic disorders. Nature. 2006; 444:860–867. [PubMed:
+17167474]
+3. Ouchi N, Parker JL, Lugus JJ, Walsh K. Adipokines in inflammation and metabolic disease. Nat Rev
+Immunol. 2011; 11:85–97. [PubMed: 21252989]
+4. Chawla A, Nguyen KD, Goh YP. Macrophage-mediated inflammation in metabolic disease. Nat Rev
+Immunol. 2011; 11:738–749. [PubMed: 21984069]
+5. Spite M, Clària J, Serhan CN. Resolvins, specialized proresolving lipid mediators, and their
+potential roles in metabolic diseases. Cell Metab. 2014; 19:21–36. [PubMed: 24239568]
+6. Gilroy DW, Lawrence T, Perretti M, Rossi AG. Inflammatory resolution: new opportunities for drug
+discovery. Nat Rev Drug Discov. 2004; 3:401–416. [PubMed: 15136788]
+7. Serhan CN. Pro-resolving lipid mediators are leads for resolution physiology. Nature. 2014; 510:92–
+101. [PubMed: 24899309]
+8. Hellmann J, Tang Y, Kosuri M, Bhatnagar A, Spite M. Resolvin D1 decreases adipose tissue
+macrophage accumulation and improves insulin sensitivity in obese-diabetic mice. FASEB J. 2011;
+25:2399–2407. [PubMed: 21478260]
+9. González-Periz A, Horrillo R, Ferré N, Gronert K, Dong B, Morán-Salvador E, Titos E, MartínezClemente M, López-Parra M, Arroyo V, Clària J. Obesity-induced insulin resistance and hepatic
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 14
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+steatosis are alleviated by omega-3 fatty acids: a role for resolvins and protectins. FASEB J. 2009;
+23:1946–1957. [PubMed: 19211925]
+10. Titos E, Rius B, González-Périz A, López-Vicario C, Morán-Salvador E, Martínez-Clemente M,
+Arroyo V, Clària J. Resolvin D1 and its precursor docosahexaenoic acid promote resolution of
+adipose tissue inflammation by eliciting macrophage polarization toward an M2-like phenotype. J
+Immunol. 2011; 187:5408–5418. [PubMed: 22013115]
+11. Clària J, Dalli J, Yacoubian S, Gao F, Serhan CN. Resolvin D1 and resolvin D2 govern local
+inflammatory tone in obese fat. J Immunol. 2012; 189:2597–2605. [PubMed: 22844113]
+12. Rius B, Titos E, Morán-Salvador E, López-Vicario C, García-Alonso V, González-Périz A, Arroyo
+V, Clària J. Resolvin D1 primes the resolution process initiated by calorie restriction in obesityinduced steatohepatitis. FASEB J. 2014; 28:836–848. [PubMed: 24249635]
+13. Schif-Zuck S, Gross N, Assi S, Rostoker R, Serhan CN, Ariel A. Saturated-efferocytosis generates
+pro-resolving CD11b low macrophages: modulation by resolvins and glucocorticoids. Eur J
+Immunol. 2011; 41:366–379. [PubMed: 21268007]
+14. Serhan CN, Savill J. Resolution of inflammation: the beginning programs the end. Nat Immunol.
+2005; 6:1191–1197. [PubMed: 16369558]
+15. Schwab JM, Chiang N, Arita M, Serhan CN. Resolvin E1 and protectin D1 activate inflammationresolution programmes. Nature. 2007; 447:869–874. [PubMed: 17568749]
+16. Wiejak J, Dunlop J, Mackay SP, Yarwood SJ. Flavanoids induce expression of the suppressor of
+cytokine signalling 3 (SOCS3) gene and suppress IL-6-activated signal transducer and activator of
+transcription 3 (STAT3) activation in vascular endothelial cells. Biochem J. 2013; 454:283–293.
+[PubMed: 23782265]
+17. Ritchie ME, Phipson B, Wu D, Hu Y, Law CW, Shi W, Smyth GK. limma powers differential
+expression analyses for RNA-sequencing and microarray studies. Nucleic Acids Res. 2015;
+43:e47. [PubMed: 25605792]
+18. Colas RA, Shinohara M, Dalli J, Chiang N, Serhan CN. Identification and signature profiles for
+pro-resolving and inflammatory lipid mediators in human tissue. Am J Physiol Cell Physiol. 2014;
+307:C39–C54. [PubMed: 24696140]
+19. Abraham NG, Drummond G. CD163-Mediated hemoglobin-heme uptake activates macrophage
+HO-1, providing an antiinflammatory function. Circ Res. 2006; 99:911–914. [PubMed: 17068296]
+20. El Kasmi KC, Holst J, Coffre M, Mielke L, de PA, Lhocine N, Smith AM, Rutschman R, Kaushal
+D, Shen Y, Suda T, Donnelly RP, Myers MG Jr, Alexander W, Vignali DA, Watowich SS, Ernst M,
+Hilton DJ, Murray PJ. General nature of the STAT3-activated anti-inflammatory response. J
+Immunol. 2006; 177:7880–7888. [PubMed: 17114459]
+21. Yoshimura A, Naka T, Kubo M. SOCS proteins, cytokine signalling and immune regulation. Nat
+Rev Immunol. 2007; 7:454–465. [PubMed: 17525754]
+22. Radtke S, Wuller S, Yang XP, Lippok BE, Mutze B, Mais C, de Leur HS, Bode JG, Gaestel M,
+Heinrich PC, Behrmann I, Schaper F, Hermanns HM. Cross-regulation of cytokine signalling: proinflammatory cytokines restrict IL-6 signalling through receptor internalisation and degradation. J
+Cell Sci. 2010; 123:947–959. [PubMed: 20200229]
+23. Mori T, Miyamoto T, Yoshida H, Asakawa M, Kawasumi M, Kobayashi T, Morioka H, Chiba K,
+Toyama Y, Yoshimura A. IL-1beta and TNFalpha-initiated IL-6-STAT3 pathway is critical in
+mediating inflammatory cytokines and RANKL expression in inflammatory arthritis. Int Immunol.
+2011; 23:701–712. [PubMed: 21937456]
+24. Pike KA, Hutchins AP, Vinette V, Theberge JF, Sabbagh L, Tremblay ML, Miranda-Saavedra D.
+Protein tyrosine phosphatase 1B is a regulator of the interleukin-10-induced transcriptional
+program in macrophages. Sci Signal. 2014; 7:ra43. [PubMed: 24803538]
+25. O’Farrell AM, Liu Y, Moore KW, Mui AL. IL-10 inhibits macrophage activation and proliferation
+by distinct signaling mechanisms: evidence for Stat3-dependent and -independent pathways.
+EMBO J. 1998; 17:1006–1018. [PubMed: 9463379]
+26. Lee TS, Chau LY. Heme oxygenase-1 mediates the anti-inflammatory effect of interleukin-10 in
+mice. Nat Med. 2002; 8:240–246. [PubMed: 11875494]
+27. Arend WP, Malyak M, Guthridge CJ, Gabay C. Interleukin-1 receptor antagonist: role in biology.
+Annu Rev Immunol. 1998; 16:27–55. [PubMed: 9597123]
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 15
+
+Author Manuscript
+Author Manuscript
+
+28. Clària J, Nguyen BT, Madenci AL, Ozaki CK, Serhan CN. Diversity of lipid mediators in human
+adipose tissue depots. Am J Physiol Cell Physiol. 2013; 304:C1141–C1149. [PubMed: 23364264]
+29. Wajchenberg BL, Giannella-Neto D, da Silva ME, Santos RF. Depot-specific hormonal
+characteristics of subcutaneous and visceral adipose tissue and their relation to the metabolic
+syndrome. Horm Metab Res. 2002; 34:616–621. [PubMed: 12660870]
+30. Schindler C, Levy DE, Decker T. JAK-STAT signaling: from interferons to cytokines. J Biol Chem.
+2007; 282:20059–20063. [PubMed: 17502367]
+31. Villarino AV, Kanno Y, Ferdinand JR, O’Shea JJ. Mechanisms of Jak/STAT signaling in immunity
+and disease. J Immunol. 2015; 194:21–27. [PubMed: 25527793]
+32. Ashwell JD. The many paths to p38 mitogen-activated protein kinase activation in the immune
+system. Nat Rev Immunol. 2006; 6:532–540. [PubMed: 16799472]
+33. Cooray SN, Gobbetti T, Montero-Melendez T, McArthur S, Thompson D, Clark AJ, Flower RJ,
+Perretti M. Ligand-specific conformational change of the G-protein-coupled receptor ALX/FPR2
+determines proresolving functional responses. Proc Natl Acad Sci U S A. 2013; 110:18232–18237.
+[PubMed: 24108355]
+34. Croasdell A, Thatcher TH, Kottmann RM, Colas RA, Dalli J, Serhan CN, Sime PJ, Phipps RP.
+Resolvins attenuate inflammation and promote resolution in cigarette smoke-exposed human
+macrophages. Am J Physiol Lung Cell Mol Physiol. 2015; 309:L888–L901. [PubMed: 26301452]
+
+Author Manuscript
+Author Manuscript
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 16
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+Figure 1. High-throughput transcriptome analysis of human obese visceral adipose tissue
+
+Author Manuscript
+
+(A). Upregulated expression of inflammation-related genes (Affymetrix Human Genome
+U219 expression array plate) in visceral adipose tissue from obese (Ob) and non-obese
+control (CT) subjects. Results are expressed as a matrix view of gene expression data (heat
+map) where rows represent genes and columns represent hybridized samples. The intensity
+of each color denotes the standardized ratio between each value and the average expression
+of each gene across all the samples. Red pixels correspond to an increased abundance of
+mRNA in the human adipose tissue samples indicated, whereas green pixels indicate
+decreased mRNA levels. (B) Relative mRNA levels for interleukin (IL)-6, IL-1β, IL-10 and
+IL-8 in human adipose tissue from CT (n=8) and Ob (n=22) subjects were assessed by realtime PCR. (C) Representative photomicrographs (original magnification, X200) of adipose
+tissue sections stained with the macrophage marker CD68 in control (CT, BMI<29.9) and
+obese (Ob, BMI>29.9) individuals. Number of CD68-positive cells per HPF in human
+adipose tissue sections from CT (n=3) and Ob (n=10) subjects is shown on the right. (D)
+Adipose tissue CD68 gene expression in relation to BMI (n=20) was analyzed by real-time
+PCR. Pooled human adipose tissue RNA from 18 healthy subjects served as a calibrator.
+Results are expressed as mean ± SEM. *, P<0.05 vs CT subjects.
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 17
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Figure 2. Distinct lipid mediator-SPM signature profiles in visceral adipose tissues from obese
+and non-obese patients
+
+Author Manuscript
+
+(A) Representative multiple reaction monitoring (MRM) chromatograms obtained by LCMS/MS-based metabololipidomics of selected ion pairs for DHA, EPA and AA-derived lipid
+mediators. Results are representative of n=24 adipose tissue samples. (B) Tandem mass
+spectra employed in the identification of RvD1. (C) Ratios of specialized pro-resolving
+mediators (SPM) to LTB4 (including its all-trans isomer) and prostaglandins (PGs) in human
+adipose tissue from CT (n=6) and Ob (n=18) individuals. (D) Partial least square
+discriminant analysis of lipid mediator profiles from obese and non-obese adipose tissue. (E)
+Correlations (Spearman’s rho test) between SPM and IL-10 and between CD68 and IL-10 in
+human visceral adipose tissue. Results are expressed as mean ± SEM. **, P<0.005 and ***,
+P< 0.001 vs CT subjects.
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 18
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Figure 3. RvD1 potentiates IL-10-induced HO-1 expression in human obese adipose tissue and
+macrophages
+
+Author Manuscript
+
+(A) Relative mRNA levels for IL-6, IL-1β, IL-8 and TNFα in obese adipose tissue cultured
+explants incubated for 6 h in the absence (−) or presence (+) of IL-10 (20 ng/ml). (B)
+Changes in gene expression in response to IL-1β (25 pg/ml). (C) Changes in gene
+expression in response to IL-6 (10 ng/ml). (D) Changes in IL-10 mRNA expression in obese
+adipose tissue explants incubated with IL-10 (20 ng/ml). (E) mRNA expression for IL-10 in
+THP1-derived macrophages incubated with IL-10 (20 ng/ml) for 6 h. (F) mRNA expression
+for IL-6, IL-1β, and IL-10 was analyzed in adipocytes (ADP) and stromal vascular cells
+(SVC) isolated from human obese adipose tissue. (G) Relative mRNA expression for the
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 19
+
+Author Manuscript
+
+anti-inflammatory genes CD163 and HO-1 in obese adipose tissue explants incubated for 6 h
+in the absence (−) or presence (+) of IL-10 (20 ng/ml). (H) Changes in HO-1 mRNA
+expression in response to increasing concentrations of RvD1 (0, 1, 10 and 50 nM). (I)
+Representative immunoblot of HO-1 protein expression (upper panel) assessed by western
+blot in obese adipose tissue explants in the presence of increasing concentrations of RvD1
+(0, 1, 10 and 50 nM) for 30 min followed by addition of IL-10 (20 ng/ml) for 30 or 120 min.
+Densitometric analysis at 120 min is shown below. Results are expressed as mean ± SEM of
+n=3 independent experiments performed in duplicate. P values are given vs ADP. *, P<0.05,
+**, P<0.005 and ***, P<0.0005 vs non-treated adipose tissue explants. a, P<0.05 and b,
+P<0.005 for RvD1 vs IL-10-treated explants at time 120 min. c, P<0.05 vs IL-10-treated
+cells.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 20
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Figure 4. RvD1 modulates IL-10-induced STAT3 activation
+
+Author Manuscript
+
+(A) Representative immunoblot of STAT3 and phospho-STAT3 (pSTAT3, phosphorylation at
+Tyr705, pSTAT3Tyr) assessed by western blot in visceral adipose tissue samples from control
+(CT, n=8) and obese (Ob, n=14) individuals. The densitometric analysis of pSTAT3Tyr to
+total STAT3 ratio is shown on the right. (B) Representative immunoblots of pSTAT3Tyr and
+total STAT3 levels in adipose tissue explants incubated with increasing concentrations of
+RvD1 (0, 1, 10 and 50 nM) for 30 min followed by the addition of IL-10 (20 ng/ml) for 30
+or 120 min. (C) Kinetic analysis of STAT3Tyr phosphorylation in adipose tissue explants
+incubated in the absence (solid circles) or presence (empty circles) of RvD1 and stimulated
+with IL-10. (D) Representative immunoblots analyzing STAT3 activation in THP1
+monocytes incubated in the presence of increasing concentrations of IL-10 for 10 min.
+Densitometric analysis of phosphorylated protein to total protein ratios is shown below. (E)
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 21
+
+Author Manuscript
+
+Representative immunoblots of STAT3 and pSTAT3Tyr in THP-1-derived macrophages
+incubated in the presence of increasing concentrations of RvD1 for 30 min followed by the
+addition of IL-10 (20 ng/ml) for 10 min. Densitometric analysis of phosphorylated protein to
+total protein ratios is shown below. Results are expressed as mean ± SEM of n=3
+independent experiments performed in duplicate. P values are given vs CT. *, P<0.05 vs
+vehicle (0.01% ethanol) at time 0. a, P<0.05 and b, P<0.01 for RvD1 vs vehicle at time 120
+min.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 22
+
+Author Manuscript
+Author Manuscript
+Figure 5. Obese adipose tissue explants are not responsive to IL-6-induced STAT3
+phosphorylation
+
+Author Manuscript
+Author Manuscript
+
+(A) Representative immunoblots of STAT3 and STAT3 Tyr705 phosphorylation (pSTAT3Tyr)
+assessed by western blot in adipose tissue explants incubated with increasing concentrations
+of RvD1 (0, 1, 10 and 50 nM) for 30 min followed by the addition of IL-6 (10 ng/ml) for 30
+or 120 min. (B) SOCS3 mRNA expression in adipose tissue from control (CT, n=8) and
+obese (Ob, n=24) individuals. (C) mRNA expression for SOCS3 and SOCS1 was analyzed
+in adipocytes (ADP) and stromal vascular cells (SVC) isolated from human obese adipose
+tissue. (D) Representative immunoblot of STAT3 and pSTAT3Tyr in THP-1 monocytes
+incubated in the absence (−) or presence (+) of RvD1 (10 nM) for 30 min followed by the
+addition of increasing concentrations of IL-6 for 10 min. (E) Representative immunoblots of
+SOCS3 and GAPDH in THP-1 cells pre-incubated with vehicle (0.2% ethanol) or MG132
+(10 μM) for 30 min before the addition of IL-6 (10 ng/ml) for 5 h. (F) Representative
+immunoblots of STAT3 and pSTAT3Tyr in THP-1 cells pre-incubated with IL-10 (20 ng/ml)
+for 30 min before the addition of IL-6 (10 ng/ml) in the presence of vehicle (0.2% ethanol)
+or MG132 (10 mM) for 5 h. (G) Relative mRNA levels for both IL-6 signal transducer (ST),
+also known as gp130, and IL-6 receptor (R) genes in human adipose tissue from CT (n=6)
+and Ob (n=18) subjects were assessed by real-time PCR relative to a calibrator sample
+consisting of a total RNA derived from normal human adipose tissue pooled from 18
+individuals. (H) Representative inmmunoblots of STAT3 activation (left panel) assessed by
+western blot in adipose tissue explants incubated with increasing concentrations of RvD1 (0,
+1, 10 and 50 nM) for 30 min followed by the addition of IL-1β (25 pg/ml) for 30 or 120 min
+and kinetic analysis of STAT3Tyr phosphorylation (right panel) in adipose tissue explants
+incubated in the absence (solid circles) or presence (empty circles) of RvD1 (10 mM) and
+stimulated with IL-1β. (I) Representative immunoblots of STAT3 and pSTAT3Tyr in THP-1-
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 23
+
+Author Manuscript
+
+derived macrophages incubated in the absence (−) or presence (+) of RvD1 (10 nM) for 30
+min followed by the addition of either IL-1β (25 pg/ml) or IL-6 (10 ng/ml) for 10 min.
+Results are expressed as mean ± SEM of n=3 independent experiments performed in
+duplicate. P values are given vs CT or ADP. *, P<0.05 and **, P<0.005 vs vehicle (0.01%
+ethanol) at time 0.
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 24
+
+Author Manuscript
+Author Manuscript
+
+Figure 6. RvD1 attenuates IL-10-induced STAT1 activation in human obese adipose tissue and
+macrophages
+
+Author Manuscript
+
+(A) Levels of STAT1 Tyr701 phosphorylation (pSTAT1Tyr) after 30 min of IL-10 stimulation
+and expression of its target gene CXCL9 in obese adipose tissue explants incubated for 6 h
+with IL-10 (20 ng/ml). (B) Representative inmunoblots of pSTAT1Tyr and β-actin assessed
+by western blot in visceral adipose tissue explants incubated with increasing concentrations
+of RvD1 (0, 1, 10 and 50 nM) for 30 min followed by the addition of IL-10 (20 ng/ml) for
+30 or 120 min. (C) Representative immunoblots analyzing STAT1 activation in THP1
+monocytes incubated in the presence of increasing concentrations of IL-10 for 10 min.
+Densitometric analysis of phosphorylated protein to total protein ratios is shown below. (D)
+mRNA expression for STAT1 target genes (CXCL9 and CXCL10) in THP1-derived
+macrophages incubated in the presence of increasing concentrations of IL-10 for 6 h. (E)
+Representative immunoblots of STAT1 and pSTAT1Tyr in THP-1-derived macrophages
+incubated in the presence of increasing concentrations of RvD1 for 30 min followed by the
+addition of IL-10 (20 ng/ml) for 10 min. Densitometric analysis of phosphorylated protein to
+total protein ratios is shown below. Results are expressed as mean ± SEM of n=3
+independent experiments performed in duplicate. P values are given vs vehicle. *, P<0.05 vs
+vehicle, a, P<0.05 vs IL-10-treated cells.
+
+Author Manuscript
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 25
+
+Author Manuscript
+Author Manuscript
+Figure 7. RvD1 enhances the production of HO-1 and IL-10 by a p38 MAPK-dependent
+mechanism in human monocytes
+
+Author Manuscript
+Author Manuscript
+
+(A) mRNA expression for IL-10, HO-1, IL-6 and IL-8 in THP-1 cells pre-incubated with the
+p38 MAPK inhibitor SB203580 (5 μM) for 30 min before the addition of LPS (1 μg/ml) for
+6 h. (B) Representative inmunoblot and densitometric analysis of HO-1 protein expression in
+THP-1 cells pre-incubated with RvD1 (10 nM) in the presence or absence of SB203580 (5
+μM) for 30 min before the addition of LPS (1 μg/ml) for 6 h. (C) Representative
+immunoblots of p38 MAPK and its phosphorylated form (p-p38, phosphorylation at Thr180/
+Tyr182) in THP-1 cells pre-incubated with RvD1 (1, 10 and 50 nM) and SB203580 (5 μM)
+for 30 min before the addition of LPS (1 μg/ml) for 6 h. (D) IL-10 levels in supernatants of
+cultured human obese adipose tissue explants pre-incubated with the p38 MAPK inhibitor
+SB203580 (5 μM) in the presence of increasing concentrations of RvD1 for 30 min before
+the addition of LPS (1 μg/ml) for 24 h were detected by a specific ELISA kit (see Materials
+and Methods for details). Basal IL-10 levels in untreated (empty bar) and RvD1 (10 nM)treated cells (solid bar) are shown in the insert. Protein levels are shown as the percentage of
+IL-10 production relative to untreated tissue explants. (D) Representative immunoblot of
+HO-1 in THP-1 cells incubated with RvD1 (10 nM) for 30 min before the addition of LPS (1
+μg/ml) in the presence or absence of a neutralizing antibody to IL-10 receptor (10 μg/ml) for
+6 h. Results are expressed as mean ± SEM. *, P<0.05 compared with LPS-untreated cells,
+**, P<0.005 compared with vehicle, a, P<0.05 vs its paired LPS-stimulated cells without
+SB203580 pre-treatment, b, P<0.05 vs LPS-treated cells.
+
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+Titos et al.
+
+Page 26
+
+Author Manuscript
+Author Manuscript
+Figure 8. Schematic diagram of the interaction of RvD1 with the IL-10 signaling pathway
+
+Author Manuscript
+
+IL-10 promotes a STAT3-mediated anti-inflammatory response characterized by reduced
+expression of pro-inflammatory cytokines and increased expression of anti-inflammatory
+targets. Persistent activation of STAT signaling by IL-10 results in a pro-inflammatory
+response characterized by the up-regulation of STAT1-dependent CXCL9 target. In these
+conditions, RvD1 limits excessive overactivation of the STAT pathway while maintaining
+the IL-10-induced anti-inflammatory response via positive regulation of HO-1 through the
+p38 MAPK pathway. The p38 MAPK pathway also signals the actions of RvD1 on IL-1ra, a
+natural inhibitor of the pro-inflammatory actions of IL-1β.
+
+Author Manuscript
+J Immunol. Author manuscript; available in PMC 2017 October 15.
+
+

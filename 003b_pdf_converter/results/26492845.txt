@@ -1,0 +1,1639 @@
+HHS Public Access
+Author manuscript
+Author Manuscript
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+Published in final edited form as:
+Clin Gastroenterol Hepatol. 2016 November ; 14(11): 1619–1628. doi:10.1016/j.cgh.2015.10.010.
+
+Non-alcoholic Steatohepatitis is Associated with Increased
+Mortality in Obese Patients Undergoing Bariatric Surgery
+Nicolas Goossens(1),(2), Yujin Hoshida(2), Won Min Song(3), Minoa Jung(4), Philippe Morel(4),
+Shigeki Nakagawa(2), Bin Zhang(3), Jean-Louis Frossard(1), Laurent Spahr(1), Scott L
+Friedman(2), Francesco Negro(1),(5), Laura Rubbia-Brandt(5), and Emiliano Giostra(1)
+
+Author Manuscript
+
+(1)Division
+
+of Gastroenterology and Hepatology, University Hospital, 1205 Geneva, Switzerland
+of Liver Diseases, Department of Medicine, Liver Cancer Program, Tisch Cancer
+Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029, USA (3)Department of
+Genetics and Genomic Sciences, Icahn Institute of Genomics and Multiscale Biology, Icahn
+School of Medicine at Mount Sinai, New York, NY 10029, USA (4)Division of Surgery, University
+Hospital, 1205 Geneva, Switzerland (5)Division of Pathology, University Hospital, 1205 Geneva,
+Switzerland
+(2)Division
+
+Abstract
+
+Author Manuscript
+
+Background & Aims—Bariatric surgery is associated with improved outcomes in subjects with
+severe obesity. We investigated the prognostic relevance of non-alcoholic steatohepatitis (NASH)
+and liver gene expression patterns in patients undergoing bariatric surgery.
+Methods—We performed a retrospective analysis of 492 subjects who underwent gastric bypass
+bariatric surgery at a single center in Switzerland from January 1997 through December 2004;
+
+Correspondence: Nicolas Goossens, MD, MSc, Division of Gastroenterology and Hepatology, Department of Medical Specialties,
+Geneva University Hospital, Rue Gabrielle-Perret-Gentil 4, 1205 Geneva, Switzerland, Tel: +41 (0)22-372-93-55, Fax: +41
+(0)22-372-93-66, nicolas.goossens@hcuge.ch, Division of Liver Diseases, Department of Medicine, Liver Cancer Program, Tisch
+Cancer Institute, Icahn School of Medicine at Mount Sinai, 1470 Madison Ave, Box 1123, New York, NY 10029, USA and Yujin
+Hoshida, MD, PhD, Division of Liver Diseases, Department of Medicine, Liver Cancer Program, Tisch Cancer Institute, Icahn School
+of Medicine at Mount Sinai, 1470 Madison Ave, Box 1123, New York, NY 10029, Tel: 1-212-824-8862, Fax: 1-646-537-9576,
+yujin.hoshida@mssm.edu.
+Disclosures
+The authors disclose no conflicts
+
+Author Manuscript
+
+Transcript Profiling
+Microarray data are available at National Center for Biotechnology Information Gene Expression Omnibus (GSE69248).
+Reviewer access link to the transcriptome profiling dataset: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?
+token=clsncgimvbajneb&acc=GSE69248
+Author Contributions
+study concept and design: NG, YH, JLF, LS, FN, LRB, EG
+acquisition of data: NG, LS, MJ, WS, LRB, EG
+analysis and interpretation of data: NG, YH, WS, EG
+drafting of the manuscript: NG
+critical revision of the manuscript for important intellectual content: all authors
+obtained funding: NG, YH, JLF, LRB, EG
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our
+customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of
+the resulting proof before it is published in its final citable form. Please note that during the production process errors may be
+discovered which could affect the content, and all legal disclaimers that apply to the journal pertain.
+
+Goossens et al.
+
+Page 2
+
+Author Manuscript
+
+routine peri-operative liver biopsies were collected, analyzed histologically, and RNA was
+isolated. We collected data on overall survival and clinical and biochemical parameters and
+compared these with data from propensity score-matched subjects participating in the third
+National Health and Nutrition Examination Survey (NHANES III). We used liver biopsies to
+identify bariatric surgery patients with NASH; NHANES III participants with NASH were
+identified based on a hyperechogenic liver at ultrasound and increased alanine transaminase levels.
+We analyzed a 32-gene signature associated with NAFLD severity in the liver tissues collected
+from 47 bariatric surgery patients with NASH, and assessed its prognostic features using nearest
+template prediction and survival analysis.
+
+Author Manuscript
+
+Results—At baseline, the median body mass index of patients who underwent bariatric surgery
+was 43.6 kg/m2; based on histologic findings, 12% had NASH and 16% had fibrosis. During a
+median follow-up of 10.2 years after the surgery, 4.2% of the subjects died. In multivariable Cox
+regression, the presence of NASH (hazard ratio [HR], 2.9; P=.02) and arterial hypertension (HR,
+3.9; P=.02) were associated with overall mortality. When bariatric surgery patients were matched
+with NHANES III participants, bariatric surgery reduced the risk of death during the follow-up
+period (HR, 0.54; P=.04). However, bariatric surgery patients with NASH did not have a reduced
+risk of death compared to NHANES III participants with NASH (HR, 0.90; P=.85). We identified
+an expression pattern of 32 genes in liver tissues from patients with NASH that was associated
+with increased risk of death in multivariable analysis (HR, 7.7; P=.045).
+Conclusions—Histologically proven NASH is associated with increased risk of death within a
+median follow-up of 10.2 years after bariatric surgery, compared to patients who undergo bariatric
+surgery without NASH. The survival benefit of bariatric surgery in subjects with NASH may be
+reduced. A 32-gene expression pattern identified NASH patients who underwent bariatric surgery
+and had shorter survival times.
+
+Author Manuscript
+
+Keywords
+post-operative complication; fatty liver disease; treatment; biomarker; NHANES III
+
+Introduction
+
+Author Manuscript
+
+Obesity, defined as a body mass index (BMI) of over 30kg/m2, is a major public health issue
+affecting 34.9% of adults in the US and costing the US economy an estimated $148 billion
+in 2008, or almost 10% of total US healthcare spending1, 2. Globally, the prevalence of
+overweight (BMI greater than 25kg/m2) increased from 857 million to 2.1 billion, (29% to
+37% of the world population) between 1980 and 2013 3. Obesity is strongly associated with
+non-alcoholic fatty liver disease (NAFLD), a clinicopathological spectrum ranging from
+hepatic steatosis, to non-alcoholic steatohepatitis (NASH) and cirrhosis. NAFLD is
+emerging as the most common liver disease in the Western world, with up to one third of
+adults affected in the US 4, 5. The prevalence of NAFLD in the setting of morbid obesity and
+bariatric surgery, ranges from 63–99% for steatosis >5%, 10–58% for NASH and 7–74% for
+fibrosis depending on definition, diagnostic criteria and the distribution of risk factors in the
+specific population studied 6
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 3
+
+Author Manuscript
+
+Bariatric surgery is now widely performed for severely obese subjects, and has been
+associated with weight reduction and an improvement in obesity-related conditions
+including type 2 diabetes, arterial hypertension and dyslipidaemia 7. Despite increasing data
+from case-control or cohort studies suggesting that bariatric surgery is associated with
+improved long-term survival, the mortality benefit depends on the risk-profile of the
+population with one study in Veterans Affairs medical centres reporting no benefit 8–10.
+Most prognostic studies in bariatric surgery-treated patients have focused on short-term
+postoperative outcomes 11, 12. Baseline factors associated with long-term mortality post
+bariatric surgery have not been fully established, although age, male sex, BMI over 50kg/m2,
+presence of comorbid conditions (including diabetes, cardiovascular disease) and active
+smoking have been proposed 9, 13, 14. In particular, despite the high prevalence of NAFLD/
+NASH in this population, its relevance in long-term outcome after bariatric surgery is
+unknown.
+
+Author Manuscript
+
+We aimed to study the prognostic relevance of histological and molecular parameters
+derived from liver biopsy specimens, on overall long-term survival in a well-characterized
+single-centre cohort of obese patients undergoing bariatric surgery.
+
+Materials and Methods
+Patient cohort (Geneva bariatric surgery cohort)
+
+Author Manuscript
+
+Five hundred severely obese patients consecutively underwent bariatric surgery (Roux-en-Y
+gastric bypass surgery) at Geneva University Hospital, a tertiary hospital serving the area
+around Geneva, Switzerland, between June 1997 and December 2004 (Geneva bariatric
+surgery cohort)15. During surgery, patients underwent systematic cholecystectomy and leftlobe (segment 3) wedge-resection or needle liver biopsy. Patients were excluded from the
+study if they had chronic hepatitis B virus (HBV) or hepatitis C virus (HCV) infection at
+baseline, no available baseline liver biopsy tissue, or previous weight-losing surgery (Figure
+1). Patients with significant substance abuse, including alcohol abuse (defined as more than
+14 units of alcohol per week), were excluded from surgery (see Supplementary Methods for
+additional details). This study was approved by the Institutional Review Board of Geneva
+University Hospital (protocol number 14–125), and the requirement for informed consent
+from the patients was waived due to the retrospective nature of this study.
+Outcome assessment
+
+Author Manuscript
+
+The main outcome of interest was overall survival. Mortality data was obtained
+prospectively or, if the patient was lost to follow-up, it was assessed from the cantonal
+registry of Geneva. Cause of death was extracted from electronic medical records at our
+institution. Percentage excess BMI loss (EBMIL) was defined as ([preoperative BMI –
+postoperative BMI] × 100) / (preoperative BMI – 25). All endpoints, assessed variables and
+analyses were pre-planned (see Supplementary Methods for additional details).
+Histological assessment of liver biopsy
+All histological liver biopsy specimens were reviewed by an experienced liver
+histopathologist (LRB) blinded to clinical data. A threshold of 5% of hepatocytes with
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 4
+
+Author Manuscript
+
+macrovesicular steatosis was required for the diagnosis of NAFLD. NASH was defined as an
+overall pattern of histological injury based on the presence of >5% macrovesicular steatosis,
+inflammation, and hepatocyte ballooning and not a NAFLD activity score (NAS) cut-off
+because previous reports underscore a suboptimal correlation between histological
+assessment of NASH and the semiquantitative NAS16, 17. NAS was determined based on
+steatosis grade, lobular inflammation, and hepatocellular ballooning 16 and the fibrosis score
+was assessed according to the NASH clinical research network (CRN) modified Brunt
+methodology 16.
+Comparison with the NHANES III cohort
+
+Author Manuscript
+
+To assess whether overall survival in the Geneva cohort differed to a control obese
+population, we performed propensity-score matching of the Geneva cohort subjects to
+subjects from the third US National Health and Nutrition Examination Survey (NHANES
+III) 18 and compared survival of the subjects. A subset of the NHANES III cohort, who
+likely had NASH based on elevated ALT (>330 IU/L in men and >19 IU/L in women) and at
+least moderate hepatic steatosis by ultrasound (834 subjects: NHANES III NASH cohort),
+was propensity-score matched to the NASH subjects in the Geneva bariatric surgery cohort
+(see Supplementary Methods for additional details).
+Tissue processing, RNA extraction and gene expression profiling
+
+Author Manuscript
+
+All NASH subjects with sufficient remaining formalin-fixed, paraffin-embedded (FFPE)
+hepatic tissue for RNA extraction (n=47) were included for gene expression profiling.
+Briefly, total RNA was extracted from five 5-μm-thick FFPE tissue sections using the High
+Pure RNA paraffin kit (Roche). Gene expression profiling was performed using 100–400ng
+total RNA by using nCounter Digital Analyzer system (NanoString) according to the
+manufacturer’s instructions. Raw transcript count data were log transformed and scaled by
+geometric mean of control probe data by using NanoString normalizer module implemented
+in GenePattern genomic analysis toolkit (www.broadinstitute.org/cancer/software/
+genepattern). Gene expression dataset is available at National Center for Biotechnology
+Information Gene Expression Omnibus database (accession number: GSE 69248).
+Statistical and bioinformatics analysis
+
+Author Manuscript
+
+Continuous and categorical variables were tested using Wilcoxon rank-sum test and Fisher’s
+exact test, respectively. Association of the baseline variables with clinical outcomes were
+evaluated using uni- and multivariable Cox regression modelling. Propensity score-matching
+was performed non-parametrically using nearest-neighbour 1 to 1 matching, based on the
+following variables: BMI, sex, age, presence of diabetes, arterial hypertension, level of
+bilirubin, aspartate aminotransferase (AST), γ-glutamyltransferase (GGT) and total
+cholesterol (see Supplementary Methods for additional details).
+A prognostic 32-gene signature reported in our previous study 19 was used to perform
+prognostic prediction by using nearest template prediction algorithm 20 implemented in
+GenePattern. Gene regulatory network was identified by using Multiscale Embedded Gene
+Co-expression Network Analysis (MEGENA) 21, 22. All statistical and bioinformatics
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 5
+
+Author Manuscript
+
+analyses were performed using GenePattern and the R statistical package version 3.1
+(www.r-project.org).
+
+Results
+Patient characteristics of the Geneva cohort
+
+Author Manuscript
+
+Eight of the 500 consecutively enrolled subjects were excluded due to absence of liver
+biopsy or prior bariatric surgery (Figure 1). Median baseline weight and BMI of the 492
+patients included were 118kg and 43.6kg/m2 respectively, Table 1 summarizes other baseline
+characteristics. At baseline histology (84% wedge-resection biopsy), 89% had steatosis in
+more than 5% of hepatocytes, 12% had NASH and 4% had fibrosis stage 2 or greater (Table
+2). Compared to non-NASH patients, patients with NASH were more likely to be male,
+diabetic, hypertensive, previous or current smokers and to be older, whereas subjects with
+fibrosis were more likely to be male and diabetic (Table 1).
+Prospectively assessed weight and BMI was available in 81%, 67%, 53% and 34% 1, 2, 3
+and 5 years after bariatric surgery, respectively (Supplementary Table 1). Median weight loss
+and EBMIL at 1 year after bariatric surgery were 38kg and 74% respectively, similar to
+other reports and systematic reviews of bariatric surgery effectiveness7. No patient required
+bariatric surgery reversal. In univariable and multivariable analysis, EBMIL greater than
+50% was not associated with features at liver histology but inversely correlated to male sex
+and baseline BMI greater than 45kg/m2 (Supplementary Table 2).
+Overall Survival
+
+Author Manuscript
+
+Median follow-up of the Geneva cohort was 10.2 years (7.0–12 years). Overall, 21/492
+(4.3%) individuals died during follow-up, causes of death were cerebrovascular disease in
+2/21, non-hepatic neoplasia in 4/21 (all more than 5 years after bariatric surgery), sepsis in
+7/21 (not at time of initial surgery), other causes in 7/21 patients (including pulmonary
+embolus, suicide, accident and one cirrhosis initially attributed to alcohol liver disease but
+reassessed as multifactorial aetiology due to the short history of alcohol consumption prior
+to death) and 3/21 unknown. When stratified by cause of death, NASH was associated with
+death from sepsis in univariable analysis along with other baseline factors (Supplementary
+Table 3) whereas fibrosis had borderline significance (p=0.067). Events were too rare in the
+other causes of death to test association with baseline factors.
+
+Author Manuscript
+
+Baseline factors associated with overall mortality in univariable survival were male sex, age
+greater than 50 years, presence of diabetes, arterial hypertension, presence of histological
+NASH and liver fibrosis (Table 3 and Figure 2A–B). In Cox regression multivariable
+stepwise AIC model selection only NASH (hazard ratio [HR] 2.9, p=0.02) and arterial
+hypertension (HR 3.9, p=0.02) were independently associated with overall mortality (Table
+3). Neither liver fibrosis nor the interaction term between NASH and liver fibrosis were
+associated with overall mortality in the multivariable Cox regression.
+To further clarify whether metabolic cofactors were driving the association between
+increased mortality and NASH, we performed a matched case-control analysis within the
+Geneva cohort. We matched the 59 NASH subjects with 59 non-NASH controls for age,
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 6
+
+Author Manuscript
+
+presence of diabetes and arterial hypertension. This yielded 59 pairs of NASH cases and
+matched non-NASH controls with identical proportions of diabetes (46%), arterial
+hypertension (51%) and age greater than 50 years (34%) although, as expected, AST, ALT
+and GGT were significantly elevated in the NASH group (Supplementary Table 4). Despite
+matching for features of the metabolic syndrome, NASH at baseline biopsy was still
+associated with increased long-term mortality (HR=8.8, 95%CI 1.1–70, p=0.04).
+
+Author Manuscript
+
+When comparing baseline liver histology between subjects alive and dead at end of followup, deceased subjects had a higher proportion of NASH (38% versus 11%, p=0.01), fibrosis
+(38% versus 18%, p=0.045) a higher median NAS score (3 versus 2, p<0.001) and more
+advanced fibrosis (p=0.03) (Supplementary Table 5). In survival analysis, individuals with a
+NAS score ≥ 5 had significantly higher mortality than patients with a NAS score of ≤ 2
+(p<0.001), whereas patients with fibrosis stage 1 and stage ≥ 2 had a significantly increased
+mortality than patients without fibrosis (p=0.048 and p=0.005 respectively) (Figure 2C–D
+and Supplementary Table 6).
+Comparison with matched obese subjects in NHANES III
+In order to assess the effect of bariatric surgery on the survival of obese patients, the Geneva
+cohort was matched, using propensity-score matching, to 18723 subjects from the NHANES
+III cohort (Figure 1: propensity-score matching #1). This yielded 335 matched pairs of
+patients with similar baseline characteristics (Supplementary Table 7, Supplementary Figure
+1A–B). Mortality was significantly reduced in the patients undergoing bariatric surgery in
+univariable and multivariable analysis (HR 0.54, p=0.035, Figure 2E, Supplementary Table
+8).
+
+Author Manuscript
+Author Manuscript
+
+To assess the potential impact of bariatric surgery on overall survival in patients with NASH,
+we matched the subset of patients in the Geneva cohort with histological NASH (n=59) with
+subjects from NHANES III with at least moderate steatosis on liver ultrasound and raised
+ALT (Figure 1: propensity-score matching #2). In the Geneva cohort, when compared to the
+histological gold standard, this surrogate marker of NASH had a sensitivity of 74%,
+specificity of 96%, positive predictive value of 83% and negative predictive value of 93% for
+the diagnosis of NASH. This index was confirmed to be prognostic in the Geneva cohort as
+the 145 subjects with steatosis and raised ALT had increased mortality (HR 3.7, p=0.003).
+This matching yielded 41 pairs of subjects with similar baseline characteristics despite
+higher ferritin in the NHANES III cohort (Supplementary Table 9, Supplementary Figure
+2A–B). In this analysis, bariatric surgery was not significantly associated with reduced
+survival (Figure 2F), whereas older age was associated with worse survival (Supplementary
+Table 10).
+Gene signature-based prognostication in NASH patients
+We next assessed whether molecular-based risk assessment in hepatic tissue of subjects
+undergoing bariatric surgery could improve risk stratification, especially in NASH patients.
+Forty-seven NASH subjects had available FFPE tissue blocks for transcriptome analysis.
+Median BMI and weight were 44.6kg/m2 and 125kg respectively, median NAS was 5 and
+seven subjects (15%) died during follow-up (Supplementary Table 11). A previously
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 7
+
+Author Manuscript
+
+published 32-gene signature 19 (Supplementary Table 12) was found to be significantly
+associated with NAFLD severity in a previous cohort of 72 NAFLD subjects 23
+(Supplementary Figure 3). The 32-gene poor prognosis prediction was associated with
+increased overall mortality in Geneva cohort NASH subjects (log-rank p=0.03). In
+multivariable Cox regression modelling, age greater than 50 years (HR 14, p=0.02) and 32gene signature poor prognosis prediction (HR 9.0, p=0.045) were independently associated
+with increased overall mortality (Figure 3A–B, Supplementary Table 13).
+
+Author Manuscript
+
+In the NASH gene expression profiles, MEGENA identified 9 distinct gene regulatory
+modules (Figure 3C, Supplementary Table 14). A tightly clustered gene module (no.4) was
+centred on a hub gene, epidermal growth factor (EGF), a fibrogenic and carcinogenic driver
+implicated as an HCC chemoprevention target in our previous study 24, which has led to
+initiation of a clinical trial of EGF receptor inhibitor, erlotinib (clinicaltrials.gov, trial
+number NCT02273362). Module no.6 was enriched with TNF-α signalling via NF-κB
+pathway (p<0.001), indicating presence of inflammatory pathway activation in NASHaffected liver (Supplementary Table 15). Module no.5 was enriched with collagen-encoding
+genes, TGF-β target genes such as TGFB1I1, epithelial-mesenchymal transition pathway
+(p=0.002), as well as 2 previously published hepatic stellate cell signatures 25, 26, evidencing
+activated fibrogenesis (p<0.05).
+
+Discussion
+
+Author Manuscript
+
+In this retrospective, single-centre cohort, we have demonstrated that presence of NASH at
+baseline liver histology of severely obese subjects undergoing bariatric surgery is associated
+with increased long-term mortality compared to those without NASH. Of greater concern,
+despite reduced overall mortality for obese subjects undergoing bariatric surgery compared
+to matched, non-surgical, subjects, patients with NASH at baseline did not have improved
+survival after bariatric surgery. Importantly, we identified that a poor prognosis 32-gene
+signature prediction 19 was associated with NAFLD severity in a previously published
+cohort of 72 subjects with NAFLD 23 and could identify poor prognosis NASH subjects in
+the Geneva cohort with increased long-term mortality compared to control obese NASH
+subjects.
+
+Author Manuscript
+
+To our knowledge, our study is the first analysis of the relationship between perioperative
+findings at liver biopsy and long term outcomes after bariatric surgery. Previous reports have
+demonstrated that the beneficial effects of bariatric surgery are not only linked to a reduction
+of body weight but also to an improvement in metabolic parameters such as type 2 diabetes,
+hypertension and dyslipidaemia 7. Paired liver biopsy studies have also demonstrated a
+reduction of NASH prevalence over 5 years after surgery and improvement of fibrosis 27, 28.
+Nevertheless, despite these encouraging results, our data suggests that subjects with baseline
+NASH have an increased mortality after bariatric surgery and their overall survival may not
+improve after bariatric surgery despite no significant difference in weight loss. Further
+studies will have to examine whether persistence of diabetes was associated with NASH and
+long-term mortality. Interestingly, when performing a subgroup analysis on cause of death in
+our cohort, NASH was associated with mortality from sepsis. This could suggest that the
+association between NASH and mortality in our study captures a risk factor for non-hepatic
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 8
+
+Author Manuscript
+
+mortality as underlined by the finding that only one person died from liver-related cause in
+our cohort. This could also explain why the association with overall mortality and NASH
+seemed stronger than the association with fibrosis, as opposed to longitudinal studies in nonbariatric surgery NAFLD subjects, indicating again that NASH could be a better predictor of
+overall, non-hepatic mortality whilst fibrosis may better predict liver-related mortality 29, 30.
+In addition, the finding that TNF-α signalling was enriched in one of the gene regulatory
+module, may suggest a link with altered intestinal permeability 31 and possibly a lack of
+reversal to a more favourable metabolic profile in a subgroup of individuals captured by the
+gene signature.
+
+Author Manuscript
+
+Potential limitations of our study include the selection of different populations for our
+bariatric surgery cohort and the US-based control NHANES III cohort although we
+performed careful propensity-score matching to minimize bias with well-matched major
+predictors of prognosis such as age, or features of the metabolic syndrome. Although the
+diagnosis of NASH could not be histologically documented in the control NHANES III
+cohort due to the absence of liver biopsy, we believe that our two-tier selection of patients,
+first by selecting subjects with steatosis and raised ALT then by propensity-matching these
+subjects to the histologically documented Geneva cohort NASH subjects, limited potential
+biases. In addition, we tested the diagnostic performance of this previously reported 32, 33
+non-invasive definition of NASH in the Geneva cohort and confirmed that it was associated
+with prognosis. Finally, although potential bariatric surgery in the NHANES III control
+group could represent a bias, only 2.9% of adults eligible for bariatric surgery in the US
+underwent the procedure between 1998 and 2006, suggesting that the impact of potential
+bariatric surgery in the control NHANES III group would be relatively low 34.
+
+Author Manuscript
+
+In conclusion, we have shown that features found at baseline liver histology predict longterm overall survival in severely obese subjects undergoing bariatric surgery. Our results also
+suggest that a subgroup of subjects with NASH and a poor prognosis 32-gene signature is at
+particularly high risk of long-term mortality after bariatric surgery and may require specific
+management and follow-up. We believe these findings also reinforce the role of systematic
+perioperative liver biopsy in subjects undergoing bariatric surgery as a prognostic and
+diagnostic tool. Further experimental and clinical studies will be required to characterize and
+define these novel findings.
+
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+
+Author Manuscript
+
+Acknowledgments
+Grant Support
+This work was supported by grants from the FLAGS foundation, the Nuovo-Soldati Cancer Research Foundation
+and an advanced training grant from Geneva University Hospital to NG and by NIH/NIDDK R01 DK099558, Irma
+T. Hirschl Trust, and Dr. Harold and Golden Lamport Research Award to YH
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 9
+
+Author Manuscript
+
+Abbreviations
+
+Author Manuscript
+Author Manuscript
+
+AIC
+
+Akaike information criteria
+
+ALT
+
+alanine transaminase
+
+BMI
+
+body mass index
+
+EBMIL
+
+excess BMI loss
+
+EGF
+
+epidermal growth factor
+
+FDR
+
+false discovery rate
+
+HBV
+
+hepatitis B virus
+
+HCV
+
+hepatitis C virus
+
+HR
+
+hazard ratio
+
+MEGENA
+
+Multiscale Embedded Gene Co-expression Network
+Analysis
+
+mTOR
+
+mechanistic target of rapamycin
+
+NAFLD
+
+non-alcoholic fatty liver disease
+
+NAS
+
+NAFLD activity score
+
+NASH
+
+non-alcoholic steatohepatitis
+
+NHANES III
+
+National Health and Nutrition Examination Survey
+
+OR
+
+odds ratio
+
+References
+
+Author Manuscript
+
+1. Finkelstein EA, Trogdon JG, Cohen JW, et al. Annual Medical Spending Attributable To Obesity:
+Payer-And Service-Specific Estimates. Health Affairs. 2009; 28(5):w822–w31. [PubMed:
+19635784]
+2. Ogden CL, Carroll MD, Kit BK, et al. Prevalence of childhood and adult obesity in the united states,
+2011–2012. JAMA. 2014; 311(8):806–14. [PubMed: 24570244]
+3. Ng M, Fleming T, Robinson M, et al. Global, regional, and national prevalence of overweight and
+obesity in children and adults during 1980–2013: a systematic analysis for the Global Burden of
+Disease Study 2013. The Lancet. 384(9945):766–81.
+4. Browning JD, Szczepaniak LS, Dobbins R, et al. Prevalence of hepatic steatosis in an urban
+population in the United States: impact of ethnicity. Hepatology. 2004; 40:1387–95. [PubMed:
+15565570]
+5. Loomba R, Sanyal AJ. The global NAFLD epidemic. Nat Rev Gastroenterol Hepatol. 2013; 10(11):
+686–90. Epub 2013/09/18. [PubMed: 24042449]
+6. Machado M, Marques-Vidal P, Cortez-Pinto H. Hepatic histology in obese patients undergoing
+bariatric surgery. J Hepatol. 2006; 45(4):600–6. [PubMed: 16899321]
+7. Puzziferri N, Roshek TB 3rd, Mayo HG, et al. Long-term follow-up after bariatric surgery: a
+systematic review. JAMA. 2014; 312(9):934–42. [PubMed: 25182102]
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 10
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Author Manuscript
+
+8. Adams TD, Gress RE, Smith SC, et al. Long-Term Mortality after Gastric Bypass Surgery. New
+England Journal of Medicine. 2007; 357(8):753–61. [PubMed: 17715409]
+9. Sjöström L, Narbro K, Sjöström CD, et al. Effects of Bariatric Surgery on Mortality in Swedish
+Obese Subjects. New England Journal of Medicine. 2007; 357(8):741–52. [PubMed: 17715408]
+10. Maciejewski ML, Livingston EH, Smith VA, et al. Survival among high-risk patients after bariatric
+surgery. JAMA. 2011; 305(23):2419–26. [PubMed: 21666276]
+11. Flum DR, Belle SH, King WC, et al. Perioperative safety in the longitudinal assessment of bariatric
+surgery. N Engl J Med. 2009; 361(5):445–54. Epub 2009/07/31. [PubMed: 19641201]
+12. Thomas H, Agrawal S. Systematic Review of Obesity Surgery Mortality Risk Score—Preoperative
+Risk Stratification in Bariatric Surgery. Obesity Surgery. 2012; 22(7):1135–40. [PubMed:
+22535443]
+13. Livingston EH, Huerta S, Arthur D, et al. Male Gender is a Predictor of Morbidity and Age a
+Predictor of Mortality for Patients Undergoing Gastric Bypass Surgery. Annals of Surgery. 2002;
+236(5):576–82. [PubMed: 12409663]
+14. Arterburn D, Livingston EH, Schifftner T, et al. Predictors of long-term mortality after bariatric
+surgery performed in veterans affairs medical centers. Archives of Surgery. 2009; 144(10):914–20.
+[PubMed: 19841358]
+15. Chassot G, Huber O, Koutny-Fong P, et al. Surgical treatment of obesity in 2006. Rev Med Suisse.
+2006; 2(70):1568–71. Epub 2006/07/15. Chirurgie de l’obesite en 2006. [PubMed: 16838722]
+16. Kleiner DE, Brunt EM, Van Natta M, et al. Design and validation of a histological scoring system
+for nonalcoholic fatty liver disease. Hepatology. 2005; 41(6):1313–21. Epub 2005/05/26.
+[PubMed: 15915461]
+17. Brunt EM, Kleiner DE, Wilson LA, et al. Nonalcoholic fatty liver disease (NAFLD) activity score
+and the histopathologic diagnosis in NAFLD: distinct clinicopathologic meanings. Hepatology.
+2011; 53(3):810–20. [PubMed: 21319198]
+18. Centers for Disease Control Prevention (CDC), National Center for Health Statistics (NCHS). U.S.
+Department of Health and Human Services, CDC. National Health and Nutrition Examination
+Survey III, 1988–1994. Hyattsville, MD: 1998.
+19. King LY, Canasto-Chibuque C, Johnson KB, et al. A genomic and clinical prognostic index for
+hepatitis C-related early-stage cirrhosis that predicts clinical deterioration. Gut. 2014 Epub
+2014/08/22.
+20. Hoshida Y. Nearest template prediction: a single-sample-based flexible class prediction with
+confidence assessment. PloS one. 2010; 5(11):e15543. [PubMed: 21124904]
+21. Song W-M, Di Matteo T, Aste T. Building complex networks with Platonic solids. Physical Review
+E. 2012; 85(4):046115.
+22. Song W-M, Di Matteo T, Aste T. Nested hierarchies in planar graphs. Discrete Applied
+Mathematics. 2011; 159(17):2135–46.
+23. Moylan CA, Pang H, Dellinger A, et al. Hepatic gene expression profiles differentiate presymptomatic patients with mild versus severe nonalcoholic fatty liver disease (Severe NAFLD
+Gene Signature). Hepatology. 2013 Epub 2013/08/06.
+24. Fuchs BC, Hoshida Y, Fujii T, et al. Epidermal growth factor receptor inhibition attenuates liver
+fibrosis and development of hepatocellular carcinoma. Hepatology. 2014; 59(4):1577–90. Epub
+2014/03/29. [PubMed: 24677197]
+25. Drews F, Knobel S, Moser M, et al. Disruption of the latent transforming growth factor-beta
+binding protein-1 gene causes alteration in facial structure and influences TGF-beta bioavailability.
+Biochim Biophys Acta. 2008; 1783(1):34–48. Epub 2007/10/24. [PubMed: 17950478]
+26. Zhang D, Goossens N, Guo J, et al. A hepatic stellate cell gene expression signature associated
+with outcomes in hepatitis C cirrhosis and hepatocellular carcinoma after curative resection. Gut.
+2015 Accepted.
+27. Mathurin P, Hollebecque A, Arnalsteen L, et al. Prospective Study of the Long-Term Effects of
+Bariatric Surgery on Liver Injury in Patients Without Advanced Disease. Gastroenterology. 2009;
+137(2):532–40. [PubMed: 19409898]
+28. Lassailly G, Caiazzo R, Buob D, et al. Bariatric Surgery Reduces Features of Non-alcoholic
+Steatohepatitis in Morbidly Obese Patients. Gastroenterology. 2015
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 11
+
+Author Manuscript
+
+29. Angulo P, Kleiner DE, Dam-Larsen S, et al. Liver Fibrosis, but No Other Histologic Features, Is
+Associated With Long-term Outcomes of Patients With Nonalcoholic Fatty Liver Disease.
+Gastroenterology. 2015; 149(2):389–97. e10. [PubMed: 25935633]
+30. Ekstedt M, Hagstrom H, Nasr P, et al. Fibrosis stage is the strongest predictor for disease-specific
+mortality in NAFLD after up to 33 years of follow-up. Hepatology. 2014
+31. Henao-Mejia J, Elinav E, Jin C, et al. Inflammasome-mediated dysbiosis regulates progression of
+NAFLD and obesity. Nature. 2012; 482(7384):179–85. [PubMed: 22297845]
+32. Lazo M, Hernaez R, Bonekamp S, et al. Non-alcoholic fatty liver disease and mortality among US
+adults: prospective cohort study. BMJ. 2011:343.
+33. Ong JP, Pitts A, Younossi ZM. Increased overall mortality and liver-related mortality in nonalcoholic fatty liver disease. J Hepatol. 2008; 49(4):608–12. Epub 2008/08/07. [PubMed:
+18682312]
+34. Nguyen NT, Masoomi H, Magno CP, et al. Trends in Use of Bariatric Surgery, 2003–2008. Journal
+of the American College of Surgeons. 2011; 213(2):261–6. [PubMed: 21624841]
+
+Author Manuscript
+Author Manuscript
+Author Manuscript
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 12
+
+Author Manuscript
+Author Manuscript
+
+Figure 1.
+
+Flowchart of patient inclusion in the Geneva cohort (left) and matching with the NHANES
+III cohort (right). A subset of 47 patients with histologically documented NASH was
+assessed for a liver-based gene signature.
+
+Author Manuscript
+Author Manuscript
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 13
+
+Author Manuscript
+Author Manuscript
+Figure 2.
+
+Author Manuscript
+
+A–D, Survival of the Geneva bariatric surgery cohort stratified by NASH, fibrosis, NAS
+score and fibrosis score. E-F, Survival comparison of propensity-score matched Geneva and
+NHANES III cohorts (n=335 in each cohort). F, Survival comparison of NASH subjects in
+the propensity-score matched Geneva and NHANES III cohorts (n=41 in each cohort).
+
+Author Manuscript
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Goossens et al.
+
+Page 14
+
+Author Manuscript
+Author Manuscript
+Figure 3.
+
+Author Manuscript
+
+Gene expression signature prediction of overall survival in 47 NASH patients in the Geneva
+bariatric surgery cohort. A, 32-gene signature expression pattern, red and blue colors in the
+heatmap indicate high and low expression respectively. Each patient is represented as a
+column, individual genes are represented as rows. B, Survival of subjects based on their 32gene prediction group. C, Gene regulatory network in NASH tissues. Each gene sub-module
+in the network is indicated by a different color and number. Enriched molecular pathways
+associated to 4 specific modules are highlighted.
+EGF, epidermal growth factor; mTOR, mechanistic target of rapamycin
+
+Author Manuscript
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+43.6 (41–47)
+
+OSA, n (%)
+
+Ever smoked (n=297), n (%)
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+120 (90–190)
+5.4 (3.6–8.5)
+
+Triglycerides (mg/dL)
+
+HOMA-IR
+
+8 (5.3–17)
+
+160 (115–210)
+
+150 (120–190)
+
+200 (180–240)
+
+52 (36–92)
+
+72 (60–94)
+
+47 (34–70)
+
+30 (25–42)
+
+0.65 (0.5–0.8)
+
+147 (90–310)
+
+38 (35–39)
+
+255 (200–300)
+
+35 (66)
+
+12 (20)
+
+30 (51)
+
+27 (46)
+
+25 (42)
+
+44 (42–49)
+
+123 (161–174)
+
+20 (34)
+
+46 (40–53)
+
+22 (13)
+
+59
+
+NASH
+
+5.1 (3.4–8.2)
+
+115 (80–180)
+
+130 (110–160)
+
+200 (170–220)
+
+27.5 (19–43)
+
+71 (60–84)
+
+24 (17–36)
+
+19 (15–24)
+
+0.60 (0.5–0.8)
+
+65.5 (32–120)
+
+36 (35–38)
+
+274 (240–310)
+
+101 (41)
+
+55 (13)
+
+125 (29)
+
+55 (13)
+
+156 (36)
+
+43 (41–47)
+
+117 (110–130)
+
+84 (19)
+
+40 (33–48)
+
+67 (16)
+
+433
+
+non-NASH
+
+NASH comparison
+
+8.7 (5.4–16)
+
+160 (115–230)
+
+150 (130–190)
+
+210 (170–250)
+
+48 (34–85)
+
+74 (62–91)
+
+44 (23–78)
+
+28 (21–42)
+
+0.64 (0.5–0.8)
+
+137 (55–280)
+
+38 (35–39)
+
+256 (220–310)
+
+43 (62)
+
+12 (16)
+
+31 (40)
+
+27 (35)
+
+30 (39)
+
+44.4 (42–48)
+
+125 (112–140)
+
+19 (25)
+
+43.6 (36–50)
+
+26 (34)
+
+77
+
+Fibrosis
+
+5.1 (3.4–7.9)
+
+115 (80–180)
+
+130 (100–170)
+
+200 (170–220)
+
+27 (19–43)
+
+70 (60–84)
+
+24 (17–36)
+
+19 (15–24)
+
+0.60 (0.5–0.8)
+
+70 (31–122)
+
+36 (35–38)
+
+272 (230–310)
+
+93 (41)
+
+55 (13)
+
+124 (30)
+
+55 (13)
+
+151 (36)
+
+43.2 (41–47)
+
+117 (108–131)
+
+85 (21)
+
+40.3 (33–49)
+
+63 (15)
+
+415
+
+Non-fibrosis
+
+Fibrosis comparison
+
+0.002
+
+0.004
+
+1.0
+
+1.0
+
+0.002
+
+1.0
+
+0.002
+
+0.002
+
+1.0
+
+0.002
+
+1.0
+
+1.0
+
+0.03
+
+1.0
+
+0.03
+
+0.002
+
+1.0
+
+1.0
+
+0.4
+
+0.4
+
+0.004
+
+0.004
+
+NASH vs non-NASH, p-value
+
+Continuous variables: median (IQR). P-values adjusted for multiple testing (Bonferroni correction).
+
+0.002
+
+0.002
+
+0.6
+
+0.5
+
+0.002
+
+1.0
+
+0.002
+
+0.002
+
+1.0
+
+0.002
+
+1.0
+
+1.0
+
+0.051
+
+1.0
+
+1.0
+
+0.002
+
+1.0
+
+1.0
+
+0.2
+
+1.0
+
+1.0
+
+0.007
+
+Fibrosis vs non-fibrosis, p-value
+
+Statistical comparison
+
+AlkPh, alkaline phosphatase; GGT, γ-glutamyltransferase; HOMA-IR, homeostatic model assessment-insulin resistance; OSA, obstructive sleep apnoea.
+
+140 (110–170)
+
+30 (20–48)
+
+GGT (IU/L)
+200 (170–230)
+
+71 (60–84)
+
+AlkPh (IU/L)
+
+HDL cholesterol (mg/dL)
+
+26 (17–42)
+
+Total cholesterol (mg/dL)
+
+20 (16–27)
+
+Bilirubin (mg/dL)
+
+ALT (IU/L)
+
+74 (35–142)
+0.59 (0.47–0.76)
+
+Ferritin (ng/mL)
+
+AST (IU/L)
+
+36 (35–39)
+
+Albumin (g/L)
+
+Platelets (×109/L)
+268 (226–310)
+
+67 (13)
+136 (46)
+
+Arterial Hypertension, n (%)
+
+Biological
+
+82 (17)
+155 (32)
+
+Diabetes, n (%)
+
+181 (37)
+
+BMI (>45kg/m2), n (%)
+
+BMI
+
+(kg/m2)
+
+104 (21)
+118 (108–132)
+
+Age (>50y), n (%)
+
+Weight (kg)
+
+41 (34–49)
+
+89 (18)
+
+492
+
+Age (y)
+
+Male sex, n (%)
+
+Clinical
+
+N
+
+Variable
+
+All subjects
+
+Baseline characteristics of patients of the Geneva cohort and comparison of NASH versus non-NASH and fibrotic versus non-fibrotic subjects.
+
+Author Manuscript
+
+Table 1
+Goossens et al.
+Page 15
+
+Goossens et al.
+
+Page 16
+
+Table 2
+
+Author Manuscript
+
+Baseline histological data of the Geneva cohort.
+Variable
+
+All subjects
+
+N
+
+NASH
+
+Fibrosis
+
+492
+
+59
+
+77
+
+NAFLD (steatosis >5%), n (%)
+
+439 (89)
+
+59 (100)
+
+73 (95)
+
+NASH, n (%)
+
+59 (12)
+
+59 (100)
+
+47 (61)
+
+Fibrosis, n (%)
+
+77 (16)
+
+47 (78)
+
+77 (100)
+
+2 (1–3)
+
+5 (4–6)
+
+4 (2–5)
+
+Steatosis
+
+2 (1–2)
+
+3 (2.5–3)
+
+3 (2–3)
+
+Lobular Inflammation
+
+0 (0–0)
+
+1 (1–1)
+
+1 (0–2)
+
+Ballooning
+
+0 (0–0)
+
+1 (1–2)
+
+1 (0–1)
+
+415 (84)
+
+12 (20)
+
+0 (0)
+
+stage 1A
+
+30 (6.1)
+
+21 (36)
+
+30 (39)
+
+stage 1B
+
+7 (1.4)
+
+6 (10)
+
+7 (9)
+
+stage 1C
+
+NAS scoring
+Overall NAS score
+
+Fibrosis, n (%)
+
+Author Manuscript
+
+stage 0
+stage 1
+
+22 (4.5)
+
+2 (3)
+
+22 (29)
+
+stage 2
+
+8 (1.6)
+
+8 (14)
+
+8 (10)
+
+stage 3
+
+9 (1.8)
+
+9 (15)
+
+9 (12)
+
+stage 4
+
+1 (0.2)
+
+1 (2)
+
+1 (1)
+
+NAS, non-alcoholic fatty liver disease activity score.
+Continuous variables: median (IQR).
+
+Author Manuscript
+Author Manuscript
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+Author Manuscript
+16 (76)
+4 (19)
+9 (45)
+
+Arterial hypertension
+
+OSA
+
+Ever smoked
+
+8 (38)
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+4 (19)
+15 (88)
+
+Triglycerides ((> 200mg/dL)
+
+HOMA-IR (>3)
+
+EBMIL > 50%
+
+14 (78)
+
+4 (19)
+
+Total cholesterol (> 240mg/dL)
+
+Outcome
+
+1 (5)
+14 (70)
+
+GGT (> ULN)
+
+16 (76)
+
+ALT (> ULN)+
+
+AlkPh (>ULN)
+
+1 (5)
+2 (10)
+
+1 (5)
+
+Ferritin (>1.5 × ULN)*
+
+AST (> ULN)
+
+7 (35)
+
+Albumin (< 35 g/L)
+
+Bilirubin (> ULN)
+
+2 (10)
+
+Platelets (> ULN)
+
+Biological
+
+286 (72)
+
+321 (81)
+
+74 (17)
+
+75 (17)
+
+212 (47)
+
+11 (2)
+
+296 (64)
+
+21 (5)
+
+7 (2)
+
+13 (3)
+
+48 (38)
+
+18 (14)
+
+69 (15)
+
+8 (38)
+
+Fibrosis
+
+51 (11)
+
+20 (95)
+
+NASH
+
+419 (89)
+
+127 (46)
+
+63 (13)
+
+139 (30)
+
+74 (16)
+
+170 (36)
+
+92 (19)
+
+80 (17)
+
+471 (96)
+
+Alive, n (%)
+
+NAFLD (steatosis >5%)
+
+Histology
+
+8 (38)
+
+11 (52)
+
+Diabetes
+
+BMI (>
+
+45kg/m2)
+
+9 (43)
+12 (57)
+
+Age (> 50y)
+
+21 (4)
+
+Male sex
+
+Clinical
+
+Total n
+
+Died, n (%)
+
+Number in each group
+
+1.9
+
+2.1
+
+1.1
+
+1.2
+
+2.6
+
+2.4
+
+1.9
+
+2.3
+
+2.8
+
+1.51
+
+0.93
+
+0.79
+
+3.5
+
+5.1
+
+2.2
+
+0.96
+
+1.6
+
+7.9
+
+3.3
+
+2.1
+
+5.3
+
+3.8
+
+HR
+
+0.62–5.8
+
+0.46–9.2
+
+0.36–3.1
+
+0.41–3.6
+
+0.98–6.7
+
+0.32–18
+
+0.68–5.1
+
+0.53–9.8
+
+0.37–21
+
+0.20–11
+
+0.42–2.7
+
+0.18–3.4
+
+1.5–8.6
+
+2.1–12
+
+0.29–16
+
+0.40–2.3
+
+0.53–4.7
+
+2.9–22
+
+1.4–8.0
+
+0.90–5.0
+
+2.2–13
+
+1.6–9.0
+
+95% CI
+
+0.27
+
+0.33
+
+0.91
+
+0.73
+
+0.054
+
+0.37
+
+0.22
+
+0.25
+
+0.3
+
+0.69
+
+0.89
+
+0.75
+
+0.003
+
+<0.001
+
+0.43
+
+0.92
+
+0.41
+
+<0.001
+
+0.005
+
+0.08
+
+<0.001
+
+0.001
+
+p-value
+
+Univariable analysis
+
+Author Manuscript
+
+Variable
+
+Author Manuscript
+
+Predictors of overall survival in the Geneva cohort.
+
+-
+
+2.9
+
+3.9
+
+-
+
+2.5
+
+2.0
+
+HR
+
+-
+
+1.2–7.4
+
+1.2–12
+
+-
+
+0.9–6.4
+
+0.8–4.8
+
+95% CI
+
+-
+
+0.02
+
+0.02
+
+-
+
+0.07
+
+0.14
+
+p-value
+
+Mutivariable analysis
+
+Author Manuscript
+
+Table 3
+Goossens et al.
+Page 17
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+Author Manuscript
+
+ALT: Men: ULN3<330 IU/L, Women: ULN3<319 IU/L
+
++
+
+Ferritin: >300ng/ml in women and > 450 ng/ml in men,
+
+*
+
+AIC, Akaike information criteria; AlkPh, alkaline phosphatase; CI, confidence interval; EBMIL, excess BMI loss; GGT, γ-glutamyltransferase; HOMA-IR, homeostatic model assessment-insulin resistance
+HR, hazard ratio; OSA, obstructive sleep apnoea; ULN, upper limit of normal
+
+Goossens et al.
+Page 18
+
+Clin Gastroenterol Hepatol. Author manuscript; available in PMC 2017 November 01.
+
+

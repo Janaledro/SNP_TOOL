@@ -1,0 +1,1865 @@
+NIH Public Access
+Author Manuscript
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+NIH-PA Author Manuscript
+
+Published in final edited form as:
+Exp Physiol. 2013 October ; 98(10): 1469–1484. doi:10.1113/expphysiol.2012.070300.
+
+Sex-specific Effects of Exercise Ancestry on Metabolic,
+Morphological, and Gene Expression Phenotypes in Multiple
+Generations of Mouse Offspring
+Lisa M. Guth1, Andrew T. Ludlow1, Sarah Witkowski1, Mallory R. Marshall1, Laila C. J.
+Lima1, Andrew C. Venezia1, Tao Xiao2, Mei-Ling Ting Lee2, Espen E. Spangenburg1, and
+Stephen M. Roth1
+1Department of Kinesiology, School of Public Health, University of Maryland, College Park, MD
+20742
+2Department
+
+of Epidemiology and Biostatistics, School of Public Health, University of Maryland,
+College Park, MD 20742
+
+NIH-PA Author Manuscript
+
+Abstract
+
+NIH-PA Author Manuscript
+
+Early life and pre-conception environmental stimuli can affect adult health-related phenotypes.
+Exercise training is an environmental stimulus affecting many systems throughout the body and
+appears to alter offspring phenotypes. The aim of this study was to examine the influence of
+parental exercise training, or “exercise ancestry,” on morphological and metabolic phenotypes in
+two generations of mouse offspring. F0 C57BL/6 mice were exposed to voluntary exercise or
+sedentary lifestyle and bred with like-exposed mates to produce an F1 generation. F1 mice of both
+ancestries were sedentary and sacrificed at 8 wk or bred with littermates to produce an F2
+generation, which was also sedentary and sacrificed at 8 wk. Small, but broad generation- and sexspecific effects of exercise ancestry were observed for body mass, fat and muscle mass, serum
+insulin, glucose tolerance, and muscle gene expression. F1 EX females were lighter than F1 SED
+females, and had lower absolute tibialis anterior and omental fat masses. Serum insulin was higher
+in F1 EX females compared to F1 SED females. F2 EX females had impaired glucose tolerance
+compared to F2 SED females. Analysis of skeletal muscle mRNA levels revealed several
+generation- and sex-specific differences in mRNA levels for multiple genes, especially those
+related to metabolic genes (e.g., F1 EX males had lower mRNA levels of Hk2, Ppard, Ppargc1α,
+Adipoq, and Scd1 than F1 SED males). These results provide preliminary evidence that parental
+exercise training can influence health-related phenotypes in mouse offspring.
+
+Keywords
+Exercise; Pregnancy; Metabolism
+
+Corresponding Author: Stephen M. Roth, Ph.D., Department of Kinesiology, School of Public Health, University of Maryland,
+College Park, MD 20742, 301-405-2504, Fax 301-405-5578, sroth1@umd.edu.
+Current Addresses of Coauthors
+Andrew Ludlow is currently at the Department of Cell Biology, University of Texas Southwestern Medical Center, Dallas, TX 75390
+Sarah Witkowski is currently at the Department of Kinesiology, University of Massachusetts, Amherst, MA 01003
+Mallory Marshall is currently at the Department of Kinesiology, Michigan State University, East Lansing, MI 48823.
+Laila Lima is currently at the Department of Kinesiology, Catholic University of Brasilia, Brazil.
+Disclosures
+No disclosures or conflicts of interest.
+
+Guth et al.
+
+Page 2
+
+Introduction
+NIH-PA Author Manuscript
+
+The beneficial effects of exercise training on metabolic health are well characterized.
+Among other outcomes, exercise training leads to increased mitochondrial oxidative
+capacity, which may be protective against a variety of chronic diseases (Tseng et al., 1995).
+In addition, exercise training improves glucose homeostasis and fat oxidation (Hoppeler &
+Flück, 2003; Fluck, 2006). In contrast, lack of exercise (or sedentary lifestyle) is associated
+with chronic disease development and all-cause mortality (Mokdad et al., 2004).
+Mounting evidence suggests early life (even pre-conception) events can affect adult healthrelated phenotypes, such as disease risk; this is referred to as the developmental origins of
+health and disease hypothesis (Gluckman & Hanson, 2006). Maternal protein restriction
+results in offspring with lower birth weights and adult metabolic dysfunction (Peixoto-Silva
+et al., 2011). Excess maternal caloric intake also affects offspring health, leading to excess
+adiposity (Bayol et al., 2008) as well as reduced muscle force production (Bayol et al., 2009)
+in exposed offspring compared to mothers consuming a normal diet. The existing literature
+is primarily focused on maternal factors, however there is emerging evidence that dietary
+and other environmental factors can also influence offspring health through the paternal line
+(Ng et al., 2010).
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Exercise training is an environmental stimulus affecting many systems throughout the body,
+and it may be capable of inducing transgenerational modifications similar to these more
+commonly studied nutritional interventions. The clinical literature concerning the effect of
+maternal exercise on maternal, fetal, and child health has been reviewed elsewhere (Kalisiak
+& Spitznagle, 2009). In summary, exercise during pregnancy appears to have beneficial
+effects in the mother and fetus. Child health outcomes are less clear, with studies reporting
+greater, lower, or no difference in body weight between neonates whose mothers did or did
+not exercise during pregnancy (Kalisiak & Spitznagle, 2009). In those studies that observed
+decreased body weight, the difference appeared to be due to a lower percent body fat (Clapp
+& Capeless, 1990). The impact of maternal exercise on adult health outcomes or the impact
+on multiple generations has not been studied in humans. Likewise in rodents, varying effects
+of maternal exercise have been observed. Maternal treadmill running has been linked to
+smaller litters in some (Treadway et al., 1986) though not all (Monteiro et al., 2010) studies,
+but has not been associated with fetal or offspring body mass or length (Treadway et al.,
+1986; Monteiro et al., 2010). Similarly, maternal swimming has been associated with lower
+birth weight offspring in one (Pinto & Shetty, 1995) but not all studies (Treadway &
+Lederman, 1986). Two recent studies documented beneficial adaptations in body
+composition and glucose and insulin dynamics in the mature offspring of dams who had
+access to a voluntary running wheel during the perinatal period (Carter et al., 2012a, 2012b).
+To the best of our knowledge, only one study has examined the impact of maternal exercise
+over multiple generations of offspring; there, maternal swimming led to low-birth-weight
+pups in the first generation. This growth retardation was also observed in a second
+generation of rat pups born to the offspring of exercised dams, regardless of whether the first
+generation offspring were also exposed to exercise (Pinto & Shetty, 1995). Whether these
+observed changes in body size and/or composition are associated with metabolic health or
+function has not been elucidated. Additionally, the potential impact of paternal exercise has
+not been examined.
+Thus, we sought to determine how body morphology, metabolic phenotypes and skeletal
+muscle gene expression are affected by exercise ancestry in multiple generations of mouse
+offspring. Our aims were 1: determine body, fat, organ and skeletal muscle mass differences,
+2: examine metabolic phenotypes such as glucose tolerance and circulating insulin and
+lipids, and 3: determine gene expression differences by skeletal muscle microarray and
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 3
+
+NIH-PA Author Manuscript
+
+targeted gene expression analyses. We hypothesized that multiple generations of offspring
+from exercise ancestry would exhibit advantageous morphological, metabolic and gene
+expression phenotypes compared to offspring from a sedentary ancestry.
+
+Methods
+Ethical Approval
+All animal procedures were performed in accordance with the National Institutes of Health
+guidelines and were approved by the Institutional Animal Care and Use Committee at the
+University of Maryland.
+Animal Procedures
+
+NIH-PA Author Manuscript
+
+We performed a breeding experiment including three generations of animals that were either
+exposed to exercise or kept sedentary in the F0 generation. An overview of our experimental
+design and timeline is provided in Figure 1. A standard diet (Purina Prolab RMH 3000, 60%
+carbohydrate, 14% fat, 26% protein) and water were provided ad libitum for all generations
+in all conditions. 20 male and 20 virgin female 5-wk old C57BL/6 mice were purchased
+from Jackson Laboratories (Bar Harbor, ME); these mice made up the F0 generation.
+C57BL/6 is an inbred strain of mouse that was chosen based on their propensity to perform
+voluntary wheel running, their common use in research studies of exercise, nutrition,
+metabolism, and gene expression, and their fecundity. Until 8 weeks of age, these animals
+were kept sedentary (i.e., unexposed to voluntary running wheel; standard cage conditions)
+and group-housed with same-sex mice.
+
+NIH-PA Author Manuscript
+
+At 8 weeks of age, each sex was randomly split into two condition groups: exercise (EX)
+and sedentary (SED) (n=10 per group). F0 animals were placed into standard cages (F0
+SED) or in cages with computer-monitored voluntary running wheels (F0 EX). F0 mice
+were housed individually in their respective cages for 10 weeks. Following this intervention
+males and females from like conditions (EX or SED) were randomly paired for mating. The
+F0 EX breeding pairs had continued access to the running wheel throughout the breeding
+period, however running activity could not be monitored during the breeding period as there
+were two mice in each cage. Males were removed after pregnancy was visually confirmed
+by abdominal distention, vaginal plug and/or and body weight changes. After removal, F0
+males had continued access to the running wheel (EX) or SED condition until sacrifice at 20
+weeks (a total of 12 weeks of wheel access). F0 females had continued access to the running
+wheel (EX) or SED condition during pregnancy and lactation and were sacrificed at 25
+weeks after the F1 mice were weaned (a total of 17 weeks of wheel access). Eight of ten
+breeding pairs in each condition produced viable litters. All of the F0 animals that
+underwent the intervention period (EX or SED condition) were included in the F0 analyses.
+The pups resulting from this original mating were designated as F1. A random group of 10
+male and 10 female F1 pups from each condition (EX and SED) were designated as F1
+breeders and were mated at 8 weeks with F1 littermates to produce the F2 generation. Of the
+10 breeding pairs per condition, 7 F1 EX and 9 F1 SED pairs produced viable litters. The
+remaining F1 pups were glucose tolerance tested and sacrificed at 8 weeks. F2 pups from
+each condition were glucose tolerance tested and sacrificed at 8 weeks. Body weight was
+monitored weekly for all animals. F1 and F2 offspring remained sedentary throughout the
+experiment. Following weaning at 21–25 days, all F1 and F2 offspring were group-housed
+with same-sex littermates. We used 1–7 offspring per litter for the 8-week analyses.
+Intraperitoneal Glucose Tolerance Test (IPGTT)
+Glucose tolerance tests were performed on all F0, F1, and F2 mice at 8 (F1 and F2
+generations), 20 (F0 males), or 25 (F0 females) weeks. For F0 EX mice, the voluntary
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 4
+
+NIH-PA Author Manuscript
+
+running wheels were locked 36 hours prior to the glucose tolerance test to limit the effect of
+acute exercise. All animals were fasted overnight (12 hr) prior to glucose tolerance testing.
+Baseline blood glucose measurements were made and then each mouse was injected
+intraperitoneally with 2.0 mg of D-glucose (Sigma-Aldrich, St. Louis, MO) per gram of
+body mass. Blood glucose was measured 30, 60, 90, and 120 minutes after injection in all
+animals; blood glucose was also measured 15 min after injection in F2 males and females.
+Area under the curve for concentration vs. time was calculated using the linear trapezoidal
+rule. Blood glucose measurements were made using a rodent-specific glucometer
+(AlphaTRAK; Abbott Laboratories, Abbott Park, IL) on blood removed from a tail snip.
+Following the glucose tolerance test, wheels were unlocked and animals were returned to ad
+libitum food and water.
+Tissue & Serum Collection
+
+NIH-PA Author Manuscript
+
+Animals were euthanized 2–5 days following the glucose tolerance test. To limit the effects
+of acute exercise and feeding, running wheels were locked 24 hours and animals were fasted
+for 4 hours prior to euthanasia. Euthanasia was performed under isoflurance anesthesia; the
+method of euthanasia was exsanguination by cardiac puncture followed by removal of the
+heart. Heart, liver, omental fat, cerebellum, tibialis anterior (TA), extensor digitorum longus
+(EDL), soleus, plantaris, gastrocnemius, and quadriceps muscles were dissected, weighed,
+and flash frozen in liquid nitrogen and then stored at −80°C until analysis. Approximately 1
+mL of blood was obtained from a cardiac puncture and allowed to coagulate. The coagulated
+blood was centrifuged at 1750 × g for 15 minutes to obtain serum. Serum was removed to a
+fresh tube and stored at −80°C until analysis.
+Serum Measures
+Serum triglyceride and glycerol were measured using the Serum Triglyceride Determination
+Kit (TR0100; Sigma-Aldrich, St. Louis, MO). Serum insulin was measured following a 4hour fast using a mouse-specific ELISA kit (80-INSMS-E01, ALPCO Diagnostics, Salem,
+NH).
+Tissue Preparation
+
+NIH-PA Author Manuscript
+
+The gastrocnemius muscle was chosen for analysis because it is a mixed-fiber type muscle
+(Augusto et al., 2004) and therefore may be more representative of the average mouse
+skeletal muscle than a predominantly fast or slow muscle. Whole gastrocnemius muscle was
+powdered in liquid nitrogen. Total RNA was isolated with Trizol reagent (15596-026, Life
+Technologies, Grand Island, NY), DNase-treated, and quantified with the NanoDrop (BioRad, Hercules, CA) spectrophotometer. Reverse transcription was performed with 1μg of
+total RNA with the High-Capacity cDNA RT kit (4368813, Life Technologies, Grand
+Island, NY).
+Microarray
+Genome-wide analyses of gene expression were performed on subsets of F1 and F2 males.
+Total RNA was extracted from powdered gastrocnemius muscle using the RNeasy Fibrous
+Tissue Mini Kit (Qiagen, Germantown, MD). All samples were diluted to 98 ng/μl and
+pooled by generation and condition (5 pooled samples per array). A total of 8 arrays were
+performed (2 arrays each for F1 EX males, F1 SED males, F2 EX males, and F2 SED
+males). Microarray experiments were performed as two-color experiments using GeneChip
+Mouse Exon 1.0 ST Array chips (Affymetrix, Santa Clara, CA). The microarray gene
+expression data were imported from the probe cell intensity CEL files and the Affymetrix
+Expression Console software was used to calculate the summary measure of the probe level
+data. These microarray data have been deposited in the NCBI Gene Expression Omnibus
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 5
+
+(GEO, http://www.ncbi.nlm.nih.gov/geo/) website and can be accessed through GEO Series
+accession number GSE40469.
+
+NIH-PA Author Manuscript
+
+Gene Expression
+
+NIH-PA Author Manuscript
+
+Real-time quantitative PCR was used to assess the gene expression level of adiponectin
+(Adipoq), cell death-inducing DFFA-like effector c (Cidec), and stearoyl-Coenzyme A
+desaturase 1 (Scd1) (n=10–20 per group). Primer and probe sequences were designed for
+each gene’s mRNA sequence using PrimeTime qPCR Assay designer (IDT). 18S rRNA was
+used as an expression control for both real-time and gel-based PCR and did not differ
+between treatment groups. RT-PCR was used to measure the expression of metabolic genes
+(peroxisome proliferator-activated receptor gamma, coactivator 1 alpha, Ppargc1a; pyruvate
+dehydrogenase kinase, isozyme 4, Pdk4; peroxisome proliferator activated receptor alpha,
+delta, and gamma, Ppara, Ppard, and Pparg, aminolevulinate, delta-, synthase 1, Alas1;
+hexokinase 2, Hk2; cytochrome c, somatic, Cycs; citrate synthase, Cs; and cytochrome c
+oxidase subunit I, Cox1) (n=7–10 per group). Primer and probe sequences and PCR
+conditions are available upon request. Products were visualized on 1.5% agarose gels using
+ethidium bromide. qPCR data were normalized to 18S using the −ΔCt method (Schmittgen
+& Livak, 2008) and expressed as fold induction (2−ΔCt) of mRNA expression compared to
+the corresponding EX group (1.0-fold induction). Relative band intensities from PCR gels
+were be analyzed with NIH ImageJ software and normalized to 18s. Values are shown as
+means ± standard error.
+Statistics
+Two-tailed t-tests were used to compare body and tissue masses, serum measures, and
+IPGTT AUC between EX and SED groups within each sex and generation. A repeatedmeasures ANOVA was used to compare the IPGTT response between EX and SED groups
+within each sex and generation. One- (F1 male RT-qPCR analysis) and two- (all other
+analyses) tailed t-tests were used to compare gene expression between EX and SED groups
+within each sex and generation using SPSS version 18. Statistical significance was accepted
+at p < 0.05. A 2-stage ANOVA procedure was carried out on the 4 arrays of the F1
+generation and F2 generations, respectively. Details about this procedure can be found in
+Lee (Lee, 2004). Briefly, in the first-stage ANOVA, a one-way ANOVA model for EX vs.
+SED ancestry was fitted on the entire dataset, resulting in normalized estimates of gene
+expression centered by the ancestry factor. These normalized values were used in a secondstage ANOVA to identify which probe sets were significantly differentially expressed
+between EX and SED ancestries.
+
+NIH-PA Author Manuscript
+
+Results
+During the pre-breeding intervention period, F0 EX males ran an average of 6558 ± 503 m ×
+24 hr−1 while F0 EX females ran a significantly greater (p < 0.05) average of 8378 ± 533 m
+× 24 hr−1. Running behavior was only measured prior to mating, though the F0 EX mice had
+continued access to the voluntary running wheel throughout breeding, pregnancy and
+lactation. To examine the effects of parental exercise, we characterized the body mass,
+various tissue masses, glucose tolerance, and serum insulin, glycerol, and triglyceride levels
+in the original parent generation (F0) and F1 and F2 offspring from EX and SED ancestries.
+F0 generation
+Males—After the intervention period, F0 EX males weighed significantly less than F0 SED
+males (p=0.024; Table 1). F0 EX males also had significantly less omental fat mass
+compared to SED males (p=0.003; Table 1), a difference that was maintained after
+normalizing to body mass (p=0.009; Table 2). Additionally, when normalized to body mass,
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 6
+
+NIH-PA Author Manuscript
+
+F0 EX males had greater EDL mass and lower omental fat mass compared to F0 SED males
+(p=0.021 and p=0.001, respectively; Table 2). There were no other differences in organ or
+tissue mass in F0 males. Baseline blood glucose and glucose tolerance was not affected by
+the EX intervention in F0 males (Figure 2A).
+Females—F0 female body mass was not affected by the EX intervention, but EX females
+had significantly greater soleus mass and normalized soleus mass than SED females
+(p=0.001 for both; Tables 1 & 2). Baseline blood glucose concentration was not affected by
+the EX intervention in females. However, glucose tolerance tended to be better (p=0.051,
+16.4%) in EX compared to SED females as indicated by AUC and EX females had
+significantly lower (p=0.001) blood glucose 60 minutes following the glucose injection
+(Figure 2B).
+F1 generation
+The F1 offspring sacrificed at 8 wk of age for analysis was comprised of 20 EX males, 17
+SED males, 12 EX females, and 18 SED females. F1 litter size ranged from 3–9 (EX) and
+4–9 (SED). The average litter size was not affected by EX (6.5 offspring/litter for F1 EX
+and 6.9 offspring/litter for F1 SED, p>0.05).
+
+NIH-PA Author Manuscript
+
+Males—There were no differences in body mass in F1 male offspring at 8 weeks. F1 males
+from EX parents had lower soleus, EDL, and quadriceps masses (all p < 0.05; Table 1) than
+F1 males from SED parents, though only EDL mass remained significantly lower in F1 EX
+males after normalizing to body mass (p=0.015, Table 2). When normalized to body mass,
+F1 EX males had greater heart mass compared to F1 SED males (p=0.01, Table 2). No
+differences were observed in baseline blood glucose concentration, glucose tolerance
+(Figure 2C) or serum insulin, free glycerol, and triglyceride (Table 3) between EX and SED
+F1 males.
+
+NIH-PA Author Manuscript
+
+Females—F1 female offspring from EX parents were significantly lighter (5%) at 8 weeks
+(p=0.001; Table 1) compared to offspring from SED parents. F1 females from EX parents
+also had lower TA and omental fat masses compared to F1 females from SED parents (p <
+0.05; Table 1). After normalizing to body mass, the difference in TA mass was no longer
+significant, but omental fat mass remained lower in F1 EX females (p=0.017; Table 2). No
+differences in baseline blood glucose concentration or glucose tolerance were observed
+between EX and SED in F1 females (Figure 2D), but serum insulin was significantly higher
+(55%) in F1 EX females compared to SED females (p=0.008; Table 3). Serum free glycerol
+and total triglyceride concentration were not affected by EX ancestry in F1 females (Table
+3).
+F2 generation
+The F2 generation was comprised of 18 EX males, 18 SED males, 14 EX females, and 23
+SED females. F2 litter size ranged from 3–7 (EX) and from 1–7 (SED). The average litter
+size was not affected by EX ancestry (4.6 F2 offspring for both F2 EX and F2 SED, p>0.05).
+Males—At 8 weeks, no differences in absolute or normalized body, organ, or muscle
+weights were observed between F2 male offspring with EX and SED ancestries (Tables 1 &
+2). No differences in baseline blood glucose concentration or glucose tolerance were
+observed in F2 male offspring between EX and SED ancestries (Figure 2E). No differences
+in serum insulin, free glycerol or triglycerides were observed between EX and SED F2 male
+offspring (Table 3)
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 7
+
+NIH-PA Author Manuscript
+
+Females—There were no differences in body, organ, or muscle weights between F2 EX
+and SED female offspring (Table 1), however after normalizing to body mass, F2 EX
+females had lower soleus, EDL, and omental fat mass (p=0.003, 0.015, and 0.048,
+respectively; Table 2). Baseline blood glucose concentration did not vary between EX and
+SED F2 female offspring, but EX offspring exhibited slightly impaired glucose tolerance
+compared to SED offspring as indicated by a larger (14%) AUC (P=0.015; Figure 2F).
+Additionally, EX female offspring had significantly higher blood glucose concentration at
+both 60 and 120 minutes after the glucose injection (p=0.049 and <0.001, respectively).
+There were no differences in serum insulin, free glycerol, or triglyceride between EX and
+SED F2 offspring (Table 3).
+Gene Expression Analyses
+
+NIH-PA Author Manuscript
+
+In order to broadly assess the impact of EX ancestry on muscle gene expression, we
+performed a genome-wide gene expression microarray on gastrocnemius muscle of F1 and
+F2 males. In F1 males, 86 targets were upregulated and 23 targets were downregulated with
+EX ancestry (see Supplementary Figure 1, Supplementary Table 1). In F2 males, 142 targets
+were upregulated and 35 targets were downregulated with EX ancestry (see Supplementary
+Figure 2, Supplementary Table 2). Examination of the differentially regulated genes
+revealed three genes that have been linked to lipid metabolism: Adipoq, Cidec, and Scd1
+were all downregulated in F1 EX males. We used real-time qPCR analysis of these genes to
+validate the microarray findings and further examine the expression of these genes in our
+remaining groups.
+Real-time qPCR analysis confirmed the lower gastrocnemius expression of Adipoq and
+Scd1 in F1 EX males (p < 0.05, Figure 4C) and demonstrated a tendency for lower
+expression of Cidec (p = 0.06, Figure 4C). We also examined the expression level of these
+genes in F0 and F2 males and found lower expression of Scd1 in F2 males with EX ancestry
+compared to F2 males of SED ancestry (p=0.07; Figure 4E), but no other differences. We
+also measured the gastrocnemius expression levels of these genes in all three generations of
+females. Interestingly, many of the patterns observed in the males were reversed in females.
+In F0 females, there was a tendency for higher expression of Adipoq and Cidec in the EX
+group (p=0.06–0.09; Figure 4B). Adipoq expression was significantly higher in F1 EX
+females and Scd1 expression was significantly higher in F2 EX females (Figure 4F).
+
+NIH-PA Author Manuscript
+
+To further investigate processes that might contribute to some of the observed body and
+tissue mass and glucose metabolism differences, we also performed targeted gene
+expression analyses in gastrocnemius muscle. We examined a number of genes that have
+been previously associated with acute exercise, exercise training responses or other
+metabolic health outcomes (McClelland, 2004; Leick et al., 2007). These included Alas1,
+Cox1, Cycs, Cs, Hk2, Pdk4, Ppara, Ppard, Pparg, and Ppargc1a. No significant differences
+in expression of any of these genes were observed in F0 males. In F0 females, Pdk4
+expression was significantly lower in exercised animals (Figure 3A). There was a tendency
+for Pparg expression to be higher in exercised females, but this difference did not reach
+statistical significance (p=0.07; Figure 3A). No expression differences were observed for
+any of these genes in F1 females. F1 males with EX ancestry had significantly lower
+expression levels of Hk2, Ppard, and Ppargc1a (all p<0.05; Figure 3B). Additionally, F1
+males with EX ancestry tended to have lower expression levels of Cs, Ppara, and Alas1,
+though these differences did not reach statistical significance (p=0.06–0.09; Figure 3B). F2
+males with EX ancestry had significantly higher expression levels of Cycs and significantly
+lower expression levels of Cox1 and Pparg (all p<0.05; Figure 2C). F2 EX females had
+significantly lower expression levels of Pparγ and significantly higher expression levels of
+Ppargc1a (all p<0.05; Figure 2D). In addition, F2 females with EX ancestry tended to have
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 8
+
+higher expression levels of Alas1, Hk2, and Ppard, though these differences did not reach
+statistical significance (p=0.06–0.09; Figure 3D).
+
+NIH-PA Author Manuscript
+
+Discussion
+In this study, we sought to determine the effect of EX ancestry on the morphological and
+metabolic phenotypes of two generations of offspring. This study investigated the influence
+of maternal and paternal EX ancestry on anatomical characteristics and metabolic
+phenotypes, including skeletal muscle gene expression. Our results indicate broad effects of
+EX ancestry on various offspring phenotypes, including body mass, fat and muscle mass,
+fasting serum insulin, and glucose tolerance. Further, we observed effects of EX ancestry on
+the expression of several gastrocnemius muscle mRNAs through two generations of
+offspring.
+
+NIH-PA Author Manuscript
+
+Following the EX training period, F0 EX males were lighter with less omental fat mass and
+greater normalized muscle mass than SED males. F0 EX females had greater soleus mass
+than SED females but did not differ in fat or body mass. Other researchers have also
+observed lower body mass in male, but not female mice after a period of voluntary exercise
+(De Bono et al., 2006), though this is not universal as some have observed decreased body
+mass in both sexes (Swallow et al., 2005) or no differences in either sex (Allen et al., 2001).
+There were no differences in glucose tolerance in males following the exercise intervention
+and a tendency for improved glucose tolerance in exercised females. Though forced exercise
+can induce improvements in glucose tolerance in mice (James et al., 1983), no other studies
+that we are aware of have observed an effect of voluntary exercise on glucose tolerance in
+non-obese mice on standard chow. Our voluntary wheel running approach alleviates the
+induction of systemic handling stress seen with forced running or swimming, however it
+does not allow us to control exercise volume or intensity. We anticipated that voluntary
+running wheel would be sufficient to produce significant adaptations as measurable changes
+in muscle fiber type content have been observed in comparable studies in the gastrocnemius
+muscle in the same mouse strain as used here (Allen et al., 2001).
+
+NIH-PA Author Manuscript
+
+F1 females with EX ancestry were lighter than those with SED ancestry at 8 weeks of age;
+no other differences in offspring body mass were observed. Maternal exercise training has
+previously led to offspring with lower (Pinto & Shetty, 1995) or not different (Carter et al.,
+2012a) body mass. Our study does not allow us to identify a specific mechanism leading to
+lower body mass in F1 EX females because F0 dams were exposed to exercise from preconception through gestation and lactation (e.g. epigenetic, in utereo, or lactational
+mechanisms). There does not appear to be a transgenerational effect (e.g., F2 offspring were
+unaffected) of parental exercise on body mass at 8 weeks of age in our study. Only one other
+study we are aware of has examined the effect of maternal exercise on offspring mass over
+multiple generations. Pinto and Shetty (1995) found EX ancestry led to decreased body mass
+in both F1 and F2 offspring; however, the exercise intervention in that study was forced
+swimming, which is often questioned as a form of exercise in a rodent (Baldwin, 1985) and
+may have induced an additional maternal stress independent of the exercise stimulus.
+Maternal stress alone has induced both higher (Schulz et al., 2011) and lower (Patin et al.,
+2002) offspring body mass in other studies.
+Although we did not measure body composition, we examined individual tissue masses to
+identify potential differences in organ mass in the offspring. F1 males with EX parents had
+lower muscle masses than F1 males from SED parents, and F1 females from EX parents had
+lower TA and omental fat mass compared to F1 females from SED parents. Recent evidence
+suggests that the maternal environment can have significant effects on developmental
+partitioning of muscle, adipose tissue, and connective tissue precursors (Du et al., 2011);
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 9
+
+NIH-PA Author Manuscript
+
+however, we are unable to confirm if this would explain our differences. Interestingly, F1
+EX males had lower muscle masses compared to F1 SED males, however, there were no
+corresponding differences in omental fat pad mass. Carter et al. (2012a) observed lower fat
+mass and higher lean mass percentages in mature (39 wk) male, but not female, offspring of
+exercised dams, while in a similar study, no body composition differences were observed
+(Carter et al., 2012b). Though these results are not directly comparable due to the difference
+in offspring age and method of body composition assessment, it is interesting that we
+observed a contrasting effect, with lower fat mass in only female offspring. In the F2
+offspring, EX females had lower relative muscle and omental fat pad mass compared to F2
+SED females. The differential effects of EX ancestry on offspring body and tissue mass
+between sexes and generations suggest the observed differences may be induced through
+sex- and/or generation-specific mechanisms.
+
+NIH-PA Author Manuscript
+
+Glucose tolerance was affected only in F2 female offspring where those with EX ancestry
+had slightly reduced glucose tolerance than those with SED ancestry. It is possible that the
+greater fasting insulin concentration observed in F1 EX females could have led to impaired
+glucose disposal and thus hyperglycemia during pregnancy if insulin resistance developed in
+the F1 EX females. Mild maternal hyperglycemia during pregnancy has been linked with
+reduced glucose tolerance in rat offspring (Gauguier et al. 1991). Two recent studies have
+examined the influence of maternal exercise on glucose tolerance in healthy animals. In
+both, offspring from exercised dams had improved glucose tolerance as well as insulin
+sensitivity (Carter et al., 2012a, 2012b). It is critical to note, however, that these
+improvements were not observed until offspring were 31–32 weeks (Carter et al., 2012a) or
+10 months of age (Carter et al., 2012b). Together with our results this indicates that while
+the positive effects of exercise training on glucose tolerance may be transmittable to
+offspring, they are not yet apparent at a young age.
+
+NIH-PA Author Manuscript
+
+The effects of EX and EX ancestry on gene expression were examined by a combination of
+global mRNA profiling and targeted gene expression analysis of gastrocnemius muscle. Our
+study is the first to examine the effect of maternal exercise or exercise ancestry on skeletal
+muscle gene expression. Our microarray approach revealed a number of mRNA transcripts
+were differentially expressed as a function of EX ancestry in both generations, with a greater
+number of transcripts affected in the F2 compared to the F1 generation. Surprisingly, there
+was no overlap in differentially expressed transcripts between F1 and F2 offspring, again
+highlighting the difference between in utero versus transgenerational effects. Three of the
+differentially regulated transcripts (Adipoq, Cidec, and Scd1) have previously been
+associated with lipid metabolism and specifically intramuscular lipogenesis. Adipoq codes
+for the adipokine adiponectin, that when secreted from adipocytes promotes fatty acid
+oxidation and enhances insulin sensitivity (Tomas et al., 2002) in muscle. Adipoq mRNA is
+expressed in muscle (Delaigle et al., 2004; Liu et al., 2009), but it is unclear whether the
+resultant protein has similar effects to circulating adiponectin. Adipoq mRNA in muscle is
+associated with greater intramuscular fat (Wang et al., 2008) and lipotoxicity (Delaigle et al.,
+2006), but also enhanced insulin sensitivity (Liu et al., 2009). Cidec codes for cell deathinducing DFFA-like effector c, which promotes apoptosis (Liang et al., 2003) and is
+upregulated in adipose tissue during adipogenesis (Puri et al., 2007). In muscle, Cidec
+mRNA expression is associated with de novo lipogenesis (Wang et al., 2010). Scd1 codes
+for steroyl-CoA desaturase-1, which enzymatically regulates the formation of
+monounsaturated fatty acids within the cell (Kim et al., 2011). Scd1 mRNA expression in
+muscle is associated with the increased intramuscular triglyceride concentrations observed
+with both obesity (Hulver et al., 2005) and exercise training (Dobrzyn et al., 2010). These
+lipogenic transcripts were downregulated in F1 EX male offspring, with a similar pattern
+observed in the F0 and F2 generations. In females, we found the opposite result, an overall
+tendency towards increased expression of Adipoq, Cidec, and Scd1 in EX/EX ancestry
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 10
+
+NIH-PA Author Manuscript
+
+females. Recalling that F1 EX females had less omental fat than F1 SED ancestry females
+while there were no differences in fat mass in male offspring, we speculate that EX ancestry
+females preferentially decreased adipose tissue lipid storage compared to SED ancestry
+females while EX ancestry males preferentially decreased ectopic (including muscle) lipid
+storage.
+
+NIH-PA Author Manuscript
+
+In addition to the targets identified by the microarray, we examined a number of a priori
+metabolic gene expression targets. Direct exposure to EX did not lead to differences in basal
+expression of the a priori metabolic genes in F0 males and only Pdk4 expression was
+significantly lower in EX females. Although altered expression levels of the selected genes
+have been observed following exercise in previous studies (Puntschart et al., 1995; Schmutz
+et al., 2006), the lack of expression differences in our study is not surprising because
+sacrifice occurred 24 hours after the last bout of wheel running and in humans, the exerciseinduced increase in transcription of some metabolic genes is transient and expression returns
+to baseline by 24 hours post-exercise (Pilegaard et al., 2000). In F1 offpring, EX males
+tended to have lower expression levels of Cs, Ppara, and Alas1. If these gene expression
+differences reflect a more extensive effect of EX ancestry on skeletal muscle gene
+expression then perhaps the morphological differences seen in the F1 EX males (smaller
+soleus, EDL, and quadriceps muscle mass) can be partially explained by an impact of EX
+ancestry on skeletal muscle gene expression and tissue development. Interestingly, there
+were more significant effects of EX ancestry on metabolic gene expression in F2 offspring
+than F1 offspring. The magnitude of the difference between EX and SED ancestries,
+however, was smaller, which may explain why the differences in gene expression were not
+associated with gross morphological changes in the F2 generation. Alternatively, EX may
+uniquely affect skeletal muscle gene expression in the F2 offspring through the germ line
+whereas the gross morphological effects observed in the F1 generation may be related to a
+direct influence of exercise during the F1 in utero period.
+
+NIH-PA Author Manuscript
+
+Altered maternal nutrition and other stressors have been associated with epigenetic changes
+in a number of genes and tissues, however in many of these studies the associated
+physiological effects of these gene changes do not present until later in life or following a
+metabolic challenge such as a high fat diet (Vickers, 2011). Similarly, the lack of overt
+physiological phenotype observed in the present study may be related to the young age (8
+wk) of our animals and/or their exposure to only typical cage conditions and diet. The body
+composition differences between offspring of sedentary and exercised dams observed by
+Carter et al. (2012a) were observed at 39–40 weeks of age. Further, the authors note that the
+observed differences in glucose tolerance were not detectable until 7 months of age (Carter
+et al., 2012a). Thus we believe future studies should investigate the effects of EX ancestry
+on metabolic phenotypes such as glucose tolerance in animals following aging or a
+metabolic challenge.
+We observed differences in gene expression patterns between males and females in multiple
+offspring groups. For several genes, the expression pattern was inverted between F1 males
+and F2 females, with Alas1, Hk2, Ppard, and Ppargc1a all lower in EX F1 male compared to
+SED while they were higher in F2 EX females compared to SED. Overall, EX ancestry led
+to primarily greater mRNA expression in female offspring and lower mRNA expression in
+male offspring. These patterns along with the body and tissue weight results demonstrate an
+apparent sex-specific effect of EX ancestry on offspring outcomes. Sex-specific
+environmental influences have been observed previously for offspring phenotypes in both
+humans (Stein et al., 2007; Lumey et al., 2009) and rodents (Dunn & Bale, 2009; van Straten
+et al., 2012; Carter et al., 2012a). In humans, prenatal exposure to famine was associated
+with increased BMI (Stein et al., 2007) and blood lipids (Lumey et al., 2009) in women, but
+not men. In mice, in utero protein restriction influenced the development of metabolic
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 11
+
+NIH-PA Author Manuscript
+
+dysfunction in female, but not male offspring (van Straten et al., 2012). Additionally,
+maternal high fat diet induced greater body length in both sexes of second-generation
+offspring, but higher Igf1 levels in females only (Dunn & Bale, 2009). With regard to
+exercise, voluntary maternal wheel running in the perinatal period led to higher lean and
+lower fat mass percentages in mature male, but not female offspring (Carter et al., 2012a).
+One proposed mechanism for these sex-dependent observations is a difference in placental
+function between male and female fetuses. Chronic maternal stress in mice led to sexspecific differences in placenta gene expression where male placentas had greater expression
+levels of genes important to growth while female placentas were not affected (Mueller &
+Bale, 2008). Several possible mechanisms could lead to this sex-specificity, such as an
+effect of the environmental stimulus on early development (gametogenesis or embryonic
+sexual differentiation). Alternately, the environment could interact with the offspring’s own
+sex chromosomes or hormones later in development.
+
+NIH-PA Author Manuscript
+
+A critical difference between our study and the other studies of maternal exercise and
+offspring phenotypes is the inbred status of the mice used in our study. The rats used in the
+Pinto and Shetty (1995) study and the mice and rats used in the Carter et al. (2012a; 2012b)
+studies were both from outbred lines, while we studied C57Bl/6 mice, an inbred strain.
+Though there are additional confounding factors, the effect of maternal exercise in outbred
+lines appears to be more dramatic than the effect of exercise ancestry observed in the present
+study. Interestingly, other environmentally-induced transgenerational effects on offspring
+health have also been shown to be dependent on the inbred vs. outbred status of the rodent
+line used for the experiment (Skinner et al., 2010; Guerrero-Bosagna et al., 2012). GuerreroBosagna et al. (2012) found maternal vinclozolin treatment led to increased adult onset
+disease in an outbred, but not an inbred mouse model. This is the only study we are aware of
+to directly compare transgenerational phenotypes in an inbred and outbred mouse strain
+within the same study. The mechanisms contributing to this differential response between
+inbred and outbred lines of rodents have not yet been identified. However, we speculate that
+the stress of continued inbreeding may modify the epigenetic mechanisms responsible for
+manifestation of environmentally induced phenotypic changes, thus making the inbred
+organism less susceptible to epigenetic reprogramming of the germ line in response to
+environmental factors. Together these studies suggest a critical role of rodent strain when
+examining the role of the environment in modifying transgenerational phenotypes.
+
+NIH-PA Author Manuscript
+
+We would like to acknowledge some limitations to our study related to the breeding and preweaning methodology. The litter sizes reported reflect those offspring that were weaned
+from each breeding pair. We did not collect information on litter size, survival or body mass
+prior to weaning. Additionally, we recognize that the variability in litter size and weaning
+time could have affected early offspring nutrition. Overnutrition induced by culling litters
+during lactation leads to neonatal overgrowth and can induce the development of obesity and
+glucose intolerance (Pentinat et al., 2010) as well as a number of other cardiometabolic risk
+factors (Habbout et al., 2013). As noted previously, 1–7 offspring per litter were used for
+analysis in this study. The use of multiple offspring per litter was unavoidable due to sample
+size limitations. However, it is important to note that the use of multiple offspring per litter
+could confound the findings due to the “litter effect”, where pups within litters are more
+similar to one another than pups between litters (Holson et al., 1976).
+In summary, EX ancestry affects various offspring phenotypes across two generations, but
+in a generation- and sex-dependent manner. We have observed effects at both the wholebody (body and tissue mass and glucose tolerance) and skeletal muscle gene expression
+levels, which together reflect a broad impact of EX ancestry. This study is the first to
+examine the effect of exercise ancestry on a broad range of metabolic phenotypes, however
+this study is descriptive in nature and the specific mechanisms responsible for the observed
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 12
+
+NIH-PA Author Manuscript
+
+phenotypes were not elucidated. Future studies should examine the potential influences of
+maternal vs. paternal exercise, and their cooperative effects. Similarly, additional work
+should isolate the EX exposure to discrete phases (i.e. pre-conception, gestation, lactation)
+to provide further insight into potential mechanisms.
+
+Supplementary Material
+Refer to Web version on PubMed Central for supplementary material.
+
+Acknowledgments
+We would like to acknowledge Kat Perret, Nick Caffes, and Jenny Wang for their assistance in animal handing,
+tissue preparation, and gene expression experiments.
+Grants
+Funding was provided by NIH T32 AG000268 (L.M. Guth and A.T. Ludlow), a University of Maryland Graduate
+Research Board award (S.M. Roth), and a University of Maryland College of Health and Human Performance’s
+Public Health Research Seed Money Program award (S.M. Roth and E.E. Spangenburg).
+
+References
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Allen DL, Harrison BC, Maass A, Bell ML, Byrnes WC, Leinwand LA. Cardiac and skeletal muscle
+adaptations to voluntary wheel running in the mouse. J Appl Physiol. 2001; 90:1900–1908.
+[PubMed: 11299284]
+Augusto V, Padovani CR, Campos GER. Skeletal muscle fiber types in C57BL6J mice. Braz J
+Morphol Sci. 2004; 21:89–94.
+Baldwin KM. Effects of chronic exercise on biochemical and functional properties of the heart. Med
+Sci Sports Exerc. 1985; 17:522–528. [PubMed: 2933575]
+Bayol SA, Macharia R, Farrington SJ, Simbi BH, Stickland NC. Evidence that a maternal “junk food”
+diet during pregnancy and lactation can reduce muscle force in offspring. Eur J Nutr. 2009; 48:62–
+65. [PubMed: 19099241]
+Bayol SA, Simbi BH, Bertrand JA, Stickland NC. Offspring from mothers fed a “junk food” diet in
+pregnancy and lactation exhibit exacerbated adiposity that is more pronounced in females. J Physiol
+(Lond). 2008; 586:3219–3230. [PubMed: 18467362]
+Carter LG, Lewis KN, Wilkerson DC, Tobia CM, Ngo Tenlep SY, Shridas P, Garcia-Cazarin ML,
+Wolff G, Andrade FH, Charnigo RJ, Esser KA, Egan JM, de Cabo R, Pearson KJ. Perinatal exercise
+improves glucose homeostasis in adult offspring. AJP: Endocrinology and Metabolism.
+2012a10.1152/ajpendo.00213.2012
+Carter LG, Qi NR, de Cabo R, Pearson KJ. Maternal Exercise Improves Insulin Sensitivity in Mature
+Rat Offspring. Med Sci Sports Exerc. 2012b10.1249/MSS.0b013e31827de953
+Clapp JF, Capeless EL. Neonatal morphometrics after endurance exercise during pregnancy. Am J
+Obstet Gynecol. 1990; 163:1805–1811. [PubMed: 2256486]
+De Bono JP, Adlam D, Paterson DJ, Channon KM. Novel quantitative phenotypes of exercise training
+in mouse models. Am J Physiol Regul Integr Comp Physiol. 2006; 290:R926–R934. [PubMed:
+16339385]
+Delaigle AM, Jonas J-C, Bauche IB, Cornu O, Brichard SM. Induction of adiponectin in skeletal
+muscle by inflammatory cytokines: in vivo and in vitro studies. Endocrinology. 2004; 145:5589–
+5597. [PubMed: 15319349]
+Delaigle AM, Senou M, Guiot Y, Many MC, Brichard SM. Induction of adiponectin in skeletal muscle
+of type 2 diabetic mice: in vivo and in vitro studies. Diabetologia. 2006; 49:1311–1323. [PubMed:
+16570160]
+Dobrzyn P, Pyrkowska A, Jazurek M, Szymanski K, Langfort J, Dobrzyn A. Endurance traininginduced accumulation of muscle triglycerides is coupled to upregulation of stearoyl-CoA
+desaturase 1. Journal of Applied Physiology. 2010; 109:1653–1661. [PubMed: 20847127]
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 13
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Du M, Zhao JX, Yan X, Huang Y, Nicodemus LV, Yue W, McCormick RJ, Zhu MJ. Fetal muscle
+development, mesenchymal multipotent cell differentiation, and associated signaling pathways.
+Journal of Animal Science. 2011; 89:583–590. [PubMed: 20852073]
+Dunn GA, Bale TL. Maternal high-fat diet promotes body length increases and insulin insensitivity in
+second-generation mice. Endocrinology. 2009; 150:4999–5009. [PubMed: 19819967]
+Fluck M. Functional, structural and molecular plasticity of mammalian skeletal muscle in response to
+exercise stimuli. Journal of Experimental Biology. 2006; 209:2239–2248. [PubMed: 16731801]
+Gauguier D, Bihoreau MT, Picon L, Ktorza A. Insulin secretion in adult rats after intrauterine
+exposure to mild hyperglycemia during late gestation. Diabetes. 1991; 40(Suppl 2):109–114.
+[PubMed: 1684164]
+Gluckman, PD.; Hanson, MA. Developmental origins of health and disease. Cambridge Univ Pr; 2006.
+Guerrero-Bosagna C, Covert TR, Haque MM, Settles M, Nilsson EE, Anway MD, Skinner MK.
+Epigenetic transgenerational inheritance of vinclozolin induced mouse adult onset disease and
+associated sperm epigenome biomarkers. Reproductive Toxicology. 2012; 34:694–707. [PubMed:
+23041264]
+Habbout A, Li N, Rochette L, Vergely C. Postnatal Overfeeding in Rodents by Litter Size Reduction
+Induces Major Short- and Long-Term Pathophysiological Consequences. Journal of Nutrition.
+2013; 143:553–562. [PubMed: 23446961]
+Holson JF, Scott WJ, Gaylor DW, Wilson JG. Reduced interlitter variability in rats resulting from a
+restricted mating period, and reassessment of the “litter effect”. Teratology. 1976; 14:135–141.
+[PubMed: 982310]
+Hoppeler H, Flück M. Plasticity of skeletal muscle mitochondria: structure and function. Med Sci
+Sports Exerc. 2003; 35:95–104. [PubMed: 12544642]
+Hulver MW, Berggren JR, Carper MJ, Miyazaki M, Ntambi JM, Hoffman EP, Thyfault JP, Stevens R,
+Dohm GL, Houmard JA, Muoio DM. Elevated stearoyl-CoA desaturase-1 expression in skeletal
+muscle contributes to abnormal fatty acid partitioning in obese humans. Cell Metabolism. 2005;
+2:251–261. [PubMed: 16213227]
+James DE, Burleigh KM, Kraegen EW, Chisholm DJ. Effect of acute exercise and prolonged training
+on insulin response to intravenous glucose in vivo in rat. J Appl Physiol. 1983; 55:1660–1664.
+[PubMed: 6363362]
+Kalisiak B, Spitznagle T. What effect does an exercise program for healthy pregnant women have on
+the mother, fetus, and child? PM R. 2009; 1:261–266. [PubMed: 19627904]
+Kim E, Lee J-H, Ntambi JM, Hyun C-K. Inhibition of stearoyl-CoA desaturase1 activates AMPK and
+exhibits beneficial lipid metabolic effects in vitro. Eur J Pharmacol. 2011; 672:38–44. [PubMed:
+21970804]
+Lee, M-LT. Analysis of microarray gene expression data. Springer; 2004.
+Leick L, Wojtaszewski JFP, Johansen ST, Kiilerich K, Comes G, Hellsten Y, Hidalgo J, Pilegaard H.
+PGC-1 is not mandatory for exercise- and training-induced adaptive gene responses in mouse
+skeletal muscle. AJP: Endocrinology and Metabolism. 2007; 294:E463–E474.
+Liang L, Zhao M, Xu Z, Yokoyama KK, Li T. Molecular cloning and characterization of CIDE-3, a
+novel member of the cell-death-inducing DNA-fragmentation-factor (DFF45)-like effector family.
+Biochem J. 2003; 370:195–203. [PubMed: 12429024]
+Liu Y, Chewchuk S, Lavigne C, Brule S, Pilon G, Houde V, Xu A, Marette A, Sweeney G. Functional
+significance of skeletal muscle adiponectin production, changes in animal models of obesity and
+diabetes, and regulation by rosiglitazone treatment. AJP: Endocrinology and Metabolism. 2009;
+297:E657–E664.
+Lumey LH, Stein AD, Kahn HS, Romijn JA. Lipid profiles in middle-aged men and women after
+famine exposure during gestation: the Dutch Hunger Winter Families Study. American Journal of
+Clinical Nutrition. 2009; 89:1737–1743. [PubMed: 19386743]
+McClelland GB. Fat to the fire: the regulation of lipid oxidation with exercise and environmental
+stress. Comp Biochem Physiol B, Biochem Mol Biol. 2004; 139:443–460. [PubMed: 15544967]
+Mokdad AH, Marks JS, Stroup DF, Gerberding JL. Actual causes of death in the United States, 2000.
+JAMA. 2004; 291:1238–1245. [PubMed: 15010446]
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 14
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Monteiro ACT, Paes SANT, Santos JEAOND, de Lira KDS, de Moraes SRA. Effects of physical
+exercise during pregnancy and protein malnutrition during pregnancy and lactation on the
+development and growth of the offspring’s femur. J Pediatr (Rio J). 201010.2223/JPED.1996
+Mueller BR, Bale TL. Sex-specific programming of offspring emotionality after stress early in
+pregnancy. Journal of Neuroscience. 2008; 28:9055–9065. [PubMed: 18768700]
+Ng S-F, Lin RCY, Laybutt DR, Barres R, Owens JA, Morris MJ. Chronic high-fat diet in fathers
+programs β-cell dysfunction in female rat offspring. Nature. 2010; 467:963–966. [PubMed:
+20962845]
+Patin V, Lordi B, Vincent A, Thoumas JL, Vaudry H, Caston J. Effects of prenatal stress on maternal
+behavior in the rat. Brain Res Dev Brain Res. 2002; 139:1–8.
+Peixoto-Silva N, Frantz EDC, Mandarim-de-Lacerda CA, Pinheiro-Mulder A. Maternal protein
+restriction in mice causes adverse metabolic and hypothalamic effects in the F1 and F2
+generations. BJN. 2011; 106:1364–1373.
+Pentinat T, Ramon-Krauel M, Cebria J, Diaz R, Jimenez-Chillaron JC. Transgenerational Inheritance
+of Glucose Intolerance in a Mouse Model of Neonatal Overnutrition. Endocrinology. 2010;
+151:5617–5623. [PubMed: 20943806]
+Pilegaard H, Ordway GA, Saltin B, Neufer PD. Transcriptional regulation of gene expression in
+human skeletal muscle during recovery from exercise. Am J Physiol Endocrinol Metab. 2000;
+279:E806–E814. [PubMed: 11001762]
+Pinto ML, Shetty PS. Influence of exercise-induced maternal stress on fetal outcome in Wistar rats:
+inter-generational effects. Br J Nutr. 1995; 73:645–653. [PubMed: 7626585]
+Puntschart A, Claassen H, Jostarndt K, Hoppeler H, Billeter R. mRNAs of enzymes involved in energy
+metabolism and mtDNA are increased in endurance-trained athletes. Am J Physiol. 1995;
+269:C619–C625. [PubMed: 7573391]
+Puri V, Konda S, Ranjit S, Aouadi M, Chawla A, Chouinard M, Chakladar A, Czech MP. Fat-specific
+protein 27, a novel lipid droplet protein that enhances triglyceride storage. J Biol Chem. 2007;
+282:34213–34218. [PubMed: 17884815]
+Schmittgen TD, Livak KJ. Analyzing real-time PCR data by the comparative C(T) method. Nat Protoc.
+2008; 3:1101–1108. [PubMed: 18546601]
+Schmutz S, Däpp C, Wittwer M, Vogt M, Hoppeler H, Flück M. Endurance training modulates the
+muscular transcriptome response to acute exercise. Pflugers Arch - Eur J Physiol. 2006; 451:678–
+687. [PubMed: 16362354]
+Schulz KM, Pearson JN, Neeley EW, Berger R, Leonard S, Adams CE, Stevens KE. Maternal stress
+during pregnancy causes sex-specific alterations in offspring memory performance, social
+interactions, indices of anxiety, and body mass. Physiology & Behavior. 2011; 104:340–347.
+[PubMed: 21334352]
+Skinner MK, Manikkam M, Guerrero-Bosagna C. Epigenetic transgenerational actions of
+environmental factors in disease etiology. Trends in Endocrinology & Metabolism. 2010; 21:214–
+222. [PubMed: 20074974]
+Stein AD, Kahn HS, Rundle A, Zybert PA, van der Pal-de Bruin K, Lumey LH. Anthropometric
+measures in middle age after exposure to famine during gestation: evidence from the Dutch
+famine. Am J Clin Nutr. 2007; 85:869–876. [PubMed: 17344511]
+Swallow JG, Rhodes JS, Garland T. Phenotypic and evolutionary plasticity of organ masses in
+response to voluntary exercise in house mice. Integr Comp Biol. 2005; 45:426–437. [PubMed:
+21676788]
+Tomas E, Tsao T-S, Saha AK, Murrey HE, Zhang CC, Itani SI, Lodish HF, Ruderman NB. Enhanced
+muscle fat oxidation and glucose transport by ACRP30 globular domain: acetyl-CoA carboxylase
+inhibition and AMP-activated protein kinase activation. Proc Natl Acad Sci USA. 2002;
+99:16309–16313. [PubMed: 12456889]
+Treadway J, Dover EV, Morse W, Newcomer L, Craig BW. Influence of exercise training on maternal
+and fetal morphological characteristics in the rat. J Appl Physiol. 1986; 60:1700–1703. [PubMed:
+3710987]
+Treadway JL, Lederman SA. The effects of exercise on milk yield, milk composition, and offspring
+growth in rats. Am J Clin Nutr. 1986; 44:481–488. [PubMed: 3766435]
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 15
+
+NIH-PA Author Manuscript
+
+Tseng BS, Marsh DR, Hamilton MT, Booth FW. Strength and aerobic training attenuate muscle
+wasting and improve resistance to the development of disability with aging. J Gerontol A Biol Sci
+Med Sci. 1995; 50(Spec No):113–119. [PubMed: 7493203]
+van Straten EME, Bloks VW, van Dijk TH, Baller JFW, Huijkman NCA, Kuipers I, Verkade HJ,
+Plösch T. Sex-Dependent Programming of Glucose and Fatty Acid Metabolism in Mouse
+Offspring by Maternal Protein Restriction. GENM. 2012; 9:166–179. e13.
+Vickers MH. Developmental programming of the metabolic syndrome - critical windows for
+intervention. WJG. 2011; 2:137.
+Wang YH, Bower NI, Reverter A, Tan SH, De Jager N, Wang R, McWilliam SM, Cafe LM,
+Greenwood PL, Lehnert SA. Gene expression patterns during intramuscular fat development in
+cattle. Journal of Animal Science. 2008; 87:119–130. [PubMed: 18820161]
+Wang ZQ, Yu Y, Zhang XH, Floyd EZ, Cefalu WT. Human adenovirus 36 decreases fatty acid
+oxidation and increases de novo lipogenesis in primary cultured human skeletal muscle cells by
+promoting Cidec/FSP27 expression. Int J Obes (Lond). 2010; 34:1355–1364. [PubMed:
+20440297]
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 16
+
+New Findings
+
+NIH-PA Author Manuscript
+
+a.
+
+What is the central question of this study? How does parental exercise training
+directly and/or transgenerationally affect offspring phenotypes over two
+generations of mice?
+
+b. What is the main finding and what is its importance? We observed preliminary
+evidence that parental exercise training can influence health-related phenotypes
+(e.g., body and fat mass, muscle gene expression) in mouse offspring. These
+findings indicate parental exercise may be another environmental factor (like
+altered nutrition) capable of influencing offspring phenotypes in adulthood.
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 17
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 1.
+
+Experimental design (A) overview and (B) timeline.
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 18
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 2.
+
+NIH-PA Author Manuscript
+
+Blood glucose concentration during an intraperitoneal glucose tolerance test in: (A) F0
+males, (B) F0 females, (C) F1 males, (D) F1 females, (E) F2 males, and (F) F2 females.
+Mice were fasted 12 hours and given a 2 g/kg body mass glucose load at time 0. Glucose
+levels were determined before and 30, 60, 90, and 120 min after injection. Blood glucose
+was also measured 15 min after injection in F2 males and females. Area under the curve for
+concentration vs. time was calculated using the linear trapezoidal rule. Values are means ±
+SE. Sample sizes were n=4–5 for F0, 9–13 for F1, and 14–19 for F2. *significant difference
+in AUC between EX and SED within sex and generation (p < 0.05)
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 19
+
+NIH-PA Author Manuscript
+Figure 3.
+
+NIH-PA Author Manuscript
+
+Relative gastrocnemius muscle mRNA levels of Alas1, Cox1, Cycs, Cs, Hk2, Pdk4, Ppara,
+Ppard, Pparg, and Ppargc1a determined by RT-PCR in: (A) F0 females, (B) F1 males, (C)
+F2 males, and (D) F2 females. For each offspring group, only mRNA targets with p ≤ 0.10
+between EX and SED ancestry are shown in the figure; no mRNA targets met this threshold
+for F0 males or F1 females. Average expression level in EX was set to 1.0. Sample sizes
+were n=7–10. *significantly different from EX within sex and generation (p < 0.05)
+
+NIH-PA Author Manuscript
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 20
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Figure 4.
+
+Relative gastrocnemius muscle mRNA levels of Adipoq, Cidec, and Scd1 determined by
+RT-qPCR in: (A) F0 males, (B) F0 females, (C) F1 males, (D) F1 females, (E) F2 males,
+and (F) F2 females. Average expression level in EX was set to 1.0. Sample sizes were n=10–
+20. *significantly different from EX within sex and generation (p < 0.05)
+
+NIH-PA Author Manuscript
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 21
+
+Table 1
+
+NIH-PA Author Manuscript
+
+Mean body, organ, and muscle mass in exercise and sedentary ancestry groups for males and females of each
+generation (F0, F1, and F2).
+Males
+F0 generation
+
+Females
+
+EX (N=10)
+
+SED (N=10)
+
+EX (N=10)
+
+SED (N=10)
+
+Body Mass (g)
+
+29.1 ± 0.1
+
+31.1 ± 0.7*
+
+27.4 ± 0.7
+
+26.7 ± 0.5
+
+Heart (mg)
+
+143.6 ± 4.0
+
+145.7± 4.3
+
+157.7 ± 9.2
+
+155.6 ± 6.3
+
+Cerebellum (mg)
+
+51.9 ± 3.8
+
+53.2 ± 2.7
+
+64.5 ± 3.7
+
+63.2 ± 3.3
+
+Gastrocnemius (mg)
+
+144.7 ± 3.6
+
+140.6 ± 2.9
+
+117.1 ± 3.4
+
+111.1 ± 3.9
+
+Soleus (mg)
+
+11.6 ± 0.4
+
+10.9 ±0.7
+
+9.5 ± 0.3
+
+7.1 ± 0.4*
+
+EDL (mg)
+
+16.6 ± 0.7
+
+14.3 ± 0.9
+
+7.5 ± 0.8
+
+8.5 ± 0.4
+
+Plantaris (mg)
+
+21.5 ± 0.6
+
+21.2 ± 1.1
+
+16.2 ± 1.0
+
+17.2 ± 1.8
+
+NIH-PA Author Manuscript
+
+TA (mg)
+
+55.8 ± 1.8
+
+55.3 ± 1.2
+
+39.3 ± 1.2
+
+39.2 ± 1.8
+
+Quadriceps (mg)
+
+216.8 ± 7.6
+
+212.2 ± 3.5
+
+124.6 ± 6.3
+
+116.9 ± 36.2
+
+Omental Fat (mg)
+
+608.9 ± 34.7
+
+929.8 ± 78.0*
+
+387.1 ± 49.9
+
+346.6 ± 44.1
+
+Liver (mg)
+
+1042.9 ± 34.8
+
+1274.9 ± 52.5
+
+1238.8 ± 33.1
+
+1241.9 ± 76.1
+
+F1 generation
+
+EX (N=20)
+
+SED (N=17)
+
+EX (N=12)
+
+SED (N=16)
+
+Body Mass (g)
+
+22.3 ± 0.2
+
+22.5 ± 0.3
+
+17.5 ± 0.2
+
+19.0 ± 0.3*
+
+Heart (mg)
+
+107.6 ± 1.8
+
+103.3 ± 1.7
+
+92.2 ± 1.4
+
+96.0 ± 2.6
+
+Cerebellum (mg)
+
+51.4 ± 2.0
+
+51.5 ± 2.9
+
+51.0 ± 2.8
+
+53.4 ± 1.7
+
+Gastrocnemius (mg)
+
+NIH-PA Author Manuscript
+
+108.2 ± 1.8
+
+107.8 ± 1.4
+
+77.7 ± 2.4
+
+82.5 ± 2.3
+
+Soleus (mg)
+
+6.6 ± 0.2
+
+7.3 ± 0.3*
+
+5.9 ± 0.5
+
+6.0 ± 0.2
+
+EDL (mg)
+
+8.9 ± 0.4
+
+12.4 ± 1.4*
+
+10.7 ± 2.5
+
+9.5 ± 1.0
+
+Plantaris (mg)
+
+14.3 ± 0.4
+
+14.2 ± 0.05
+
+10.3 ± 0.5
+
+11.4 ± 0.5
+
+TA (mg)
+
+39.0 ± 0.8
+
+41.2 ± 0.9
+
+29.8 ± 0.5
+
+33.0 ± 0.8*
+
+Quadriceps (mg)
+
+112.1 ± 6.8
+
+135.4 ± 8.8*
+
+98.3 ± 6.3
+
+98.5 ± 6.2
+
+Omental Fat (mg)
+
+257.6 ± 8.3
+
+274.9 ± 15.6
+
+111.3 ± 7.6
+
+154.7 ± 11.2*
+
+Liver (mg)
+
+965.5 ± 17.8
+
+973.3 ± 32.3
+
+770.0 ± 22.0
+
+799.3 ± 24.6
+
+F2 generation
+
+EX (N=18)
+
+SED (N=18)
+
+EX (N=14)
+
+SED (N=23)
+
+Body Mass (g)
+
+22.1 ± 0.2
+
+22.5 ± 0.2
+
+18.6 ± 0.3
+
+18.2 ± 0.2
+
+Heart (mg)
+
+119.2 ± 4.3
+
+113.1 ± 2.4
+
+103.6 ± 3.0
+
+96.0 ± 2.4
+
+Cerebellum (mg)
+
+47.3 ± 2.4
+
+54.0 ± 3.3
+
+43.8 ± 2.8
+
+49.4 ± 3.0
+
+Gastrocnemius (mg)
+
+92.1 ± 2.7
+
+97.0 ± 3.3
+
+71.8 ± 1.5
+
+74.3 ± 1.3
+
+Soleus (mg)
+
+6.9 ± 0.3
+
+7.1 ± 0.4
+
+5.3 ± 0.2
+
+5.7 ± 0.1
+
+EDL (mg)
+
+7.7 ± 0.3
+
+7.9 ± 0.6
+
+5.8 ± 0.2
+
+5.5 ± 0.3
+
+Plantaris (mg)
+
+11.6 ± 0.6
+
+12.4 ± 0.5
+
+8.8 ± 0.3
+
+9.3 ± 0.3
+
+TA (mg)
+
+36.9 ± 0.7
+
+36.8 ± 15.7
+
+28.7 ± 0.6
+
+29.4 ± 0.8
+
+Quadriceps (mg)
+
+97.5 ± 27.2
+
+101.4 ± 25.6
+
+81.2 ± 2.7
+
+75 ± 2.1
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 22
+
+Males
+
+NIH-PA Author Manuscript
+
+F0 generation
+
+Females
+
+EX (N=10)
+
+SED (N=10)
+
+EX (N=10)
+
+SED (N=10)
+
+Omental Fat (mg)
+
+253.3 ± 15.7
+
+279.0 ± 8.9
+
+129.7 ± 35.4
+
+147.0 ± 61.7
+
+Liver (mg)
+
+866.6 ± 29.2
+
+973.3 ± 45.8
+
+736.3 ± 35.4
+
+727.7 ± 21.2
+
+Values are means ± SEM.
+
+*
+
+significantly different from EX within sex and generation (p < 0.05)
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 23
+
+Table 2
+
+NIH-PA Author Manuscript
+
+Organ and muscle masses relative to body mass in exercise and sedentary ancestry groups for males and
+females of each generation (F0, F1, and F2).
+Males
+F0 generation
+
+Females
+
+NIH-PA Author Manuscript
+
+EX (N=10)
+
+SED (N=10)
+
+EX (N=10)
+
+SED (N=10)
+
+Heart
+
+4.94 ± 0.10
+
+4.70 ± 0.15
+
+5.76 ± 0.28
+
+5.84 ± 0.25
+
+Cerebellum
+
+1.78 ± 0.13
+
+1.71 ± 0.09
+
+2.36 ± 0.13
+
+2.48 ± 0.14
+
+Gastrocnemius
+
+4.98 ± 0.08
+
+4.54 ± 0.12*
+
+4.29 ± 0.11
+
+4.16 ± 0.13
+
+Soleus
+
+0.40 ± 0.01
+
+0.35 ± 0.03
+
+0.35 ± 0.01
+
+0.27 ± 0.01*
+
+EDL
+
+0.57 ± 0.03
+
+0.47 ± 0.03*
+
+0.27 ± 0.03
+
+0.32 ± 0.02
+
+Plantaris
+
+0.74 ± 0.02
+
+0.68 ± 0.03
+
+0.59 ± 0.04
+
+0.64 ± 0.05
+
+TA
+
+1.92 ± 0.07
+
+1.78 ± 0.04
+
+1.44 ± 0.04
+
+1.46 ± 0.06
+
+Quadriceps
+
+7.46 ± 0.26
+
+6.87 ± 0.24
+
+4.58 ± 0.30
+
+4.39 ± 0.16
+
+Omental Fat
+
+20.89 ± 1.06
+
+29.60 ± 2.01*
+
+14.04 ± 1.76
+
+12.84 ± 1.50
+
+Liver
+
+45.50 ± 0.79
+
+41.06 ± 1.58
+
+45.64 ± 1.80
+
+46.50 ± 2.75
+
+EX (N=20)
+
+SED (N=17)
+
+EX (N=12)
+
+SED (N=16)
+
+Heart
+
+4.83 ± 0.07
+
+4.58 ± 0.06*
+
+5.28 ± 0.10
+
+5.07 ± 0.10
+
+Cerebellum
+
+2.20 ± 0.15
+
+2.28 ± 0.12
+
+2.92 ± 0.16
+
+2.95 ± 0.09
+
+Gastrocnemius
+
+4.86 ± 0.07
+
+4.52 ± 0.29
+
+4.44 ± 0.13
+
+4.46 ± 0.05
+
+Soleus
+
+0.30 ± 0.01
+
+0.33 ± 0.01
+
+0.34 ± 0.03
+
+0.32 ± 0.01
+
+EDL
+
+0.40 ± 0.02
+
+0.55 ± 0.06*
+
+0.61 ± 0.14
+
+0.53 ± 0.06
+
+Plantaris
+
+0.64 ± 0.01
+
+0.63 ± 0.02
+
+0.59 ± 0.03
+
+0.61 ± 0.02
+
+TA
+
+1.75 ± 0.03
+
+1.83 ± 0.03
+
+1.71 ± 0.03
+
+1.76 ± 0.03
+
+Quadriceps
+
+5.05 ± 0.32
+
+6.00 ± 0.37
+
+5.66 ± 0.40
+
+5.42 ± 0.32
+
+Omental Fat
+
+11.57 ± 0.35
+
+12.12 ± 0.55
+
+6.36 ± 0.42
+
+8.29 ± 0.60*
+
+Liver
+
+43.44 ± 0.84
+
+43.13 ± 1.16
+
+43.97 ± 1.00
+
+43.16 ± 0.95
+
+EX (N=18)
+
+SED (N=18)
+
+EX (N=14)
+
+SED (N=23)
+
+Heart
+
+5.40 ± 0.19
+
+5.04 ± 0.12
+
+5.58 ± 0.14
+
+5.28 ± 0.95
+
+Cerebellum
+
+2.15 ± 0.12
+
+2.42 ± 0.16
+
+2.35 ± 1.50
+
+2.73 ± 1.74
+
+Gastrocnemius
+
+4.17 ± 0.11
+
+4.10 ± 0.28
+
+3.86 ± 0.06
+
+4.09 ± 0.44*
+
+Soleus
+
+0.31 ± 0.01
+
+0.32 ± 0.02
+
+0.28 ± 0.01
+
+0.32 ± 0.01*
+
+EDL
+
+0.35 ± 0.01
+
+0.35 ± 0.03
+
+0.32 ± 0.01
+
+0.30 ± 0.02
+
+Plantaris
+
+0.53 ± 0.02
+
+0.55 ± 0.02
+
+0.47 ± 0.01
+
+0.51 ± 0.02
+
+TA
+
+1.67 ± 0.03
+
+1.65 ± 0.07
+
+1.54 ± 0.03
+
+1.62 ± 0.04
+
+F1 generation
+
+F2 generation
+
+NIH-PA Author Manuscript
+
+Quadriceps
+
+4.42 ± 0.12
+
+4.53 ± 0.13
+
+4.38 ± 0.15
+
+4.13 ± 0.10
+
+Omental Fat
+
+11.49 ± 0.68
+
+12.42 ± 0.37
+
+6.95 ± 0.47
+
+8.10 ± 0.33*
+
+Liver
+
+39.33 ± 1.38
+
+43.45 ± 1.99
+
+39.60 ± 1.64
+
+40.17 ± 1.23
+
+Values are means ± SEM, all units are mg g−1 body mass.
+
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 24
+
+*
+
+significantly different from EX within sex and generation (p < 0.05)
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+Guth et al.
+
+Page 25
+
+Table 3
+
+NIH-PA Author Manuscript
+
+Serum insulin, glycerol, and triglyceride levels in exercise and sedentary ancestry groups for male and female
+offspring (F1 and F2).
+Males
+F1 generation
+Insulin (ng
+
+mL−1)
+
+Free Glycerol (mg dL−1)
+Total Triglyceride (mg
+
+dL−1)
+
+F2 generation
+Insulin (ng mL−1)
+Free Glycerol (mg
+
+dL−1)
+
+Total Triglyceride (mg dL−1)
+
+Females
+
+EX (N=9)
+
+SED (N=8)
+
+EX (N=12)
+
+SED (N=16)
+
+0.30 ± 0.04
+
+0.26 ± 0.06
+
+0.33 ± 0.05
+
+0.15 ± 0.02 *
+
+43.0 ± 4.0
+
+58.2 ± 6.6
+
+51.3 ± 8.0
+
+54.0 ± 5.6
+
+94.9 ± 8.8
+
+109.8 ± 10.8
+
+80.8 ± 6.9
+
+80.8 ± 5.6
+
+EX (N=18)
+
+SED (N=18)
+
+EX (N=14)
+
+SED (N=23)
+
+0.28 ± 0.04
+
+0.25 ± 0.03
+
+0.23 ± 0.04
+
+0.22 ± 0.04
+
+31.9 ± 4.3
+
+36.5 ± 7.6
+
+34.0 ± 7.7
+
+46.7 ± 7.7
+
+100.4 ± 3.3
+
+94.0 ± 11.8
+
+67.6 ± 6.1
+
+77.8 ± 7.4
+
+*
+
+significantly different from EX within sex and generation (p < 0.05)
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Exp Physiol. Author manuscript; available in PMC 2014 October 01.
+
+

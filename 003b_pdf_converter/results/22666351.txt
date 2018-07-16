@@ -1,0 +1,1483 @@
+Influence of Neonatal Hypothyroidism on Hepatic Gene
+Expression and Lipid Metabolism in Adulthood
+Ruymán Santana-Farré1., Mercedes Mirecki-Garrido1., Carlos Bocos2, Luis A. Henrı́quez-Hernández1,
+Nusrat Kahlon3, Emilio Herrera2, Gunnar Norstedt3, Paolo Parini4, Amilcar Flores-Morales3,5,
+Leandro Fernández-Pérez1*
+1 Department of Clinical Sciences, Molecular and Translational Endocrinology Group, University of Las Palmas de GC – Cancer Research Institute of The Canary Islands
+(ICIC), Las Palmas de Gran Canaria, Spain, 2 Department of Biology, Faculties of Pharmacy and Medicine, University San Pablo-CEU, Madrid, Spain, 3 Department of
+Molecular Medicine and Surgery, Karolinska Institute, Stockholm, Sweden, 4 Division of Clinical Chemistry, Department of Laboratory Medicine and Molecular Nutrition
+Unit, Center for Nutrition and Toxicology, Karolinska Institute, Stockholm, Sweden, 5 Novo Nordisk Center for Protein Research, University of Copenhagen, Copenhagen,
+Denmark
+
+Abstract
+Thyroid hormones are required for normal growth and development in mammals. Congenital-neonatal hypothyroidism (CH)
+has a profound impact on physiology, but its specific influence in liver is less understood. Here, we studied how CH
+influences the liver gene expression program in adulthood. Pregnant rats were given the antithyroid drug methimazole
+(MMI) from GD12 until PND30 to induce CH in male offspring. Growth defects due to CH were evident as reductions in body
+weight and tail length from the second week of life. Once the MMI treatment was discontinued, the feed efficiency
+increased in CH, and this was accompanied by significant catch-up growth. On PND80, significant reductions in body mass,
+tail length, and circulating IGF-I levels remained in CH rats. Conversely, the mRNA levels of known GH target genes were
+significantly upregulated. The serum levels of thyroid hormones, cholesterol, and triglycerides showed no significant
+differences. In contrast, CH rats showed significant changes in the expression of hepatic genes involved in lipid metabolism,
+including an increased transcription of PPARa and a reduced expression of genes involved in fatty acid and cholesterol
+uptake, cellular sterol efflux, triglyceride assembly, bile acid synthesis, and lipogenesis. These changes were associated with
+a decrease of intrahepatic lipids. Finally, CH rats responded to the onset of hypothyroidism in adulthood with a reduction of
+serum fatty acids and hepatic cholesteryl esters and to T3 replacement with an enhanced activation of malic enzyme. In
+summary, we provide in vivo evidence that neonatal hypothyroidism influences the hepatic transcriptional program and
+tissue sensitivity to hormone treatment in adulthood. This highlights the critical role that a euthyroid state during
+development plays on normal liver physiology in adulthood.
+Citation: Santana-Farré R, Mirecki-Garrido M, Bocos C, Henrı́quez-Hernández LA, Kahlon N, et al. (2012) Influence of Neonatal Hypothyroidism on Hepatic Gene
+Expression and Lipid Metabolism in Adulthood. PLoS ONE 7(5): e37386. doi:10.1371/journal.pone.0037386
+Editor: Jean-Marc Vanacker, Institut de Génomique Fonctionnelle de Lyon, France
+Received October 5, 2011; Accepted April 19, 2012; Published May 16, 2012
+Copyright: ß 2012 Santana-Farré et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This work was supported by grants-in-aid to LF-P from the Spanish Ministry of Science and Innovation with the funding of European Regional
+Development Fund-European Social Fund (SAF2003-02117 and SAF2006-07824) and Canary Islands Government (ACIISI; PI2007/033). The funders had no role in
+the study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+Competing Interests: The authors have read the journal‘s policy and have the following conflicts: AF- M is supported by the Novo Nordisk Foundation. This
+does not alter our adherence to all the PLoS ONE policies on sharing data and materials.
+* E-mail: lfernandez@dcc.ulpgc.es
+. These authors contributed equally to this work.
+
+Most of the effects of the THs result from their interaction with
+TH receptors (TR), which can bind to the TH response element
+(TRE) located in several target genes [1]. A TRE is present
+upstream of the rat GH gene [5], the product of which has a
+significant role in body growth and metabolism in postnatal life
+[3]. GH expression is induced by T3 and reduced in hypothyroid
+states [6,7,8]. In fact, the growth-promoting effects of T3 can be
+largely explained by its ability to induce normal GH secretion and
+to regulate the expression patterns of the GH receptor in the liver
+and the IGF-I receptor in peripheral tissues [9]. Therefore, the
+THs might exert physiological actions on the liver through a direct
+transcriptional regulation of several target genes [1] and indirect
+mechanisms (e.g., modulating actions of GH and metabolic
+sensors such as LXR) [6,7,8,9,10,11]. In addition, it has been
+shown that the effects of the THs on glucose metabolism might
+
+Introduction
+The thyroid hormones (THs) are essential for development,
+growth, and metabolism [1,2,3]. The physiological importance of
+the THs becomes evident under the condition of congenitalneonatal hypothyroidism (CH) [2]. If not treated immediately, CH
+has a profound impact on physiology and can permanently
+imprint neurological and endocrine systems, which, in turn, leads
+to mental retardation, growth arrest, and metabolic disturbances.
+During ontogeny, there exists a critical period when normal TH
+levels are required, and TH replacement after that period cannot
+correct the changes in gene expression that was caused by CH.
+This is exemplified by abnormal insulin-like growth factor binding
+protein (IGBFP)-2 expression in neonatal hypothyroid rats that
+can be corrected by TH replacement if started during the first
+week of life but not later [4].
+PLoS ONE | www.plosone.org
+
+1
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+the Ethics of Animal Experiments of the University of Las Palmas
+de G.C. (permit number: 2006-07824). All efforts were made to
+minimize suffering. Male Sprague-Dawley rats (n = 6 per group)
+were used throughout these experiments. Animals were kept under
+a constant dark/light cycle in a controlled temperature (21–23uC)
+environment and had free access to a standard diet (A04 SAFE;
+Panlab, Barcelona, Spain) and tap water throughout the experiment. For mating purposes, four females were housed overnight
+with two males starting at 21:00 h. Females were checked by
+7:00 h the next morning, and the presence of a vaginal plug was
+designated as gestational day (GD) 0. Within 24 h after birth,
+excess pups were removed so that 8 pups were kept per dam. The
+indirect MMI exposure method (i.e., through maternal milk)
+utilized in this experiment has been extensively employed to
+induce a transitory congenital-neonatal hypothyroidism (CH) for
+the determination of short- and long-term physiological effects
+[4,26,29,30]. Briefly, 0.02% MMI was administered in the
+drinking water for pregnant rats from GD12 until weaning at
+post-natal day (PND) 30, which is when pups were mature enough
+to support their own nutritional needs. The MMI-containing
+water was changed twice per week. Untreated rats served as
+concurrent euthyroid and age-matched controls (INTACT). Rats
+that were weight paired with the CH groups were also included to
+control for the effects of reduced body weight on hepatic gene
+expression as follows: 1) WP30, weight-paired rats with CH group
+on PND30, corresponds to animals that were sacrificed on PND24
+and 2) WP, weight-paired rats with CH group on PND80, which
+were sacrificed on PND53. For the generation of adult hypothyroid rats (TX), 0.05% MMI was added to the drinking water for 3
+weeks [23] starting at PND60 until sacrifice at PND80. Thus, two
+additional groups were created as follows: 1) adult TX rats without
+CH (TX/2CH) and 2) adult TX rats with CH (TX/+CH). A
+schematic diagram of this experimental model is shown in
+Supplementary File S1. The presence of hypothyroidism was
+corroborated by monitoring the body weight and serum levels of
+T3 and T4. During the last week of life, TX rats were either
+injected with T3 (20 mg/kg b.w.) as a single daily ip injection or
+with GH (0.4 mg/kg/day) divided into two daily sb injections that
+were carried out at 08:00 h and 20:00 h. T3 was dissolved in a
+minimum volume of 0.01 N NaOH and was brought up to the
+appropriate concentration with sterile saline. In parallel, TX
+animals received equivalent amounts (0.20 ml) of the vehicle alone
+(VEH). Twenty-four hours (in the case of T3) or twelve hours (in
+the case of GH) after the last injection, animals were sacrificed by
+exsanguination after pentothal anesthesia. Twelve hours before the
+rats were sacrificed, the diet was removed from the cages to
+minimize the effect of food. Serum samples were collected and
+stored at 280uC until analysis. Portions of the liver were snap
+frozen in liquid nitrogen and stored at 280uC until being
+processed for mRNA or biochemical analysis.
+
+also be dependent on their actions in the brain, which affect the
+autonomic control of peripheral metabolic tissues such as the
+adipose tissue in addition to the liver [12,13,14]. These findings
+suggest that CH could cause permanent alterations in peripheral
+metabolic tissues through irreversible developmental alterations in
+the brain. The THs clearly have some lipid-lowering actions, as
+demonstrated by recent human studies [15]. For example, the
+ability of THs to reduce plasma LDL-c levels has been explained
+by its capacity to increase the expression of LDL receptors and the
+activities of lipid-lowering enzymes in the liver. THs increase the
+number of LDL receptors without necessarily modifying their
+transcription, which supports a post-transcriptional regulation of
+these proteins [16]. Some lipid-lowering enzymes are direct
+transcriptional targets. These are exemplified by the CYP7A1
+gene [17,18], the product of which has a major cholesterollowering activity. Malic enzyme (ME) and fatty acid synthase
+(FAS), two critical regulators of lipogenesis, are also directly
+regulated by the THs [19,20,21]. In contrast, the effects of THs on
+other lipogenic genes such as sterol regulatory element-binding
+protein (SREBP)-1c are more controversial: THs induced
+SREBP1c expression in the livers of rats [22,23], whereas they
+strongly downregulated SREBP1c in the livers of mice [24].
+In rats, the serum concentrations of the THs are low at birth
+and increase progressively, reaching adult levels at approximately
+the third week of life when the maturation of the hypothalamuspituitary-thyroid axis is achieved [25]. Administration of the
+antithyroid drug methimazole (MMI) to pregnant rats before the
+onset of fetal thyroid function is known to abolish both the
+maternal and fetal thyroid function [26]. In this context, exposure
+to MMI during the fetal-neonatal period of life is an attractive
+model to study the influence of CH on the adult pattern of genes
+that are under the control of the THs during rat development [4].
+In addition, the disturbances in endocrine status during the
+neonatal period of life may affect the susceptibility to chronic
+diseases or biological insults in adulthood [14,27,28,29,30].
+However, the precise mechanism whereby CH influences liver
+physiology in adulthood remains poorly understood. We hypothesized that CH might lead to changes in TH and/or GH action
+during development that have physiological repercussions in
+adulthood. Therefore, there were two aims of this study. First,
+we assessed the influence of CH on the somatotropic axis, liver
+gene expression, and serum and hepatic lipid biomarkers in
+adulthood. Second, we investigated how rats, which were
+transiently exposed to CH, adapted to the biological insult of the
+onset of hypothyroidism in adulthood. In the present study, we
+provide in vivo evidence that exposure to CH alters postnatal
+development, which influences the liver transcriptional program
+that is associated with altered lipid homeostasis and tissue
+sensitivity to hormones.
+
+Materials and Methods
+Growth and food intake analysis
+
+Materials
+
+Body weights, tail lengths, and food intake were measured once
+a week for all animals. The measurement of tail length was used
+for monitoring growth [31,32,33,34]. The percentages of weight
+rate (WR) or tail rate (TR) were calculated by the following
+formulas: WR = [(W (g) (new) – W (g) (old)/W (g) (old)]*100 or
+TR = [(T (cm) (new) – T (cm) (old)/T (cm) (old)]*100, respectively.
+Food consumption was estimated by subtracting the amount of
+food left on the grid from initial food weight. Food spilled on the
+floor of the cage was not weighed, but spillage was minimal
+because the diet was supplied as pellets. Mother and pups were
+housed in the same cage until weaning on PND30. Then, weaned
+pups were housed in pairs to control for food efficiency. The
+
+Recombinant human GH was kindly donated by Pfizer
+Laboratories (Spain). Tri-Reagent and the rest of the products
+cited in this work were purchased from the Sigma Chemical Co.
+(St. Louis, MO), unless otherwise indicated.
+
+Animal study design
+This study was carried out in strict accordance with the
+recommendations in the Guide for the Care and Use of
+Laboratory Animals of the University of Las Palmas de G.C.
+and conducted in accordance with European and Spanish laws
+and regulations. The protocol was approved by the Committee on
+PLoS ONE | www.plosone.org
+
+2
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+weekly caloric intake was calculated on the basis of food
+consumption x caloric value of the diet (2900 kcal/g). Feed
+efficiency (FE), which denotes the body weight increase per gram
+of food consumed or the ability to transform calories consumed
+into body weight [35], was calculated by the following formula:
+mean body weight gain (g)/total caloric intake. The weights of the
+liver, heart, and kidneys as well as the organ weight/total body
+weight ratios were also calculated on PND30 and PND80.
+
+Data processing and analysis
+Image analysis was performed using GenePix Pro 6.0 software
+(Axon Instruments, Union City, CA) as previously described [23].
+The LOWESS (Locally Weighted Scatter Plot Smoother) method
+in the SMA (Statistics for Microarray) [39] package (www.
+bioconductor.org) was used to normalize the raw data. The probe
+sets not present in at least three of the four chips were considered
+as meaningless and therefore were eliminated to reduce data
+complexity. Identification of differentially expressed genes was
+performed using the SAM (Significance Analysis for Microarrays)
+statistical technique [40]. A q value was assigned to each of the
+detectable genes in the array. This value is similar to a P-value and
+measure the lowest false discovery rate (FDR) at which the
+differential expression of a gene is considered significant. A
+minimal FDR of 0.05 was assigned for each gene. An additional
+selection requirement was added to this statistically based
+criterion, which was based on the absolute changes in the gene
+expression ratios. A value of 1.5 (50%) (log2 ratio CH/
+INTACT$|0.58|) was chosen to describe ratios as up- or
+downregulated. Functional classifications (Gene Ontology) and
+pathway analysis (KEGG) of differentially expressed genes that
+were affected by CH were performed by using the web-based tool
+DAVID [41]. All microarray data are MIAME compliant, and the
+raw data have been deposited in Gene Expression Omnibus
+database (www.ncbi.nlm.nih.gov/geo).
+
+Serum IGF-I, TSH, T3, and T4 analysis
+The serum levels of IGF-I (Quantikine; R&D Systems) and
+TSH (Gentaur Molecular Products, Belgium) were determined by
+using rat immunoassays and following the manufacturers’
+recommendations. All of the samples were assayed together, and
+each sample was assayed in duplicate. The serum free T4 and T3
+concentrations (ng/dl) were measured in duplicate by an enzyme
+immunoassay (Access Immunoassay Systems, Beckman Coulter,
+Inc., USA) with detection limits of 0.60 ng/dl and 88 ng/dl,
+respectively.
+
+Serum lipid analysis
+Lipoproteins were separated essentially as previously described
+[36] using a SuperoseH-12 PC 3.2/30 column (Pharmacia Biotech,
+Uppsala, Sweden). Serum from each animal (2.5 mL) was
+separated for cholesterol and triglycerides, which were subsequently assayed on-line. Total cholesterol and triglycerides were
+assayed using cholesterol and triglyceride colorimetric enzymatic
+kits (Roche/Hitachi Diagnostic GmbH, Mannheim, Germany).
+The serum triglyceride value for each animal was normalized to
+the respective glycerol content. Absorbance was continuously
+measured at 500 nm, and data were collected every 10 s using EZ
+ChromTM software (Scientific Software, San Ramon, CA).
+
+Gene expression analysis by real-time quantitative PCR
+(qPCR)
+The mRNA expression levels of genes were measured using
+qPCR as previously described [23]. Briefly, 2 mg of total RNA was
+treated with RNase-free DNase I (Promega) and reverse
+transcribed by using an iScriptTM kit (Bio-Rad Laboratories).
+Two microliters of cDNA served as a template in a 20-ml qPCR
+reaction mix containing the primers and SYBR Green PCR
+Master mix (Diagenode, Belgium). Quantification of the gene
+expression was performed with an ABI PRISMH 7000 SD PCR
+System. A dissociation protocol was performed to assess the
+specificity of the primers and the uniformity of the PCR generated
+products. Exon-specific primers were designed by the Primer 3
+program [42] and are listed in Supplementary File S2. The level of
+individual mRNAs measured by qPCR was normalized to the
+level of the housekeeping genes cyclophilin and ribosomal 28S by
+using the Pfaffl method [43]. For graphing purposes, the relative
+expression levels were scaled such that the expression of the
+INTACT control group equalled one.
+
+Hepatic lipid analysis
+Frozen liver aliquots were used for lipid extraction [37], and
+aliquots of lipid extracts were quantified after separation by onedimensional TLC [38] and image analysis using the G5-700
+Bioimage TLC scanner (Bio-Rad, CA). The spots were quantified
+as integrated optical density against an internal standard of
+cholesteryl formate and against calibration curves of the different
+lipid standards.
+
+RNA isolation, cDNA microarray, probe preparation, and
+hybridization
+Total RNA was isolated by the homogenization of frozen liver
+as previously described [23]. All samples were treated with RNasefree DNase (Promega, Madison, WI). The RNA yields were
+measured by UV absorbance, and the quality of total RNA was
+analyzed with a 2100 Bioanalyzer (Agilent Technologies, Palo
+Alto, CA). A microarray containing 27,000 rat 70-mer oligo probe
+sets, which was produced at the KTH Microarray Center (www.
+biotech.kth.se), was used to evaluate the effects of CH on liver gene
+expression in adulthood. Five micrograms of high-quality total
+RNA from liver was reversed-transcribed, labeled, and hybridized
+according to the manufacturer’s protocol (ProntoTM Plus System;
+Promega). After 16 h of hybridization, the slides were scanned
+using a GenePix Microarray Scanner (Axon Instruments, CA).
+Four independent hybridizations were performed to compare
+individual animals from the CH group (n = 4) with those from the
+INTACT group (n = 4) on PND80 for a total of four analyses.
+
+Statistical analysis
+The data are expressed as the means 6 SD. The significance of
+differences between the groups was tested by either a two-tailed
+Student’s t test or a one-way ANOVA, which was followed by post
+hoc comparisons of the group means according to the GraphPad
+Prism 5 program (GraphPad Software, San Diego, CA). A twotailed Student’s t test was performed on PND80 for body weight
+and tail length to assess the effect of CH and the completeness of
+recovery. Statistical significance was reported if P,0.05 was
+achieved.
+
+Results
+Neonatal hypothyroidism delays body growth
+development and is followed by catch-up growth
+There were no significant MMI treatment-related differences in
+dam’s body weights and intake of feed and drinking water
+
+PLoS ONE | www.plosone.org
+
+3
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+Figure 1. Effects of neonatal hypothyroidism on body growth development. Percentages of body weight rate (A) or tail length rate (B) were
+measured at 7-d intervals as described in Material and Methods. Results are expressed as mean 6 SD from six individual animals in each group. **,
+P,0.01, ***, P,0.001 for comparison with INTACT group.
+doi:10.1371/journal.pone.0037386.g001
+
+throughout gestation (data not shown). There were no apparent
+MMI treatment-related effects on the offspring’s body weights over
+the 3–4 PND. As expected [4,26], the INTACT pups on the tap
+water recorded normal size and growth during development, while
+defects due to the MMI treatment in CH rats were evident by a
+reduction in body weight (Supplementary File S3; panel A) and tail
+length (Supplementary File S3; panel B) from the second week of
+life. Upon weaning on PND30, biochemical hypothyroidism was
+shown, and significantly low circulating T3 (pg/ml) (9.9360.66 vs.
+7.8060.83; P = 0.0008) and elevated TSH (ng/ml) (2.7362.04 vs.
+6.7262.5; P = 0.012) levels were found in CH rats in comparison
+with the age-matched INTACT group. In addition, circulating
+IGF-I (ng/ml) levels were reduced by 55% in the CH group
+(716.336132.62 vs. 323.25645.97; P = 0.0001). Furthermore, the
+mRNA levels of ME (0.1560.10 vs. 160.04; P = 0.0001) and
+Spot14 (0.3060.10 vs. 160.02; P = 0.0001), two genes positively
+regulated by TH [1], were also markedly reduced in the CH
+group. In liver, the fetal expression pattern of high IGFBP-2 levels
+was replaced by the adult pattern of low levels of IGFBP-2 only in
+the presence of normal levels of TH during rat development [4].
+CH rats expressed higher levels of IGFBP2 mRNA in comparison
+with the INTACT or WP control rats (Supplementary File S3;
+panel C). Collectively, these data support the presence of neonatal
+hypothyroidism on PND30.
+Once the MMI treatment was discontinued on PND30, the
+animals gradually recovered and significant catch-up (defined as
+growth rate that is greater than normal for age after a period of
+growth inhibition) [44] occurred in terms of body weight
+(Supplementary File S3; panel D) and tail length (Supplementary
+File S3; panel E). It was evident in all hypothyroid rats that, when
+MMI was withdrawn, they rapidly began to increase their growth
+rates in a compensatory manner to make up for their deficits and
+to catch up with the normal age-matched control rats. These
+results suggest that, in agreement with what has been previously
+shown [45,46,47,48], the plasma levels of THs were rapidly
+recovered (i.e., within 2–4 days after discontinuation of MMI
+treatment). Interestingly, the feed efficiency was significantly
+increased in CH rats (Supplementary File S3; panel F). On
+PND80, a statistically significant difference remained in body mass
+(g) (430629.69 vs. 333629.72; P = 0.002) (Supplementary File S3;
+panel A), tail length (cm) (21.960.62 vs. 20.360.73; P = 0.002)
+(Supplementary File S3; panel B), and circulating IGF-I levels (ng/
+PLoS ONE | www.plosone.org
+
+ml) (1541.24676.74 vs. 1305.156126.27; P = 0.003) between
+INTACT and CH groups, respectively, indicating that growth was
+incomplete. Importantly, at the time of sacrifice, the growth rate,
+measured as a percentage of body weight gain (Fig. 1A) or tail
+length gain (Fig. 1B), was similar between the two groups, which
+suggests that the CH animals may have finished a period of rapid
+catch-up growth. The weights of the liver and kidneys at the end of
+the study (i.e., PND80), corrected by total body weight, were
+similar in the CH rats in comparison with age-matched INTACT
+rats (data not shown), which also suggests that the compensatory
+growth of organs in relation to body weight was achieved.
+Furthermore, on PND80, the serum levels of T3 (ng/dl)
+(45.1565.77 vs. 47.5263.17), T4 (ng/dl) (1.9460.27 vs.
+1.5260.18), total cholesterol (mM) (1.5460.15 vs. 1.6560.21),
+and triglycerides (mM) (1.2060.23 vs. 1.1860.28) in the CH
+group did not differ from the INTACT animals. Subtle changes in
+hepatic IGF-I (Fig. 2A) and IGFBP-3 (Fig. 2B) mRNA levels
+together with increased levels of IGFBP-2 (Fig. 2C), a gene that is
+a marker of delayed development or hypothyroidism in rats [4,49],
+were also shown on PND80. Because the expression of IGFBP-2
+mRNA levels was similar in the CH and WP groups, this result
+indicates that the overexpression is a consequence of delayed
+growth and low body weight rather than a long-lasting
+consequence of CH. However, in comparison with age-matched
+INTACT rats, several genes remained unaltered or were
+upregulated in CH rats whereas they were significantly downregulated in the WP control group (Fig. 3–5). Collectively, these
+results suggest that the induction of neonatal hypothyroidism alters
+the normal development of the liver gene expression program,
+which may impact GH-related liver functions.
+
+Influence of neonatal hypothyroidism on Growth
+Hormone-regulated genes
+An altered growth rate or a long-lasting influence on
+somatotropic axis (i.e., GH, liver and IGF-I) could be related to
+the effects of CH on the hepatic GH signaling system [50,51]. To
+test this hypothesis, we next analyzed the mRNA expression levels
+of the GH-regulated genes CIS and SOCS2, which act as negative
+regulators of GH signaling. On PND30, the CIS mRNA
+expression level was significantly upregulated (P,0.001) in CH
+rats (9.9364.45) in comparison with the INTACT (160.03) and
+WP30 (0.8760.67) groups, whereas SOCS2 remained unchanged.
+4
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+Figure 2. Effects of neonatal hypothyroidism on mRNA expression levels of IGF-I and IGFBP genes in adult rat liver. On PND80, the
+hepatic mRNA levels of IGF-I (A), IGFBP3 (B), and IGFBP2 (C) were measured by qPCR in rats exposed to neonatal hypothyroidism (CH), age-matched
+(INTACT) or weight-paired (WP) control groups. The mean mRNA expression level of each gene in the INTACT group is defined as 1, with all other
+expression values reported relative to this level. Bars represent mean 6 SD from at least six individual animals. ***, P,0.001 for comparison with
+INTACT group. +++, P,0.001 for comparison with WP group.
+doi:10.1371/journal.pone.0037386.g002
+
+In order to determine whether the decreased hepatic content of
+lipids in CH rats was due to increased lipid catabolism, decreased
+lipid synthesis, increased lipid excretion, or some combination of
+these mechanisms, we analyzed the hepatic mRNA levels for
+proteins mediating these processes by using qPCR. First, Figure 4A
+shows that the mRNA levels of PPARa, a master regulator of boxidation, were upregulated in the CH group. Similar results were
+observed when measuring the mRNA expression of carnitine
+palmitoyl transferase-1 (CPT1) (Fig. 4B), a PPARa target gene
+coding for a protein that is important for transferring fatty acylCoAs into the mitochondria for b-oxidation [53]. In contrast,
+PPARa (Fig. 4A) and CPT1 (Fig. 4B) were downregulated in the
+WP group. Phosphoenolpyruvate carboxykinase (PEPCK), a ratelimiting gene in gluconeogenesis, remained unaltered in the CH
+group, whereas it was significantly reduced in the WP control
+group (data not shown).
+ME is a TH-regulated enzyme that converts malate into
+pyruvate to generate NADPH which is destined for lipogenesis
+and other biosynthetic processes [54]. We found that the ME
+mRNA levels (Fig. 4C) were upregulated in the CH rats on
+PND80, but the levels of SREBP1c (Fig. 4D), a master regulator of
+lipogenesis, were significantly downregulated. The SREBP1c
+target genes, acetyl-CoA carboxylase-1 (ACC1) (Fig. 4E), the
+product of which is the rate-limiting metabolite for fatty acid
+biosynthesis and inhibits CPT-1 [55], and fatty acid synthase
+(FAS) (Fig. 4F), as well as several genes known to be regulated by
+PPARa such as CYP4F1 (Fig. 4G), palmitoyl-CoA oxidase (AOX)
+(Fig. 4H) and liver fatty acid-binding protein (L-FABP) (Fig. 4I),
+were not affected in the CH group whereas they were significantly
+reduced in the WP control group. The steady-state mRNA level
+for insulin-induced gene 1 (INSIG-1) (Fig. 5A), an SREBP target,
+was also reduced in the CH rats. Overall, our data do not support
+the activation of a lipogenic program in the CH rats. Interestingly,
+the hepatic mRNA expression levels of SREBP2 (Fig. 5B) and its
+target gene LDLR (Fig. 5C), the product of which is involved in
+hepatic VLDL uptake, were 2–3-fold lower in the CH rats
+compared with the INTACT rats. Similar results were obtained
+for the gene expression levels of CD36 (Fig. 5D), which is involved
+in the uptake of FFA and microsomal triglyceride transfer protein
+(MTTP) (data not shown), which is involved in triglycerides
+assembly, indicating that diminished uptake of fatty acids may
+contribute to the reduced hepatic TG levels observed in the CH
+rats [56]. ABCA1 (Fig. 5E), a transporter responsible for
+cholesterol efflux, was also reduced whereas LXR (Fig. 5F),
+
+However, on PND80, SOCS2 (Fig. 3A) and CIS (Fig. 3B) were
+upregulated whereas SOCS3 (Fig. 3C) and additional GHindependent negative regulators of STAT-mediated signaling such
+as PIAS3 (Fig. 3D) and SOCS5 (Fig. 3E) were downregulated. We
+next explored whether the increased hepatic expression of SOCS2
+and CIS mRNA levels in adult rats exposed to CH was associated
+with a negative regulation of GH target genes or instead reflected
+enhanced GH signaling. CYP2C11 (Fig. 3F) and CYP2C13
+(Fig. 3G), two biomarkers of the male gene expression pattern in
+rats that are under GH control [52], were overexpressed in CH in
+comparison with the INTACT or WP groups, whereas the femalepredominant CYP2C7 gene was downregulated (Fig. 3H). These
+results show that CH influences the mRNA regulation of GH
+target genes in the adult liver. The absence of major effects on
+IGF-I expression suggests the presence of complex transcriptional
+mechanisms in vivo that deserve further research.
+
+Neonatal hypothyroidism influences the liver gene
+expression program in adulthood, and it is associated
+with decreased levels of intrahepatic lipids
+To better understand the influence of transient neonatal
+hypothyroidism on adult liver physiology, we next carried out an
+exploratory analysis of the global gene expression changes in the
+CH group on PND80 compared to INTACT rats by using DNA
+microarrays. We identified the set of genes that were differentially
+regulated in the CH group and analyzed the biological processes
+represented based on gene annotations in the Gene Ontology
+(www.ncbi.nlm.nih.gov/geo) and the KEGG pathway databases
+[41]. These exploratory analyses indicated that genes with altered
+expression in the CH group were functionally related to lipid
+metabolism (P = 0.0001). In particular, ‘‘PPARa’’ was the
+signaling pathway (KEGG) most represented among the CH
+regulated genes, suggesting alterations in hepatic lipid metabolism
+even in the absence of overt changes in circulating cholesterol and
+triglyceride levels (see below). Accordingly, our study showed that
+the hepatic content (mg/g of tissue; n = 6) of triglycerides
+(3.9160.6 vs. 1.4960.18; P,0.001), cholesteryl esters
+(0.3060.02 vs. 0.2160.04; P,0.001), free fatty acids (FFA)
+(0.1860.03 vs. 0.1360.004; P,0.05), and phospholipids
+(57.864.1 vs. 48.768.8; P,0.05) were significantly reduced in
+CH in comparison with INTACT rats. However, no changes in
+the free cholesterol (2.460.2 vs. 2.160.3) content (mg/g of tissue)
+were observed.
+PLoS ONE | www.plosone.org
+
+5
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+Figure 3. Effects of neonatal hypothyroidism on mRNA expression levels of SOCS/CIS and male predominant genes in adult rat
+liver. On PND80, the hepatic mRNA levels of SOCS2 (A), CIS (B), SOCS3 (C), PIAS3 (D), SOCS5 (E), CYP2C11 (F), CYP2C13 (G) and CYP2C7 (H) were
+measured by qPCR in rats exposed to neonatal hypothyroidism (CH), age-matched (INTACT) or weight-paired (WP) control groups. The mean mRNA
+expression level of each gene in the INTACT group is defined as 1, with all other expression values reported relative to this level. Bars represent mean
+6 SD from at least six individual animals. ***, P,0.001 for comparison with INTACT group. ++, P,0.01; +++, P,0.001 for comparison with WP group.
+doi:10.1371/journal.pone.0037386.g003
+
+hepatic lipase (HL) (Fig. 5G), and HMGCoA-S (Fig. 5H) remained
+unchanged. HMGCoA-R (Fig. 5I) was upregulated in CH group.
+In contrast, the mRNA expression levels of LXR, HL, HMGCoAR, and HMGCoA-S were significantly downregulated in the WP
+group. In addition, the mRNA expression levels of enzymes
+responsible for the catabolism of cholesterol such as 7a-hydroxylase (CYP7A1) (Fig. 6A), which is the rate-limiting enzyme in
+hepatic bile acid synthesis, sterol 27 hydroxylase (CYP27A1)
+(Fig. 6B), and 12a-hydroxylase (CYP8B1) (Fig. 6C), which is an
+enzyme involved in cholic acid synthesis [57,58], were downregulated in the CH and in the WP groups in comparison with the
+INTACT rats. Farnesoid X receptor (FXR) (Fig. 6D), a receptor
+for bile acids [57], was also downregulated in the CH rats. In
+contrast, small heterodimer partner (SHP) (Fig. 6E), a gene
+induced by FXR, remained unchanged, which suggests that there
+is low activity of the bile acid-FXR signaling pathway. Collectively,
+PLoS ONE | www.plosone.org
+
+these data indicate that a transient neonatal exposure to
+hypothyroidism causes changes in lipid metabolism in the liver
+and, particularly, in the cholesterol metabolism pathway that
+persist long after removal of the original insult, in animals that are
+euthyroid and exhibit similar growth rate as intact rats.
+
+Neonatal hypothyroidism influences the hepatic
+response to hormone replacement in adulthood
+Although CH rats were euthyroid on PND80 (i.e., the time
+when the comparative gene expression was performed), they
+showed changes in liver gene expression in comparison with agematched INTACT rats (see above) that involved previously
+characterized T3 (e.g., ME) or GH (e.g.SOCS2, CIS, IGF-I,
+CYP2C11, INSIG-1, and IGFBP-3) regulated genes. Thus, we
+hypothesized that the different transcriptional profile in the CH
+
+6
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+Figure 4. Effects of neonatal hypothyroidism on mRNA expression levels of genes related with lipid metabolism in adult rat liver.
+On PND80, the hepatic mRNA levels of PPARa (A), CPT1 (B), ME (C), SREBP1c (D), ACC1 (E), FAS (F), CYP4FI (G), AOX (H), and L-FABP (I) were measured
+by qPCR in CH, age-matched INTACT, or weight-paired (WP) control groups. The mean mRNA expression level of each gene in the INTACT group is
+defined as 1, with all other expression values reported relative to this level. Bars represent mean 6 SD from at least five individual animals. *, P,0.05;
+***, P,0.001 for comparison with INTACT group. ++, P,0.01; +++, P,0.001 for comparison with WP group.
+doi:10.1371/journal.pone.0037386.g004
+
+group could be explained by altered tissue responsiveness to T3
+and/or GH, two hormones that are drastically reduced by
+hypothyroidism [6,7,8]. To test this hypothesis, we developed a
+second burst of hypothyroidism (TX) in adulthood, which was
+followed by hormone replacement as described in ‘‘Materials and
+Methods’’. As expected, in vehicle or GH-treated TX rats, the
+serum levels of T3 were significantly reduced whereas the levels of
+T3-replaced animals did not differ from the INTACT control rats
+(data not shown). We showed a decrease in the total body weights
+of TX rats (P,0.001) and little subsequent weight gain in the TX/
+2CH (Fig. 7A) and TX/+CH rats (Fig. 7B). Independent of CH
+status, we showed the following: 1) the development of TX
+increased the circulating cholesterol levels and decreased the
+triglyceride serum levels (Table 1), which were mainly due to an
+increase of LDL and HDL cholesterol and a decrease of VLDL
+(data not shown), respectively, while the T3 hormone replacement
+restored the circulating cholesterol; 2) T3 and GH treatments
+increased the body weight gain in TX rats but it was unable to
+normalize it completely (Fig. 7A,B); and 3) T3 and GH treatments
+PLoS ONE | www.plosone.org
+
+increased the hepatic level of IGF-I mRNA and, unlike T3, GH
+was capable of fully restoring the level to normal (Fig. 7C).
+However, the development of TX in the CH group (i.e., TX/
++CH) resulted in a greater than 3-fold reduction of circulating
+FFAs, which was not observed in the TX/2CH group, and the
+T3 replacement restored it (Table 1). Next, we evaluated the
+effects of hormone replacement on the hepatic lipid content
+(Table 2). Independent of the CH status, T3 treatment restored
+hepatic cholesterol levels. However, in comparison with INTACT,
+GH increased the hepatic cholesteryl esters in the TH/2CH but
+not in the TH/+CH group. Additionally, to evaluate whether an
+altered response to the T3 treatment was associated with an
+altered transcriptional response, we measured the changes in gene
+expression of T3-regulated genes such as ME and FAS. The effect
+of GH was also measured. As expected, the development of TX in
+TX/2CH rats significantly reduced the mRNA levels of ME
+(Fig. 7D) and FAS (Fig. 7E). However, the development of TX in
+the TX/+CH group did not decrease ME (Fig. 7D) and,
+surprisingly, increased the mRNA levels of FAS up to 5-fold
+7
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+Figure 5. Effects of congenital hypothyroidism on mRNA expression levels of INSIG-1, SREBP2, LXR, and genes involved in lipid
+transport in adult rat liver. On PND80, the hepatic mRNA levels of INSIG1 (A), SREBP2 (B), LDLR (C), CD36 (D), ABCA (E), LXR (F), HLipase (G),
+HMGCoAS (H), and HMHCoAR (I) were measured by qPCR in CH, age-matched INTACT or weight-paired (WP) control groups. The mean mRNA
+expression level of each gene in the INTACT group is defined as 1, with all other expression values reported relative to this level. Bars represent mean
+6 SD from at least five individual animals. *, P,0.05; ***, P,0.001 for comparison with INTACT group. +, P,0.05; ++, P,0.01; +++, P,0.001 for
+comparison with WP group.
+doi:10.1371/journal.pone.0037386.g005
+
+the WP group, which suggests that TRa, unlike TRb was
+influenced by CH.
+
+(Fig. 7E). Furthermore, T3 replacement in the TX/2CH rats
+increased the mRNA expression levels of ME and FAS by 12- and
+3-fold, respectively. However, T3 replacement in the TX/+CH
+rats increased the expression of ME up to 30-fold which suggested
+an altered tissue sensitivity to T3 replacement. Taken together,
+these findings suggest that the tissue responsiveness to TH was
+altered in rats previously exposed to CH. At this point, we can only
+speculate about the molecular mechanisms that could support our
+hypothesis. However, because altered hepatic levels of TR might
+support a different metabolic response to TH in the liver
+[12,14,59], we made an exploratory analysis of the expression of
+TRb/TRa mRNA in the CH rats. The hepatic mRNA level of
+TRa (Fig. 7F) was significantly reduced in the CH group whereas
+the TRb mRNA (Fig. 7G) remained unaltered. However, the
+mRNA expression levels of TRa and TRb were downregulated in
+
+PLoS ONE | www.plosone.org
+
+Discussion
+The THs are essential for development, growth, and metabolism [1,2,3]. The present study shows that transient neonatal
+hypothyroidism in male rats gave rise to endocrine alterations that
+not only affected postnatal growth but also influenced hepatic
+physiology and responsiveness to THs replacement in adulthood.
+Growth-inhibiting conditions exist during development in
+association with malnutrition, glucocorticoid excess, systemic
+diseases, GH-IGF-I deficiency, or hypothyroidism [44,60,61]. In
+this work, several biomarkers of neonatal hypothyroidism (i.e.,
+decreased circulating THs and hepatic mRNA expression levels of
+ME and Spot14) and high expression of IGFBP-2 were associated
+
+8
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+Figure 6. Effects of congenital hypothyroidism on mRNA expression levels of genes involved in bile acid synthesis in adult rat liver.
+On PND80, the hepatic mRNA levels of CYP7A1 (A), CYP27A1 (B), CYP8B1 (C), FXR (D), and SHP (E) were measured by qPCR in CH, age-matched
+INTACT or weight-paired (WP) control groups. The mean mRNA expression level of each gene in the INTACT group is defined as 1, with all other
+expression values reported relative to this level. Bars represent mean 6 SD from at least five individual animals. **, P,0.01; ***, P,0.001 for
+comparison with INTACT group. +++, P,0.001 for comparison with WP group.
+doi:10.1371/journal.pone.0037386.g006
+
+with decreased circulating IGF-I and a delayed somatic growth
+rate on PND30. Furthermore, when the growth-inhibiting
+condition (i.e., MMI) was removed, somatic growth rate (weight
+and tail lenght gain) and food efficiency increased in CH rats,
+which is a phenomenon known as catch-up growth [44,60]. By
+PND80, however, this effect had subsided, and somatic growth
+rate (see body weight gain and tail length gain in Supplementary
+File S3) in CH animals was similar to age-matched INTACT
+controls. Alternatively, higher food efficiency remained in
+euthyroid CH group on PND80 along with significance differences
+in total body weight and size in comparison with INTACT group,
+which suggests, in agreement with previously reported data [62], a
+higher but less efficient rate of metabolism (i.e., a reduced ability to
+transform calories consumed into total body weight and size) in
+rats previously exposed to CH. The CH rats on PND80 also
+showed increased mRNA levels of several GH target genes (i.e.,
+IGF-I, SOCS-2, CIS, CYP2C11, CYP2C13) suggesting that the
+increased hepatic GH activity observed in these animals was
+possibly associated with catch-up growth. In contrast, other wellknown GH target genes in female rats such as CYP2C7 and CD36
+were downregulated in CH group. This apparent paradox could
+be explained by sexually dimorphic pattern of gene expression in
+rat liver [63,64]. The downregulation of female-predominant
+genes (e.g., CYP2C7 and CD36) concomitant with the induction
+of male-predominant genes (e.g., CYP2C11 and CYP2C13)
+suggests that a male pattern of gene expression was enhanced in
+CH rat liver.
+In the current study, we show that transient CH is associated
+with changes in SOCS-2 and CIS expression, which are key
+PLoS ONE | www.plosone.org
+
+negative regulators of GH-dependent somatic growth in vivo
+[51,65]. GH resistance can be shown in rat models of sepsis and
+uremia and in small rats for gestational age (SGA) without catchup growth. This was associated with an increased expression of
+SOCS-2 and CIS and impaired JAK/STAT signaling [66,67,68].
+In our model, however, catch-up growth was associated with the
+overexpression of SOCS-2 and CIS in adult CH rats. Whether the
+overexpression of SOCS and CIS is associated with delayed
+growth development and catch-up growth in CH rats requires
+further research.
+Growth-inhibiting conditions during fetal-neonatal period of life
+may influence lipid metabolism in adulthood [69,70,71,72].
+Human and rats, who do show catch-up of somatic growth and
+increased feed efficiency after withdrawal of growth-inhibiting
+condition (e.g., SGA or caloric restriction), have higher risk of fat
+in the liver and increased adiposity in adulthood [69,70,71,72].
+Now, we show that somatic growth inhibition by neonatal
+hypothyroidism influences hepatic lipid metabolism in adulthood.
+CH rats showed a concomitant upregulation of PPARa and
+CPT1, a gene related to fatty acid catabolism. Furthermore, adult
+CH rats showed a downregulation of CD36, which is involved in
+fatty acid uptake and a well-known PPARa target gene, along with
+the reduced transcription of genes involved in cholesterol uptake
+(LDLR), cellular sterol efflux (ABCA), triglyceride assembly
+(MTTP), bile acid synthesis (CYP8B1, CYP7A1 and CYP27A1),
+and lipogenesis (SREBP1c) [73]. These data indicate that CH
+significantly influenced lipid metabolism in adulthood and, most
+likely, contributed to the diminished hepatic levels of triglycerides,
+cholesteryl esters, and FFA. Conversely, because expression levels
+9
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+Figure 7. Effects of hormonal replacement on body weight and hepatic mRNA expression levels of IGF-I, ME, and FAS in adult
+hypothyroid rats without or with transient exposure to neonatal hypothyroidism. Four groups were studied: 1) age-matched rats
+(INTACT); 2) adult rats with neonatal hypothyroidism (CH); 3) hypothyroid adult rats without CH (TX/2CH); and 4) hypothyroid adult rats with CH (TX/
++CH). During the last week of life, TX/2CH and TX/+CH groups were treated with either T3 or GH daily. Control animals were injected with saline
+(VEH). Body weight (A and B) as well as hepatic mRNA levels of IGF-I (C), ME (D) and FAS (E) were measured. The hepatic mRNA levels of TRa (F) and
+TRb (G) were also measured by qPCR in CH, age-matched INTACT or weight-paired (WP) control groups. The mean mRNA expression level of each
+gene in the INTACT group is defined as 1, with all other expression values reported relative to this level. Results represent mean 6 SD from at least six
+individual rats *, P,0.05; **, P,0.01; ***, P,0.001 for comparison with INTACT group (panel A) and for comparison with CH group (panel B); +,
+P,0.05; ++, P,0.01; +++, P,0.001 for comparison with vehicle-treated TX group. ˆˆˆ, P,0.001 for comparison with WP group.
+doi:10.1371/journal.pone.0037386.g007
+
+likely associated with increased level of hepatic lipids and adiposity
+[72], which would not be in agreement with this explanation.
+Additionally, despite all of the changes observed in liver, the levels
+of circulating lipids (triglycerides and cholesterol) and lipoproteins
+(data not shown) were similar to those in the INTACT agedmatched littermates, which suggest that CH rats were able to
+maintain lipid homeostasis and support the increased energy
+demands imposed by an accelerated growth rate. This is
+apparently achieved by redistributing lipids from the liver towards
+peripheral tissues rather than through active hepatic lipogenesis,
+which is an energy-consuming process that would compete with
+peripheral energy needs.
+In this study, we show that transient neonatal hypothyroidism
+influences transcriptional program in adult liver. Despite being
+euthyroid, adult CH animal showed a modified transcriptional
+
+of several lipid genes in CH adult group were altered in similar
+direction to that detected in WP group, our data could be
+explained, in part, as a consequence of delayed growth [33,34].
+Furthermore, a reduced content of hepatic lipids in CH group
+could be caused by prolonged catch-up growth which might cause
+an increased lipid catabolism in growing animals (i.e., CH group)
+in comparison with those that have completed their body growth
+(i.e., INTACT). To determine whether some of these changes
+caused by CH are life-long adaptations, similar analysis would
+need to be performed in older animals [33,34]. Furthermore, the
+reduced content of hepatic lipids in CH group could be caused by
+prolonged catch-up growth which might cause increased lipid
+catabolism in growing animals (i.e., CH group) in comparison with
+those that have completed their body growth (i.e., INTACT).
+However, several reports have suggested that catch-up growth is
+
+PLoS ONE | www.plosone.org
+
+10
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+circulating cholesterol level. Additionally, T3 and GH treatments
+increased the body weight gain and hepatic levels of IGF-I mRNA.
+At first glance, these results suggested that the CH rats, after
+suffering a biological insult (i.e., a second burst of hypothyroidism
+in adulthood), showed a biological response similar to agematched INTACT rats. However, several of the responses to TX
+or hormone replacement suggested an altered lipid metabolism in
+the CH rats. First, a significant reduction of circulating FFAs by
+TX in TX/+CH group but not in TX/2CH group, an effect that
+was restored by T3 replacement. Second, GH-increased hepatic
+cholesterol esterification occurred in the TH/2CH animals but
+not in the TH/+CH animals. Third, GH treatment reduced
+serum VLDL fraction in the TX/2CH but not in the TX/+CH
+rats (data not shown). We did not observe major alterations in
+hepatic reactivity to GH in terms of lipid changes which suggests
+that the capacity of GH treatment to reduce serum triglyceride
+levels in TX/2CH rats, but not in TX/+CH rats, is most likely
+due to altered GH activity in extrahepatic tissues, such as fat and
+muscle [3]. Finally, hepatic concentrations of lipids in T3-treated
+TX/+CH rats did not differ significantly from TX/2CH group,
+which suggested that the homeostatic capacity of CH tissue in
+response to T3 was not dramatically affected. However, this is in
+contrast to the enhanced ME expression in the TX/+CH group in
+response to the T3 treatment. Increased ME mRNA expression
+did not seem to be a general response to T3 replacement because
+SREBP1c and 2 showed a less pronounced change (data not
+shown). ME is directly regulated by the binding of TR to a TRE in
+the promoter of the ME gene [74]. Our measurement of mRNA
+levels for TR receptors in liver showed unaltered expression of the
+major isoform TRb and reduced levels of TRa, making it unlikely
+that changes in ME expression can be attributed to altered TR
+content. Noticeably, the ME regulatory region also contains
+binding sites for PBX1 and 2 [75], CEBPa [76], and an E-box
+[77] that can modulate the response to T3. At this point, we
+cannot exclude the possibility that CH effects on these transcription factors and other nuclear co-regulators influence ME
+expression but additional experiments are needed to test this
+hypothesis. Likewise, a clearer mechanistic explanation for the
+
+Table 1. Serum lipids from PND80 male rats at baseline
+(INTACT), without (2CH) or with (+CH) transient neonatal
+exposure to MMI, during thyroid hormone deprivation
+(vehicle) and hormonal replacement.
+
+INTACT
+
+Cholesterol
+(mM)
+
+Triglycerides
+(mM)
+
+FFA (mM)
+
+1.3860.13
+
+1.5960.65
+
+0.6960.17
+
+TX/2CH
+Vehicle
+
+3.0160.13***
+
+0.6260.17**
+
+0.5860.17
+
+T3
+
+1.6960.16+++
+
+0.6760.20**
+
+0.7560.30
+
+GH
+
+2.7760.39***
+
+0.4460.13***
+
+0.2860.04***; ++
+
+TX/+CH
+Vehicle
+
+3.1560.31***
+
+0.7260.05**
+
+0.2460.07***
+
+T3
+
+1.5260.18+++
+
+0.6160.17**
+
+0.5960.13+++
+
+GH
+
+2.7060.57***
+
+0.6660.20**
+
+0.2560.06***
+
+INTACT and CH animals were exposed to MMI at PND60 as described
+in Materials and Methods. From day 73, animals were injected daily
+with vehicle, T3 or GH for 7 d. The animals were sacrificed on PND80
+and serum lipids were measured. Results are expressed as mean ± SD
+(n = 6). Statistical comparison was performed for treated animals
+using INTACT animals or vehicle as controls.
+**, P,0.01;
+***, P,0.001 for comparison with INTACT rats;
+++
+, P,0.01;
++++
+, P,0.001 for comparison with vehicle.
+doi:10.1371/journal.pone.0037386.t001
+
+profile in liver in comparison with age-matched INTACT rats,
+which might be explained by altered tissue responsiveness to T3
+and/or GH, two hormones that are drastically reduced by
+hypothyroidism [6,7,8]. However, independent of CH status,
+several of the responses to hypothyroidism and hormone
+replacement were similar. As expected, development of TX
+increased circulating cholesterol levels and decreased the serum
+triglyceride levels, while T3 hormone replacement restored
+
+Table 2. Hepatic lipids in liver from PND80 male rats at baseline (INTACT), without (2CH) or with (+CH) transient neonatal
+exposure to MMI, during thyroid hormone deprivation (vehicle) and hormonal replacement.
+
+Free cholesterol
+(mg/g of tissue)
+
+Triglycerides
+(mg/g of tissue)
+
+Cholesteryl esters
+(mg/g of tissue)
+
+Fatty acids
+(mg/g of tissue)
+
+Phospholipids
+(mg/g of tissue)
+
+2.460.2
+
+3.960.6
+
+0.3060.02
+
+0.1860.03
+
+57.864.1
+
+Vehicle
+
+1.960.1**
+
+2.160.2***
+
+0.3760.04*
+
+0.1560.01*
+
+51.663.4*
+
+T3
+
+2.360.3++
+
+1.560.2***;+
+
+0.3360.05
+
+0.1460.01**
+
+58.265.9
+
+GH
+
+2.160.2**
+
+1.460.1***;++
+
+0.5460.15 ***;++
+
+0.1260.01***;+
+
+50.764.9*
+
+Vehicle
+
+1.960.2**
+
+2.160.3***
+
+0.2160.02**
+
+0.1360.01**
+
+48.964.8*
+
+T3
+
+2.060.3*
+
+1.760.4***
+
+0.3460.09++
+
+0.1360.01**
+
+54.665.5
+
+GH
+
+1.760.2***
+
+1.660.3***
+
+0.3160.07++
+
+0.1260.01**
+
+43.862.3***;+
+
+INTACT
+TX/2CH
+
+TX/+CH
+
+INTACT and CH animals were exposed to MMI at PND60 as described in Materials and Methods. From day 73, animals were injected daily with
+vehicle, T3 or GH for 7 d. The animals were sacrificed on PND80 and hepatic lipids were measured. Results are expressed as mean ± SD (n = 6).
+Statistical comparison was performed for treated animals using INTACT animals or vehicle as controls.
+*, P,0.05;
+**, P,0.01;
+***, P,0.001 for comparison with INTACT rats;
++
+, P,0.05;
+++
+, P,0.01 for comparison with vehicle.
+doi:10.1371/journal.pone.0037386.t002
+
+PLoS ONE | www.plosone.org
+
+11
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+metabolic changes observed in the CH rats would require, among
+others measures, the analysis of fat and muscle metabolism.
+Androgens may influence the hepatic response to CH. It is well
+known that neonatal hypothyroidism results in increased circulating levels of testosterone in male rats, which is secondary to
+increased testis size [29]. We also observed two-fold higher serum
+testosterone levels in the CH rats compared to the age-matched
+adult INTACT rats (data not shown). Although the liver is not
+considered to be a primary target of testosterone action, androgens
+maintain specific male pattern of pituitary GH secretion and
+actions on liver [78], and it has been shown that specific deletion
+of androgen receptor (AR) in liver of male animals causes hepatic
+insulin resistance with decreased fatty acid b-oxidation and
+steatosis [79], which implicates the hepatic AR as a positive factor
+in maintaining physiological control of glucose and lipid homeostasis. Alternatively, in prostate, a well-known target tissue of
+androgen action, testosterone has lipogenic effects, such as
+inducing the expression of FAS [80]. Therefore, we cannot
+exclude the possibility that some of the transcriptional effects
+detected in the liver of the CH rats (e.g., increased CYP2C11,
+CYP2C13, and PPARa) were secondary to increased levels of
+circulating testosterone.
+In summary, our findings support the hypothesis that TH
+deprivation during neonatal period of life causes long-lasting
+influence on the liver transcriptome and provokes an altered
+responsiveness to biological insult in adulthood. Several findings
+that cannot be explained by the lower body weight in CH rats,
+compared to WP, include genes regulated by GH (e.g., IGF-I,
+CIS, CYP2C11, and CYP2C13) and genes involved in hepatic
+lipid metabolism (e.g., PPARa, CPT1, ME, ACC1, FAS,
+CYP4F1, AOX, L-FABP, LXR, HMGCoA-S, and HMGCoAR). Being clinically relevant, the changes observed in the
+transcriptional responses to T3 highlight the possibility that CH
+influences tissue reactivity to thyromimetic drugs in adulthood
+[81]. Interestingly, thyroid-disrupting compounds, which can
+cause neonatal hypothyroidism, include a wide range of chemicals
+from naturally occurring compounds, pharmaceuticals, and a
+number of xenobiotics [82]. The long-lasting influence of growthinhibiting conditions on hepatic metabolism is intriguing and
+warrants further study to explore whether the alterations observed
+in this study cause metabolic disruptions or chronic diseases.
+
+liver. Congenital-neonatal hypothyroid male rats (CH) were
+produced by 0.02%-MMI administration in the drinking water of
+pregnant rats (GD12) until weaning at PND30. For generation of
+adult hypothyroid rats (TX), 0.05% MMI was added to the
+drinking water for 3 weeks starting at PND58. Four groups were
+studied: 1) euthyroid age-matched rats (INTACT); 2) CH; 3) TX
+rats without CH (TX/2CH); and 4) TX rats with CH (TX/
++CH). During the last week of life, TX/2CH and TX/+CH
+groups were treated with either T3 or GH daily for 7 days as
+described in Materials and Methods. Control animals were
+injected with saline. Each group included six individual animals.
+(TIF)
+File S2 Gene names and primer sequences (59- 39) used
+for real-time PCR.
+(TIF)
+File S3 Effects of neonatal hypothyroidism on body
+growth development. Body weight (A) and tail length (B) were
+measured at 7-d intervals. On PND30, the hepatic mRNA levels
+of IGFBP2 (C) were measured by qPCR in rats exposed to
+neonatal hypothyroidism (CH), age-matched (INTACT) or
+weight-paired (WP30) control groups. Body weight gain (D), tail
+growth gain (E) and food efficiency (F) were measured at 7-d
+intervals as described in Material and Methods. Results are
+expressed as mean 6 SD from six individual animals in each
+group. **, P,0.01, ***, P,0.001 for comparison with INTACT
+group. +++, P,0.001 for comparison with WP group.
+(TIF)
+
+Acknowledgments
+The excellent technical assistance of M. Morante and C. J. Mateos-Dı́az is
+greatly appreciated. R.S-F was recipient of pre-doctoral fellowships from
+the MCYT (SAF2003-02117) and ACIISI-FSE (SE-10/13) and M.M-G
+and L.H-H were recipients from University of Las Palmas de GC and
+MEC (AP2001-3499), respectively.
+
+Author Contributions
+Conceived and designed the experiments: LF-P AF-M CB GN EH.
+Performed the experiments: RS-F MM-G CB NK LF-P PP LH-H.
+Analyzed the data: LF-P AF-M PP GN CB. Wrote the paper: LF-P AF-M
+CB.
+
+Supporting Information
+File S1 Schematic diagram of rat model used to study
+
+the effects of congenital hypothyroidism on adult rat
+
+References
+1.
+
+2.
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+Yen PM, Feng X, Flamant F, Chen Y, Walker RL, et al. (2003) Effects of ligand
+and thyroid hormone receptor isoforms on hepatic gene expression profiles of
+thyroid hormone receptor knockout mice. EMBO Rep 4: 581–587.
+De Felice M, Di Lauro R (2004) Thyroid development and its disorders: genetics
+and molecular mechanisms. Endocr Rev 25: 722–746.
+LeRoith D, Yakar S (2007) Mechanisms of disease: metabolic effects of growth
+hormone and insulin-like growth factor 1. Nat Clin Pract Endocrinol Metab 3:
+302–310.
+Nanto-Salonen K, Glasscock GF, Rosenfeld RG (1991) The effects of thyroid
+hormone on insulin-like growth factor (IGF) and IGF-binding protein (IGFBP)
+expression in the neonatal rat: prolonged high expression of IGFBP-2 in
+methimazole-induced congenital hypothyroidism. Endocrinology 129:
+2563–2570.
+Samuels MH, Wierman ME, Wang C, Ridgway EC (1989) The effect of altered
+thyroid status on pituitary hormone messenger ribonucleic acid concentrations
+in the rat. Endocrinology 124: 2277–2282.
+Nanto-Salonen K, Muller HL, Hoffman AR, Vu TH, Rosenfeld RG (1993)
+Mechanisms of thyroid hormone action on the insulin-like growth factor system:
+all thyroid hormone effects are not growth hormone mediated. Endocrinology
+132: 781–788.
+
+PLoS ONE | www.plosone.org
+
+8.
+
+9.
+
+10.
+
+11.
+12.
+
+13.
+
+12
+
+Mullis PE, Eble A, Marti U, Burgi U, Postel-Vinay MC (1999) Regulation of
+human growth hormone receptor gene transcription by triiodothyronine (T3).
+Mol Cell Endocrinol 147: 17–25.
+Rasmussen MH, Frystyk J, Andersen T, Breum L, Christiansen JS, et al. (1994)
+The impact of obesity, fat distribution, and energy restriction on insulin-like
+growth factor-1 (IGF-1), IGF-binding protein-3, insulin, and growth hormone.
+Metabolism 43: 315–319.
+Moreno B, Rodriguez-Manzaneque JC, Perez-Castillo A, Santos A (1997)
+Thyroid hormone controls the expression of insulin-like growth factor I receptor
+gene at different levels in lung and heart of developing and adult rats.
+Endocrinology 138: 1194–1203.
+Hoogerbrugge N, Jansen H, Staels B, Kloet LT, Birkenhager JC (1996) Growth
+hormone normalizes low-density lipoprotein receptor gene expression in
+hypothyroid rats. Metabolism 45: 680–685.
+Lazar MA, Willson TM (2007) Sweet dreams for LXR. Cell Metab 5: 159–161.
+Sjogren M, Alkemade A, Mittag J, Nordstrom K, Katz A, et al. (2007)
+Hypermetabolism in mice caused by the central action of an unliganded thyroid
+hormone receptor alpha1. Embo J 26: 4535–4545.
+Klieverik LP, Janssen SF, van Riel A, Foppen E, Bisschop PH, et al. (2009)
+Thyroid hormone modulates glucose production via a sympathetic pathway
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+14.
+
+15.
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+28.
+29.
+
+30.
+31.
+
+32.
+33.
+
+34.
+
+35.
+36.
+
+37.
+38.
+
+39.
+40.
+
+41.
+
+42.
+
+43. Pfaffl MW (2001) A new mathematical model for relative quantification in realtime RT-PCR. Nucleic Acids Res 29: e45.
+44. Boersma B, Wit JM (1997) Catch-up growth. Endocr Rev 18: 646–661.
+45. Peake GT, Birge CA, Daughaday WH (1973) Alterations of radioimmunoassayable growth hormone and prolactin during hypothroidism. Endocrinology
+92: 487–493.
+46. Cooper DS, Kieffer JD, Saxe V, Mover H, Maloof F, et al. (1984) Methimazole
+pharmacology in the rat: studies using a newly developed radioimmunoassay for
+methimazole. Endocrinology 114: 786–793.
+47. Calvo R, Obregon MJ, Ruiz de Ona C, Escobar del Rey F, Morreale de
+Escobar G (1990) Congenital hypothyroidism, as studied in rats. Crucial role of
+maternal thyroxine but not of 3,5,39-triiodothyronine in the protection of the
+fetal brain. J Clin Invest 86: 889–899.
+48. Knipper M, Zinn C, Maier H, Praetorius M, Rohbock K, et al. (2000) Thyroid
+hormone deficiency before the onset of hearing causes irreversible damage to
+peripheral and central auditory systems. J Neurophysiol 83: 3101–3112.
+49. Lee EK, Gorospe M (2010) Minireview: posttranscriptional regulation of the
+insulin and insulin-like growth factor systems. Endocrinology 151: 1403–1408.
+50. Rico-Bautista E, Flores-Morales A, Fernandez-Perez L (2006) Suppressor of
+cytokine signaling (SOCS) 2, a protein with multiple functions. Cytokine Growth
+Factor Rev 17: 431–439.
+51. Ahmed SF, Farquharson C (2010) The effect of GH and IGF1 on linear growth
+and skeletal development and their modulation by SOCS proteins. J Endocrinol
+206: 249–259.
+52. Waxman DJ, Holloway MG (2009) Sex differences in the expression of hepatic
+drug metabolizing enzymes. Mol Pharmacol 76: 215–228.
+53. Rakhshandehroo M, Hooiveld G, Muller M, Kersten S (2009) Comparative
+analysis of gene regulation by the transcription factor PPARalpha between
+mouse and human. PLoS One 4: e6796.
+54. Castelein H, Gulick T, Declercq PE, Mannaerts GP, Moore DD, et al. (1994)
+The peroxisome proliferator activated receptor regulates malic enzyme gene
+expression. J Biol Chem 269: 26754–26758.
+55. Tong L (2005) Acetyl-coenzyme A carboxylase: crucial metabolic enzyme and
+attractive target for drug discovery. Cell Mol Life Sci 62: 1784–1803.
+56. Horton JD, Shah NA, Warrington JA, Anderson NN, Park SW, et al. (2003)
+Combined analysis of oligonucleotide microarray data from transgenic and
+knockout mice identifies direct SREBP target genes. Proc Natl Acad Sci U S A
+100: 12027–12032.
+57. Vlahcevic ZR, Heuman DM, Hylemon PB (1991) Regulation of bile acid
+synthesis. Hepatology 13: 590–600.
+58. Hunt MC, Yang YZ, Eggertsen G, Carneheim CM, Gafvels M, et al. (2000) The
+peroxisome proliferator-activated receptor alpha (PPARalpha) regulates bile
+acid biosynthesis. J Biol Chem 275: 28947–28953.
+59. Pelletier P, Gauthier K, Sideleva O, Samarut J, Silva JE (2008) Mice lacking the
+thyroid hormone receptor-alpha gene spend more energy in thermogenesis,
+burn more fat, and are less sensitive to high-fat diet-induced obesity.
+Endocrinology 149: 6471–6486.
+60. Lui JC, Baron J (2011) Mechanisms limiting body growth in mammals. Endocr
+Rev 32: 422–440.
+61. Saenger P, Czernichow P, Hughes I, Reiter EO (2007) Small for gestational age:
+short stature and beyond. Endocr Rev 28: 219–251.
+62. Davenport JW, Hennies RS (1976) Perinatal hypothyroidism in rats: persistent
+motivational and metabolic effects. Dev Psychobiol 9: 67–82.
+63. Vidal OM, Merino R, Rico-Bautista E, Fernandez-Perez L, Chia DJ, et al.
+(2007) In vivo transcript profiling and phylogenetic analysis identifies suppressor
+of cytokine signaling 2 as a direct signal transducer and activator of transcription
+5b target in liver. Mol Endocrinol 21: 293–311.
+64. Waxman DJ, O’Connor C (2006) Growth hormone regulation of sex-dependent
+liver gene expression. Mol Endocrinol 20: 2613–2629.
+65. Flores-Morales A, Greenhalgh CJ, Norstedt G, Rico-Bautista E (2006) Negative
+regulation of growth hormone receptor signaling. Mol Endocrinol 20: 241–253.
+66. Schaefer F, Chen Y, Tsao T, Nouri P, Rabkin R (2001) Impaired JAK-STAT
+signal transduction contributes to growth hormone resistance in chronic uremia.
+J Clin Invest 108: 467–475.
+67. Chen Y, Sun D, Krishnamurthy VM, Rabkin R (2007) Endotoxin attenuates
+growth hormone-induced hepatic insulin-like growth factor I expression by
+inhibiting JAK2/STAT5 signal transduction and STAT5b DNA binding.
+Am J Physiol Endocrinol Metab 292: E1856–1862.
+68. Huang Y, Du M, Zhuang S, Shen Z, Li Y (2010) Impaired growth hormone
+receptor signaling during non-catch-up growth in rats born small for gestational
+age. Horm Res Paediatr 74: 106–113.
+69. Fraser A, Hughes R, McCarthy A, Tilling K, Davies D, et al. (2008) Early life
+growth and hemostatic factors: the Barry Caerphilly Growth study.
+Am J Epidemiol 168: 179–187.
+70. Shahkhalili Y, Moulin J, Zbinden I, Aprikian O, Mace K (2010) Comparison of
+two models of intrauterine growth restriction for early catch-up growth and later
+development of glucose intolerance and obesity in rats. Am J Physiol Regul
+Integr Comp Physiol 298: R141–146.
+71. Chen LL, Hu X, Zheng J, Kong W, Zhang HH, et al. (2011) Lipid
+overaccumulation and drastic insulin resistance in adult catch-up growth rats
+induced by nutrition promotion after undernutrition. Metabolism 60: 569–578.
+72. Morrison JL, Duffield JA, Muhlhausler BS, Gentili S, McMillen IC (2010) Fetal
+growth restriction, catch-up growth and the early origins of insulin resistance
+and visceral obesity. Pediatr Nephrol 25: 669–677.
+
+from the hypothalamic paraventricular nucleus to the liver. Proc Natl Acad
+Sci U S A 106: 5966–5971.
+Vujovic M, Nordstrom K, Gauthier K, Flamant F, Visser TJ, et al. (2009)
+Interference of a mutant thyroid hormone receptor alpha1 with hepatic glucose
+metabolism. Endocrinology 150: 2940–2947.
+Angelin B, Rudling M (2010) Lipid lowering with thyroid hormone and
+thyromimetics. Curr Opin Lipidol 21: 499–506.
+Lopez D, Abisambra Socarras JF, Bedi M, Ness GC (2007) Activation of the
+hepatic LDL receptor promoter by thyroid hormone. Biochim Biophys Acta
+1771: 1216–1225.
+Gullberg H, Rudling M, Forrest D, Angelin B, Vennstrom B (2000) Thyroid
+hormone receptor beta-deficient mice show complete loss of the normal
+cholesterol 7alpha-hydroxylase (CYP7A) response to thyroid hormone but
+display enhanced resistance to dietary cholesterol. Mol Endocrinol 14:
+1739–1749.
+Ness GC, Lopez D (1995) Transcriptional regulation of rat hepatic low-density
+lipoprotein receptor and cholesterol 7 alpha hydroxylase by thyroid hormone.
+Arch Biochem Biophys 323: 404–408.
+Fang X, Hillgartner FB (1998) Cell-specific regulation of transcription of the
+malic enzyme gene: characterization of cis-acting elements that modulate
+nuclear T3 receptor activity. Arch Biochem Biophys 349: 138–152.
+Gonzalez-Manchon C, Butta N, Ferrer M, Ayuso MS, Parrilla R (1997)
+Molecular cloning and functional characterization of the human cytosolic malic
+enzyme promoter: thyroid hormone responsiveness. DNA Cell Biol 16:
+533–544.
+Xiong S, Chirala SS, Hsu MH, Wakil SJ (1998) Identification of thyroid
+hormone response elements in the human fatty acid synthase promoter. Proc
+Natl Acad Sci U S A 95: 12260–12265.
+Flores-Morales A, Gullberg H, Fernandez L, Stahlberg N, Lee NH, et al. (2002)
+Patterns of liver gene expression governed by TRbeta. Mol Endocrinol 16:
+1257–1268.
+Henriquez-Hernandez LA, Flores-Morales A, Santana-Farre R, Axelson M,
+Nilsson P, et al. (2007) Role of pituitary hormones on 17alpha-ethinylestradiolinduced cholestasis in rat. J Pharmacol Exp Ther 320: 695–705.
+Hashimoto K, Yamada M, Matsumoto S, Monden T, Satoh T, et al. (2006)
+Mouse sterol response element binding protein-1c gene expression is negatively
+regulated by thyroid hormone. Endocrinology 147: 4292–4302.
+Rodd C, Schwartz HL, Strait KA, Oppenheimer JH (1992) Ontogeny of hepatic
+nuclear triiodothyronine receptor isoforms in the rat. Endocrinology 131:
+2559–2564.
+Morreale de Escobar G, Obregon MJ, Ruiz de Ona C, Escobar del Rey F (1988)
+Transfer of thyroxine from the mother to the rat fetus near term: effects on brain
+3,5,39-triiodothyronine deficiency. Endocrinology 122: 1521–1531.
+Oppenheimer JH, Schwartz HL (1997) Molecular basis of thyroid hormonedependent brain development. Endocr Rev 18: 462–475.
+Holness MJ, Sugden MC (2006) Epigenetic regulation of metabolism in children
+born small for gestational age. Curr Opin Clin Nutr Metab Care 9: 482–488.
+Kirby JD, Arambepola N, Porkka-Heiskanen T, Kirby YK, Rhoads ML, et al.
+(1997) Neonatal hypothyroidism permanently alters follicle-stimulating hormone
+and luteinizing hormone production in the male rat. Endocrinology 138:
+2713–2721.
+Cooke PS, Hess RA, Porcelli J, Meisami E (1991) Increased sperm production in
+adult rats after transient neonatal hypothyroidism. Endocrinology 129: 244–248.
+de GC (1963) Tail growth in the thyroxine-treated hypophysectomized rat as a
+sensitive criterion for growth hormone activity. Acta Endocrinol (Copenh) 42:
+423–431.
+Lee MM, Chu PC, Chan HC (1969) Effects of cold on the skeletal growth of
+albino rats. Am J Anat 124: 239–249.
+Marino R, Hegde A, Barnes KM, Schrier L, Emons JA, et al. (2008) Catch-up
+growth after hypothyroidism is caused by delayed growth plate senescence.
+Endocrinology 149: 1820–1828.
+Finkielstain GP, Forcinito P, Lui JC, Barnes KM, Marino R, et al. (2009) An
+extensive genetic program occurring during postnatal growth in multiple tissues.
+Endocrinology 150: 1791–1800.
+Meyer JH, Nelson AO (1963) Efficiency of Feed Utilization by Various Animal
+Species Fed Similar Rations. J Nutr 80: 343–349.
+Parini P, Johansson L, Broijersen A, Angelin B, Rudling M (2006) Lipoprotein
+profiles in plasma and interstitial fluid analyzed with an automated gel-filtration
+system. Eur J Clin Invest 36: 98–104.
+Folch J, Lees M, Sloane Stanley GH (1957) A simple method for the isolation
+and purification of total lipides from animal tissues. J Biol Chem 226: 497–509.
+Ruiz JI, Ochoa B (1997) Quantification in the subnanomolar range of
+phospholipids and neutral lipids by monodimensional thin-layer chromatography and image analysis. J Lipid Res 38: 1482–1489.
+Quackenbush J (2002) Microarray data normalization and transformation. Nat
+Genet 32 Suppl. pp 496–501.
+Tusher VG, Tibshirani R, Chu G (2001) Significance analysis of microarrays
+applied to the ionizing radiation response. Proc Natl Acad Sci U S A 98:
+5116–5121.
+Huang da W, Sherman BT, Lempicki RA (2009) Systematic and integrative
+analysis of large gene lists using DAVID bioinformatics resources. Nat Protoc 4:
+44–57.
+Rozen S, Skaletsky H (2000) Primer3 on the WWW for general users and for
+biologist programmers. Methods Mol Biol 132: 365–386.
+
+PLoS ONE | www.plosone.org
+
+13
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+Congenital Hypothyroidism and Liver
+
+73. Desvergne B, Michalik L, Wahli W (2006) Transcriptional regulation of
+metabolism. Physiol Rev 86: 465–514.
+74. Petty KJ, Desvergne B, Mitsuhashi T, Nikodem VM (1990) Identification of a
+thyroid hormone response element in the malic enzyme gene. J Biol Chem 265:
+7395–7400.
+75. Wang Y, Yin L, Hillgartner FB (2001) The homeodomain proteins PBX and
+MEIS1 are accessory factors that enhance thyroid hormone regulation of the
+malic enzyme gene in hepatocytes. J Biol Chem 276: 23838–23848.
+76. Yin L, Wang Y, Dridi S, Vinson C, Hillgartner FB (2005) Role of CCAAT/
+enhancer-binding protein, histone acetylation, and coactivator recruitment in
+the regulation of malic enzyme transcription by thyroid hormone. Mol Cell
+Endocrinol 245: 43–52.
+77. Wang Y, Zhang Y, Hillgartner FB (2002) Chicken ovalbumin upstreampromoter transcription factor and E-box-binding proteins enhance thyroid-
+
+PLoS ONE | www.plosone.org
+
+78.
+
+79.
+
+80.
+
+81.
+82.
+
+14
+
+hormone responsiveness of the malic enzyme gene in avian hepatocytes.
+Biochem J 361: 391–400.
+Ho KK, Gibney J, Johannsson G, Wolthers T (2006) Regulating of growth
+hormone sensitivity by sex steroids: implications for therapy. Front Horm Res
+35: 115–128.
+Lin HY, Yu IC, Wang RS, Chen YT, Liu NC, et al. (2008) Increased hepatic
+steatosis and insulin resistance in mice lacking hepatic androgen receptor.
+Hepatology 47: 1924–1935.
+Heemers HV, Verhoeven G, Swinnen JV (2006) Androgen activation of the
+sterol regulatory element-binding protein pathway: Current insights. Mol
+Endocrinol 20: 2265–2277.
+Larsen PR (2009) Thyroid hormone analogs and metabolites: new applications
+for an old hormone? Nat Clin Pract Endocrinol Metab 5: 1.
+Brucker-Davis F (1998) Effects of environmental synthetic chemicals on thyroid
+function. Thyroid 8: 827–856.
+
+May 2012 | Volume 7 | Issue 5 | e37386
+
+

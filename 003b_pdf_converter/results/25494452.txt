@@ -1,0 +1,1700 @@
+&get_box_var;
+
+ORIGINAL ARTICLE
+
+Plasma Sphingolipids Associated with Chronic Obstructive
+Pulmonary Disease Phenotypes
+Russell P. Bowler1, Sean Jacobson1, Charmion Cruickshank1, Grant J. Hughes2, Charlotte Siska3, Daniel S. Ory4,5,
+Irina Petrache6,7, Jean E. Schaffer4,5, Nichole Reisdorph1, and Katerina Kechris2
+1
+
+National Jewish Health, Denver, Colorado; 2Department of Biostatistics and Informatics and 3Computational Bioscience Program,
+University of Colorado Denver, Denver, Colorado; 4Diabetic Cardiovascular Disease Center and 5Department of Medicine, Washington
+University, St. Louis, Missouri; 6Indiana University School of Medicine, Indianapolis, Indiana; and 7Richard L. Roudebush VA Medical
+Center, Indianapolis, Indiana
+
+Abstract
+Rationale: Chronic obstructive pulmonary disease (COPD) occurs
+
+in a minority of smokers and is characterized by intermittent
+exacerbations and clinical subphenotypes such as emphysema
+and chronic bronchitis. Although sphingolipids as a class are
+implicated in the pathogenesis of COPD, the particular sphingolipid
+species associated with COPD subphenotypes remain unknown.
+
+sphingolipids. Peripheral blood mononuclear cells were used to test
+associations between sphingolipid gene expression and plasma
+sphingolipids.
+
+Objectives: To use mass spectrometry to determine which plasma
+sphingolipids are associated with subphenotypes of COPD.
+
+Measurements and Main Results: Of the measured plasma
+sphingolipids, ﬁve sphingomyelins were associated with emphysema;
+four trihexosylceramides and three dihexosylceramides were
+associated with COPD exacerbations. Three sphingolipids were
+strongly associated with sphingolipid gene expression, and
+15 sphingolipid gene/metabolite pairs were differentially regulated
+between COPD cases and control subjects.
+
+Methods: One hundred twenty-nine current and former smokers
+
+Conclusions: There is evidence of systemic dysregulation of
+
+from the COPDGene cohort had 69 distinct sphingolipid species
+detected in plasma by targeted mass spectrometry. Of these, 23 were
+also measured in 131 plasma samples (117 independent subjects)
+using an untargeted platform in an independent laboratory.
+Regression analysis with adjustment for clinical covariates,
+correction for false discovery rate, and metaanalysis were used
+to test associations between COPD subphenotypes and
+
+Chronic obstructive pulmonary disease
+(COPD) is the third leading cause of death
+in the United States (1). Although smoking
+is the major risk factor for COPD, most
+smokers do not develop COPD, and those
+who do have variable clinical phenotypes
+
+sphingolipid metabolism in patients with COPD. Subphenotyping
+suggests that sphingomyelins are strongly associated with
+emphysema and glycosphingolipids are associated with COPD
+exacerbations.
+Keywords: ceramides; sphingomyelins; emphysema;
+
+metabolomics; genomics
+
+such as airﬂow obstruction, emphysema,
+chronic bronchitis, and frequent COPD
+exacerbations (2). There is little
+known about what predisposes certain
+smokers to develop a particular COPD
+phenotype. Recently, there have been
+
+reports suggesting that alteration in
+sphingolipid metabolism may be
+linked to disease susceptibility (3–6),
+although large-scale human studies
+of speciﬁc sphingolipids have been
+lacking.
+
+( Received in original form October 2, 2014; accepted in final form December 8, 2014 )
+Funded by National Heart, Lung, and Blood Institute grants U01 HL089856 and U01 HL089897 (Edwin Silverman and James Crapo); National Center for
+Research Resources/National Institutes of Health grants UL1 RR025780 and S10 RR023703; National Institutes of Health/National Center for Advancing
+Translational Sciences Colorado Clinical and Translational Science Awards UL1 TR000154 (Ron Sokol), P20 HL-113444 (J.E.S.), and P20 HL-113445 (R.P.B.,
+I.P., and N.R.).
+Author Contributions: R.P.B., N.R., and K.K. designed the study; C.C., D.S.O., J.E.S., and N.R. generated data; S.J., C.C., G.J.H., C.S., and K.K. analyzed
+data; R.P.B., I.P., N.R., and K.K. interpreted data and wrote the manuscript.
+Correspondence and requests for reprints should be addressed to Russell Bowler, M.D., Ph.D., 1400 Jackson Street, Room K715a, Denver, CO 80206. E-mail:
+bowlerr@njhealth.org; or Irina Petrache, M.D., 980 West Walnut Street, Walther Hall–R3, C400, Indianapolis, IN 46260. E-mail: ipetrach@iu.edu
+This article has an online supplement, which is accessible from this issue’s table of contents at www.atsjournals.org
+Am J Respir Crit Care Med Vol 191, Iss 3, pp 275–284, Feb 1, 2015
+Copyright © 2015 by the American Thoracic Society
+Originally Published in Press as DOI: 10.1164/rccm.201410-1771OC on December 10, 2014
+Internet address: www.atsjournals.org
+
+Bowler, Jacobson, Cruickshank, et al.: Plasma Sphingolipids in COPD
+
+275
+
+ORIGINAL ARTICLE
+
+At a Glance Commentary
+Scientiﬁc Knowledge on the
+Subject: In preclinical studies,
+
+ceramides, the basic unit of
+sphingolipids, has been linked to
+emphysema development. However,
+the complexity of the sphingolipid
+metabolism generates multiple
+sphingolipid species with distinct
+biological functions, and chronic
+obstructive pulmonary disease
+(COPD) is a common disease with
+multiple phenotypes, including
+emphysema. Recent data suggest an
+association between circulating and
+sputum levels of sphingolipids and
+COPD, but only two classes have
+been studied (ceramides and
+sphingomyelin), and these ﬁndings
+have been neither validated in larger
+cohorts nor studied in relationship
+with distinct COPD phenotypes.
+What This Study Adds to the
+Field: This study investigates the
+
+associations of plasma sphingolipids
+with COPD subtypes such as airﬂow
+obstruction, emphysema, chronic
+bronchitis, and frequent exacerbations
+in a well-characterized cohort of
+current or former smokers.
+Our ﬁndings add to previous
+studies reporting associations of
+sphingomyelin and ceramides with
+airﬂow obstruction and emphysema.
+In addition, we identiﬁed novel
+sphingolipids associated with COPD
+phenotypes such as frequent COPD
+exacerbations. We showed that
+COPD subphenotypes are associated
+with dysregulated gene/metabolite
+pathways for sphingolipids, adding
+further evidence to their role in the
+pathogenesis of COPD.
+Sphingolipids contain a backbone of
+sphingoid bases and, depending on the
+O-linked R group, are subclassiﬁed into
+sphingosines, sphingomyelins, ceramides,
+or glycosphingolipids. In mammals, there
+are more than 100 species of sphingolipids
+and a multitude of enzymes that regulate
+sphingolipid metabolism. Sphingolipids are
+found primarily in cell membranes, but
+also in bioﬂuids such as plasma. Having
+pleiotropic effects, speciﬁc sphingolipids
+276
+
+have been implicated in diverse biologic
+processes (7) that include: cell death,
+proliferation, differentiation, autophagy,
+senescence, migration, and efferocytosis.
+Sphingolipids have been implicated
+in several lung diseases, including COPD
+(3, 8, 9). The majority of sphingolipid
+lung research has focused on ceramides,
+the central intermediate metabolites in
+the sphingolipid metabolism and key
+proapoptotic signaling molecules, and
+on sphingosine-1-phosphate (S1P), a
+downstream metabolite of ceramide and
+key prosurvival and immune regulator.
+Smokers (10) and patients with COPD (11)
+have increased ceramides in their lungs,
+and ceramides have been implicated in
+tobacco smoke–induced pulmonary
+vascular cell apoptosis (12) and clearance of
+apoptotic cells by alveolar macrophages
+(13). S1P receptor 5 expression is reduced
+the lungs of patients with COPD (14),
+and S1P analogs inhibit emphysema
+development in animal models (15). Recently,
+in a small cohort, sphingolipids were found
+elevated in the sputum in COPD (6).
+These ﬁndings suggest that
+sphingolipid metabolism is dysregulated
+by smoking and COPD and that these
+derangements may be pathogenic and could
+serve as biomarkers (10). However, previous
+studies have been limited by small sample
+sizes, limited clinical phenotyping, and
+limited focus on a particular subclass
+of sphingolipids. To overcome these
+limitations and further investigate
+sphingolipids for their association with
+clinical COPD phenotypes, such as
+emphysema, chronic bronchitis, and
+frequent exacerbations, we used two
+mass spectrometry–based approaches to
+quantitate 69 plasma sphingolipids in more
+than 250 smokers with and without COPD
+from the COPDGene study. Furthermore,
+we integrated plasma metabolomics analyses
+with recently published microarray proﬁling
+of this cohort (4) to discover relationships
+that might elucidate mechanisms of
+sphingolipid dysregulation in COPD.
+
+Methods
+Study Population
+
+The institutional review boards of
+participating institutions approved this
+study. All subjects were from the
+COPDGene cohort, which is a National
+Institutes of Health–sponsored
+
+multicentered study of the genetic
+epidemiology of COPD (16). From this
+cohort we selected a subset of 129 subjects
+(Table 1) for targeted sphingolipid
+analysis to obtain a wide range of COPD
+phenotypes (deﬁned below). Additionally,
+131 subjects who participated in a
+microarray study of gene expression in
+peripheral blood mononuclear cells (GEO
+accession number GSE 42057) (4) were
+selected for untargeted sphingolipid
+analysis. Additional details are provided
+in the online supplement.
+Clinical Data Collection and
+Deﬁnitions of COPD Phenotypes
+
+Each subject was classiﬁed by four different
+clinical phenotypes: airﬂow obstruction
+(COPD), chronic bronchitis, emphysema, and
+exacerbations (see Table E1 in the online
+supplement). COPD was deﬁned using
+Global Initiative for Chronic Obstructive
+Lung Disease criteria (17). Emphysema was
+measured using quantitative high-resolution
+computed tomography (HRCT) as described
+(18). Exacerbations were deﬁned by acutely
+worse cough, sputum, and dyspnea in those
+with and without COPD. Only moderate
+exacerbations (treated by corticosteroids
+and/or antibiotics) or severe exacerbations
+(causing hospitalization) were counted.
+Chronic bronchitis was deﬁned as cough that
+produces sputum daily for 3 consecutive
+months for at least 2 consecutive years.
+Sphingolipid Measurements
+
+Sphingolipid measurements were
+performed independently in two separate
+laboratories using two separate protocols
+(see online supplement for more details).
+A targeted, quantitative, mass spectrometry
+panel (Washington University) included 69
+sphingolipids (Table E2). Sphingomyelins,
+dihydrosphingomyelins, ceramides,
+and dihydroceramides were extracted
+using a modiﬁed Bligh-Dyer extraction
+method, in the presence of internal
+standards. Sphingoid bases, ceramide-1phosphate, monohexosylsphingosine,
+monohexosylceramides, dihexosylceramides,
+trihexosylceramides, monohydroxylated
+monohexosylceramides, monohydroxylated
+dihexosylceramides, sulfatides, and
+gangliosides were extracted after protein
+precipitation with methanol, followed by
+supernatant collection, drying, and
+reconstituting with 1:1 methanol/water,
+in the presence of internal standards. A
+second untargeted protocol (National Jewish
+
+American Journal of Respiratory and Critical Care Medicine Volume 191 Number 3 | February 1 2015
+
+ORIGINAL ARTICLE
+Table 1. Characteristics of Subjects
+Targeted Cohort
+(N = 129)
+
+Untargeted Cohort
+(N = 131)
+
+P Value
+
+63 (58–71)
+57
+23
+46 (34–58)
+27 (24–31)
+64 (40–92)
+0.56 (0.39–0.72)
+11.5 6 11.4
+19
+0.7 6 1.3
+0.2 6 0.7
+
+64 (57–70)
+56
+23
+42 (30–64)
+27 (24–32)
+66 (42–89)
+0.61 (0.44–0.74)
+9.18 6 10.4
+18
+0.6 6 1
+0.1 6 0.3
+
+0.96
+0.79
+0.95
+0.71
+0.58
+0.8
+0.15
+0.09
+0.95
+0.3
+0.17
+
+Age, yr
+Sex, % men
+Current smokers, %
+Pack-years
+Body mass index
+FEV1 %
+FEV1/FVC
+Emphysema, %
+Chronic bronchitis, %
+Exacerbations/yr, moderate
+Exacerbations/yr, severe
+
+Data are presented as median (interquartile range) or mean 6 SD. Emphysema was defined as
+percent of lung attenuation voxels below 2950 Hounsfield units; chronic bronchitis was defined by
+daily productive cough for at least 3 months in the previous 2 consecutive years; exacerbations
+were defined as moderate (treated with either antibiotics or corticosteroids) or severe (leading to
+hospitalization) in the previous year.
+
+Health) was performed as detailed
+elsewhere (19).
+
+statistically signiﬁcant differences in the
+baseline characteristics between the
+targeted and untargeted cohorts.
+
+Statistical Analysis
+
+Differences in demographic characteristics
+of study subjects were analyzed using a t test
+for continuous variables and a Chi-square
+test for categorical variables. Regression
+modeling and covariates are described
+further in the online supplement. Because
+the sphingolipid levels were highly
+correlated within class (Figure E1), we also
+computed the ﬁrst principal component
+of each sphingolipid class (Tables E3 and
+E4) using prcomp function in R.
+Replication between the targeted and
+untargeted platforms was determined
+using the Stouffer-Liptak Z-score method,
+which converts the P values from the two
+studies to normal quantiles and averages
+them to obtain a combined P value (20, 21).
+Each of the 23 sphingolipids that
+overlapped between the two studies was
+tested, and consistency in the direction of
+the effect on the phenotype was taken into
+account.
+
+Results
+Study Subjects and Baseline
+Characteristics
+
+Demographics, physiology, quantitative
+HRCT measurements, and patient-reported
+outcomes for each group are listed in
+Table 1 and Table E1. Except for slightly
+more subjects with emphysema in the
+untargeted cohort, there were no
+
+Targeted Identiﬁcation of Plasma
+Sphingolipids
+
+Our previous results suggested that
+sphingolipids were candidate biomarkers
+for COPD (4); we therefore performed
+targeted measurement of multiple
+sphingolipid classes. These included:
+sphingomyelins (SM d18:1),
+dihydrosphingomyelins (SM d18:0),
+ceramides (Cer d18:1), dihydroceramides
+(Cer d18:0), sphingoid bases, ceramide-1phosphate, monohexosylsphingosine,
+monohexosylceramides, dihexosylceramides,
+trihexosylceramides, monohydroxylated
+monohexosylceramides, monohydroxylated
+dihexosylceramides, sulfatides, and
+gangliosides. After ﬁltering out species that
+exhibited no or very low peaks, overlapped
+with other peaks, exhibited multiple peaks
+with retention times in close proximity,
+or had large coefﬁcients of variance,
+69 sphingolipid species were used for
+quantitative comparisons (Table E2).
+Multiple sphingolipids were associated with
+clinical covariates such as age, sex, body
+mass index (BMI), and current smoking
+(Table E3). Three sphingolipid species
+showed a negative correlation with age
+(correlation test P value , 0.01), seven
+species showed a negative correlation with
+BMI (correlation P value , 0.01), and 32
+species showed higher levels in female
+subjects (t test P value , 0.01). Although not
+signiﬁcant, select species showed trends for
+
+Bowler, Jacobson, Cruickshank, et al.: Plasma Sphingolipids in COPD
+
+alterations depending on current smoking
+status. Because of these associations, we
+adjusted for covariates in all our models.
+Because strong correlations were noted
+within classes of sphingolipids (Figure E1),
+sphingolipid species were further grouped
+into 10 classes (Table E4), which further
+revealed robust interclass collinearities.
+For instance, plasma sphingomyelins
+were strongly correlated with ceramides
+(P , 0.001), and both sphingomyelins and
+ceramides were inversely correlated with
+S1P (P , 0.001). Because of the high
+intraclass correlations for plasma
+sphingolipids, each class of sphingolipids
+was also represented in analyses by the ﬁrst
+principal component from the intraclass
+principal component analysis.
+Plasma Sphingolipids Association
+with Different Phenotypes of COPD
+
+Patients with COPD exhibit heterogeneity
+in clinical presentation, with different
+morbidities and prognoses for each
+phenotype; therefore, we investigated if
+speciﬁc sphingolipids or sphingolipid
+classes are signiﬁcantly associated with
+individual phenotypes. The most
+statistically signiﬁcant negative (inverse)
+association between speciﬁc COPD
+phenotypes and sphingolipid classes was
+for emphysema and sphingomyelins; the
+most statistically signiﬁcant positive (direct)
+association was between COPD exacerbations
+and trihexosylceramides (Figure 1).
+Individual sphingolipids associated with
+emphysema. We identiﬁed 26 sphingolipids
+
+that were signiﬁcantly associated with
+emphysema after adjustment for covariates,
+with 8 remaining signiﬁcant after
+adjustment for false discovery rate (FDR)
+(Table E5). The most highly represented
+group was that of sphingomyelins
+(10 species associated with emphysema,
+including 5 after adjustment for false
+discovery), all of which had negative
+associations with emphysema. The three
+plasma sphingolipids most signiﬁcantly
+associated with emphysema were ceramide
+d18.1.N16.0 (P = 0.0006), ganglioside
+GM3 d18.1.N16.0 (P = 0.0004), and
+sphingomyelin d18.1.N16.0 (P = 0.0009),
+all being inversely associated with
+emphysema (Figure 2), followed by
+monohexosylceramide d18.1.N16.0 (P =
+0.002; Table E5). When stratiﬁed by
+subjects with less severe airﬂow obstruction
+(i.e., milder COPD), the receiver operating
+characteristic curves demonstrated that
+277
+
+ORIGINAL ARTICLE
+Color Key
+-2 0 2 4
+Value
+
+trihexosylceramides
+dihydroceramides
+sphinganine
+sphingosine
+ceramide-1-phosphate
+monohydroxylated ceramides
+monohexosylceramides
+gangliosides
+sulfatides
+ceramides
+
+Exacerbations
+
+FEV1
+
+FEV1/FVC
+
+Chronic Bronchitis
+
+Emphysema
+
+sphingomyelins
+
+Figure 1. Heat map showing sphingolipids associated with specific chronic obstructive pulmonary disease (COPD) phenotypes. Each class was
+represented by the first principle component. Emphysema was defined as percent of lung attenuation voxels below 2950 Hounsfield units; chronic
+bronchitis was defined by daily productive cough for at least 3 months in the previous 2 consecutive years; exacerbations (severe) were the number of
+hospital admissions for a COPD admission in the previous year. Each phenotype was modeled using regression with covariates (age, sex, smoking status,
+body mass index, and airflow obstruction [FEV1] where appropriate), detailed in the online methods. The color legend shows shading based on the
+signed 210 log of the P value with negative (2) associations shown in blue and green and positive (1) associations shown in orange and red for each
+sphingolipid class. Non–statistically significant associations are shown in yellow and light orange.
+
+these top sphingolipids improved the ability
+to diagnose moderate to severe emphysema
+beyond just clinical and physiologic
+covariates (Table E6).
+Individual sphingolipids associated with
+COPD exacerbations. After adjustment for
+
+covariates and correction for FDR, we
+identiﬁed 11 sphingolipids that were
+associated with severe COPD exacerbations,
+including four trihexosylceramides, three
+dihexosylceramides, sulfatide d18.1.
+N16.0, ganglioside GD1.d18.1.N16.0,
+sphingomyelin SM.d18.1.N14.1, and S1P
+(Table E7). All associations were positive
+except for S1P and SM.d18.1.N14.1, and the
+strongest signal was the positive association
+of severe COPD exacerbations with plasma
+trihexosylceramides d18.1.N18.0 (adjusted
+P = 1.6 3 1026). Most of these associations
+were also identiﬁed with COPD
+exacerbations of lesser severity (Table E8).
+Receiver operating characteristic analysis
+demonstrates that these sphingolipids
+improved the ability to diagnose severe
+exacerbations beyond just clinical and
+278
+
+physiologic covariates (Table E9).
+Interestingly, for less severe exacerbations,
+only in subjects with less airﬂow
+obstruction, Cer.d18.1.N18.0 showed
+enhanced association with exacerbations
+beyond just clinical and physiologic
+covariates (Figure 3 and Table E10).
+Sphingolipids associated with other
+COPD phenotypes (airﬂow obstruction and
+chronic bronchitis). There were no plasma
+
+sphingolipid species signiﬁcantly associated
+with chronic bronchitis (Table E11), FEV1
+(data not shown), FEV1/FVC (Table E11),
+or bronchodilator responsiveness (data not
+shown) after correcting for FDR; however,
+several metabolomic trends noted in these
+subgroups were used in combination with
+genomic data for phenotype-metabolomic
+interpretations.
+Replication of Associations between
+COPD Phenotypes and Sphingolipids
+
+For replication, we used an independently
+generated metabolomics dataset (detected
+via untargeted mass spectrometry using
+
+orthogonal methods in an independent
+laboratory) from plasma of 131 subjects in
+COPDGene. Between the two datasets, we
+identiﬁed 23 overlapping sphingolipids (8
+sphingomyelins, 6 ceramides, 3 gangliosides,
+2 sulfogalactosylceramides, dihydroceramide,
+trihexosylceramide, S1P, and sphingosine).
+For overlapping sphingolipids, we performed
+metaanalysis of the two datasets accounting
+for the direction of association. Seven of 23
+sphingolipids showed negative associations
+with emphysema, of which ﬁve
+sphingomyelins (Table 2) exhibited the
+strongest signal for replication between
+the two platforms (FDR , 0.10). Four
+sphingolipids demonstrated associations
+with moderate and severe exacerbations
+(Table 3). Except for S1P, all were positively
+associated with exacerbations (FDR , 0.10).
+Relationship between Plasma
+Sphingolipids and Gene Expression in
+Smokers with and without COPD
+
+All subjects in the untargeted metabolomics
+dataset had microarray data generated
+
+American Journal of Respiratory and Critical Care Medicine Volume 191 Number 3 | February 1 2015
+
+ORIGINAL ARTICLE
+Sphingomyelin (d18:1/N24:1)
+
+Sphingomyelin (d18:1/N16:0)
+
+Ceramide (d18:1/N16:0)
+
+2
+
+1
+
+Biomarker Measurement
+
+Biomarker Measurement
+
+Biomarker Measurement
+
+2.0
+
+1.5
+
+1.0
+
+2
+
+1
+
+0.5
+None
+
+Mild
+Moderate
+Emphysema
+
+Severe
+
+None
+
+Mild
+Moderate
+Emphysema
+
+None
+
+Severe
+
+Mild
+Moderate
+Emphysema
+
+Severe
+
+Figure 2. Plasma ceramides are inversely associated with emphysema severity. Ceramide (d18:1/N16:0), sphingomyelin (d18:1/N24:1), and
+sphingomyelin (d18:1/N16:0) are representative examples (false discovery rate , 0.02 in Table E5). Shown are box plots of median, quartiles, and outliers.
+A total of 33, 91, 97, and 100% of subjects with no, mild, moderate, or severe emphysema, respectively, had airflow obstruction (post-bronchodilator
+FEV1/FVC , 0.7).
+
+species in smokers with and without COPD;
+it is the ﬁrst to link speciﬁc sphingolipids
+with distinct COPD phenotypes. We
+identiﬁed novel sphingolipid subclasses
+such as gangliosides and sphingomyelins
+as potential biomarkers inversely
+associated with severe emphysema and
+trihexosylceramide as a potential
+biomarker positively associated with
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+Covariates Only, AUC = 0.8521
+Cer.d18.1.N18.0, AUC = 0.935
+
+0.0
+0.0
+
+Discussion
+This study of more than 250 subjects from
+the COPDGene cohort is the largest and the
+only combined targeted and nontargeted
+metabolomic study of plasma sphingolipid
+
+frequent COPD exacerbations. All these
+associations were noted even after adjusting
+for covariates of age, smoking status, airﬂow
+obstruction, sex, and BMI; most were
+replicated in an independent cohort using
+an orthogonal mass spectrometry approach
+in a different laboratory.
+Sphingomyelins are integral components
+of the plasma membrane, typically enriched
+
+1.0
+
+True Positive Rate
+
+from peripheral blood mononuclear cells
+collected from the same plasma analyzed
+for metabolomics. Thus, we were able to
+explore relationships between plasma
+sphingolipid metabolites and potentially
+related sphingolipid pathway genes (Table
+E13). The most signiﬁcant correlations were
+between N-(tetradecanoyl)-sphing-4-enine1-(2-aminoethylphosphonate) and GM2
+ganglioside activator (r = 20.39; P =
+0.00001; FDR = 0.04), between SM(d18:1/
+12:0) and lysosomal sialidase (r = 20.36;
+P = 0.00007; FDR = 0.12) (Figure E2),
+and between sphingosine and CeroidLipofuscinosis, Neuronal 8 (r = 20.34;
+P = 0.0002; FDR = 0.03).
+After interrogation of correlations
+between sphingolipid metabolite and gene
+expression and clinical phenotype, subjects
+who reported moderate or severe COPD
+exacerbations were most likely to have
+discordant correlations for gene–metabolite
+pairs (Table 4). For example, the
+gene–metabolite pair C9orf47 and NeuGca28NeuGca2-3Galb1-4GlcNAcb1-3Galb14Glcb-Cer(d18:1/24:1[15Z]) had correlations
+20.19 and 0.64 in subjects without or with
+severe COPD exacerbations, respectively
+(P = 0.00001; FDR = 0.01) (Figure 4).
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+False Positive Rate
+Figure 3. Receiver operating characteristics (ROC) curve analysis and area under the curve (AUC)
+for sphingolipids significantly associated with moderate chronic obstructive pulmonary disease
+exacerbations. The first model uses only the demographic and clinical covariates (Covariates only),
+including covariates age, sex, smoking status, body mass index, and airflow obstruction (FEV1). The
+second model includes the same covariates and adds plasma levels of Cer.d18.1.N18.0, which
+was the sphingolipid that most improved ROC.
+
+Bowler, Jacobson, Cruickshank, et al.: Plasma Sphingolipids in COPD
+
+279
+
+ORIGINAL ARTICLE
+Table 2. Metaanalysis of Sphingolipids Associated with Emphysema
+Targeted Cohort Untargeted Cohort Metaanalysis
+^
+^
+Slope P Value b
+Slope P Value
+P Value
+b
+
+Sphingolipid
+
+20.7654
+20.4534
+20.4335
+20.8964
+20.5198
+20.6062
+20.3520
+
+Ganglioside GM3 (d18:1/16:0)
+Sphingomyelin(d18:0/24:1(15Z))
+Sphingomyelin(d18:1/14:0)
+Sphingomyelin(d18:1/16:0)
+Sphingomyelin(d18:1/16:1)
+Sphingomyelin(d18:1/24:1(15Z))
+Sphingomyelin(d18:2/14:0)
+
+0.0004
+0.0057
+0.0040
+0.0010
+0.0054
+0.0009
+0.0237
+
+20.1277
+20.0623
+20.1070
+20.1867
+20.1459
+20.2182
+20.0673
+
+0.3768
+0.5349
+0.3650
+0.4258
+0.3621
+0.0829
+0.5444
+
+0.0018*
+0.0167*
+0.0075*
+0.0037*
+0.0090*
+0.0004*
+0.0425
+
+*False discovery rate , 0.10.
+
+in lipid microdomains of caveolae and
+clathrin-coated pits (22). Sphingomyelins
+are produced from ceramides via
+sphingomyelin synthase, or they can
+generate ceramides through hydrolysis by
+sphingomyelinases (Figure 5). In addition
+to rapidly generating ceramides as
+second messengers, sphingomyelins
+may themselves play a role in cell
+migration, apoptosis, autophagy, and cell
+survival/proliferation (22). We identiﬁed 10
+speciﬁc sphingomyelins (e.g., SM.d18.1.
+N16.0) that were inversely associated with
+emphysema, whereas others (e.g., SM.d18.1.
+N18.0) were not. These species-speciﬁc
+effects could only be studied with mass
+spectrometry; however, we also noted
+strong correlations among the whole
+subclass of sphingomyelins. A recent report
+(5) found no statistically signiﬁcant
+association between HRCT-measured
+emphysema severity at baseline and
+sphingomyelin, measured with less accurate
+spectrophotometric assays (23). However,
+low baseline plasma sphingomyelin was
+associated with worse COPD (lower FEV1),
+whereas high levels were associated with
+more rapid progression of emphysema. Our
+
+data support the ﬁnding that worse
+COPD is associated with lower plasma
+sphingomyelins (5), but the apparent
+paradoxical observation of higher plasma
+sphingomyelins with progression of
+emphysema cannot be validated by our
+experimental design. Such observation
+might be explained if low sphingomyelin
+levels reﬂect low lung mass and progression
+of emphysema occurs in lungs that are not
+yet severely emphysematous. This could
+be explored by careful kinetics of speciﬁc
+sphingomyelins accompanied by concomitant
+HRCT measurements of the lung.
+Plasma ceramides may be generated by
+activated plasma sphingomyelinases (24)
+(Figure 5) and could signal outside-in
+(25) and/or be further metabolized to
+sphingosine (by plasma ceramidases).
+To the extent that plasma levels reﬂect
+cellular metabolism, the decrease in
+both sphingomyelins and ceramides
+with subsequent increases in ceramide
+metabolites suggests that low
+sphingomyelin levels are not due to
+a blockage in sphingomyelin synthase
+(which would result in ceramide
+accumulation) but due to increased
+
+Table 3. Metaanalysis of Sphingolipids Associated with Exacerbations
+
+Sphingolipid
+
+Targeted Cohort Untargeted Cohort Metaanalysis
+^
+Slope P Value
+P Value
+b Slope P Value b
+^
+
+Sphingosine 1-phosphate
+20.7051 0.1838
+Trihexosylceramide (d18:1/16:0)
+0.8804 0.0693
+3-O-Sulfogalactosylceramide
+0.8262 0.0507
+(d18:1/16:0)
+Galabiosylceramide (d18:1/
+0.6077 0.1741
+24:1(15Z))
+*False discovery rate , 0.10.
+
+280
+
+20.6928
+0.9839
+0.5191
+
+0.0004
+0.0059
+0.0792
+
+0.0006*
+0.0012*
+0.0087*
+
+0.4177
+
+0.0641
+
+0.0232
+
+catabolism coupled with decreased
+availability of its building block precursor,
+ceramide (Figure 5). In such conditions,
+supplementation of sphingomyelin may
+fuel ceramide production and catabolism,
+by a “revved up” system. Plasma
+sphingomyelins might also reﬂect the
+burden or quality of circulating (shed)
+cellular plasma membranes, such as
+apoptotic microparticles or exosomes.
+Clearly, these unbiased metabolomic results
+raise important mechanistic questions
+that can be explored in models of COPD.
+Ceramides (especially Cer.d18.1.
+N16.0), gangliosides (especially GM3.d18.1.
+N16.0), and monohexosylceramides
+(especially monohexcer.d18.1.N16.0) also
+showed an inverse correlation with
+emphysema. Although ceramides have been
+known to play a role in the pathogenesis
+of emphysema for several years (10, 26),
+the involvement of gangliosides and
+monohexosylceramides has not been
+described. An up-regulation of ceramide
+production has been typically associated
+with models of emphysema, by causing
+endothelial and epithelial cell apoptosis (3)
+or by inhibiting alveolar macrophage
+clearance of apoptotic cells (13). In this
+cross-sectional sampling, the inverse
+correlation of plasma ceramides with
+emphysema appears surprising. However,
+if our global metabolomics assessment of
+plasma sphingolipids reﬂects pulmonary
+cellular events, worse emphysema may
+be linked to increased activity of both
+sphingomyelinase and recycling (from
+gangliosides) pathways, followed by
+ceramide consumption/degradation, rather
+than accumulation (Figure 5), possibly
+via plasma ceramidases. Because plasma
+S1P was not increased and tended to be
+negatively correlated with emphysema and
+COPD exacerbations, unlike sphingosine,
+it is possible that the sphingolipid
+metabolism is accelerated toward ceramide
+production and degradation but inhibited
+at the level of sphingosine kinase activity
+(Figure 5). The reduced production of S1P
+may be associated with decreased cellular
+survival and proliferation and increased
+apoptosis of alveolar cells (15). Much less is
+known about the signiﬁcance of decreased
+gangliosides (or glycoceramides) in the
+lung, reports showing association with
+diabetes or hearing loss (27). Although our
+earlier genomic analysis hinted at this
+involvement (4), this is the ﬁrst report of
+decreased monosialodihexosylganglioside
+
+American Journal of Respiratory and Critical Care Medicine Volume 191 Number 3 | February 1 2015
+
+ORIGINAL ARTICLE
+Table 4. Differential Metabolite–Gene Expression Correlations for Sphingolipids by Chronic Obstructive Pulmonary
+Disease Phenotype
+
+Sphingolipid
+
+Gene
+
+N-(tetradecanoyl)-sphing-4-enine-1(2-aminoethylphosphonate)*
+SM(d18:1/16:1)
+CerP(d18:1/24:1(15Z))*
+NeuGca2-3Galb1-4GlcNAcb1-3Galb1-4Glcb-Cer
+(d18:1/24:1(15Z))*
+Cer d18:1 N16:0
+*1-3Gala1-3Gala1-3Gala1-4Galb1-4Glcb-Cer
+(d18:1/24:1(15Z))*
+Cer d18:1 N16:0
+Cer(d18:1/24:1(15Z))*
+Cer(d16:1/23:0)*
+Cer d18:1 N16:0
+Cer d18:1 N16:0
+SM(d18:0/24:1(15Z))*
+First PC ceramides
+First PC sphingosines
+First PC sphingosines
+
+COPD Subphenotype
+
+r without
+Phenotype
+
+r with
+Phenotype P Value FDR
+
+20.17
+
+0.50
+
+0.00005 0.06
+
+GM2A
+ST8SIA2
+C9orf47
+
+20.15
+20.05
+20.19
+
+0.54
+0.63
+0.64
+
+0.00001 0.04
+0.00006 0.05
+0.00001 0.01
+
+ACER3
+C9orf47
+
+0.11
+20.23
+
+0.73
+0.56
+
+0.00001 0.01
+0.00009 0.06
+
+VAPA
+Severe exacerbation
+COL4A3BP
+COL4A3BP
+KDSR
+ORMDL1
+CYR61
+COL4A3BP
+ST8SIA3
+Emphysema (upper lobe)
+CYR61
+Airﬂow obstruction
+
+20.03
+20.07
+20.12
+20.10
+20.14
+20.18
+0.09
+20.47
+0.28
+
+0.62
+0.60
+0.56
+0.55
+0.54
+0.53
+0.54
+0.19
+20.39
+
+KDSR
+
+Moderate or severe
+exacerbation
+
+0.00014
+0.00019
+0.00040
+0.00055
+0.00051
+0.00048
+0.00242
+0.00039
+0.00011
+
+0.08
+0.08
+0.15
+0.15
+0.15
+0.15
+0.16
+0.06
+0.02
+
+Definition of abbreviations: COPD = chronic obstructive pulmonary disease; FDR = false discovery rate; PC = principal component.
+*Discovered in the untargeted profiling.
+
+could be explored by comparing plasma with
+lung tissue metabolomics signatures.
+Because these samples were collected at
+a time remote from an actual exacerbation,
+metabolomic signatures are unlikely to
+reﬂect corticosteroid or antibiotic treatment
+or acute infections. Rather, they may
+
+indicate speciﬁc changes associated with
+developing COPD exacerbations. For
+example, shunting ceramide metabolism
+toward trihexosylceramides may render the
+lungs more susceptible to inﬂammation, due
+to defects in lymphocyte function, as learned
+from a mouse model of Fabry disease (31).
+control
+exacerbation
+
+5.0
+
+gene expression
+
+GM3.d18.1.N16.0 as putative biomarker
+of emphysema. Similarly, the role of
+monohexosylceramides in the lung is
+unknown, but they were shown to bind to
+surfactant protein D (28) and to decrease
+on activation of acid sphingomyelinase and
+acid b-glucosidase1, as a sign of ceramide
+production via recycling from gangliosides
+during inﬂammation (29). These results
+may embolden future investigations of lung
+sphingolipid metabolomic signatures and
+the functional role of the gangliosides and
+monohexosylceramides in COPD.
+The strongest positive association
+with COPD exacerbations was for
+trihexosylceramides (trihexcer.d18.1.N22.0
+and trihexcer.d18.1.N24.0), a lipid class with
+unknown lung effects; one case report
+of Fabry disease (characterized by
+overabundance of trihexosylceramides)
+showed association with COPD (30). Other
+sphingolipids such as ceramide (d18.1.
+N18.0) and S1P were inversely associated
+with COPD exacerbations. This, along
+with negative correlations of plasma
+sphingomyelins and ceramides with S1P,
+suggests a rapid ﬂux of sphingosine-toceramide-to glycosylated ceramides
+metabolism, with potential disruption of
+ceramide-to-S1P metabolism (Figure 5)
+in those with COPD exacerbations.
+Alternatively, whether tissues or cells may
+differentially contribute to the abundance
+of plasma metabolites in these individuals
+
+4.5
+
+4.0
+
+3.5
+
+16.0
+
+16.5
+
+17.0
+17.5
+18.0
+18.5
+metabolite abundance
+
+19.0
+
+Figure 4. Disruption of sphingolipid metabolite–gene correlations by chronic obstructive pulmonary
+disease (COPD) phenotype. Scatterplot of NeuGca2-3Galb1-4GlcNAcb1-3Galb1-4Glcb-Cer(d18:1/
+24:1(15Z)) and C9orf47 gene expression. Subjects without severe COPD exacerbations had
+a correlation of 20.19, whereas subjects with a history of severe COPD exacerbations had
+a correlation of 0.64 (P = 0.00001; false discovery rate = 0.01).
+
+Bowler, Jacobson, Cruickshank, et al.: Plasma Sphingolipids in COPD
+
+281
+
+ORIGINAL ARTICLE
+
+A
+
+Serine + Palmitoyl CoA
+
+Sphingolipid Metabolic Pathway
+
+ORMDL
+
+B
+
+SPT
+3-Ketosphinganine
+
+SPHINGOMYELINASE
+PATHWAY
+
+Dihydro-S1P
+
+CerK
+
+Etn-1-P-Cer
+
+Ceramide Synthase (CerS)
+
+SMases
+
+Dihydroceramide(DHC)
+CERAMIDE
+
+Sphk
+
+Sphinganine
+
+Fatty acyl CoA
+
+SMS
+
+DE NOVO PATHWAY
+
+KDSR
+
+Sphingomyelin
+
+Serine + Palmitoyl CoA
+ORMDL
+SPT
+3-Ketosphinganine
+SPHINGOMYELINASE
+DE NOVO PATHWAY
+PATHWAY
+KDSR
+SphK
+Dihydro-S1P
+Sphingomyelin Fatty acyl CoA Sphinganine
+SMases
+Ceramide Synthase (CerS)
+
+Emphysema
+
+DHC desaturase (DEGS)
+
+AC (ASAH1)
+AlkCer (Acer3)
+
+GCS
+
+Ceramide-1P
+GluCer
+
+SMS
+
+Dihydroceramide(DHC)
+DHC desaturase (DEGS)
+CERAMIDE
+Emphysema
+AC (ASAH1)
+AlkCer (Acer3)
+
+CerK
+
+Etn-1-P-Cer
+
+GCS
+
+Ceramide-1P
+
+SphK
+Lac Cer
+
+Galabiosylceramide
+
+C
+
+Sphingosine
+GluCer
+
+Gal-Cer
+
+Sulfatide
+(3-O-Sulfogalactosylceramide)
+
+COPD exacerbations
+
+Gal-Cer
+Sphingosine
+Lac Cer
+SphK
+SPP
+Sulfatide
+α-GalactoSphingosine
+1P (S1P)
+(3-O-Sulfogalactosidase A
+Globo Series
+sylceramide)
+S1P lyase
+Galabiosylceramide Isoglobo Series Ganglio Series
+Neolacto Series
+ethanolamine phosphate +
+2E-hexadecenal
+RECYCLING
+GM3
+(SALVAGE)
+GM2a
+GD1
+PATHWAY
+GM2
+Trihexosylceramide
+GD3
+GT
+GM1
+
+ORMDL
+SPT
+3-Ketosphinganine
+DE NOVO PATHWAY
+KDSR
+SphK
+Dihydro-S1P
+Sphingomyelin Fatty acyl CoA Sphinganine
+Ceramide Synthase (Cers)
+SMases
+
+SPHINGOMYELINASE
+PATHWAY
+
+Sphingosine 1P (S1P)
+
+α-Galactosidase A
+Globo Series
+Isoglobo Series
+Neolacto Series
+
+SPP
+
+Serine + Palmitoyl CoA
+
+COPD exacerbations
+
+SMS
+
+S1P lyase
+
+Dihydroceramide(DHC)
+CERAMIDE
+
+Ganglio Series
+
+ethanolamine phosphate +
+2E-hexadecenal
+
+Etn-1-P-Cer
+
+DHC desaturase (DEGS)
+AC (ASAH1)
+AlkCer (Acer3)
+
+CerK
+GCS
+
+Ceramide-1P
+
+Sphingosine
+GluCer
+SPP
+SphK
+Lac Cer
+Sphingosine 1P (S1P)
+Sulfatide
+α-Galacto(3-O-SulfogalactoS1P lyase
+sidase A
+sylceramide)
+Globo Series
+Ganglio Series ethanolamine phosphate +
+Galabiosylceramide Isoglobo Series
+2E-hexadecenal
+Neolacto Series
+Gal-Cer
+
+RECYCLING
+(SALVAGE)
+PATHWAY
+
+GM3
+
+GM2α
+GM2
+
+GD1
+GD3
+
+Trihexosylceramide
+GT
+
+GM1
+
+RECYCLING
+(SALVAGE)
+PATHWAY
+
+GM3
+GM2a
+
+GM2
+GM1
+
+GD1
+GD3
+
+Trihexosylceramide
+GT
+
+Figure 5. Sphingolipids metabolo-genomic pathway patterns associated with chronic obstructive pulmonary disease (COPD) subphenotypes. (A)
+Detailed sphingolipid metabolic pathway with the major ceramide synthetic pathways noted as sphingomyelinase, de novo, and recycling pathways
+(abbreviations list in the text). Individual or classes of metabolites measured in the study are identified as precursors and/or products relative to synthetic or
+catabolic reactions with directionality marked by black arrows. Catalytic enzymes are noted next to the middle of the reactions arrow. Circled are
+enzymes whose genes were significantly related with COPD phenotypes in genomic analyses. In color are classes (arrowheads) or species (arrows) of
+metabolites that were associated with respective (color-coded) COPD phenotypes. Solid arrows indicate: 16–18 carbon chain sphingolipids; dotted
+arrows 24–26 carbon chain sphingolipids; single dash arrows: 14 carbon chain sphingolipids. The direction of the arrowhead or arrow marks the direction
+of association (i.e., up: increased; down: decreased). Closed-headed arrows represent changes with significance levels P , 0.05. (B, C) Superimposed
+on the sphingolipid metabolic pathways are deducted directions of sphingolipid metabolic flux, based on the results of the metabolo-genomic study,
+by disease phenotype, as noted.
+
+To further translate biomarker ﬁndings
+to disease pathogenesis, we explored
+alterations of gene–metabolite associations
+with disease phenotypes. We identiﬁed
+a negative association of sphingosine levels
+with the expression of CYR61 only in
+subjects with severe COPD. Although the
+signiﬁcance of this ﬁnding remains to be
+tested, the extracellular matrix protein
+CCN1/Cyr61 is activated by S1P via
+receptor 2 (32), which also activates rho
+kinase to cause lung damage during
+cigarette smoke exposure (33, 34). Other
+disrupted gene–metabolite associations
+of interest in those with severe COPD
+exacerbations were between ceramide
+and alkaline ceramidase, which degrades
+unsaturated long chain ceramides (35);
+ORMDL1, which regulates de novo
+ceramide biosynthesis, recently
+involved in asthma (36); and
+282
+
+3-ketodihydrosphingosine reductase, which
+reduces 3-ketodihydrosphingosine to
+dihydrosphingosine (37). Another
+intriguing association was that between
+circulating ceramide and COL4A3BP,
+also known as CERTL, a gene encoding
+for ceramide transporter protein
+Goodpasture antigen-binding protein,
+which mediates the nonvesicular
+intracellular transport of ceramides (38).
+Superimposing potential sphingolipid
+biomarkers with genetic signatures helped
+map the directionality of sphingolipid
+metabolism in individuals with COPD
+exacerbations (Figure 5). Using similar
+approaches may strengthen the associations
+of sphingolipid metabolism and chronic
+bronchitis or obstructive ventilatory
+defects in COPD, which were weak at
+the plasma metabolite levels, but in
+conjunction with genomic ﬁndings
+
+suggested a potential metabolic ﬂux
+toward higher S1P and de novo pathway
+activation, respectively (Figure E3).
+In summary, this study demonstrates
+that speciﬁc sphingolipids, such as
+ceramides, sphingomyelins, and
+gangliosides, may be biomarker candidates
+of COPD phenotypes, such as emphysema
+and frequent COPD exacerbations. Our
+study’s strengths include the large number
+of highly phenotyped subjects, the multiple
+speciﬁc sphingolipid measurements, and
+independent replication. Limitations of our
+study include lack of healthy nonsmoking
+subjects, of longitudinal studies, and of
+lung tissue, bronchoalveolar lavage ﬂuid, or
+sputum analyses. The latter would have
+allowed us to probe if plasma ﬁndings
+parallel those in the lung and to validate
+a small study that suggested sputum
+sphingolipids are associated with COPD
+
+American Journal of Respiratory and Critical Care Medicine Volume 191 Number 3 | February 1 2015
+
+ORIGINAL ARTICLE
+(6). Our results in a much larger cohort of
+patients with COPD corroborate those
+reported in the sputum, in particular that
+there are abnormalities in sphingolipid
+metabolism and glycosphingolipid changes
+in COPD. The complementary nature
+of these studies conducted in different
+compartments may help interpret our
+results in plasma, which indicate an
+overall accelerated metabolism/catabolism
+of ceramide at the systemic level, in
+contrast to the increased ceramides and
+dihydroceramides recovered in the sputum
+in COPD. This may be due to active transfer
+
+and use of plasma sphingolipids in the
+lung with release of ceramides in sputum;
+alternatively, it may be due to different
+dynamics of sphingolipid metabolism in
+circulating cells and endothelium compared
+with airway macrophages or epithelial cells
+that may contribute to sputum sphingolipid
+content.
+Our results strengthen the evidence
+implicating ceramide in emphysema and
+suggest a previously unsuspected role
+for ceramide metabolism in COPD
+exacerbations. Furthermore, our data
+suggest that additional subclasses of
+
+References
+1. Murphy SL, Xu J, Kochanek KD. Deaths: ﬁnal data for 2010. Natl Vital
+Stat Rep 2013;61:1–117.
+2. Friedlander AL, Lynch D, Dyar LA, Bowler RP. Phenotypes of chronic
+obstructive pulmonary disease. COPD 2007;4:355–384.
+3. Petrache I, Petrusca DN, Bowler RP, Kamocki K. Involvement of
+ceramide in cell death responses in the pulmonary circulation. Proc
+Am Thorac Soc 2011;8:492–496.
+4. Bahr TM, Hughes GJ, Armstrong M, Reisdorph R, Coldren CD, Edwards
+MG, Schnell C, Kedl R, LaFlamme DJ, Reisdorph N, et al. Peripheral
+blood mononuclear cell gene expression in chronic obstructive
+pulmonary disease. Am J Respir Cell Mol Biol 2013;49:316–323.
+5. Ahmed FS, Jiang XC, Schwartz JE, Hoffman EA, Yeboah J, Shea S,
+Burkart KM, Barr RG. Plasma sphingomyelin and longitudinal change
+in percent emphysema on CT. The MESA lung study. Biomarkers
+2014;19:207–213.
+6. Telenga ED, Hoffmann RF, Ruben t’Kindt, Hoonhorst SJ, Willemse BW,
+van Oosterhout AJ, Heijink IH, van den Berge M, Jorge L, Sandra P,
+et al. Untargeted lipidomic analysis in chronic obstructive pulmonary
+disease. Uncovering sphingolipids. Am J Respir Crit Care Med 2014;
+190:155–164.
+7. Hannun YA, Obeid LM. Principles of bioactive lipid signalling: lessons
+from sphingolipids. Nat Rev Mol Cell Biol 2008;9:139–150.
+8. Uhlig S, Gulbins E. Sphingolipids in the lungs. Am J Respir Crit Care Med
+2008;178:1100–1114.
+9. Yang Y, Uhlig S. The role of sphingolipids in respiratory disease. Ther
+Adv Respir Dis 2011;5:325–344.
+10. Petrache I, Natarajan V, Zhen L, Medler TR, Richter AT, Cho C,
+Hubbard WC, Berdyshev EV, Tuder RM. Ceramide upregulation
+causes pulmonary cell apoptosis and emphysema-like disease in
+mice. Nat Med 2005;11:491–498.
+11. Scarpa MC, Baraldo S, Marian E, Turato G, Calabrese F, Saetta M,
+Maestrelli P. Ceramide expression and cell homeostasis in chronic
+obstructive pulmonary disease. Respiration 2013;85:342–349.
+12. Petrusca DN, Van Demark M, Gu Y, Justice MJ, Rogozea A, Hubbard
+WC, Petrache I. Smoking exposure induces human lung endothelial
+cell adaptation to apoptotic stress. Am J Respir Cell Mol Biol 2014;
+50:513–525.
+13. Petrusca DN, Gu Y, Adamowicz JJ, Rush NI, Hubbard WC, Smith PA,
+Berdyshev EV, Birukov KG, Lee CH, Tuder RM, et al. Sphingolipidmediated inhibition of apoptotic cell clearance by alveolar
+macrophages. J Biol Chem 2010;285:40322–40332.
+14. Cordts F, Pitson S, Tabeling C, Gibbins I, Moffat DF, Jersmann H,
+Hodge S, Haberberger RV. Expression proﬁle of the sphingosine
+kinase signalling system in the lung of patients with chronic
+obstructive pulmonary disease. Life Sci 2011;89:806–811.
+15. Diab KJ, Adamowicz JJ, Kamocki K, Rush NI, Garrison J, Gu Y, Schweitzer
+KS, Skobeleva A, Rajashekhar G, Hubbard WC, et al. Stimulation of
+sphingosine 1-phosphate signaling as an alveolar cell survival strategy in
+emphysema. Am J Respir Crit Care Med 2010;181:344–352.
+
+sphingolipids such as sphingomyelins,
+gangliosides, monohexosylceramides, and
+trihexosylceramides should be investigated,
+to validate their role as biomarkers and as
+potential contributors to COPD
+pathogenesis. n
+Author disclosures are available with the text
+of this article at www.atsjournals.org.
+Acknowledgment: The authors thank Christina
+Schnell, Taylor Thorn, and Cori Fratelli for
+assistance with recruiting subjects and preparing
+samples and Kristina Watson for administrative
+support.
+
+16. Regan EA, Hokanson JE, Murphy JR, Make B, Lynch DA, Beaty TH,
+Curran-Everett D, Silverman EK, Crapo JD. Genetic epidemiology of
+COPD (COPDGene) study design. COPD 2010;7:32–43.
+17. Pauwels RA, Buist AS, Ma P, Jenkins CR, Hurd SS; GOLD Scientiﬁc
+Committee. Global strategy for the diagnosis, management, and
+prevention of chronic obstructive pulmonary disease: National Heart,
+Lung, and Blood Institute and World Health Organization Global
+Initiative for Chronic Obstructive Lung Disease (GOLD): executive
+summary. Respir Care 2001;46:798–825.
+18. Carolan BJ, Kim YI, Williams AA, Kechris K, Lutz S, Reisdorph N,
+Bowler RP. The association of adiponectin with computed
+tomography phenotypes in chronic obstructive pulmonary disease.
+Am J Respir Crit Care Med 2013;188:561–566.
+19. Yang Y, Cruickshank C, Armstrong M, Mahaffey S, Reisdorph R,
+Reisdorph N. New sample preparation approach for mass
+spectrometry-based proﬁling of plasma results in improved coverage
+of metabolome. J Chromatogr A 2013;1300:217–226.
+20. Stouffer SA. The American soldier. Princeton: Princeton University
+Press; 1949.
+21. Liptak, T. On the combination of independent tests. Magyar
+Tudomanyos Akademia Matematikai Kutato Intezetenek Kozlemenyei
+1958;3:171–179.
+22. Taniguchi M, Okazaki T. The role of sphingomyelin and sphingomyelin
+synthases in cell death, proliferation and migration-from cell and
+animal models to human disorders. Biochim Biophys Acta 2014;
+1841:692–703.
+23. Hojjati MR, Jiang XC. Rapid, speciﬁc, and sensitive measurements of
+plasma sphingomyelin and phosphatidylcholine. J Lipid Res 2006;
+47:673–676.
+24. Levy M, Khan E, Careaga M, Goldkorn T. Neutral sphingomyelinase 2
+is activated by cigarette smoke to augment ceramide-induced
+apoptosis in lung cell death. Am J Physiol Lung Cell Mol Physiol
+2009;297:L125–L133.
+25. Medler TR, Petrusca DN, Lee PJ, Hubbard WC, Berdyshev EV, Skirball
+J, Kamocki K, Schuchman E, Tuder RM, Petrache I. Apoptotic
+sphingolipid signaling by ceramides in lung endothelial cells. Am J
+Respir Cell Mol Biol 2008;38:639–646.
+26. Petrache I, Petrusca DN. The involvement of sphingolipids in chronic
+obstructive pulmonary diseases. In: Gulbins E, Petrache I, editors.
+Sphingolipids in disease. Handbook of experimental pharmacology.
+Vol. 216. Heidelberg, Germany: Springer-Verlag GmbH; 2013. pp.
+247–264.
+27. Inokuchi J. Physiopathological function of hematoside (GM3
+ganglioside). Proc Jpn Acad, Ser B, Phys Biol Sci 2011;87:
+179–198.
+28. Kuroki Y, Gasa S, Ogasawara Y, Shiratori M, Makita A, Akino T. Binding
+speciﬁcity of lung surfactant protein SP-D for glucosylceramide.
+Biochem Biophys Res Commun 1992;187:963–969.
+29. Kitatani K, Sheldon K, Rajagopalan V, Anelli V, Jenkins RW, Sun Y,
+Grabowski GA, Obeid LM, Hannun YA. Involvement of acid betaglucosidase 1 in the salvage pathway of ceramide formation. J Biol
+Chem 2009;284:12972–12978.
+
+Bowler, Jacobson, Cruickshank, et al.: Plasma Sphingolipids in COPD
+
+283
+
+ORIGINAL ARTICLE
+30. Wang RY, Abe JT, Cohen AH, Wilcox WR. Enzyme replacement
+therapy stabilizes obstructive pulmonary Fabry disease associated
+with respiratory globotriaosylceramide storage. J Inherit Metab Dis
+2008;31:S369–S374.
+31. Pereira CS, Azevedo O, Maia ML, Dias AF, Sa-Miranda C, Macedo MF.
+Invariant natural killer T cells are phenotypically and functionally
+altered in Fabry disease. Mol Genet Metab 2013;108:241–248.
+32. Young N, Van Brocklyn JR. Roles of sphingosine-1-phosphate (S1P)
+receptors in malignant behavior of glioma cells. Differential effects of
+S1P2 on cell migration and invasiveness. Exp Cell Res 2007;313:
+1615–1627.
+33. Richens TR, Linderman DJ, Horstmann SA, Lambert C, Xiao YQ,
+Keith RL, Boé DM, Morimoto K, Bowler RP, Day BJ, et al.
+Cigarette smoke impairs clearance of apoptotic cells through
+oxidant-dependent activation of RhoA. Am J Respir Crit Care
+Med 2009;179:1011–1021.
+34. Schweitzer KS, Hatoum H, Brown MB, Gupta M, Justice MJ, Beteck
+B, Van Demark M, Gu Y, Presson RG Jr, Hubbard WC,
+et al. Mechanisms of lung endothelial barrier disruption
+
+284
+
+induced by cigarette smoke: role of oxidative stress and
+ceramides. Am J Physiol Lung Cell Mol Physiol 2011;301:
+L836–L846.
+35. Hu W, Xu R, Sun W, Szulc ZM, Bielawski J, Obeid LM, Mao C. Alkaline
+ceramidase 3 (ACER3) hydrolyzes unsaturated long-chain
+ceramides, and its down-regulation inhibits both cell proliferation
+and apoptosis. J Biol Chem 2010;285:7964–7976.
+36. Michel S, Busato F, Genuneit J, Pekkanen J, Dalphin JC, Riedler J,
+Mazaleyrat N, Weber J, Karvonen AM, Hirvonen MR, et al.;
+PASTURE study group. Farm exposure and time trends in early
+childhood may inﬂuence DNA methylation in genes related to asthma
+and allergy. Allergy 2013;68:355–364.
+37. Kihara A, Igarashi Y. FVT-1 is a mammalian 3-ketodihydrosphingosine
+reductase with an active site that faces the cytosolic side of the
+endoplasmic reticulum membrane. J Biol Chem 2004;279:49243–49250.
+38. Kudo N, Kumagai K, Tomishige N, Yamaji T, Wakatsuki S, Nishijima M,
+Hanada K, Kato R. Structural basis for speciﬁc lipid recognition by
+CERT responsible for nonvesicular trafﬁcking of ceramide. Proc Natl
+Acad Sci USA 2008;105:488–493.
+
+American Journal of Respiratory and Critical Care Medicine Volume 191 Number 3 | February 1 2015
+
+

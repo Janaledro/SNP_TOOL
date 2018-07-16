@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for I_FILE in data/*.tsv
+do
+	PUBMED_COLUMN=$(head -n1 $I_FILE | tr "\t" "\n" | grep -n "PM" | cut -d: -f1)
+	STUDY_NAME=$(ls -1 $I_FILE | cut -d/ -f2 | cut -d. -f1)
+	cut -f$PUBMED_COLUMN $I_FILE | tail -n+2 | tr "," "\n"  | tr -d '"' | grep -v "NA" | sed -e "s#^#results/#" -e "s#\$#.metadata.html#"
+done

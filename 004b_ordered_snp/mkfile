@@ -1,0 +1,12 @@
+< ../config.mk
+
+all:VQ:
+	bin/targets | xargs mk
+
+results/SNP_table.tsv: data/
+	set -x
+	mkdir -p `dirname $target`
+	cat $prereq/*.snp.tsv \
+	| sort -u -n > $target.build \
+	&& mv $target.build $target
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ls -1 data/*.pdf | sed -e "s#data/#results/#g" -e "s#.pdf#.txt#g"

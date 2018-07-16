@@ -1,0 +1,14 @@
+< ../config.mk
+
+all:VQ:
+	set -x 
+	bin/targets | xargs mk
+
+results/%.txt:Q: data/%.metadata.html
+	echo "Descargando el artículo $stem en forma de texto plano"
+	set -x
+	mkdir -p `dirname $target`
+	PMC=$(cat $prereq | tr ":" "\n" | tr ">" "\n" | grep PMC | grep -v image \
+	| sort -u | grep "a href=" | cut -d'"' -f2)
+	wget -U firefox $BASE_URL2$PMC -O $target.build \
+	&& mv $target.build $target
