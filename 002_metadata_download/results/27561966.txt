@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    
+    <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <!-- AppResources meta begin -->
+        <script type="text/javascript">var ncbi_startTime = new Date();</script>
+        <!-- AppResources meta end -->
+        
+        <!-- TemplateResources meta begin -->
+        <meta name="paf_template" content="" />
+
+        <!-- TemplateResources meta end -->
+        
+        <!-- Logger begin -->
+        <meta name="ncbi_db" content="pmc" /><meta name="ncbi_pdid" content="article" /><meta name="ncbi_acc" content="" /><meta name="ncbi_domain" content="cardiab" /><meta name="ncbi_report" content="record" /><meta name="ncbi_type" content="fulltext" /><meta name="ncbi_objectid" content="" /><meta name="ncbi_pcid" content="/articles/PMC5000404/" /><meta name="ncbi_app" content="pmc" />
+        <!-- Logger end -->
+        
+        <title>Common dysregulated pathways in obese adipose tissue and atherosclerosis</title>
+        
+        <!-- AppResources external_resources begin -->
+        <link rel="stylesheet" href="/core/jig/1.14.8/css/jig.min.css" /><script type="text/javascript" src="/core/jig/1.14.8/js/jig.min.js"></script>
+
+        <!-- AppResources external_resources end -->
+        
+        <!-- Page meta begin -->
+        <meta name="robots" content="INDEX,NOFOLLOW,NOARCHIVE" /><link rel="canonical" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5000404/" /><link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" /><meta name="citation_journal_title" content="Cardiovascular Diabetology" /><meta name="citation_title" content="Common dysregulated pathways in obese adipose tissue and atherosclerosis" /><meta name="citation_authors" content="V. Moreno-Viedma, M. Amor, A. Sarabi, M. Bilban, G. Staffler, M. Zeyda, T. M. Stulnig" /><meta name="citation_date" content="2016" /><meta name="citation_issue" content="1" /><meta name="citation_volume" content="15" /><meta name="citation_doi" content="10.1186/s12933-016-0441-2" /><meta name="citation_abstract_html_url" content="/pmc/articles/PMC5000404/?report=abstract" /><meta name="citation_pmid" content="27561966" /><meta name="DC.Title" content="Common dysregulated pathways in obese adipose tissue and atherosclerosis" /><meta name="DC.Type" content="Text" /><meta name="DC.Publisher" content="BioMed Central" /><meta name="DC.Contributor" content="V. Moreno-Viedma" /><meta name="DC.Contributor" content="M. Amor" /><meta name="DC.Contributor" content="A. Sarabi" /><meta name="DC.Contributor" content="M. Bilban" /><meta name="DC.Contributor" content="G. Staffler" /><meta name="DC.Contributor" content="M. Zeyda" /><meta name="DC.Contributor" content="T. M. Stulnig" /><meta name="DC.Date" content="2016" /><meta name="DC.Identifier" content="10.1186/s12933-016-0441-2" /><meta name="DC.Language" content="en" /><meta property="og:title" content="Common dysregulated pathways in obese adipose tissue and atherosclerosis" /><meta property="og:type" content="article" /><meta property="og:description" content="The metabolic syndrome is becoming increasingly prevalent in the general population that is at simultaneous risk for both type 2 diabetes and cardiovascular disease. The critical pathogenic mechanisms underlying these diseases are obesity-driven insulin ..." /><meta property="og:url" content="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5000404/" /><meta property="og:site_name" content="PubMed Central (PMC)" /><meta property="og:image" content="https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/pmc-logo-share.png" /><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@ncbi" /><link rel="stylesheet" href="/corehtml/pmc/css/3.9.1/pmc.min.css" type="text/css" /><link rel="stylesheet" href="/corehtml/pmc/css/3.9.1/pmc_extras_prnt.min.css" type="text/css" media="print" /><script type="text/javascript" src="/corehtml/pmc/js/common.min.js">//</script><script type="text/javascript" src="/corehtml/pmc/js/NcbiTagServer.min.js">//</script><meta name="citationexporter" content="backend:'/pmc/utils/ctxp/'" /><script type="text/javascript" src="/corehtml/pmc/ctxp/jquery.citationexporter.js">//</script><link rel="stylesheet" href="/corehtml/pmc/ctxp/citationexporter.css" type="text/css" /><script type="text/javascript" src="/core/mathjax/2.6.1/MathJax.js?config=/corehtml/pmc/js/mathjax-config-classic.3.4.js"></script><script type="text/javascript">window.name="mainwindow";</script><style type="text/css">.pmc-wm {background:transparent repeat-y top left;background-image:url(/corehtml/pmc/pmcgifs/wm-cardiab.gif);background-size: auto, contain}</style><style type="text/css">.print-view{display:block}</style><style type="text/css">
+        div.pmc_para_cit li.highlight,
+        div.pmc_para_cit li.highlight .one_line_source
+        { background: #E0E0E0; }
+        a.bibr.highlight { background: #E0E0E0; } 
+      </style><meta name="cited_in_systematic_reviews" content="" /><link rel="alternate" type="application/epub+zip" href="/pmc/articles/PMC5000404/epub/" /><link rel="alternate" type="application/pdf" href="/pmc/articles/PMC5000404/pdf/12933_2016_Article_441.pdf" />
+
+        <!-- Page meta end -->
+    <link rel="shortcut icon" href="//www.ncbi.nlm.nih.gov/favicon.ico" /><meta name="ncbi_phid" content="F4FB51E8B4D398510000000000360035.m_8" />
+<meta name='referrer' content='origin-when-cross-origin'/><link type="text/css" rel="stylesheet" href="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/css/3852956/3985586/3808861/4121862/3974050/3917732/251717/4048120/3846471/14534/45193/4113719/3849091/3984811/3751656/4033350/3840896/3577051/3852958/3881636/3579733/4062871/12930/3964959/3855473/4047625/3854974/3854955/4076335/4128070/9685/3549676/3609192/3609193/3609213/3395586/4143404.css" /><link type="text/css" rel="stylesheet" href="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/css/3411343/3882866/4157116.css" media="print" /></head>
+    <body class="article">
+        <div class="grid">
+            <div class="col twelve_col nomargin shadow">
+                <!-- System messages like service outage or JS required; this is handled by the TemplateResources portlet -->
+                <div class="sysmessages">
+                    <noscript>
+	<p class="nojs">
+	<strong>Warning:</strong>
+	The NCBI web site requires JavaScript to function. 
+	<a href="/guide/browsers/#enablejs" title="Learn how to enable JavaScript" target="_blank">more...</a>
+	</p>
+	</noscript>
+                </div>
+                <!--/.sysmessage-->
+                <div class="wrap">
+                    <div class="page">
+                        <div class="top">
+                            <div class="universal_header" id="universal_header"><ul class="inline_list jig-ncbimenu ui-ncbimenu resources_list" id="navcontent"><li class="ui-ncbimenu-item-leaf ui-ncbimenu-item-first ui-helper-reset ui-ncbimenu-item-no-hlt"><a class="ui-ncbimenu-link-first" href="/" role="banner" title="NCBI Home" id="ncbihome" accesskey="1"><span class="offscreen_noflow">NCBI</span><img src="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/img/28977" class="ncbi_logo" title="NCBI" alt="NCBI Logo" /></a></li><li class="offscreen_noflow ui-ncbimenu-item-skip access"><a href="#maincontent" title="Skip to the content" tabindex="0" accesskey="3">Skip to main
+                        content</a></li><li class="offscreen_noflow ui-ncbimenu-item-skip access"><a href="#navcontent" title="Skip to the navigation" tabindex="0" accesskey="4">Skip to
+                        navigation</a></li><li id="resource-menu" class="topmenu ui-helper-reset ui-ncbimenu-item-first ui-helper-reset"><a class="ui-ncbimenu-first-link-has-submenu ui-ncbimenu-link-first topanchor expandDown" href="/static/header_footer_ajax/submenu/#resources">Resources</a></li><li id="all-howtos-menu" class="topmenu ui-helper-reset ui-ncbimenu-item-first"><a class="ui-ncbimenu-first-link-has-submenu ui-ncbimenu-link-first topanchor expandDown" href="/static/header_footer_ajax/submenu/#howto">How To</a></li><li class="offscreen_noflow ui-ncbimenu-item-skip access"><a href="/guide/browsers/#accesskeys" title="About My NCBI Accesskeys" tabindex="0" accesskey="0">About NCBI Accesskeys</a></li></ul><div class="myncbi"><span id="myncbiusername" style="display:none"><a href="/account/settings/" id="mnu" title="Edit account settings"></a></span><a accesskey="2" href="/myncbi/" id="myncbi" style="display:none">My NCBI</a><a href="/account/" id="sign_in">Sign in to NCBI</a><a href="/account/signout/" id="sign_out" style="display:none">Sign Out</a></div></div>
+                            <div class="header">
+    <div class="res_logo">
+  <h1 class="img_logo"><a href="/pmc/" class="pmc_logo offscreen">PMC</a></h1>
+  <div class="NLMLogo">
+    <a href="https://www.nlm.nih.gov/" title="US National Library of Medicine">US National Library of Medicine</a>
+    <br />
+    <a href="https://www.nih.gov/" title="National Institutes of Health">National Institutes of Health</a>
+  </div>
+</div>
+    <div class="search"><form method="get" action="/pmc/"><div class="search_form"><label for="database" class="offscreen_noflow">Search database</label><select id="database"><optgroup label="Recent"><option value="pmc" selected="selected" class="last" data-ac_dict="pmc-search-autocomplete">PMC</option></optgroup><optgroup label="All"><option value="gquery">All Databases</option><option value="assembly">Assembly</option><option value="biocollections">Biocollections</option><option value="bioproject">BioProject</option><option value="biosample">BioSample</option><option value="biosystems">BioSystems</option><option value="books">Books</option><option value="clinvar">ClinVar</option><option value="clone">Clone</option><option value="cdd">Conserved Domains</option><option value="gap">dbGaP</option><option value="dbvar">dbVar</option><option value="nucest">EST</option><option value="gene">Gene</option><option value="genome">Genome</option><option value="gds">GEO DataSets</option><option value="geoprofiles">GEO Profiles</option><option value="nucgss">GSS</option><option value="gtr">GTR</option><option value="homologene">HomoloGene</option><option value="ipg">Identical Protein Groups</option><option value="medgen">MedGen</option><option value="mesh">MeSH</option><option value="ncbisearch">NCBI Web Site</option><option value="nlmcatalog">NLM Catalog</option><option value="nuccore">Nucleotide</option><option value="omim">OMIM</option><option value="pmc" data-ac_dict="pmc-search-autocomplete">PMC</option><option value="popset">PopSet</option><option value="probe">Probe</option><option value="protein">Protein</option><option value="proteinclusters">Protein Clusters</option><option value="pcassay">PubChem BioAssay</option><option value="pccompound">PubChem Compound</option><option value="pcsubstance">PubChem Substance</option><option value="pubmed">PubMed</option><option value="pubmedhealth">PubMed Health</option><option value="snp">SNP</option><option value="sparcle">Sparcle</option><option value="sra">SRA</option><option value="structure">Structure</option><option value="taxonomy">Taxonomy</option><option value="toolkit">ToolKit</option><option value="toolkitall">ToolKitAll</option><option value="toolkitbookgh">ToolKitBookgh</option><option value="unigene">UniGene</option></optgroup></select><div class="nowrap"><label for="term" class="offscreen_noflow" accesskey="/">Search term</label><div class="nowrap"><input type="text" name="term" id="term" title="Search PMC. Use up and down arrows to choose an item from the autocomplete." value="" class="jig-ncbiclearbutton jig-ncbiautocomplete" data-jigconfig="dictionary:'pmc-search-autocomplete',disableUrl:'NcbiSearchBarAutoComplCtrl'" autocomplete="off" data-sbconfig="ds:'no',pjs:'no',afs:'yes'" /></div><button id="search" type="submit" class="button_search nowrap" cmd="go">Search</button></div></div></form><ul class="searchlinks inline_list"><li>
+                        <a href="/pmc/advanced/">Advanced</a>
+                    </li><li>
+                        <a href="/pmc/journals/">Journal list</a>
+                    </li><li class="help">
+                        <a target="_blank" href="/books/NBK3825/">Help</a>
+                    </li></ul></div>
+</div>
+
+                            
+                            
+                        <!--<component id="Page" label="headcontent"/>-->
+                            
+                        </div>
+                        <div class="content">
+                            <!-- site messages -->
+                            <div class="container">
+    <div id="maincontent" class="content eight_col col">
+        <div class="navlink-box">
+            <ul class="page-breadcrumbs inline_list small"><li class="journal-list"><a href="/pmc/journals/" class="navlink">Journal List</a></li><li class="archive"><a class="navlink" href="/pmc/journals/107/">Cardiovasc Diabetol</a></li><li class="issue-page"><a class="navlink" href="/pmc/issues/262917/">v.15(1); 2016</a></li><li class="accid">PMC5000404</li></ul>
+        </div>
+
+        <!-- Journal banner -->
+        <div class="pmc-page-banner whole_rhythm"><div><img src="/corehtml/pmc/pmcgifs/logo-cardiab.png" alt="Logo of cardiab" usemap="#logo-imagemap" /><map id="logo-imagemap" name="logo-imagemap"><area shape="rect" coords="0,0,162,75" alt="BioMed Central" title="BioMed Central" href="http://www.biomedcentral.com/" ref="reftype=publisher&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="0,0,99,74" alt="Biomed Central Web Site" title="Biomed Central Web Site" href="http://www.biomedcentral.com" ref="reftype=publisher&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="247,59,296,75" alt="search" title="search" href="http://www.cardiab.com/search" ref="reftype=publisher&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="301,59,405,75" alt="submit a manuscript" title="submit a manuscript" href="http://www.cardiab.com/manuscript" ref="reftype=publisher&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="415,59,458,75" alt="register" title="register" href="http://www.cardiab.com/register" ref="reftype=publisher&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="185,59,244,75" alt="this article" title="this article" href="//dx.doi.org/10.1186/s12933-016-0441-2" ref="reftype=publisher&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBanner&amp;TO=Content%20Provider%7CArticle%7CFullText&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="0,0,480,75" alt="Cardiovascular Diabetology" title="Cardiovascular Diabetology" href="http://www.cardiab.com" ref="reftype=publisher&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /><area shape="rect" coords="0,0,480,74" alt="Journal Front Page" title="Journal Front Page" href="http://www.cardiab.com" ref="reftype=publisher&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBanner&amp;TO=Publisher%7COther%7CN/A&amp;rendering-type=normal" target="pmc_ext" /></map></div> </div>
+        
+        <!--component id='MainPortlet' label='search-reference'/-->
+        
+        <!-- Book content -->
+        <div class="">
+            
+        
+            
+            <div class="hide-overflow article lit-style content pmc-wm slang-all page-box"><!--main-content--><div class="jig-ncbiinpagenav" data-jigconfig="smoothScroll: false, allHeadingLevels: ['h2'], headingExclude: ':hidden'"><div class="fm-sec half_rhythm no_top_margin"><div class="fm-citation half_rhythm no_top_margin clearfix"><div class="small"><div class="inline_block eight_col va_top"><div><div><span class="cit"><span id="pmcmata">Cardiovasc Diabetol</span>. 2016; 15(1): 120. </span></div><div><span class="fm-vol-iss-date">Published online 2016 Aug 26. </span>  <span class="doi">doi:  <a href="//dx.doi.org/10.1186%2Fs12933-016-0441-2" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CFront%20Matter&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">10.1186/s12933-016-0441-2</a></span></div></div></div><div class="inline_block four_col va_top show-overflow align_right"><div class="fm-citation-ids"><div class="fm-citation-pmcid"><span class="fm-citation-ids-label">PMCID: </span><span>PMC5000404</span></div><div class="fm-citation-pmid">PMID: <a href="/pubmed/27561966">27561966</a></div></div></div></div></div><h1 class="content-title">Common dysregulated pathways in obese adipose tissue and atherosclerosis</h1><div class="half_rhythm"><div class="contrib-group fm-author"><a href="/pubmed/?term=Moreno-Viedma%20V%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966" class="affpopup" co-rid="_co_idm139628256578704" co-class="co-affbox">V. Moreno-Viedma</a>,<sup>#</sup><sup>1</sup> <a href="/pubmed/?term=Amor%20M%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966" class="affpopup" co-rid="_co_idm139628256264048" co-class="co-affbox">M. Amor</a>,<sup>#</sup><sup>1</sup> <a href="/pubmed/?term=Sarabi%20A%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966" class="affpopup" co-rid="_co_idm139628262425280" co-class="co-affbox">A. Sarabi</a>,<sup>1</sup> <a href="/pubmed/?term=Bilban%20M%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966" class="affpopup" co-rid="_co_idm139628264379664" co-class="co-affbox">M. Bilban</a>,<sup>2</sup> <a href="/pubmed/?term=Staffler%20G%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966" class="affpopup" co-rid="_co_idm139628261955488" co-class="co-affbox">G. Staffler</a>,<sup>3</sup> <a href="/pubmed/?term=Zeyda%20M%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966" class="affpopup" co-rid="_co_idm139628254644816" co-class="co-affbox">M. Zeyda</a>,<sup>1,</sup><sup>4</sup> and  <a href="/pubmed/?term=Stulnig%20TM%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966" class="affpopup" co-rid="_co_idm139628295952752" co-class="co-affbox">T. M. Stulnig</a><sup><img src="/corehtml/pmc/pmcgifs/corrauth.gif" alt="corresponding author" /></sup><sup>1</sup></div><div style="display:none" class="contrib-group aff-tip"><div id="_co_idm139628256578704"><h3 class="no_margin">V. Moreno-Viedma</h3><p><sup>1</sup>Christian Doppler Laboratory for Cardio-Metabolic Immunotherapy and Clinical Division of Endocrinology and Metabolism, Department of Medicine III, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria </p><div>Find articles by <a href="/pubmed/?term=Moreno-Viedma%20V%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966">V. Moreno-Viedma</a></div></div><div id="_co_idm139628256264048"><h3 class="no_margin">M. Amor</h3><p><sup>1</sup>Christian Doppler Laboratory for Cardio-Metabolic Immunotherapy and Clinical Division of Endocrinology and Metabolism, Department of Medicine III, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria </p><div>Find articles by <a href="/pubmed/?term=Amor%20M%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966">M. Amor</a></div></div><div id="_co_idm139628262425280"><h3 class="no_margin">A. Sarabi</h3><p><sup>1</sup>Christian Doppler Laboratory for Cardio-Metabolic Immunotherapy and Clinical Division of Endocrinology and Metabolism, Department of Medicine III, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria </p><div>Find articles by <a href="/pubmed/?term=Sarabi%20A%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966">A. Sarabi</a></div></div><div id="_co_idm139628264379664"><h3 class="no_margin">M. Bilban</h3><p><sup>2</sup>Department of Laboratory Medicine &#x00026; Core Facility Genomics, Core Facilities, Medical University of Vienna, Vienna, Austria </p><div>Find articles by <a href="/pubmed/?term=Bilban%20M%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966">M. Bilban</a></div></div><div id="_co_idm139628261955488"><h3 class="no_margin">G. Staffler</h3><p><sup>3</sup>AFFiRiS AG, Vienna, Austria </p><div>Find articles by <a href="/pubmed/?term=Staffler%20G%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966">G. Staffler</a></div></div><div id="_co_idm139628254644816"><h3 class="no_margin">M. Zeyda</h3><p><sup>1</sup>Christian Doppler Laboratory for Cardio-Metabolic Immunotherapy and Clinical Division of Endocrinology and Metabolism, Department of Medicine III, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria </p><p><sup>4</sup>Department of Pediatrics and Adolescent Medicine, Clinical Division of Pediatric Pulmonology, Allergology and Endocrinology, Medical University of Vienna, Vienna, Austria </p><div>Find articles by <a href="/pubmed/?term=Zeyda%20M%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966">M. Zeyda</a></div></div><div id="_co_idm139628295952752"><h3 class="no_margin">T. M. Stulnig</h3><p><sup>1</sup>Christian Doppler Laboratory for Cardio-Metabolic Immunotherapy and Clinical Division of Endocrinology and Metabolism, Department of Medicine III, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria </p><div>Find articles by <a href="/pubmed/?term=Stulnig%20TM%5BAuthor%5D&amp;cauthor=true&amp;cauthor_uid=27561966">T. M. Stulnig</a></div></div></div></div><div class="fm-panel small half_rhythm"><div class="fm-authors-info fm-panel hide half_rhythm" id="idm139628260371248_ai" style="display:none"><div class="fm-affl" lang="en" id="Aff1"><sup>1</sup>Christian Doppler Laboratory for Cardio-Metabolic Immunotherapy and Clinical Division of Endocrinology and Metabolism, Department of Medicine III, Medical University of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria </div><div class="fm-affl" lang="en" id="Aff2"><sup>2</sup>Department of Laboratory Medicine &#x00026; Core Facility Genomics, Core Facilities, Medical University of Vienna, Vienna, Austria </div><div class="fm-affl" lang="en" id="Aff3"><sup>3</sup>AFFiRiS AG, Vienna, Austria </div><div class="fm-affl" lang="en" id="Aff4"><sup>4</sup>Department of Pediatrics and Adolescent Medicine, Clinical Division of Pediatric Pulmonology, Allergology and Endocrinology, Medical University of Vienna, Vienna, Austria </div><div><span class="fm-affl">V. Moreno-Viedma, </span><span class="fm-affl"><span class="email-label">Email: </span><a href="mailto:dev@null" data-email="ta.ca.neiwinudem@amdeivonerom.acinorev" class="oemail">ta.ca.neiwinudem@amdeivonerom.acinorev</a></span>.</div><div><a href="#idm139628260371248aff-info">Contributor Information</a>.</div><div><sup><img src="/corehtml/pmc/pmcgifs/corrauth.gif" alt="corresponding author" /></sup>Corresponding author.</div><div><sup>#</sup>Contributed equally.</div></div><div class="togglers"><a href="#" class="pmctoggle" rid="idm139628260371248_ai">Author information <span>►</span></a> <a href="#" class="pmctoggle" rid="idm139628260371248_an">Article notes <span>►</span></a> <a href="#" class="pmctoggle" rid="idm139628260371248_cpl">Copyright and License information <span>►</span></a> <a href="/pmc/about/disclaimer/">Disclaimer</a></div><div class="fm-article-notes fm-panel hide half_rhythm" id="idm139628260371248_an" style="display:none"><div class="fm-pubdate half_rhythm">Received 2016 Jul 2; Accepted 2016 Aug 17.</div></div><div class="fm-cpl-info fm-panel hide half_rhythm" id="idm139628260371248_cpl" style="display:none"><div class="fm-copyright half_rhythm"><a href="/pmc/about/copyright/">Copyright</a> &#x000a9; The Author(s) 2016</div><div class="fm-copyright half_rhythm"><div class="license">
+<strong>Open Access</strong>This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (<a href="http://creativecommons.org/licenses/by/4.0/" ref="reftype=extlink&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CFront%20Matter&amp;TO=External%7CLink%7CURI&amp;rendering-type=normal" target="_blank">http://creativecommons.org/licenses/by/4.0/</a>), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (<a href="http://creativecommons.org/publicdomain/zero/1.0/" ref="reftype=extlink&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CFront%20Matter&amp;TO=External%7CLink%7CURI&amp;rendering-type=normal" target="_blank">http://creativecommons.org/publicdomain/zero/1.0/</a>) applies to the data made available in this article, unless otherwise stated.</div></div></div></div><div id="pmclinksbox" class="links-box whole_rhythm"><div class="small"><div>This article has been <a href="/pmc/articles/PMC5000404/citedby/">cited by</a> other articles in PMC.</div></div></div></div><div class="sec"></div><div id="Abs1" lang="en" class="tsec sec"><h2 class="head no_bottom_margin" id="Abs1title">Abstract</h2><!--article-meta--><div><div id="__sec1" class="sec sec-first"><h2>Background</h2><p id="__p1" class="p p-first-last">The metabolic syndrome is becoming increasingly prevalent in the general population that is at simultaneous risk for both type 2 diabetes and cardiovascular disease. The critical pathogenic mechanisms underlying these diseases are obesity-driven insulin resistance and atherosclerosis, respectively. To obtain a better understanding of molecular mechanisms involved in pathogenesis of the metabolic syndrome as a basis for future treatment strategies, studies considering both inherent risks, namely metabolic and cardiovascular, are needed. Hence, the aim of this study was to identify pathways commonly dysregulated in obese adipose tissue and atherosclerotic plaques.</p></div><div id="__sec2" class="sec"><h2>Methods</h2><p id="__p2" class="p p-first-last">We carried out a gene set enrichment analysis utilizing data from two microarray experiments with obese white adipose tissue and atherosclerotic aortae as well as respective controls using a combined insulin resistance-atherosclerosis mouse model.</p></div><div id="__sec3" class="sec"><h2>Results</h2><p id="__p3" class="p p-first-last">We identified 22 dysregulated pathways common to both tissues with p values below 0.05, and selected inflammatory response and oxidative phosphorylation pathways from the Hallmark gene set to conduct a deeper evaluation at the single gene level. This analysis provided evidence of a vast overlap in gene expression alterations in obese adipose tissue and atherosclerosis with <em>Il7r</em>, <em>C3ar1</em>, <em>Tlr1</em>, <em>Rgs1</em> and <em>Semad4d</em> being the highest ranked genes for the inflammatory response pathway and <em>Maob</em>, <em>Bckdha</em>, <em>Aldh6a1</em>, <em>Echs1</em> and <em>Cox8a</em> for the oxidative phosphorylation pathway.</p></div><div id="__sec4" class="sec"><h2>Conclusions</h2><p id="__p4" class="p p-first-last">In conclusion, this study provides extensive evidence for common pathogenic pathways underlying obesity-driven insulin resistance and atherogenesis which could provide a basis for the development of novel strategies to simultaneously prevent type 2 diabetes and cardiovascular disease in patients with metabolic syndrome.</p></div><div id="__sec5" class="sec sec-last"><h2>Electronic supplementary material</h2><p id="__p5" class="p p-first-last">The online version of this article (doi:10.1186/s12933-016-0441-2) contains supplementary material, which is available to authorized users.</p></div></div><div class="sec"><strong class="kwd-title">Keywords: </strong><span class="kwd-text">Cardiovascular diseases, Diabetes mellitus, type 2, Insulin resistance, Atherosclerosis, Pathway analysis</span></div></div><div id="Sec1" class="tsec sec"><h2 class="head no_bottom_margin" id="Sec1title">Background</h2><p id="__p6" class="p p-first">The metabolic syndrome is a worldwide public health challenge with a prevalence above 20&#x000a0;% within adults in Western societies [<a href="#CR1" rid="CR1" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802116">1</a>]. This disorder is based on several factors including visceral obesity, hypertension, dyslipidemia and hyperglycemia conferring a fivefold increased risk for type 2 diabetes and twofold for cardiovascular disease compared to the non-affected population [<a href="#CR2" rid="CR2" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802114">2</a>, <a href="#CR3" rid="CR3" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802121">3</a>]. A chronic low-grade inflammation in response to obesity originating from the white adipose tissue has been identified as the link between obesity, insulin resistance, type 2 diabetes and cardiovascular disease [<a href="#CR4" rid="CR4" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802141">4</a>&#x02013;<a href="#CR7" rid="CR7" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802134">7</a>]. Due to the simultaneous occurrence of insulin resistance and atherosclerosis, a considerable number of pathogenic pathways might be shared in the development of both conditions. In the past decades traditional approaches have been confined to identify changes in the expression levels of individual genes between two different conditions, however the integration and comprehension of large amounts of data remained a challenge [<a href="#CR8" rid="CR8" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802133">8</a>&#x02013;<a href="#CR10" rid="CR10" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802128">10</a>]. Recently several methods and bioinformatic tools have been developed to perform pathways analyses out of gene expression data enabling to manage, integrate and interpret them with a more holistic view and a biological meaning [<a href="#CR11" rid="CR11" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802137">11</a>, <a href="#CR12" rid="CR12" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802129">12</a>]. Gene set enrichment analysis (GSEA) provides the possibility to compare data with different gene set databases of interest and reports group of genes associated with the same biological function or common pathways [<a href="#CR12" rid="CR12" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802132">12</a>, <a href="#CR13" rid="CR13" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802117">13</a>]. Hence such analyses allow a more general picture on dysregulation compared to analyses focusing on individual genes.</p><p id="__p7" class="p p-last">Despite a number of investigations focusing on alterations leading to the development of either insulin resistance or atherosclerosis, there is no record in the literature systematically looking for dysregulated pathways common to insulin resistance and atherosclerosis in the same individual. Due to the concurring risk of type 2 diabetes and cardiovascular disease, the elucidation of dysregulated pathways in adipose tissue and atherosclerotic plaques should be based on an animal model that mirrors human disease by simultaneously developing adipose tissue inflammation/insulin resistance and atherosclerosis. Therefore, the aim of this study was the identification and analysis of common dysregulated pathways in obesity-induced adipose tissue inflammation and atherosclerotic plaque formation to elucidate interrelations in the concurrent development of type 2 diabetes and cardiovascular disease. Increasing our understanding on simultaneous dysregulation may indicate common molecular mechanisms that underlie type 2 diabetes and cardiovascular disease to facilitate novel preventive and therapeutic strategies in patients with metabolic syndrome. In this study we performed a pathway analysis using GSEA software with data from an own microarray experiment carried out with gonadal white adipose tissue (AT) and aortae (AO) samples from a combined insulin resistance/atherosclerosis mouse model established in our lab [<a href="#CR14" rid="CR14" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_579370144">14</a>]. With this inbred mouse model, we identified common pathways in the onset of adipose tissue inflammation/insulin resistance and atherosclerosis taking advantage of the simultaneous development of both of them in individual mice while avoiding genetic variation. In conclusion, this study provides a highly valuable set of information which may be used by multiple researchers to generate hypotheses on the common development of insulin resistance and atherosclerosis.</p></div><div id="Sec2" class="tsec sec"><h2 class="head no_bottom_margin" id="Sec2title">Methods</h2><div id="Sec3" class="sec sec-first"><h3>Animals and diets</h3><p id="__p8" class="p p-first-last">A combined insulin resistance/atherosclerosis mouse model established in our laboratory was used as described [<a href="#CR14" rid="CR14" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_579370141">14</a>]. At 9&#x000a0;weeks of age, male LDL-receptor knockout mice (<em>Ldlr</em><sup>&#x02212;<em>/</em>&#x02212;</sup><em>)</em> were placed for 20&#x000a0;weeks either on normal chow (NC; V1126-000, Ssnif, Soest, Germany) or diabetogenic diet (DDC; D09071704, Research Diets Inc.) (Additional file <a href="#MOESM1" rid="MOESM1" class=" media">1</a>: Table S1). Animals were sacrificed and AT and AO were collected and immediately snap frozen in liquid nitrogen. All mice were housed in a specific pathogen-free facility with a 12&#x000a0;h light/dark cycle. Mice had free access to food and water. The protocol fully complied with the guidelines on accommodation and care of animals formulated by the European Convention for the Protection of Vertebrate Animals Used for Experimental and Other Scientific Purposes and was approved by the local ethics committee for animal studies and the Austrian Federal Ministry for Science and Research.</p></div><div id="Sec4" class="sec"><h3>Atherosclerosis quantification</h3><p id="__p9" class="p p-first-last">En-face staining was used to determine atherosclerotic plaque formation as described [<a href="#CR15" rid="CR15" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802125">15</a>]. Briefly, after sacrificing the mice the thorax was opened and the aorta was removed and cleaned removing all fat and connective tissue. Subsequently, the aorta was excised 2&#x000a0;mm above aortic root and below iliac bifurcation, opened longitudinally, pinned to silicone plates with acupuncture needles (asia-med, Suhl, Germany) and fixed overnight in 4&#x000a0;% paraformaldehyde, 5&#x000a0;% sucrose, 20&#x000a0;&#x003bc;M EDTA (pH 7.4). Atherosclerotic plaques were stained with Sudan IV for 15&#x000a0;min and destained with 75&#x000a0;% ethanol. Pictures were taken with a Sony Z-1000 camera and atherosclerotic lesion area was assessed by a person blinded to the samples by using ImageJ software.</p></div><div id="Sec5" class="sec"><h3>Microarray analysis</h3><p id="__p10" class="p p-first-last">The frozen tissue samples were homogenized in TRIzol<sup>&#x000ae;</sup> reagent (Invitrogen/Life Technologies, Carlsbad, CA, USA) and processed based on manufacturer&#x02019;s instructions for the RNA isolation. Total RNA (1&#x000a0;&#x003bc;g) was used for GeneChip analysis, for AT preparation six individual samples were used, whereas in the case of AO each of the three individual samples were pooled in three groups due to a limited quantity of material. Terminal labeled cDNA, hybridization to genome-wide Mouse Gene 2.0 ST Gene Chips and scanning of the arrays were carried out according to the manufacture&#x02019;s indications (Affymetrix). Robust Multiarray Average (RMA) signal extraction, normalization and filtering were performed as described (<a href="http://www.bioconductor.org" ref="reftype=extlink&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBody&amp;TO=External%7CLink%7CURI&amp;rendering-type=normal" target="_blank">http://www.bioconductor.org</a>) [<a href="#CR16" rid="CR16" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802120">16</a>, <a href="#CR17" rid="CR17" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802118">17</a>]. The data discussed in this publication have been deposited in NCBI&#x02019;s Gene Expression Omnibus (TM. Stulnig&#x000a0;et al. 2016) and are accessible through GEO Series accession number <a id="__tag_553802143" class="tag_hotlink" href="/geo/query/acc.cgi?acc=GSE76812" ref="/geo/query/acc.cgi?acc=GSE76812"><span class="tag-json" style="display:none">{"type":"entrez-geo","attrs":{"text":"GSE76812","term_id":"76812"}}</span>GSE76812</a> (<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76812" ref="reftype=extlink&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBody&amp;TO=External%7CLink%7CURI&amp;rendering-type=normal" target="_blank">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=<a id="__tag_553802144" class="tag_hotlink" href="/geo/query/acc.cgi?acc=GSE76812" ref="/geo/query/acc.cgi?acc=GSE76812"><span class="tag-json" style="display:none">{"type":"entrez-geo","attrs":{"text":"GSE76812","term_id":"76812"}}</span>GSE76812</a></a>).</p></div><div id="Sec6" class="sec"><h3>Pathways analysis</h3><p id="__p11" class="p p-first">For the GSEA analysis, output primary raw data from the AT or AO microarray experiments was set up as the expression data set in accordance with GSEA indications and uploaded to the software collectively with the phenotype labels, chip annotations and either Biocarta, KEGG, Reactome or Hallmark gene sets downloaded from the Molecular Signatures Database (MSigDB) from the GSEA website. Subsequently the program was run with 1000 permutations and gene set as a permutation type, obtaining all dysregulated pathways, their respective normalized enrichment score (NES) and the enrichment plot for each microarray experiment. Statistical significances were set at a nominal p&#x000a0;&#x0003c;&#x000a0;0.05 and false discovery rate q&#x000a0;&#x0003c;&#x000a0;25&#x000a0;%. According to the GSEA directions, the pathways upregulated by NC were taken as pathways downregulated by DDC.</p><p id="__p12" class="p p-last">Afterwards, the leading edge analysis function was executed to determine all those genes that significantly contribute to the dysregulation of the pathway of interest, also called leading genes. GSEA software was also used for perform the leading genes heat maps, where higher expression values are represented with red and lower expression values with dark blue. All Venn diagrams were made with the free access Venn Diagram Plotter from the Pacific Northwest National Laboratory.</p></div><div id="Sec7" class="sec sec-last"><h3>Statistical analyses</h3><p id="__p13" class="p p-first-last">Data are given as mean&#x000a0;&#x000b1;&#x000a0;SEM. Dietary treatment differences were estimated by unpaired two-tailed Student <em>t</em> test.</p></div></div><div id="Sec8" class="tsec sec"><h2 class="head no_bottom_margin" id="Sec8title">Results</h2><div id="Sec9" class="sec sec-first"><h3>Diabetogenic diet induces obesity and atherosclerosis in <em>Ldlr</em><sup>&#x02212;<em>/</em>&#x02212;</sup><em>mice</em></h3><p id="__p14" class="p p-first-last">Male <em>Ldlr</em><sup>&#x02212;<em>/</em>&#x02212;</sup> mice were fed DDC or NC following the combined cardiometabolic mouse model previously established and characterized in detail in our lab [<a href="#CR14" rid="CR14" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_579370146">14</a>]. The key parameters of this model were reevaluated for the mice in this study. We observed a significantly higher body weight at all time points (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig1/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig1" rid-ob="ob-Fig1" co-legend-rid="lgnd_Fig1"><span>1</span></a>a) as well an elevated final AT weight (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig1/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig1" rid-ob="ob-Fig1" co-legend-rid="lgnd_Fig1"><span>1</span></a> b) in <em>Ldlr</em><sup>&#x02212;<em>/</em>&#x02212;</sup> mice fed DDC for 16&#x000a0;weeks compared to those on NC animals. Atherosclerotic plaque formation as analyzed by en-face staining revealed markedly enhanced atherosclerotic lesions in <em>Ldlr</em><sup>&#x02212;/&#x02212;</sup> mice fed with DDC (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig1/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig1" rid-ob="ob-Fig1" co-legend-rid="lgnd_Fig1"><span>1</span></a>c, d). Together these results point to the simultaneous development of considerable obesity and atherosclerosis in <em>Ldlr</em><sup>&#x02212;/&#x02212;</sup> mice fed with DDC used in this study, reflecting published findings in this mouse model.</p><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="Fig1" co-legend-rid="lgnd_Fig1"><a href="/pmc/articles/PMC5000404/figure/Fig1/" target="figure" rid-figpopup="Fig1" rid-ob="ob-Fig1"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139628265265504" class="figure"><img class="fig-image" alt="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig1_HTML.jpg" title="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig1_HTML.jpg" src="/pmc/articles/PMC5000404/bin/12933_2016_441_Fig1_HTML.jpg" /></div><div id="largeobj_idm139628265265504" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC5000404/figure/Fig1/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_Fig1"><div><a class="figpopup" href="/pmc/articles/PMC5000404/figure/Fig1/" target="figure" rid-figpopup="Fig1" rid-ob="ob-Fig1">Fig.&#x000a0;1</a></div><!--caption a7--><div class="caption"><p id="__p15">Diabetogenic diet induces obesity and atherosclerosis in Ldlr<sup>&#x02212;/&#x02212;</sup> mice. Ldlr<sup>&#x02212;/&#x02212;</sup> mice were placed on either diabetogenic diet (DDC) or normal chow (NC) for 16&#x000a0;weeks: <strong>a</strong> mean body weight during dietary treatment (n&#x000a0;=&#x000a0;12); <strong>b</strong> mean gonadal white adipose tissue (AT) weight after 16&#x000a0;weeks on dietary treatment (n&#x000a0;=&#x000a0;12); <strong>c</strong> representative images of en-face Sudan IV stained aortae after 16&#x000a0;weeks of indicated treatments; <strong>d</strong> atherosclerotic lesion quantification after 16&#x000a0;weeks of dietary treatment (n&#x000a0;=&#x000a0;3)</p></div></div></div></div><div id="Sec10" class="sec"><h3>GSEA revealed common dysregulated pathways in AT and AO from obese mice</h3><p id="__p16" class="p p-first">In this study, the output primary raw data from the AT or AO microarrays were uploaded into the GSEA with the aim to determine significantly dysregulated pathways in either tissue by the effect of the supplied diets (DDC or NC) and possible overlaps in terms of dysregulated pathways between both tissues. The analyses were compared with Biocarta, KEGG, Reactome or Hallmark as gene sets, obtaining upregulated pathways by DDC or NC for either AT or AO (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig2/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig2" rid-ob="ob-Fig2" co-legend-rid="lgnd_Fig2"><span>2</span></a>). To identify common dysregulated pathways between AT and AO, we proceeded to match the upregulated or downregulated pathways for both tissues in each of the four analyses finding a considerable overlap in all the gene sets. The highest proportion of overlapping pathways was obtained for the Hallmark gene set (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig3/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig3" rid-ob="ob-Fig3" co-legend-rid="lgnd_Fig3"><span>3</span></a>). Hence, the Hallmark gene set analysis was chosen for more comprehensive examinations, which allowed us to elucidate common pathways related to obesity induced AT inflammation and atherosclerosis.</p><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="Fig2" co-legend-rid="lgnd_Fig2"><a href="/pmc/articles/PMC5000404/figure/Fig2/" target="figure" rid-figpopup="Fig2" rid-ob="ob-Fig2"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139628294786832" class="figure"><img class="fig-image" alt="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig2_HTML.jpg" title="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig2_HTML.jpg" src="/pmc/articles/PMC5000404/bin/12933_2016_441_Fig2_HTML.jpg" /></div><div id="largeobj_idm139628294786832" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC5000404/figure/Fig2/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_Fig2"><div><a class="figpopup" href="/pmc/articles/PMC5000404/figure/Fig2/" target="figure" rid-figpopup="Fig2" rid-ob="ob-Fig2">Fig.&#x000a0;2</a></div><!--caption a7--><div class="caption"><p id="__p17">Study design and pathways GSEA results overview. The data from gonadal white adipose tissue (AT) and atherosclerotic aorta (AO) microarrays were analyzed by GSEA software with Biocarta, KEGG, Reactome or Hallmark as gene sets. Upregulated or downregulated pathways in AT or AO by the effect of the diabetogenic diet (DDC) are shown</p></div></div></div><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="Fig3" co-legend-rid="lgnd_Fig3"><a href="/pmc/articles/PMC5000404/figure/Fig3/" target="figure" rid-figpopup="Fig3" rid-ob="ob-Fig3"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139628256138496" class="figure"><img class="fig-image" alt="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig3_HTML.jpg" title="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig3_HTML.jpg" src="/pmc/articles/PMC5000404/bin/12933_2016_441_Fig3_HTML.jpg" /></div><div id="largeobj_idm139628256138496" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC5000404/figure/Fig3/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_Fig3"><div><a class="figpopup" href="/pmc/articles/PMC5000404/figure/Fig3/" target="figure" rid-figpopup="Fig3" rid-ob="ob-Fig3">Fig.&#x000a0;3</a></div><!--caption a7--><div class="caption"><p id="__p18">Venn diagrams plots for the dysregulated pathways according to GSEA. Upregulated or downregulated pathways for obese gonadal white adipose tissue (AT) and atherosclerotic aorta (AO) are shown in the Venn diagrams for each of the four analyses: <strong>a</strong> biocarta, <strong>b</strong> KEGG, <strong>c</strong> reactome, <strong>d</strong> Hallmark. Common pathways and percentage of overlap are included in the <em>central region</em> of each <em>diagram</em>
+</p></div></div></div><p id="__p19" class="p p-last">Hallmark gene set involves many well characterized biological processes combining numerous pathways. The dysregulated pathways from the GSEA with the Hallmark gene set are shown in Table&#x000a0;<a href="/pmc/articles/PMC5000404/table/Tab1/" target="table" class="fig-table-link figpopup" rid-figpopup="Tab1" rid-ob="ob-Tab1" co-legend-rid=""><span>1</span></a> and were ranked by AT microarray NES, the main statistic to evaluate gene set enrichment. Several well-known as well as novel pathways potentially involved in type 2 diabetes and atherosclerosis were dysregulated in AT and AO from obese and atherosclerotic animals, respectively, compared with healthy counterparts. Upregulation of inflammatory genes with positive NES occurred in both AT and AO in obesity and atherosclerosis. With respect to a pathway downregulated in obese adipose tissue (negative NES), we selected the oxidative phosphorylation pathway due to experimental and clinical evidence linking mitochondrial alterations to type 2 diabetes and atherosclerosis.</p><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap table anchored whole_rhythm" id="Tab1"><h3>Table&#x000a0;1</h3><!--caption a7--><div class="caption"><p id="__p20">Dysregulated pathways from obese adipose tissue and atherosclerotic aortae after Hallmark-GSEA analysis</p></div><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139628265027248" class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><th align="left" colspan="2" rowspan="1">DP<sup>a</sup>
+</th><th align="left" colspan="2" rowspan="1">NES<sup>d</sup>
+</th><th align="left" colspan="2" rowspan="1">NOM p-Val<sup>e</sup>
+</th><th align="left" colspan="2" rowspan="1">FDR<sup>f</sup>
+</th><th align="left" rowspan="2" colspan="1">IRP<sup>g</sup>
+</th><th align="left" rowspan="2" colspan="1">MRP<sup>h</sup>
+</th><th align="left" rowspan="2" colspan="1">Name</th></tr><tr><th align="left" rowspan="1" colspan="1">AT<sup>b</sup>
+</th><th align="left" rowspan="1" colspan="1">AO<sup>c</sup>
+</th><th align="left" rowspan="1" colspan="1">AT</th><th align="left" rowspan="1" colspan="1">AO</th><th align="left" rowspan="1" colspan="1">AT</th><th align="left" rowspan="1" colspan="1">AO</th><th align="left" rowspan="1" colspan="1">AT</th><th align="left" rowspan="1" colspan="1">AO</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>2.43</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.35</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.047</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.098</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>E2F targets</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>2.39</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.74</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.004</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>G2</em>&#x000a0;<em>M checkpoint</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>2.15</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>2.27</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Allograft rejection</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>2.12</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>2.33</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Inflammatory response</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>2.08</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.99</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.001</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>IL6 JAK STAT3 signaling</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.99</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.90</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.001</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Epithelial mesenchymal transition</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.97</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.97</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>TNFA signaling via NFKB</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.88</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.75</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Mitotic spindle</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.86</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>2.10</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Complement</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.86</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>2.10</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Kras signaling up</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.81</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.41</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.002</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.045</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.001</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Protein secretion</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.72</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.89</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.004</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.001</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Apoptosis</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1">x</td><td align="center" rowspan="1" colspan="1">
+<em>1.63</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02013;1.34</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.026</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.008</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.091</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1">
+<em>MTORC1 signaling</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.60</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>2.35</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.011</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Interferon gamma response</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.58</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.61</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.021</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.021</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.013</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.011</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Angiogenesis</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.50</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.48</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.006</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.012</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.027</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.035</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Coagulation</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">1.48</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.012</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.030</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">Unfolded protein response</td></tr><tr><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">1.43</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.015</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.047</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">MYC targets V1</td></tr><tr><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">1.41</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.024</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.051</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1">Androgen response</td></tr><tr><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">1.36</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.027</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.073</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">IL2 STAT5 signaling</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.34</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>1.68</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.024</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.084</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>P53 pathway</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02212;1.45</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02212;1.72</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.016</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.036</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.004</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Peroxisome</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">
+<em>&#x02212;1.56</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Myogenesis</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02212;1.65</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02212;2.14</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Bile acid metabolism</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02212;1.86</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02013;1.46</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.003</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.038</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>Xenobiotic metabolism</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02013;2.17</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02013;2.40</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Fatty acid metabolism</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02013;2.44</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02212;2.15</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Oxidative phosphorylation</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02212;3.06</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x02212;2.38</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>&#x0003c;0.001</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="center" rowspan="1" colspan="1">
+<em>0.000</em>
+</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">
+<em>x</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Adipogenesis</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">2.08</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.000</td><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">Interferon alpha response</td></tr><tr><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">1.72</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.005</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">Heme metabolism</td></tr><tr><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">1.63</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.001</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.010</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">Apical junction</td></tr><tr><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">1.50</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.007</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.031</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1">Hypoxia</td></tr><tr><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">x</td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">&#x02013;1.77</td><td align="center" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="center" rowspan="1" colspan="1">0.002</td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1"></td><td align="left" rowspan="1" colspan="1">Spermatogenesis</td></tr></tbody></table></div><div id="largeobj_idm139628265027248" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC5000404/table/Tab1/?report=objectonly">Open in a separate window</a></div><div class="tblwrap-foot"><p id="__p21">Commonly dysregulated pathways in AT and AO are shown in italics</p><p id="__p22">Dysregulated pathways are sorted by descending NES in AT</p><p id="__p23">
+<sup>a</sup>Dysregulated pathways</p><p id="__p24">
+<sup>b</sup>Obese white adipose tissue</p><p id="__p25">
+<sup>c</sup>Atherosclerosic aortae</p><p id="__p26">
+<sup>d</sup>Normalized enrichment score</p><p id="__p27">
+<sup>e</sup>Nominal p value</p><p id="__p28">
+<sup>f</sup>False discovery rate</p><p id="__p29">
+<sup>g</sup>Inflammation related pathways</p><p id="__p30">
+<sup>h</sup>Metabolism related pathways</p></div></div></div><div id="Sec11" class="sec sec-last"><h3>Single gene analysis of inflammatory response and oxidative phosphorylation pathways</h3><p id="__p31" class="p p-first">To investigate changes at the single gene level involved in the inflammatory response and oxidative phosphorylation pathways, we first proceeded with a leading edge analysis, which allowed us to identify those genes that are significantly affecting the dysregulation of each pathway, called leading genes. The leading genes are represented in the heatmaps (Figs.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig4/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig4" rid-ob="ob-Fig4" co-legend-rid="lgnd_Fig4"><span>4</span></a>, <a href="/pmc/articles/PMC5000404/figure/Fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig5" rid-ob="ob-Fig5" co-legend-rid="lgnd_Fig5"><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -0.5em;">,5)</span></span><span>5</span></a>) and in the pathway enrichment plots (Additional files <a href="#MOESM2" rid="MOESM2" class=" media">2</a>, <a href="#MOESM3" rid="MOESM3" class=" media">3</a>). The enrichment score that gives an idea about the overall regulation of the pathway is represented by the score at the peak of the enrichment plot. We carried out a leading edge analysis for the inflammatory response pathway in obese adipose tissue (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig4/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig4" rid-ob="ob-Fig4" co-legend-rid="lgnd_Fig4"><span>4</span></a>a) and in atherosclerotic aortae (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig4/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig4" rid-ob="ob-Fig4" co-legend-rid="lgnd_Fig4"><span>4</span></a>b) as well as for the oxidative phosphorylation pathways also in obese adipose tissue (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig5" rid-ob="ob-Fig5" co-legend-rid="lgnd_Fig5"><span>5</span></a>a) and in atherosclerotic aortae (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig5" rid-ob="ob-Fig5" co-legend-rid="lgnd_Fig5"><span>5</span></a>b). For the obese adipose tissue, a definite leading genes regulation profile was observed in all the samples in both analyzed pathways, denoted by the clear color patterns in the heatmaps (Figs.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig4/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig4" rid-ob="ob-Fig4" co-legend-rid="lgnd_Fig4"><span>4</span></a>a, <a href="/pmc/articles/PMC5000404/figure/Fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig5" rid-ob="ob-Fig5" co-legend-rid="lgnd_Fig5"><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -1em;">a,5a).</span></span><span>5</span></a>a). In contrast to the AT results, the leading gene regulation profile either in the inflammatory response or in the oxidative phosphorylation pathways was not quite homogenous in all the AO samples (Figs.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig4/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig4" rid-ob="ob-Fig4" co-legend-rid="lgnd_Fig4"><span>4</span></a>b, <a href="/pmc/articles/PMC5000404/figure/Fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig5" rid-ob="ob-Fig5" co-legend-rid="lgnd_Fig5"><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -1em;">b,5b).</span></span><span>5</span></a>b). Nevertheless, the oxidative phosphorylation pathway was clearly downregulated in obese/atherosclerotic animals as shown in Table&#x000a0;<a href="/pmc/articles/PMC5000404/table/Tab1/" target="table" class="fig-table-link figpopup" rid-figpopup="Tab1" rid-ob="ob-Tab1" co-legend-rid=""><span>1</span></a>, heatmaps and enrichment plots.</p><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="Fig4" co-legend-rid="lgnd_Fig4"><a href="/pmc/articles/PMC5000404/figure/Fig4/" target="figure" rid-figpopup="Fig4" rid-ob="ob-Fig4"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139628262395200" class="figure"><img class="fig-image" alt="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig4_HTML.jpg" title="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig4_HTML.jpg" src="/pmc/articles/PMC5000404/bin/12933_2016_441_Fig4_HTML.jpg" /></div><div id="largeobj_idm139628262395200" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC5000404/figure/Fig4/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_Fig4"><div><a class="figpopup" href="/pmc/articles/PMC5000404/figure/Fig4/" target="figure" rid-figpopup="Fig4" rid-ob="ob-Fig4">Fig.&#x000a0;4</a></div><!--caption a7--><div class="caption"><p id="__p32">Leading genes heat map expression for the inflammatory response pathway in AT and AO. Leading genes of the inflammatory response pathway in: <strong>a</strong> gonadal white adipose tissue (AT) and <strong>b</strong> aorta (AO) are represented in the heatmaps. Upregulated genes are represented in<em> red</em> and downregulated genes are represented in <em>blue</em>
+</p></div></div></div><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="Fig5" co-legend-rid="lgnd_Fig5"><a href="/pmc/articles/PMC5000404/figure/Fig5/" target="figure" rid-figpopup="Fig5" rid-ob="ob-Fig5"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139628263413920" class="figure"><img class="fig-image" alt="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig5_HTML.jpg" title="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig5_HTML.jpg" src="/pmc/articles/PMC5000404/bin/12933_2016_441_Fig5_HTML.jpg" /></div><div id="largeobj_idm139628263413920" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC5000404/figure/Fig5/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_Fig5"><div><a class="figpopup" href="/pmc/articles/PMC5000404/figure/Fig5/" target="figure" rid-figpopup="Fig5" rid-ob="ob-Fig5">Fig.&#x000a0;5</a></div><!--caption a7--><div class="caption"><p id="__p33">Leading genes heat map expression for the oxidative phosphorylation pathway in AT and AO. Leading genes of the oxidative phosphorylation pathway in: <strong>a</strong> gonadal white adipose tissue (AT) and <strong>b</strong> aorta (AO) are represented in the heatmaps. Upregulated genes are represented in red and downregulated genes are represented in <em>blue</em>
+</p></div></div></div><p id="__p34" class="p p-last">We next tested for a possible overlap between the leading genes of each pathway in AT and AO. The percentage of matched leading genes from AT and AO in the inflammatory response pathway was 36&#x000a0;% (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig6/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig6" rid-ob="ob-Fig6" co-legend-rid="lgnd_Fig6"><span>6</span></a>a), while it was even 54&#x000a0;% in oxidative phosphorylation (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig6/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig6" rid-ob="ob-Fig6" co-legend-rid="lgnd_Fig6"><span>6</span></a>b). Additionally, the lists of common leading genes between both tissues for the inflammatory response pathway (Table&#x000a0;<a href="/pmc/articles/PMC5000404/table/Tab2/" target="table" class="fig-table-link figpopup" rid-figpopup="Tab2" rid-ob="ob-Tab2" co-legend-rid=""><span>2</span></a>) or oxidative phosphorylation pathway (Table&#x000a0;<a href="/pmc/articles/PMC5000404/table/Tab3/" target="table" class="fig-table-link figpopup" rid-figpopup="Tab3" rid-ob="ob-Tab3" co-legend-rid=""><span>3</span></a>) were obtained together with the corresponding rank metric score per gene which represents their importance in the dysregulation of the pathway with the uppermost listed genes being the most influential in the pathway in AT (Upregulated, Table&#x000a0;<a href="/pmc/articles/PMC5000404/table/Tab2/" target="table" class="fig-table-link figpopup" rid-figpopup="Tab2" rid-ob="ob-Tab2" co-legend-rid=""><span>2</span></a>; Downregulated, Table&#x000a0;<a href="/pmc/articles/PMC5000404/table/Tab3/" target="table" class="fig-table-link figpopup" rid-figpopup="Tab3" rid-ob="ob-Tab3" co-legend-rid=""><span>3</span></a>). For the inflammatory response pathway <em>Il7r</em>, <em>C3ar1</em>, <em>Tlr1</em>, <em>Rgs1</em> and <em>Semad4d</em> were the highest ranked genes. Among the most highly ranked in the oxidative phosphorylation pathway were <em>Maob</em>, <em>Bckdha</em>, <em>Aldh6a1</em>, <em>Echs1</em> and <em>Cox8a</em>. Non-overlapping genes regulated solely in AT or AO for inflammatory response and oxidative phosphorylation pathways are listed in the Additional file <a href="#MOESM1" rid="MOESM1" class=" media">1</a>: Tables S2, S3, respectively. In addition, the common leading genes of the other pathways dysregulated in both analyzed tissues that have not been further analyzed in this study are presented in the Additional file <a href="#MOESM1" rid="MOESM1" class=" media">1</a>: Table S4.</p><!--fig ft0--><!--fig mode=article f1--><div class="fig iconblock whole_rhythm clearfix" id="Fig6" co-legend-rid="lgnd_Fig6"><a href="/pmc/articles/PMC5000404/figure/Fig6/" target="figure" rid-figpopup="Fig6" rid-ob="ob-Fig6"><!--fig/graphic|fig/alternatives/graphic mode="anchored" m1--><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139628256034304" class="figure"><img class="fig-image" alt="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig6_HTML.jpg" title="An external file that holds a picture, illustration, etc.&#10;Object name is 12933_2016_441_Fig6_HTML.jpg" src="/pmc/articles/PMC5000404/bin/12933_2016_441_Fig6_HTML.jpg" /></div><div id="largeobj_idm139628256034304" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC5000404/figure/Fig6/?report=objectonly">Open in a separate window</a></div></a><div class="icnblk_cntnt" id="lgnd_Fig6"><div><a class="figpopup" href="/pmc/articles/PMC5000404/figure/Fig6/" target="figure" rid-figpopup="Fig6" rid-ob="ob-Fig6">Fig.&#x000a0;6</a></div><!--caption a7--><div class="caption"><p id="__p35">Venn diagrams plot of leading genes involved in the enrichment score of inflammatory response and phosphorylation pathways. Percentage of the overlap between the leading genes from the inflammatory response (<strong>a</strong>) and oxidative phosphorylation (<strong>b</strong>) pathways in obese white adipose tissue (AT) and in atherosclerotic aortae (AO)</p></div></div></div><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap table anchored whole_rhythm" id="Tab2"><h3>Table&#x000a0;2</h3><!--caption a7--><div class="caption"><p id="__p36">Common genes from obese adipose tissue and atherosclerotic aortae involved in the inflammatory response pathway</p></div><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139628265425792" class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><th align="left" colspan="2" rowspan="1">Rank metric score</th><th align="left" rowspan="2" colspan="1">Gene symbol</th><th align="left" rowspan="2" colspan="1">Gene name</th></tr><tr><th align="left" rowspan="1" colspan="1">AT<sup>a</sup>
+</th><th align="left" rowspan="1" colspan="1">AO<sup>b</sup>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">4.554</td><td align="center" rowspan="1" colspan="1">2.000</td><td align="left" rowspan="1" colspan="1">
+<em>Il7r</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Interleukin 7 receptor</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3.713</td><td align="center" rowspan="1" colspan="1">2.000</td><td align="left" rowspan="1" colspan="1">
+<em>C3ar1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Complement component 3a receptor 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3.652</td><td align="center" rowspan="1" colspan="1">0.928</td><td align="left" rowspan="1" colspan="1">
+<em>Emr1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Adhesion G protein</em>-<em>coupled receptor E1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3.489</td><td align="center" rowspan="1" colspan="1">0.579</td><td align="left" rowspan="1" colspan="1">
+<em>Tlr1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Toll</em>-<em>like receptor 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3.298</td><td align="center" rowspan="1" colspan="1">1.000</td><td align="left" rowspan="1" colspan="1">
+<em>Rgs1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Regulator of G</em>-<em>protein signalling 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3.285</td><td align="center" rowspan="1" colspan="1">0.576</td><td align="left" rowspan="1" colspan="1">
+<em>Semad4d</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Semaphorin 4D</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3.205</td><td align="center" rowspan="1" colspan="1">0.940</td><td align="left" rowspan="1" colspan="1">
+<em>Cybb</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Cytochrome b</em>-<em>245 heavy chain</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3.175</td><td align="center" rowspan="1" colspan="1">0.445</td><td align="left" rowspan="1" colspan="1">
+<em>Kcnj2</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Inward rectifier potassium channel 2</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3.111</td><td align="center" rowspan="1" colspan="1">0.779</td><td align="left" rowspan="1" colspan="1">
+<em>C5ar1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>C5a anaphylatoxin chemotactic receptor 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">3.037</td><td align="center" rowspan="1" colspan="1">1.000</td><td align="left" rowspan="1" colspan="1">
+<em>Cd48</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>CD48</em>&#x000a0;<em>antigen</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2.961</td><td align="center" rowspan="1" colspan="1">1.000</td><td align="left" rowspan="1" colspan="1">
+<em>Pik3r5</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Phosphoinositide</em>-<em>3</em>-<em>kinase, regulatory subunit 5, p101</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2.626</td><td align="center" rowspan="1" colspan="1">0.992</td><td align="left" rowspan="1" colspan="1">
+<em>Ptafr</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Platelet</em>-<em>activating factor receptor</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2.422</td><td align="center" rowspan="1" colspan="1">0.894</td><td align="left" rowspan="1" colspan="1">
+<em>Ptpre</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Protein tyrosine phosphatase, receptor type, E</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2.364</td><td align="center" rowspan="1" colspan="1">0.716</td><td align="left" rowspan="1" colspan="1">
+<em>P2rx4</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Purinergic receptor P2X, ligand</em>-<em>gated ion channel, 4</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2.346</td><td align="center" rowspan="1" colspan="1">2.000</td><td align="left" rowspan="1" colspan="1">
+<em>Timp1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Tissue inhibitor of metalloproteinase 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">2.197</td><td align="center" rowspan="1" colspan="1">2.000</td><td align="left" rowspan="1" colspan="1">
+<em>Il10ra</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Interleukin 10 receptor, alpha</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1.692</td><td align="center" rowspan="1" colspan="1">0.519</td><td align="left" rowspan="1" colspan="1">
+<em>Plaur</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Plasminogen activator, urokinase receptor</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1.594</td><td align="center" rowspan="1" colspan="1">0.496</td><td align="left" rowspan="1" colspan="1">
+<em>Clec5a</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>C</em>-<em>type lectin domain family 5, member a</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1.535</td><td align="center" rowspan="1" colspan="1">0.361</td><td align="left" rowspan="1" colspan="1">
+<em>Gna15</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Guanine nucleotide binding protein, alpha 15</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1.452</td><td align="center" rowspan="1" colspan="1">0.922</td><td align="left" rowspan="1" colspan="1">
+<em>Ccl2</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Chemokine (C</em>&#x02013;<em>C motif) ligand 2</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1.303</td><td align="center" rowspan="1" colspan="1">0.273</td><td align="left" rowspan="1" colspan="1">
+<em>Ifnar1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Interferon (alpha and beta) receptor 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1.129</td><td align="center" rowspan="1" colspan="1">0.957</td><td align="left" rowspan="1" colspan="1">
+<em>Ccl7</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Chemokine (C</em>&#x02013;<em>C motif) ligand 7</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">1.090</td><td align="center" rowspan="1" colspan="1">1.000</td><td align="left" rowspan="1" colspan="1">
+<em>Csf3r</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Colony stimulating factor 3 receptor (granulocyte)</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">0.921</td><td align="center" rowspan="1" colspan="1">0.460</td><td align="left" rowspan="1" colspan="1">
+<em>Il1r1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Interleukin 1 receptor, type I</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">0.905</td><td align="center" rowspan="1" colspan="1">0.697</td><td align="left" rowspan="1" colspan="1">
+<em>Ccl5</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Chemokine (C</em>&#x02013;<em>C motif) ligand 5</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">0.882</td><td align="center" rowspan="1" colspan="1">0.782</td><td align="left" rowspan="1" colspan="1">
+<em>Icam1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Intercellular adhesion molecule 1 (CD54), human rhinovirus receptor</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">0.806</td><td align="center" rowspan="1" colspan="1">0.277</td><td align="left" rowspan="1" colspan="1">
+<em>Slc11a2</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Solute carrier family 11, member 2</em>
+</td></tr></tbody></table></div><div id="largeobj_idm139628265425792" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC5000404/table/Tab2/?report=objectonly">Open in a separate window</a></div><div class="tblwrap-foot"><p id="__p37">Dysregulated genes are sorted by descending rank metric score in AT</p><p id="__p38">
+<sup>a</sup>Obese gonadal white adipose tissue</p><p id="__p39">
+<sup>b</sup>Atherosclerotic aortae</p></div></div><!--table ft1--><!--table-wrap mode="anchored" t5--><div class="table-wrap table anchored whole_rhythm" id="Tab3"><h3>Table&#x000a0;3</h3><!--caption a7--><div class="caption"><p id="__p40">Common genes from obese adipose tissue and atherosclerotic aortae involved in the oxidative phosphorylation pathway</p></div><div data-largeobj="" data-largeobj-link-rid="largeobj_idm139628256409344" class="xtable"><table frame="hsides" rules="groups" class="rendered small default_table"><thead><tr><th align="left" colspan="2" rowspan="1">Rank metric score</th><th align="left" rowspan="2" colspan="1">Gene symbol</th><th align="left" rowspan="2" colspan="1">Gene name</th></tr><tr><th align="left" rowspan="1" colspan="1">AT<sup>a</sup>
+</th><th align="left" rowspan="1" colspan="1">AO<sup>b</sup>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">&#x02212;2.2950</td><td align="center" rowspan="1" colspan="1">&#x02212;0.4060</td><td align="left" rowspan="1" colspan="1">
+<em>Maob</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Monoamine oxidase B</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;2.0570</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3260</td><td align="left" rowspan="1" colspan="1">
+<em>Bckdha</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Branched chain keto acid dehydrogenase E1, alpha polypeptide</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;2.0250</td><td align="center" rowspan="1" colspan="1">&#x02212;0.8910</td><td align="left" rowspan="1" colspan="1">
+<em>Aldh6a1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Aldehyde dehydrogenase 6 family, member A1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;2.0020</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2060</td><td align="left" rowspan="1" colspan="1">
+<em>Echs1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Enoyl CoA hydratase, short chain, 1, mitochondrial</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.7080</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3710</td><td align="left" rowspan="1" colspan="1">
+<em>Cox8a</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Cytochrome c oxidase subunit 8a</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.4980</td><td align="center" rowspan="1" colspan="1">&#x02212;0.7180</td><td align="left" rowspan="1" colspan="1">
+<em>Phyh</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Phytanoyl</em>&#x02013;<em>CoA hydroxylase</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.4240</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1680</td><td align="left" rowspan="1" colspan="1">
+<em>Cox4i1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Cytochrome c oxidase subunit IV isoform 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.3880</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3800</td><td align="left" rowspan="1" colspan="1">
+<em>Aco2</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Aconitase 2, mitochondrial</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.3400</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2640</td><td align="left" rowspan="1" colspan="1">
+<em>Acat1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Acetyl</em>-<em>Coenzyme A acetyltransferase 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.3350</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2220</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufb8</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.3200</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1620</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufv1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) flavoprotein 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.3060</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3470</td><td align="left" rowspan="1" colspan="1">
+<em>Atp5d</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>ATP synthase, H</em>+&#x000a0;<em>transporting, mitochondrial F1 complex, delta subunit</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.2750</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2330</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufs7</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) Fe</em>&#x02013;<em>S protein 7</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.2670</td><td align="center" rowspan="1" colspan="1">&#x02212;0.4190</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufa4</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.2370</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2430</td><td align="left" rowspan="1" colspan="1">
+<em>Gpx4</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Glutathione peroxidase 4</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.2260</td><td align="center" rowspan="1" colspan="1">&#x02212;0.4390</td><td align="left" rowspan="1" colspan="1">
+<em>Pdha1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Pyruvate dehydrogenase E1 alpha 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.2060</td><td align="center" rowspan="1" colspan="1">&#x02212;0.4440</td><td align="left" rowspan="1" colspan="1">
+<em>Sdhc</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Succinate dehydrogenase complex, subunit C, integral membrane protein</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.2030</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3650</td><td align="left" rowspan="1" colspan="1">
+<em>Cs</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Citrate synthase</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.1660</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3270</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufa1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.1510</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2410</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufa8</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 8</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.1450</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1990</td><td align="left" rowspan="1" colspan="1">
+<em>Cox6b1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Cytochrome c oxidase subunit Vib polypeptide 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.1290</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3140</td><td align="left" rowspan="1" colspan="1">
+<em>Mrps15</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Mitochondrial ribosomal protein S15</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.1150</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2280</td><td align="left" rowspan="1" colspan="1">
+<em>Idh3</em>&#x000a0;<em>g</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Isocitrate dehydrogenase 3 (NAD</em>+<em>) gamma</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.0870</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1990</td><td align="left" rowspan="1" colspan="1">
+<em>Acadvl</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Acyl</em>-<em>Coenzyme A dehydrogenase, very long chain</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.0820</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1850</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufa9</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 9</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.0620</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3370</td><td align="left" rowspan="1" colspan="1">
+<em>Cox6a1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Cytochrome c oxidase subunit VIa polypeptide 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.0570</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2870</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufc1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.0470</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1760</td><td align="left" rowspan="1" colspan="1">
+<em>Mfn2</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Mitofusin 2</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.0230</td><td align="center" rowspan="1" colspan="1">&#x02212;0.5940</td><td align="left" rowspan="1" colspan="1">
+<em>Pdhb</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Pyruvate dehydrogenase (lipoamide) beta</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;1.0140</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3930</td><td align="left" rowspan="1" colspan="1">
+<em>Idh3b</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Isocitrate dehydrogenase 3 (NAD</em>+<em>) beta</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.9750</td><td align="center" rowspan="1" colspan="1">&#x02212;0.5050</td><td align="left" rowspan="1" colspan="1">
+<em>Atp5g3</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>ATP synthase, H</em>&#x000a0;+&#x000a0;<em>transporting, mitochondrial F0 complex, subunit C3 (subunit 9)</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.9440</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1990</td><td align="left" rowspan="1" colspan="1">
+<em>Uqcrfs1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Ubiquinol</em>-<em>cytochrome c reductase, Rieske iron</em>-<em>sulfur polypeptide 1</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.9060</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2240</td><td align="left" rowspan="1" colspan="1">
+<em>Mrpl34</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Mitochondrial ribosomal protein L34</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.8870</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2150</td><td align="left" rowspan="1" colspan="1">
+<em>Uqcrh</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Ubiquinol</em>-<em>cytochrome c reductase hinge protein</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.8840</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3650</td><td align="left" rowspan="1" colspan="1">
+<em>Grpel1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>GrpE</em>&#x02212;<em>like 1, mitochondrial</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.8440</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2340</td><td align="left" rowspan="1" colspan="1">
+<em>Uqcrc2</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Ubiquinol</em>-<em>cytochrome c reductase core protein 2</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.8300</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1600</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufb6</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 6</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.8010</td><td align="center" rowspan="1" colspan="1">&#x02212;0.5270</td><td align="left" rowspan="1" colspan="1">
+<em>Ldhb</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Lactate dehydrogenase B</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.7460</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2100</td><td align="left" rowspan="1" colspan="1">
+<em>Phb2</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Prohibitin 2</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.7320</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2170</td><td align="left" rowspan="1" colspan="1">
+<em>Mrpl11</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Mitochondrial ribosomal protein L11</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.7270</td><td align="center" rowspan="1" colspan="1">&#x02212;0.4530</td><td align="left" rowspan="1" colspan="1">
+<em>Cox6c</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Cytochrome c oxidase subunit VIc</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.7160</td><td align="center" rowspan="1" colspan="1">&#x02212;0.6190</td><td align="left" rowspan="1" colspan="1">
+<em>Cox5b</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Cytochrome c oxidase subunit Vb</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.7090</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1590</td><td align="left" rowspan="1" colspan="1">
+<em>Suclg1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Succinate</em>-<em>CoA ligase, GDP</em>-<em>forming, alpha subunit</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.7080</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2300</td><td align="left" rowspan="1" colspan="1">
+<em>Cox7b</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Cytochrome c oxidase subunit VIIb</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.7030</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1930</td><td align="left" rowspan="1" colspan="1">
+<em>Atp5j</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>ATP synthase, H</em>+&#x000a0;<em>transporting, mitochondrial F0 complex, subunit F</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.6970</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3770</td><td align="left" rowspan="1" colspan="1">Cox5a</td><td align="left" rowspan="1" colspan="1">Cytochrome c oxidase subunit Va</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.6920</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2190</td><td align="left" rowspan="1" colspan="1">
+<em>Dlst</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Dihydrolipoamide S</em>-<em>succinyltransferase</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.6890</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2280</td><td align="left" rowspan="1" colspan="1">
+<em>Atp5</em>&#x000a0;<em>h</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>ATP synthase, H</em>+&#x000a0;<em>transporting, mitochondrial F0 complex, subunit D</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.6880</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3350</td><td align="left" rowspan="1" colspan="1">
+<em>Mdh1</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Malate dehydrogenase 1, NAD (soluble)</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.6860</td><td align="center" rowspan="1" colspan="1">&#x02212;0.3760</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufb3</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 3</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.6670</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2560</td><td align="left" rowspan="1" colspan="1">
+<em>Mrpl35</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Mitochondrial ribosomal protein L35</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.6340</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2650</td><td align="left" rowspan="1" colspan="1">
+<em>Prdx3</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Peroxiredoxin 3</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.6270</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2690</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufa5</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 5</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.6050</td><td align="center" rowspan="1" colspan="1">&#x02212;0.2480</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufb5</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.5830</td><td align="center" rowspan="1" colspan="1">&#x02212;0.5650</td><td align="left" rowspan="1" colspan="1">
+<em>Sdhd</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>Succinate dehydrogenase complex, subunit D, integral membrane protein</em>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x02212;0.5760</td><td align="center" rowspan="1" colspan="1">&#x02212;0.1720</td><td align="left" rowspan="1" colspan="1">
+<em>Ndufs8</em>
+</td><td align="left" rowspan="1" colspan="1">
+<em>NADH dehydrogenase (ubiquinone) Fe</em>&#x02013;<em>S protein 8</em>
+</td></tr></tbody></table></div><div id="largeobj_idm139628256409344" class="largeobj-link align_right" style="display: none"><a target="object" href="/pmc/articles/PMC5000404/table/Tab3/?report=objectonly">Open in a separate window</a></div><div class="tblwrap-foot"><p id="__p41">Dysregulated genes are sorted by descending rank metric score in AT</p><p id="__p42">
+<sup>a</sup>Obese gonadal white adipose tissue</p><p id="__p43">
+<sup>b</sup>Atherosclerotic aortae</p></div></div></div></div><div id="Sec12" class="tsec sec"><h2 class="head no_bottom_margin" id="Sec12title">Discussion</h2><p id="__p44" class="p p-first">Type 2 diabetes and cardiovascular disease are common risks inherent with presence of metabolic syndrome and are triggered by insulin resistance and atherosclerosis, respectively. Several immunological and metabolic changes in serum levels from factors such as TNF-&#x003b1; [<a href="#CR18" rid="CR18" class=" bibr popnode">18</a>], IL-6 [<a href="#CR19" rid="CR19" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802135">19</a>], plasminogen activator inhibitor (PAI-1) [<a href="#CR20" rid="CR20" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802131">20</a>], C-reactive protein (CRP) and fibrinogen [<a href="#CR21" rid="CR21" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802127">21</a>], have been reported to be altered during insulin resistance and adipose tissue inflammation, both consequences of obesity, as well as atherosclerotic plaque formation during dyslipidemias [<a href="#CR22" rid="CR22" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802123">22</a>, <a href="#CR23" rid="CR23" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802126">23</a>]. Even though diverse studies have been carried out to determine common variations at gene or protein levels between different metabolic tissues during obesity, the common pathways involved in the simultaneous development of adipose tissue inflammation and atherosclerosis remained elusive. Identification of common dysregulated pathways, however, could be a key in the development of both conditions and provide a chance for novel strategies to simultaneously prevent type 2 diabetes and cardiovascular disease in subjects at risk, i.e. those with metabolic syndrome [<a href="#CR24" rid="CR24" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802115">24</a>, <a href="#CR25" rid="CR25" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802139">25</a>]. Pathway-based analysis is a powerful tool that allows to detect changes at a higher biological level than individual genes or molecules, complementing single gene level approaches with biological interactions, and thus contributing to a better understanding of the complexity of diseases [<a href="#CR13" rid="CR13" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802119">13</a>]. Taking this together with the high reliability of the microarray technology nowadays [<a href="#CR26" rid="CR26" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802138">26</a>&#x02013;<a href="#CR28" rid="CR28" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802113">28</a>], the pathways analyses based on microarray data can be considered as remarkably robust studies at the meta level. There are several publications showing single pathways to be involved in type 2 diabetes [<a href="#CR29" rid="CR29" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802110">29</a>, <a href="#CR30" rid="CR30" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802122">30</a>] or atherosclerosis [<a href="#CR31" rid="CR31" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802130">31</a>&#x02013;<a href="#CR33" rid="CR33" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802112">33</a>], such as focal adhesion [<a href="#CR34" rid="CR34" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802124">34</a>], angiotensin II-NF&#x003ba;B [<a href="#CR35" rid="CR35" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802140">35</a>], electron carrier activity, PPAR signaling and protein secretion [<a href="#CR36" rid="CR36" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_579370142">36</a>]. However, in this study, we combined adipose tissue inflammation and atherosclerosis, in order to identify common dysregulated pathways in a systematical and unbiased manner, merging own and published data and applying different bioinformatic approaches.</p><p id="__p45">Initially, we took advantage of a recently established combined insulin resistance/atherosclerosis inbred mouse model and analyzed microarray raw data from AT and AO with the GSEA software. Using four different gene sets, Biocarta, KEGG, Reactome and Hallmark (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig2/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig2" rid-ob="ob-Fig2" co-legend-rid="lgnd_Fig2"><span>2</span></a>) we obtained considerably overlaps of dysregulated pathways in each of the four analyses. We choose Hallmark results to conduct a deeper look. However, to consider data from Biocarta, KEGG and Reactome analyses remains an interesting aim for further studies (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig3/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig3" rid-ob="ob-Fig3" co-legend-rid="lgnd_Fig3"><span>3</span></a>).</p><p id="__p46">Interestingly, the Hallmark analysis results included novel as well as already described common dysregulated pathways related with insulin resistance and atherosclerosis such as inflammatory response, IL6 JAK STAT3 signaling, TNFA signaling via NFKB, interferon gamma response, fatty acid metabolism, oxidative phosphorylation and adipogenesis (Table&#x000a0;<a href="/pmc/articles/PMC5000404/table/Tab1/" target="table" class="fig-table-link figpopup" rid-figpopup="Tab1" rid-ob="ob-Tab1" co-legend-rid=""><span>1</span></a>). This list of pathways could be of a great tool for researchers who are interested in the common mechanisms behind adipose tissue inflammation and atherosclerosis, since common genes enclosed in the pathways could be new targets to investigate mechanism as well as possible future treatments.</p><p id="__p47">After evaluation of the common pathways altered in both metabolic processes, we selected the inflammatory and oxidative phosphorylation pathways as representatives of up- and down-regulated pathways, respectively, due to the importance of the involved genes in the pathogenesis of type 2 diabetes and atherosclerosis [<a href="#CR37" rid="CR37" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802142">37</a>&#x02013;<a href="#CR41" rid="CR41" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802109">41</a>]. We could show a clear expression pattern for all genes that contribute to the dysregulation of the pathway in each tissue (Figs.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig4/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig4" rid-ob="ob-Fig4" co-legend-rid="lgnd_Fig4"><span>4</span></a>, <a href="/pmc/articles/PMC5000404/figure/Fig5/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig5" rid-ob="ob-Fig5" co-legend-rid="lgnd_Fig5"><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -0.5em;">,5).</span></span><span>5</span></a>). The upregulation of the inflammatory response pathway in inflamed adipose tissue as well as in atherosclerotic aorta in the animal model used in this study complements the recent findings showing after a long term high fat diet (16&#x000a0;weeks) that the homeostasis of the immune system is altered from a physiological immune response to a pathological state [<a href="#CR42" rid="CR42" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_579370143">42</a>]. Moreover, the down-regulation of the oxidative phosphorylation pathway in AT supports the observations indicating decreased expression of the genes implicated in the mitochondria electron chain in visceral adipose tissue in type 2 diabetes [<a href="#CR39" rid="CR39" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802136">39</a>]. However, our study shows the down-regulation of the oxidative phosphorylation pathway also in the atherosclerotic aorta. Additionally we also identified a considerable number of common genes between both analyzed tissues that significantly contribute to the dysregulation of the inflammatory response or the oxidative phosphorylation pathways and could be potentially involved in the pathogenesis of both type 2 diabetes and cardiovascular disease (Fig.&#x000a0;<a href="/pmc/articles/PMC5000404/figure/Fig6/" target="figure" class="fig-table-link figpopup" rid-figpopup="Fig6" rid-ob="ob-Fig6" co-legend-rid="lgnd_Fig6"><span>6</span></a>; Tables&#x000a0;<a href="/pmc/articles/PMC5000404/table/Tab2/" target="table" class="fig-table-link figpopup" rid-figpopup="Tab2" rid-ob="ob-Tab2" co-legend-rid=""><span>2</span></a>, <a href="/pmc/articles/PMC5000404/table/Tab3/" target="table" class="fig-table-link figpopup" rid-figpopup="Tab3" rid-ob="ob-Tab3" co-legend-rid=""><span style="position: relative;text-decoration:none;">&#x200B;<span class="figpopup-sensitive-area" style="left: -0.5em;">,3</span></span><span>3</span></a>).</p><p id="__p48" class="p p-last">A large amount of studies have been performed to identify potential treatment strategies for multifactorial diseases which are caused by a collective dysregulation of many genes. Recently, identification of dysregulated pathways was proposed as possible biomarkers for such disorders [<a href="#CR43" rid="CR43" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_553802111">43</a>, <a href="#CR44" rid="CR44" class=" bibr popnode tag_hotlink tag_tooltip" id="__tag_579370145">44</a>]. This study conferred a strong evidence of similarities on the pathogenesis between insulin resistance and atherosclerosis, which could support diagnostic processes and drug design in a more effective manner facilitating a more personalized medicine in patients with metabolic syndrome.</p></div><div id="Sec13" class="tsec sec"><h2 class="head no_bottom_margin" id="Sec13title">Conclusion</h2><p id="__p49" class="p p-first-last">In conclusion, we describe analogies at the pathway as well as individual gene level between obese adipose tissue and atherosclerotic aortae potentially to be considered as a basis to achieve novel therapeutic approaches for the simultaneous prevention of type 2 diabetes and atherosclerotic cardiovascular disease.</p></div><div id="idm139628258083040" class="tsec sec"><h2 class="head no_bottom_margin" id="idm139628258083040title">Authors&#x02019; contributions</h2><div class="sec"><p id="__p65">VMV and MA conceived the study, researched, interpreted data and wrote the manuscript. AS researched and interpreted data. MB and GS contributed to intellectual content of the manuscript and reviewed and edited the manuscript. MZ contributed to data interpretation, made significant contributions to intellectual content of this manuscript, reviewed and edited the manuscript. TMS designed and supervised the study, critically reviewed and edited the manuscript, and rose funding. VMV and MA contributed equally to this work. All authors read and approved the final manuscript.</p><div id="FPar1" class="sec"><h2>Acknowledgements</h2><p id="__p66" class="p p-first-last">Not applicable for this section.</p></div><div id="FPar2" class="sec"><h2>Competing interests</h2><p id="__p67" class="p p-first-last">The authors declare that they have no competing interests.</p></div><div id="FPar3" class="sec"><h2>Availability of data and material</h2><p id="__p68" class="p p-first-last">The data discussed in this publication have been deposited in NCBI&#x02019;s Gene Expression Omnibus (TM. Stulnig&#x000a0;et al., 2016) and are accessible through GEO Series accession number GSE76812 (<a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76812" ref="reftype=extlink&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CBody&amp;TO=External%7CLink%7CURI&amp;rendering-type=normal" target="_blank">http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE76812</a>).</p></div><div id="FPar4" class="sec sec-last"><h2>Funding</h2><p id="__p69" class="p p-first-last">This work was supported by the Federal Ministry of Economy, Family and Youth and the National Foundation for Research, Technology and Development. (to T.M.S.).</p></div></div></div><div id="idm139628256790624" class="tsec sec"><h2 class="head no_bottom_margin" id="idm139628256790624title">Abbreviations</h2><div class="bk-sec"><div><table class="default-table glossary"><tbody><tr><td>AO</td><td>aortae</td></tr><tr><td>AT</td><td>gonadal white adipose tissue</td></tr><tr><td>DDC</td><td>diabetogenic diet</td></tr><tr><td>FDR</td><td>false discovery rate</td></tr><tr><td>GSEA</td><td>gene set enrichment analysis</td></tr><tr><td>IRP</td><td>inflammation related pathways</td></tr><tr><td><em>Ldlr</em><sup>&#x02212;<em>/</em>&#x02212;</sup></td><td>lDL-receptor knockout mice</td></tr><tr><td>MRP</td><td>metabolism related pathways</td></tr><tr><td>NC</td><td>normal chow diet</td></tr><tr><td>NES</td><td>normalized enrichment score</td></tr></tbody></table></div></div></div><div id="App1" class="tsec sec headless whole_rhythm"><!--/article/back/app-group/app/--><div id="Sec14" class="sec sec-first"><h3>Additional files</h3><p id="__p50" class="p p-first-last"><span class="sup-box" id="MOESM1"><a href="/pmc/articles/PMC5000404/bin/12933_2016_441_MOESM1_ESM.doc">
+10.1186/s12933-016-0441-2 Additional tables.</a><sup>(674K, doc)</sup></span><span class="sup-box" id="MOESM2"><a href="/pmc/articles/PMC5000404/bin/12933_2016_441_MOESM2_ESM.tif">
+10.1186/s12933-016-0441-2 Enrichment plots for inflammatory response pathway in AT and AO. The enrichment plots for inflammatory response pathway in: (a) obese white adipose tissue (AT) and (b) atherosclerotic aorta (AO) are shown, representing at the top the enrichment score and the leading edge subset, at the middle the genes that appear in the rank list and in the bottom the ranking metric that measures the correlation between the gene expression and the phenotype.</a><sup>(658K, tif)</sup></span><span class="sup-box" id="MOESM3"><a href="/pmc/articles/PMC5000404/bin/12933_2016_441_MOESM3_ESM.tif">
+10.1186/s12933-016-0441-2 Enrichment plots for oxidative phosphorylation pathway in AT and AO. The enrichment plots for oxidative phosphorylation pathway in: (a) obese gonadal white adipose tissue (AT) and (b) atherosclerotic aorta (AO) are shown, representing at the top the enrichment score and the leading edge subset, at the middle the genes that appear in the rank list and in the bottom the ranking metric that measures the correlation between the gene expression and the phenotype.</a><sup>(644K, tif)</sup></span></p></div></div><div id="idm139628258083856" class="tsec sec"><h2 class="head no_bottom_margin" id="idm139628258083856title">Footnotes</h2><!--back/fn-group--><div class="fm-sec half_rhythm small"><p class="fn sec" id="idm139628258083728"><p id="__p64" class="p p-first-last">V. Moreno-Viedma and M. Amor contributed equally to this work</p></p></div></div><div id="idm139628260371248aff-info" class="tsec sec"><h2 class="head no_bottom_margin" id="idm139628260371248aff-infotitle">Contributor Information</h2><p><span class="fm-affl">V. Moreno-Viedma, </span><span class="fm-affl"><span class="email-label">Email: </span><a href="mailto:dev@null" data-email="ta.ca.neiwinudem@amdeivonerom.acinorev" class="oemail">ta.ca.neiwinudem@amdeivonerom.acinorev</a></span>.</p><p><span class="fm-affl">M. Amor, </span><span class="fm-affl"><span class="email-label">Email: </span><a href="mailto:dev@null" data-email="ta.ca.neiwinudem@roma.anilem" class="oemail">ta.ca.neiwinudem@roma.anilem</a></span>.</p><p><span class="fm-affl">A. Sarabi, </span><span class="fm-affl"><span class="email-label">Email: </span><a href="mailto:dev@null" data-email="ten.xmg@ibaras.a" class="oemail">ten.xmg@ibaras.a</a></span>.</p><p><span class="fm-affl">M. Bilban, </span><span class="fm-affl"><span class="email-label">Email: </span><a href="mailto:dev@null" data-email="ta.ca.neiwinudem@nablib.nitram" class="oemail">ta.ca.neiwinudem@nablib.nitram</a></span>.</p><p><span class="fm-affl">G. Staffler, </span><span class="fm-affl"><span class="email-label">Email: </span><a href="mailto:dev@null" data-email="moc.siriffa@relffats.rehtneug" class="oemail">moc.siriffa@relffats.rehtneug</a></span>.</p><p><span class="fm-affl">M. Zeyda, </span><span class="fm-affl"><span class="email-label">Email: </span><a href="mailto:dev@null" data-email="ta.ca.neiwinudem@adyez.nailimixam" class="oemail">ta.ca.neiwinudem@adyez.nailimixam</a></span>.</p><p><span class="fm-affl">T. M. Stulnig, </span><span class="fm-affl">Phone: +43 (0)1 40400 61027, <span class="email-label">Email: </span><a href="mailto:dev@null" data-email="ta.ca.neiwinudem@ginluts.samoht" class="oemail">ta.ca.neiwinudem@ginluts.samoht</a></span>.</p></div><div id="Bib1" class="tsec sec"><h2 class="head no_bottom_margin" id="Bib1title">References</h2><div class="ref-list-sec sec" id="reference-list"><div class="ref-cit-blk half_rhythm" id="CR1">1. <span class="element-citation">Balkau B, Vernay M, Mhamdi L, Novak M, Arondel D, Vol S, Tichet J, Eschwege E. The incidence and persistence of the NCEP (National Cholesterol Education Program) metabolic syndrome. The French D.E.S.I.R. study. <span><span class="ref-journal">Diabetes Metab. </span>2003;<span class="ref-vol">29</span>(5):526–532. doi: 10.1016/S1262-3636(07)70067-8.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/14631330" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1016%2FS1262-3636(07)70067-8" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR2">2. <span class="element-citation">Alberti KG, Eckel RH, Grundy SM, Zimmet PZ, Cleeman JI, Donato KA, Fruchart JC, James WP, Loria CM, Smith SC, Jr, et al.  Harmonizing the metabolic syndrome: a joint interim statement of the International Diabetes Federation Task Force on Epidemiology and Prevention; National Heart, Lung, and Blood Institute; American Heart Association; World Heart Federation; International Atherosclerosis Society; and International Association for the Study of Obesity. <span><span class="ref-journal">Circulation. </span>2009;<span class="ref-vol">120</span>(16):1640–1645. doi: 10.1161/CIRCULATIONAHA.109.192644.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/19805654" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1161%2FCIRCULATIONAHA.109.192644" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR3">3. <span class="element-citation">Kaur J. A comprehensive review on metabolic syndrome. <span><span class="ref-journal">Cardiol Res Pract. </span>2014;<span class="ref-vol">2014</span>:943162.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3966331/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/24711954" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR4">4. <span class="element-citation">Pal S, Ellis V. The chronic effects of whey proteins on blood pressure, vascular function, and inflammatory markers in overweight individuals. <span><span class="ref-journal">Obesity (Silver Spring) </span>2010;<span class="ref-vol">18</span>(7):1354–1359. doi: 10.1038/oby.2009.397.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/19893505" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1038%2Foby.2009.397" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR5">5. <span class="element-citation">Grundy SM. Adipose tissue and metabolic syndrome: too much, too little or neither. <span><span class="ref-journal">Eur J Clin Invest. </span>2015;<span class="ref-vol">45</span>:1209–1217. doi: 10.1111/eci.12519.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/26291691" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1111%2Feci.12519" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR6">6. <span class="element-citation">Lumeng CN, Saltiel AR. Inflammatory links between obesity and metabolic disease. <span><span class="ref-journal">J Clin Invest. </span>2011;<span class="ref-vol">121</span>(6):2111–2117. doi: 10.1172/JCI57132.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3104776/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/21633179" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1172%2FJCI57132" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR7">7. <span class="element-citation">O&#x02019;Rourke RW. Inflammation in obesity-related disease. <span><span class="ref-journal">Surgery. </span>2009;<span class="ref-vol">145</span>(3):255–259. doi: 10.1016/j.surg.2008.08.038.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC2749322/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/19231576" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1016%2Fj.surg.2008.08.038" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR8">8. <span class="element-citation">Curtis RK, Oresic M, Vidal-Puig A. Pathways to the analysis of microarray data. <span><span class="ref-journal">Trends Biotechnol. </span>2005;<span class="ref-vol">23</span>(8):429–435. doi: 10.1016/j.tibtech.2005.05.011.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/15950303" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1016%2Fj.tibtech.2005.05.011" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR9">9. <span class="element-citation">Draghici S, Khatri P, Tarca AL, Amin K, Done A, Voichita C, Georgescu C, Romero R. A systems biology approach for pathway level analysis. <span><span class="ref-journal">Genome Res. </span>2007;<span class="ref-vol">17</span>(10):1537–1545. doi: 10.1101/gr.6202607.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC1987343/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/17785539" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1101%2Fgr.6202607" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR10">10. <span class="element-citation">Khatri P, Sirota M, Butte AJ. Ten years of pathway analysis: current approaches and outstanding challenges. <span><span class="ref-journal">PLoS Comput Biol. </span>2012;<span class="ref-vol">8</span>(2):e1002375. doi: 10.1371/journal.pcbi.1002375.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3285573/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/22383865" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1371%2Fjournal.pcbi.1002375" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR11">11. <span class="element-citation">Sun S, Ji Y, Kersten S, Qi L. Mechanisms of inflammatory responses in obese adipose tissue. <span><span class="ref-journal">Annu Rev Nutr. </span>2012;<span class="ref-vol">32</span>:261–286. doi: 10.1146/annurev-nutr-071811-150623.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC4041712/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/22404118" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1146%2Fannurev-nutr-071811-150623" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR12">12. <span class="element-citation">Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA, Paulovich A, Pomeroy SL, Golub TR, Lander ES, et al.  Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. <span><span class="ref-journal">Proc Natl Acad Sci USA. </span>2005;<span class="ref-vol">102</span>(43):15545–15550. doi: 10.1073/pnas.0506580102.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC1239896/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/16199517" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1073%2Fpnas.0506580102" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR13">13. <span class="element-citation">Mootha VK, Lindgren CM, Eriksson KF, Subramanian A, Sihag S, Lehar J, Puigserver P, Carlsson E, Ridderstrale M, Laurila E, et al.  PGC-1alpha-responsive genes involved in oxidative phosphorylation are coordinately downregulated in human diabetes. <span><span class="ref-journal">Nat Genet. </span>2003;<span class="ref-vol">34</span>(3):267–273. doi: 10.1038/ng1180.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/12808457" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1038%2Fng1180" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR14">14. <span class="element-citation">Neuhofer A, Wernly B, Leitner L, Sarabi A, Sommer NG, Staffler G, Zeyda M, Stulnig TM. An accelerated mouse model for atherosclerosis and adipose tissue inflammation. <span><span class="ref-journal">Cardiovascu Diabetol. </span>2014;<span class="ref-vol">13</span>:23. doi: 10.1186/1475-2840-13-23.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3902066/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/24438079" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1186%2F1475-2840-13-23" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR15">15. <span class="element-citation">Messner B, Zeller I, Ploner C, Frotschnig S, Ringer T, Steinacher-Nigisch A, Ritsch A, Laufer G, Huck C, Bernhard D. Ursolic acid causes DNA-damage, p53-mediated, mitochondria- and caspase-dependent human endothelial cell apoptosis, and accelerates atherosclerotic plaque formation in vivo. <span><span class="ref-journal">Atherosclerosis. </span>2011;<span class="ref-vol">219</span>(2):402–408. doi: 10.1016/j.atherosclerosis.2011.05.025.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/21703625" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1016%2Fj.atherosclerosis.2011.05.025" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR16">16. <span class="element-citation">Huber W, Carey VJ, Gentleman R, Anders S, Carlson M, Carvalho BS, Bravo HC, Davis S, Gatto L, Girke T, et al.  Orchestrating high-throughput genomic analysis with bioconductor. <span><span class="ref-journal">Nat Methods. </span>2015;<span class="ref-vol">12</span>(2):115–121. doi: 10.1038/nmeth.3252.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC4509590/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/25633503" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1038%2Fnmeth.3252" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR17">17. <span class="element-citation">Gentleman RC, Carey VJ, Bates DM, Bolstad B, Dettling M, Dudoit S, Ellis B, Gautier L, Ge Y, Gentry J, et al.  Bioconductor: open software development for computational biology and bioinformatics. <span><span class="ref-journal">Genome Biol. </span>2004;<span class="ref-vol">5</span>(10):R80. doi: 10.1186/gb-2004-5-10-r80.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC545600/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/15461798" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1186%2Fgb-2004-5-10-r80" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR18">18. <span class="element-citation">Zahorska-Merkiewicz B, Janowska J, Olszanecka-Gliniarowicz M, Majewski T. Serum concentration of turnout necrosis factor in obese women. <span><span class="ref-journal">J Endocrinol Invest. </span>1999;<span class="ref-vol">22</span>:66–66. doi: 10.1007/BF03345481.</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1007%2FBF03345481" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR19">19. <span class="element-citation">Park HS, Park JY, Yu R. Relationship of obesity and visceral adiposity with serum concentrations of CRP, TNF-alpha and IL-6. <span><span class="ref-journal">Diabetes Res Clin Pract. </span>2005;<span class="ref-vol">69</span>(1):29–35. doi: 10.1016/j.diabres.2004.11.007.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/15955385" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1016%2Fj.diabres.2004.11.007" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR20">20. <span class="element-citation">Festa A, D&#x02019;Agostino R, Jr, Tracy RP, Haffner SM. Elevated levels of acute-phase proteins and plasminogen activator inhibitor-1 predict the development of type 2 diabetes: the insulin resistance atherosclerosis study. <span><span class="ref-journal">Diabetes. </span>2002;<span class="ref-vol">51</span>(4):1131–1137. doi: 10.2337/diabetes.51.4.1131.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/11916936" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.2337%2Fdiabetes.51.4.1131" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR21">21. <span class="element-citation">Kaptoge S, Di Angelantonio E, Pennells L, Wood AM, White IR, Gao P, Walker M, Thompson A, Sarwar N, Caslake M, et al.  C-reactive protein, fibrinogen, and cardiovascular disease prediction. <span><span class="ref-journal">N Engl J Med. </span>2012;<span class="ref-vol">367</span>(14):1310–1320. doi: 10.1056/NEJMoa1107477.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3714101/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/23034020" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1056%2FNEJMoa1107477" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR22">22. <span class="element-citation">Pradhan AD, Ridker PM. Do atherosclerosis and type 2 diabetes share a common inflammatory basis? <span><span class="ref-journal">Eur Heart J. </span>2002;<span class="ref-vol">23</span>(11):831–834. doi: 10.1053/euhj.2001.3052.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/12042000" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1053%2Feuhj.2001.3052" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR23">23. <span class="element-citation">Donath MY, Shoelson SE. Type 2 diabetes as an inflammatory disease. <span><span class="ref-journal">Nat Rev Immunol. </span>2011;<span class="ref-vol">11</span>(2):98–107. doi: 10.1038/nri2925.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/21233852" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1038%2Fnri2925" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR24">24. <span class="element-citation">Ridker PM, Luscher TF. Anti-inflammatory therapies for cardiovascular disease. <span><span class="ref-journal">Eur Heart J. </span>2014;<span class="ref-vol">35</span>(27):1782–1791. doi: 10.1093/eurheartj/ehu203.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC4155455/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/24864079" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1093%2Feurheartj%2Fehu203" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR25">25. <span class="element-citation">Shoelson SE, Lee J, Goldfine AB. Inflammation and insulin resistance. <span><span class="ref-journal">J Clin Invest. </span>2006;<span class="ref-vol">116</span>(7):1793–1801. doi: 10.1172/JCI29069.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC1483173/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/16823477" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1172%2FJCI29069" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR26">26. <span class="element-citation">Allanach K, Mengel M, Einecke G, Sis B, Hidalgo LG, Mueller T, Halloran PF. Comparing microarray versus RT-PCR assessment of renal allograft biopsies: similar performance despite different dynamic ranges. <span><span class="ref-journal">Am J Transplant. </span>2008;<span class="ref-vol">8</span>(5):1006–1015. doi: 10.1111/j.1600-6143.2008.02199.x.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/18416738" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1111%2Fj.1600-6143.2008.02199.x" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR27">27. <span class="element-citation">Wurmbach E, Yuen T, Ebersole BJ, Sealfon SC. Gonadotropin-releasing hormone receptor-coupled gene network organization. <span><span class="ref-journal">J Biol Chem. </span>2001;<span class="ref-vol">276</span>(50):47195–47201. doi: 10.1074/jbc.M108716200.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/11581274" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1074%2Fjbc.M108716200" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR28">28. <span class="element-citation">Etienne W, Meyer MH, Peppers J, Meyer RA. Comparison of mRNA gene expression by RT-PCR and DNA microarray. <span><span class="ref-journal">Biotechniques. </span>2004;<span class="ref-vol">36</span>(4):618–620.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/15088380" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR29">29. <span class="element-citation">Sato M, Dehvari N, Oberg AI, Dallner OS, Sandstrom AL, Olsen JM, Csikasz RI, Summers RJ, Hutchinson DS, Bengtsson T. Improving type 2 diabetes through a distinct adrenergic signaling pathway involving mTORC2 that mediates glucose uptake in skeletal muscle. <span><span class="ref-journal">Diabetes. </span>2014;<span class="ref-vol">63</span>(12):4115–4129. doi: 10.2337/db13-1860.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/25008179" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.2337%2Fdb13-1860" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR30">30. <span class="element-citation">Munasinghe PE, Riu F, Dixit P, Edamatsu M, Saxena P, Hamer NS, Galvin IF, Bunton RW, Lequeux S, Jones G, et al.  Type-2 diabetes increases autophagy in the human heart through promotion of Beclin-1 mediated pathway. <span><span class="ref-journal">Int J Cardiol. </span>2015;<span class="ref-vol">202</span>:13–20. doi: 10.1016/j.ijcard.2015.08.111.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/26386349" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1016%2Fj.ijcard.2015.08.111" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR31">31. <span class="element-citation">King JY, Ferrara R, Tabibiazar R, Spin JM, Chen MM, Kuchinsky A, Vailaya A, Kincaid R, Tsalenko A, Deng DX, et al.  Pathway analysis of coronary atherosclerosis. <span><span class="ref-journal">Physiol Genomics. </span>2005;<span class="ref-vol">23</span>(1):103–118. doi: 10.1152/physiolgenomics.00101.2005.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/15942018" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1152%2Fphysiolgenomics.00101.2005" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR32">32. <span class="mixed-citation">Fu Y, Ma D, Liu Y, Li H, Chi J, Liu W, Lin F, Hu J, Zhang X, Zhu M et al. Tissue factor pathway inhibitor gene transfer prevents vascular smooth muscle cell proliferation by interfering with the MCP-3/CCR2 pathway. Lab Invest. 2015.  <span class="nowrap ref pubmed">[<a href="/pubmed/26302185" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR33">33. <span class="element-citation">Xing SS, Yang XY, Zheng T, Li WJ, Wu D, Chi JY, Bian F, Bai XL, Wu GJ, Zhang YZ, et al.  Salidroside improves endothelial function and alleviates atherosclerosis by activating a mitochondria-related AMPK/PI3&#x000a0;K/Akt/eNOS pathway. <span><span class="ref-journal">Vascul Pharmacol. </span>2015;<span class="ref-vol">72</span>:141–152. doi: 10.1016/j.vph.2015.07.004.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/26187353" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1016%2Fj.vph.2015.07.004" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR34">34. <span class="element-citation">Zhang L, Cui Y, Fu F, Li Z, Pan X, Li H, Li L. An insight into the key genes and biological functions associated with insulin resistance in adipose tissue with microarray technology. <span><span class="ref-journal">Mol Med Rep. </span>2015;<span class="ref-vol">11</span>(3):1963–1967.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/25385661" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR35">35. <span class="element-citation">Zhou MS, Liu C, Tian R, Nishiyama A, Raij L. Skeletal muscle insulin resistance in salt-sensitive hypertension: role of angiotensin II activation of NFkappaB. <span><span class="ref-journal">Cardiovasc Diabetol. </span>2015;<span class="ref-vol">14</span>:45. doi: 10.1186/s12933-015-0211-6.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC4422462/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/25928697" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1186%2Fs12933-015-0211-6" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR36">36. <span class="element-citation">Shim U, Kim HN, Sung YA, Kim HL. Pathway analysis of metabolic syndrome using a genome-wide association study of Korea Associated Resource (KARE) cohorts. <span><span class="ref-journal">Genom Inform. </span>2014;<span class="ref-vol">12</span>(4):195–202. doi: 10.5808/GI.2014.12.4.195.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC4330254/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/25705158" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.5808%2FGI.2014.12.4.195" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR37">37. <span class="element-citation">O&#x02019;Rourke RW. Inflammation, obesity, and the promise of immunotherapy for metabolic disease. <span><span class="ref-journal">Surg Obes Relat Dis. </span>2013;<span class="ref-vol">9</span>(5):609–616. doi: 10.1016/j.soard.2012.07.010.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3530006/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/22959472" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1016%2Fj.soard.2012.07.010" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR38">38. <span class="element-citation">Rocha VZ, Libby P. Obesity, inflammation, and atherosclerosis. <span><span class="ref-journal">Nat Rev Cardiol. </span>2009;<span class="ref-vol">6</span>(6):399–409. doi: 10.1038/nrcardio.2009.55.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/19399028" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1038%2Fnrcardio.2009.55" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR39">39. <span class="element-citation">Dahlman I, Forsgren M, Sjogren A, Nordstrom EA, Kaaman M, Naslund E, Attersand A, Arner P. Downregulation of electron transport chain genes in visceral adipose tissue in type 2 diabetes independent of obesity and possibly involving tumor necrosis factor-alpha. <span><span class="ref-journal">Diabetes. </span>2006;<span class="ref-vol">55</span>(6):1792–1799. doi: 10.2337/db05-1421.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/16731844" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.2337%2Fdb05-1421" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR40">40. <span class="element-citation">Rochette L, Zeller M, Cottin Y, Vergely C. Diabetes, oxidative stress and therapeutic strategies. <span><span class="ref-journal">Biochim Biophys Acta. </span>2014;<span class="ref-vol">1840</span>(9):2709–2729. doi: 10.1016/j.bbagen.2014.05.017.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/24905298" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1016%2Fj.bbagen.2014.05.017" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR41">41. <span class="element-citation">Kondo T, Hirose M, Kageyama K. Roles of oxidative stress and redox regulation in atherosclerosis. <span><span class="ref-journal">J Atheroscler Thromb. </span>2009;<span class="ref-vol">16</span>(5):532–538. doi: 10.5551/jat.1255.</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/19749495" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.5551%2Fjat.1255" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR42">42. <span class="mixed-citation">Kim J, Kwon EY, Park S, Kim JR, Choi SW, Choi MS, Kim SJ. Integrative systems analysis of diet-induced obesity identified a critical transition in the transcriptomes of the murine liver and epididymal white adipose tissue. Int J Obes (Lond). 2015.  <span class="nowrap ref pubmed">[<a href="/pubmed/26268884" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR43">43. <span class="element-citation">Liu KQ, Liu ZP, Hao JK, Chen L, Zhao XM. Identifying dysregulated pathways in cancers from pathway interaction networks. <span><span class="ref-journal">BMC Bioinformatics. </span>2012;<span class="ref-vol">13</span>:126. doi: 10.1186/1471-2105-13-126.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3443452/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/22676414" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1186%2F1471-2105-13-126" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div><div class="ref-cit-blk half_rhythm" id="CR44">44. <span class="element-citation">Liu Y, Li Z, Zhang M, Deng Y, Yi Z, Shi T. Exploring the pathogenetic association between schizophrenia and type 2 diabetes mellitus diseases based on pathway analysis. <span><span class="ref-journal">BMC Med Genom. </span>2013;<span class="ref-vol">6</span>(Suppl 1):S17. doi: 10.1186/1471-2350-14-17.</span> <span class="nowrap ref pmc">[<a class="int-reflink" href="/pmc/articles/PMC3552677/">PMC free article</a>]</span>  <span class="nowrap ref pubmed">[<a href="/pubmed/23369358" target="pmc_ext" ref="reftype=pubmed&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Entrez%7CPubMed%7CRecord&amp;rendering-type=normal">PubMed</a>]</span> <span class="nowrap ref crossref">[<a href="//dx.doi.org/10.1186%2F1471-2350-14-17" target="pmc_ext" ref="reftype=other&amp;article-id=5000404&amp;issue-id=262917&amp;journal-id=107&amp;FROM=Article%7CCitationRef&amp;TO=Content%20Provider%7CCrosslink%7CDOI&amp;rendering-type=normal">Cross Ref</a>]</span></span></div></div></div></div><!--post-content--><div class="courtesy-note whole_rhythm small"><hr />Articles from <span class="acknowledgment-journal-title">Cardiovascular Diabetology</span> are provided here courtesy of <strong>BioMed Central</strong></div></div>
+            
+            
+        
+            
+        </div>
+        <!-- Book content -->
+    </div>
+    
+    <div id="rightcolumn" class="four_col col last">
+        <!-- Custom content above discovery portlets -->
+        <div class="col6">
+            
+        </div>
+        
+        <div xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><div class="format-menu"><h2>Formats:</h2><ul><li class="selected">Article</li> | <li><a href="/pmc/articles/PMC5000404/?report=reader">PubReader</a></li> | <li class="epub-link"><a href="/pmc/articles/PMC5000404/epub/">ePub (beta)</a></li> | <li><a href="/pmc/articles/PMC5000404/pdf/12933_2016_Article_441.pdf">PDF (2.3M)</a></li> | <li><a href="#" data-citationid="PMC5000404" class="citationexporter ctxp">Citation</a></li></ul></div></div><div xmlns:np="http://ncbi.gov/portal/XSLT/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" class="share-buttons"><h2>Share</h2><ul><li class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5000404%2F"><img src="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/img/4047626" alt="Share on Facebook" />
+                             Facebook
+                        </a></li><li class="twitter"><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5000404%2F&amp;text=Common%20dysregulated%20pathways%20in%20obese%20adipose%20tissue%20and%20atherosclerosis"><img src="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/img/4047627" alt="Share on Twitter" />
+                             Twitter
+                        </a></li><li class="gplus"><a href="https://plus.google.com/share?url=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5000404%2F"><img src="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/img/4047628" alt="Share on Google Plus" />
+                             Google+
+                        </a></li></ul></div>
+        
+        <div id="ajax-portlets" data-pmid="27561966" data-aiid="5000404" data-aid="5000404" data-iid="262917" data-domainid="107" data-domain="cardiab" data-accid="PMC5000404" data-md5="37f368098cfed1bc96a4ef857acb03c2"></div>
+                
+        <!-- Custom content below discovery portlets -->
+        <div class="col7">
+            
+        </div>
+    </div>
+</div>
+
+<!-- Custom content after all -->
+<div class="col8">
+    
+</div>
+<div class="col9">
+    
+</div>
+
+<script src="/corehtml/pmc/js/jquery.scrollTo-1.4.2.js"></script>
+<script>
+    (function($){
+        $('.skiplink').each(function(i, item){
+            var href = $($(item).attr('href'));
+            href.attr('tabindex', '-1').addClass('skiptarget'); // ensure the target can receive focus
+            $(item).on('click', function(event){
+                event.preventDefault();
+                $.scrollTo(href, 0, {
+                    onAfter: function(){
+                        href.focus();
+                    }
+                });
+            });
+        });
+    })(jQuery);
+</script>
+
+
+
+<div id="body-link-poppers"></div>
+                        </div>
+                        <div class="bottom">
+                            
+                            <div id="NCBIFooter_dynamic">
+    <a id="help-desk-link" class="help_desk" href="" target="_blank">Support Center</a>
+    <a id="help-desk-link" class="help_desk" href="https://support.ncbi.nlm.nih.gov/ics/support/KBList.asp?Time=2018-07-16T20:35:54-04:00&amp;Snapshot=%2Fprojects%2FPMC%2FPMCViewer@4.46&amp;Host=ptpmc201&amp;ncbi_phid=F4FB51E8B4D398510000000000360035&amp;ncbi_session=F4FB51E8B4D39E91_0054SID&amp;from=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5000404%2F&amp;Db=pmc&amp;folderID=132&amp;Ncbi_App=pmc&amp;Page=literature&amp;style=classic&amp;deptID=28049" target="_blank">Support Center</a>
+    
+</div>
+
+                            <div class="footer" id="footer">
+    
+    <div class="subfooter"> </div><script type="text/javascript" src="/portal/portal3rc.fcgi/static/js/preloaderWidget.js"> </script>
+    <div id="external-disclaimer" class="offscreen_noflow">
+        External link. Please review our <a href="https://www.nlm.nih.gov/privacy.html">privacy policy</a>.
+    </div>    
+    <div id="ncbifooter" class="contact_info">      
+        <div id="footer-contents-right">
+            <div id="nlm_thumb_logo">
+                <a href="https://www.nlm.nih.gov" title="NLM">NLM</a>
+            </div>
+            <div id="nih_thumb_logo">
+                <a href="https://www.nih.gov" title="NIH">NIH</a>
+            </div>
+            <div id="hhs_thumb_logo">
+                <a href="https://www.hhs.gov" title="DHHS">DHHS</a>
+            </div>
+            <div id="usagov_thumb_logo">
+                <a href="https://www.usa.gov" title="USA.gov">USA.gov</a>
+            </div>         
+        </div>
+        
+        <div id="footer-contents-left">
+            <p class="address vcard">
+                <span class="url">
+                    <a class="fn url newdomain" href="https://www.ncbi.nlm.nih.gov">National Center for
+                        Biotechnology Information</a>,
+                </span> <span class="org url newdomain"><a href="https://www.nlm.nih.gov/">U.S. National Library of Medicine</a></span>
+                <span class="adr">
+                    <span class="street-address">8600 Rockville Pike</span>, <span class="locality">Bethesda</span>
+                    <span class="region">MD</span>, <span class="postal-code">20894</span>
+                    <span class="country-name">USA</span>
+                </span>
+            </p>
+            
+            <a href="/home/about/policies.shtml">Policies and Guidelines</a> | <a href="/home/about/contact.shtml">Contact</a>
+        </div>
+    </div>
+    <script type="text/javascript" src="/portal/portal3rc.fcgi/rlib/js/InstrumentOmnitureBaseJS/InstrumentNCBIConfigJS/InstrumentNCBIBaseJS/InstrumentPageStarterJS.js?v=1"> </script>    
+    <script type="text/javascript" src="/portal/portal3rc.fcgi/static/js/hfjs2.js"> </script>
+</div>
+                        </div>
+                    </div>
+                    <!--/.page-->
+                </div>
+                <!--/.wrap-->
+            </div><!-- /.twelve_col -->
+        </div>
+        <!-- /.grid -->
+
+        <span class="PAFAppResources"></span>
+        
+        <!-- BESelector tab -->
+        
+        
+        
+        <noscript><img alt="statistics" src="/stat?jsdisabled=true&amp;ncbi_db=pmc&amp;ncbi_pdid=article&amp;ncbi_acc=&amp;ncbi_domain=cardiab&amp;ncbi_report=record&amp;ncbi_type=fulltext&amp;ncbi_objectid=&amp;ncbi_pcid=/articles/PMC5000404/&amp;ncbi_app=pmc" /></noscript>
+        
+        
+        <!-- usually for JS scripts at page bottom -->
+        <!--<component id="PageFixtures" label="styles"></component>-->
+    
+
+<!-- F4FB51E8B4D39E91_0054SID /projects/PMC/PMCViewer@4.46 ptpmc201 v4.1.r563004 Tue, May 01 2018 03:01:28 -->
+
+<script type="text/javascript" src="//static.pubmed.gov/portal/portal3rc.fcgi/4160049/js/3879255/4121861/3818874/4168176/3821238/4117325/4087685/4072593/4076480/3921943/4105668/4065628.js" snapshot="pmc"></script></body>
+</html>

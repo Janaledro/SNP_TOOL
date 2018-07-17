@@ -4,7 +4,7 @@ all:VQ:
 	set -x 
 	bin/targets | xargs mk
 
-results/%.txt:Q: data/%.metadata.html
+results/%.txt:E: data/%.metadata.html
 	echo "Descargando el artículo $stem en forma de texto plano"
 	set -x
 	mkdir -p `dirname $target`
